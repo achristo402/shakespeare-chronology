@@ -1,0 +1,315 @@
+x1H6sh.txt and ADO.txt links:
+	Total links: 11
+	two-six links: 6
+{'blades': 1, 'daw': 1, 'fraud': 1, 'invincible': 1, 'ripened': 1, 'scabbard': 1}
+	Seven-eleven links: 5
+{"apparell'd": 1, 'gloss': 1, "maintain'd": 1, 'ominous': 1, 'sending': 1}
+
+x1H6sh.txt and ANT.txt links:
+	Total links: 14
+	two-six links: 4
+{"cropp'd": 1, 'partaker': 1, 'rive': 1, 'squadrons': 1}
+	Seven-eleven links: 10
+{'basely': 1, 'buckled': 1, 'captains': 1, 'famine': 1, 'finish': 1, 'negligent': 1, 'plainness': 1, 'scourge': 1, 'withhold': 1, 'wrangling': 1}
+
+x1H6sh.txt and ARDsh.txt links:
+	Total links: 4
+	two-six links: 3
+{"hemm'd": 1, 'partaker': 1, "pitch'd": 1}
+	Seven-eleven links: 1
+{'timorous': 1}
+
+x1H6sh.txt and AWWsh.txt links:
+	Total links: 15
+	two-six links: 5
+{'commanders': 1, 'default': 1, 'sally': 1, 'swiftest': 1, "wrong'st": 1}
+	Seven-eleven links: 10
+{'attendants': 1, 'created': 1, 'malignant': 1, "restor'd": 1, 'sacrament': 1, 'sending': 1, 'thorn': 1, 'timorous': 1, 'vexation': 1, 'wrangling': 1}
+
+x1H6sh.txt and AYL.txt links:
+	Total links: 16
+	two-six links: 4
+{'exempt': 1, 'succor': 1, "sund'red": 1, 'tangle': 1}
+	Seven-eleven links: 12
+{'adversity': 1, 'attendants': 1, 'blossom': 1, 'emulation': 1, 'fift': 1, 'finish': 1, 'ominous': 1, 'promised': 1, "restor'd": 1, 'shrink': 1, "wip'd": 1, 'wrangling': 1}
+
+x1H6sh.txt and COR.txt links:
+	Total links: 16
+	two-six links: 7
+{"dogg'd": 1, 'evident': 1, 'hurry': 1, 'insinuating': 1, 'invincible': 1, 'rive': 1, 'sedition': 1}
+	Seven-eleven links: 9
+{'accounted': 1, 'created': 1, 'emulation': 1, 'leader': 1, 'scourge': 1, 'verdict': 1, 'vexation': 1, 'warning': 1, "wip'd": 1}
+
+x1H6sh.txt and CYM.txt links:
+	Total links: 21
+	two-six links: 11
+{'cognizance': 1, "distress'd": 1, 'drooping': 1, 'evident': 1, 'forbearance': 1, 'mannerly': 1, "reviv'd": 1, 'scabbard': 1, 'scarce-cold': 1, 'swiftest': 1, "wrong'st": 1}
+	Seven-eleven links: 10
+{'attendants': 1, 'captains': 1, 'created': 1, 'famine': 1, 'finish': 1, 'grandfather': 1, 'horsemen': 1, 'orleance': 1, 'stately': 1, 'vexation': 1}
+
+x1H6sh.txt and E3sh.txt links:
+	Total links: 12
+	two-six links: 7
+{'artillery': 1, 'attainted': 1, 'craven': 1, 'fraud': 1, "proffer'd": 1, 'squadrons': 1, 'stratagems': 1}
+	Seven-eleven links: 5
+{'adversity': 1, "apparell'd": 1, 'buckled': 1, 'tongue-tied': 1, 'verdict': 1}
+
+x1H6sh.txt and ERR.txt links:
+	Total links: 13
+	two-six links: 5
+{'default': 1, 'exempt': 1, 'glimmer': 1, 'ire': 1, 'pleaded': 1}
+	Seven-eleven links: 8
+{'adversity': 1, "apparell'd": 1, 'brier': 1, 'delays': 1, 'discovered': 1, 'meets': 1, 'promised': 1, 'truce': 1}
+
+x1H6sh.txt and H5.txt links:
+	Total links: 22
+	two-six links: 8
+{'chevalier': 1, 'climbing': 1, 'craven': 1, 'girdled': 1, 'merriest': 1, 'succors': 1, "warn'd": 1, 'yeomen': 1}
+	Seven-eleven links: 14
+{'alanson': 1, 'cambridge': 1, 'created': 1, "dolphin's": 1, 'famine': 1, 'grandfather': 1, 'horsemen': 3, "maintain'd": 1, 'orleance': 1, 'plainness': 1, 'sending': 1, 'signal': 1}
+
+x1H6sh.txt and H8sh.txt links:
+	Total links: 8
+	two-six links: 3
+{'dye': 1, 'exempt': 1, "maz'd": 1}
+	Seven-eleven links: 5
+{'alanson': 1, 'burdeaux': 1, 'malignant': 1, 'orleance': 1, 'verdict': 1}
+
+x1H6sh.txt and HAM.txt links:
+	Total links: 18
+	two-six links: 8
+{'bounded': 1, 'craven': 1, 'drooping': 1, 'dye': 1, 'eclipse': 1, 'fortified': 1, 'rashly': 1, 'remiss': 1}
+	Seven-eleven links: 10
+{'accounted': 1, 'captains': 1, 'delays': 1, 'mightier': 1, 'ominous': 1, 'scourge': 2, 'sending': 1, 'stately': 1, 'warning': 1}
+
+x1H6sh.txt and JC.txt links:
+	Total links: 13
+	two-six links: 5
+{"brav'd": 1, 'cognizance': 1, 'commanders': 1, 'meditating': 1, 'squadrons': 1}
+	Seven-eleven links: 8
+{'attendants': 1, 'discovered': 1, 'emulation': 1, 'horsemen': 1, 'mightier': 1, 'signal': 1, 'tongue-tied': 1, 'warning': 1}
+
+x1H6sh.txt and JN.txt links:
+	Total links: 21
+	two-six links: 7
+{'artillery': 1, 'fortified': 1, 'maine': 1, "nation's": 1, 'poictiers': 1, "proffer'd": 1, "warn'd": 1}
+	Seven-eleven links: 14
+{'buckled': 1, "dolphin's": 1, 'fift': 1, "maintain'd": 1, "march'd": 2, 'mightier': 1, 'promised': 1, 'sacrament': 1, 'shrink': 1, 'signal': 1, 'truce': 1, 'withhold': 1, 'wrathful': 1}
+
+x1H6sh.txt and LC.txt links:
+	Total links: 3
+	two-six links: 2
+{'fortified': 1, 'swiftest': 1}
+	Seven-eleven links: 1
+{'verdict': 1}
+
+x1H6sh.txt and LLL.txt links:
+	Total links: 15
+	two-six links: 4
+{'climbing': 1, "pitch'd": 1, 'purblind': 1, 'quillets': 1}
+	Seven-eleven links: 11
+{'accounted': 1, 'alanson': 1, "apparell'd": 1, 'blossom': 1, 'fift': 1, 'finish': 1, 'gloss': 1, 'grandfather': 1, 'negligent': 1, 'promised': 1, 'thorn': 1}
+
+x1H6sh.txt and LR.txt links:
+	Total links: 10
+	two-six links: 6
+{'climbing': 1, 'forbearance': 1, 'kennel': 1, 'rive': 1, 'unable': 1, 'vulture': 1}
+	Seven-eleven links: 4
+{'plainness': 1, 'wrathful': 1, 'yeoman': 2}
+
+x1H6sh.txt and LUC.txt links:
+	Total links: 18
+	two-six links: 5
+{'commanders': 1, "distress'd": 1, 'fraud': 1, 'vulture': 1, "wrong'st": 1}
+	Seven-eleven links: 13
+{'accounted': 1, 'basely': 1, 'delays': 1, 'emulation': 1, 'exclaims': 1, "march'd": 2, 'mightier': 1, 'stately': 1, 'thorn': 1, 'vexation': 1, "wip'd": 1, 'withered': 1}
+
+x1H6sh.txt and MAC.txt links:
+	Total links: 10
+	two-six links: 4
+{'eclipse': 1, 'snares': 1, 'swiftest': 1, 'vulture': 1}
+	Seven-eleven links: 6
+{'accounted': 1, 'captains': 1, 'famine': 1, 'gloss': 1, "wip'd": 1, 'wrathful': 1}
+
+x1H6sh.txt and MMsh.txt links:
+	Total links: 10
+	two-six links: 6
+{'forbearance': 1, 'kennel': 1, 'merriest': 1, 'remiss': 1, 'ripened': 1, 'unable': 1}
+	Seven-eleven links: 4
+{'accounted': 1, 'mightier': 1, 'promised': 1, 'warning': 1}
+
+x1H6sh.txt and MND.txt links:
+	Total links: 13
+	two-six links: 4
+{"dogg'd": 1, 'drooping': 1, 'dye': 1, 'fables': 1}
+	Seven-eleven links: 9
+{'brier': 1, 'created': 1, "dolphin's": 1, 'thorn': 2, 'tongue-tied': 1, 'vexation': 1, 'warning': 1, 'withered': 1}
+
+x1H6sh.txt and MV.txt links:
+	Total links: 5
+	two-six links: 3
+{'mannerly': 1, 'sandy': 1, 'stratagems': 1}
+	Seven-eleven links: 2
+{'fift': 1, 'warning': 1}
+
+x1H6sh.txt and OTH.txt links:
+	Total links: 11
+	two-six links: 3
+{'eclipse': 1, 'insinuating': 1, 'quillets': 1}
+	Seven-eleven links: 8
+{'blossom': 1, 'captains': 1, 'gloss': 1, 'malignant': 1, 'meets': 1, 'plainness': 1, 'timorous': 1, 'vexation': 1}
+
+x1H6sh.txt and PERsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'neglection': 1}
+	Seven-eleven links: 1
+{'withered': 1}
+
+x1H6sh.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+x1H6sh.txt and R2.txt links:
+	Total links: 24
+	two-six links: 10
+{'consuming': 1, "cropp'd": 1, 'drooping': 1, 'forbearance': 1, 'ire': 1, 'remiss': 1, 'succors': 1, 'true-born': 1, 'unavoided': 1, 'witnessing': 1}
+	Seven-eleven links: 14
+{'basely': 1, 'burdeaux': 1, 'created': 1, 'exclaims': 1, 'parliament': 1, 'plotted': 1, "restor'd": 1, 'sacrament': 1, 'shrink': 1, 'signal': 1, 'stately': 1, 'thorn': 1, 'withered': 1, 'wrathful': 1}
+
+x1H6sh.txt and R3.txt links:
+	Total links: 34
+	two-six links: 17
+{"brav'd": 1, "cropp'd": 1, "distress'd": 1, 'exempt': 1, 'insinuating': 1, 'kennel': 1, 'lucy': 2, 'meditating': 1, "proffer'd": 1, 'rashly': 1, 'ripened': 1, 'stratagems': 1, "sund'red": 1, 'unavoided': 1, "warn'd": 1, 'yeomen': 1}
+	Seven-eleven links: 17
+{'emulation': 1, 'exclaims': 1, 'leader': 1, 'malignant': 1, "march'd": 1, 'meets': 1, 'ominous': 1, 'plotted': 1, 'promised': 1, 'sacrament': 1, 'scourge': 1, 'shrink': 1, 'timorous': 1, 'tongue-tied': 1, 'verdict': 1, 'vexation': 1, 'wrangling': 1}
+
+x1H6sh.txt and ROM.txt links:
+	Total links: 17
+	two-six links: 8
+{'assailing': 1, 'blades': 1, 'hurry': 1, 'mannerly': 1, 'purblind': 1, "reviv'd": 1, 'stratagems': 1, "wrong'st": 1}
+	Seven-eleven links: 9
+{'discovered': 1, 'famine': 1, 'promised': 1, 'scourge': 1, 'sending': 1, 'signal': 1, 'thorn': 1, 'truce': 1, 'warning': 1}
+
+x1H6sh.txt and SHR.txt links:
+	Total links: 21
+	two-six links: 8
+{'artillery': 1, "brav'd": 1, 'craven': 1, 'hawks': 1, 'heedless': 1, 'kennel': 1, 'stags': 1, 'unable': 1}
+	Seven-eleven links: 13
+{"apparell'd": 1, 'attendants': 1, 'buckled': 1, 'fift': 1, 'grandfather': 1, "maintain'd": 1, 'plainness': 1, 'plotted': 1, 'promised': 1, "restor'd": 1, 'warning': 1, 'withered': 1, 'wrangling': 1}
+
+x1H6sh.txt and SPTAD.txt links:
+	Total links: 1
+	two-six links: 1
+{'remiss': 1}
+	Seven-eleven links: 0
+{}
+
+x1H6sh.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'yeoman': 1}
+
+x1H6sh.txt and TAsh.txt links:
+	Total links: 15
+	two-six links: 5
+{'blood-drinking': 1, 'consuming': 1, 'sandy': 1, 'succor': 1, 'vulture': 1}
+	Seven-eleven links: 10
+{'basely': 1, 'blossom': 1, 'delays': 1, 'discovered': 1, 'exclaims': 1, 'grandfather': 1, 'promised': 1, 'shrink': 1, 'stately': 1, 'withered': 1}
+
+x1H6sh.txt and TGV.txt links:
+	Total links: 14
+	two-six links: 7
+{'approacheth': 1, 'fraud': 1, 'mannerly': 1, 'partaker': 1, 'swiftest': 1, 'tangle': 1, 'unheedful': 1}
+	Seven-eleven links: 7
+{'adversity': 1, 'discovered': 1, 'grandfather': 1, 'malignant': 1, 'plotted': 1, 'shrink': 1, 'vexation': 1}
+
+x1H6sh.txt and TIMsh.txt links:
+	Total links: 3
+	two-six links: 3
+{'consuming': 1, 'exempt': 1, 'quillets': 1}
+	Seven-eleven links: 0
+{}
+
+x1H6sh.txt and TMP.txt links:
+	Total links: 5
+	two-six links: 0
+{}
+	Seven-eleven links: 5
+{'attendants': 1, 'blossom': 1, 'created': 1, 'malignant': 1, 'plotted': 1}
+
+x1H6sh.txt and TN.txt links:
+	Total links: 7
+	two-six links: 4
+{"dogg'd": 1, 'evident': 1, 'fortified': 1, 'scabbard': 1}
+	Seven-eleven links: 3
+{'accounted': 1, "dolphin's": 1, 'yeoman': 1}
+
+x1H6sh.txt and TNKsh.txt links:
+	Total links: 12
+	two-six links: 5
+{'bounded': 1, "distress'd": 1, 'hurry': 1, 'rashly': 1, "sund'red": 1}
+	Seven-eleven links: 7
+{'adversity': 1, 'blossom': 1, 'buckled': 1, 'finish': 1, 'gloss': 1, "restor'd": 1, 'timorous': 1}
+
+x1H6sh.txt and TRO.txt links:
+	Total links: 29
+	two-six links: 13
+{'attached': 1, 'bounded': 1, "cropp'd": 1, "dogg'd": 1, "hemm'd": 1, 'neglection': 1, 'purblind': 1, 'remiss': 1, 'rive': 1, 'sally': 1, 'sandy': 1, 'towers': 1, 'winchester': 1}
+	Seven-eleven links: 16
+{'adversity': 1, 'buckled': 1, 'created': 1, 'emulation': 1, 'fift': 1, 'gloss': 1, 'meets': 1, 'negligent': 1, 'ominous': 1, 'plainness': 1, 'tongue-tied': 1, 'truce': 1, "wip'd": 1, 'withered': 1, 'withhold': 1, 'wrathful': 1}
+
+x1H6sh.txt and VEN.txt links:
+	Total links: 15
+	two-six links: 5
+{"distress'd": 1, 'fraud': 1, "hemm'd": 1, 'purblind': 1, 'yelping': 1}
+	Seven-eleven links: 10
+{'basely': 1, 'brier': 1, 'delays': 1, 'exclaims': 1, 'gloss': 1, 'meets': 1, 'timorous': 2, 'truce': 1, 'withhold': 1}
+
+x1H6sh.txt and WIV.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'buckled': 1, 'leader': 1, 'parliament': 1}
+
+x1H6sh.txt and WT.txt links:
+	Total links: 9
+	two-six links: 3
+{'evident': 1, 'mannerly': 1, 'purblind': 1}
+	Seven-eleven links: 6
+{'attendants': 1, 'blossom': 1, 'meets': 1, 'negligent': 1, 'tongue-tied': 1, 'vexation': 1}
+
+x1H6sh.txt and x1H4.txt links:
+	Total links: 18
+	two-six links: 6
+{'artillery': 1, "proffer'd": 1, 'succor': 1, 'towers': 1, 'vernon': 2}
+	Seven-eleven links: 12
+{'basely': 1, 'grandfather': 1, 'leader': 1, "maintain'd": 1, 'meets': 1, 'plotted': 1, 'promised': 1, 'scourge': 2, 'shrink': 1, 'thorn': 1, "wip'd": 1}
+
+x1H6sh.txt and x2H4.txt links:
+	Total links: 20
+	two-six links: 3
+{'conversing': 1, 'drooping': 1, "reviv'd": 1}
+	Seven-eleven links: 17
+{'blossom': 1, 'burdeaux': 1, 'captains': 1, 'famine': 1, 'fift': 1, 'finish': 1, 'leader': 1, "maintain'd": 1, "march'd": 1, 'parliament': 1, "restor'd": 1, 'warning': 1, "wip'd": 1, 'withhold': 1, 'wrathful': 1, 'yeoman': 2}
+
+x1H6sh.txt and x2H6sh.txt links:
+	Total links: 10
+	two-six links: 4
+{'blood-drinking': 1, 'quillets': 1, 'snares': 1, 'succors': 1}
+	Seven-eleven links: 6
+{'leader': 1, 'mightier': 1, 'parliament': 1, 'plotted': 1, 'signal': 1, 'wrathful': 1}
+
+x1H6sh.txt and x3H6sh.txt links:
+	Total links: 20
+	two-six links: 8
+{"cropp'd": 1, 'ill-boding': 1, 'ire': 1, "o'ermatch'd": 1, 'reignier': 1, 'scouts': 1, 'stratagems': 1, "wrong'st": 1}
+	Seven-eleven links: 12
+{'created': 1, 'finish': 1, 'grandfather': 1, "march'd": 1, 'ominous': 1, 'parliament': 1, 'sending': 1, 'shrink': 1, 'signal': 1, 'stately': 1, 'thorn': 1, 'yeoman': 1}
+

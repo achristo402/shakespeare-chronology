@@ -1,0 +1,322 @@
+SON5.txt and ADO.txt links:
+	Total links: 11
+	two-six links: 3
+{'correct': 1, 'heretic': 1, 'lesson': 1}
+	Seven-eleven links: 8
+{'bitterness': 1, 'blazon': 1, 'detain': 1, "distill'd": 1, 'errors': 1, 'hits': 1, 'qualify': 1, 'transgression': 1}
+
+SON5.txt and ANT.txt links:
+	Total links: 28
+	two-six links: 12
+{'abysm': 1, 'appetites': 1, 'autumn': 1, 'bends': 1, 'builded': 1, 'frailties': 1, 'grind': 1, "rang'd": 1, 'register': 1, 'scythe': 1, 'tempests': 1, 'varying': 1}
+	Seven-eleven links: 16
+{'assemble': 1, 'chronicle': 1, 'detain': 1, 'dreaming': 1, 'drugs': 1, 'errors': 1, 'healthful': 1, 'hits': 1, 'ills': 2, 'nerves': 1, 'palate': 1, 'proclaims': 1, 'sicken': 1, 'spheres': 1, 'weighs': 1}
+
+SON5.txt and ARDsh.txt links:
+	Total links: 8
+	two-six links: 2
+{"gather'd": 1, 'onwards': 1}
+	Seven-eleven links: 6
+{'audit': 1, 'eager': 1, "miss'd": 1, "mix'd": 1, 'presage': 1, 'salutation': 1}
+
+SON5.txt and AWWsh.txt links:
+	Total links: 17
+	two-six links: 7
+{'anew': 1, 'antiquity': 1, 'creating': 1, 'madding': 1, 'replete': 1, 'sportive': 1, 'untrue': 1}
+	Seven-eleven links: 10
+{'besiege': 1, 'bitterness': 1, 'delivers': 1, 'dial': 1, 'endless': 1, 'healthful': 1, 'hits': 1, 'impediments': 1, 'weighs': 1, "wond'ring": 1}
+
+SON5.txt and AYL.txt links:
+	Total links: 15
+	two-six links: 5
+{'antiquity': 1, 'hugely': 1, 'olives': 1, "rang'd": 1, 'travels': 1}
+	Seven-eleven links: 10
+{'antique': 1, 'bitterness': 1, "burn'd": 1, 'dial': 1, "distill'd": 1, "gor'd": 1, "mix'd": 1, 'motley': 1, 'salutation': 1, 'spheres': 1}
+
+SON5.txt and COR.txt links:
+	Total links: 25
+	two-six links: 9
+{'brand': 1, 'deepest': 1, 'forgetfulness': 1, 'grind': 1, 'incapable': 1, 'seconds': 1, "show'st": 1, 'themes': 1, 'tribes': 1}
+	Seven-eleven links: 16
+{'admire': 1, 'alteration': 1, 'antique': 1, 'assemble': 1, 'audit': 1, 'canopy': 1, 'chronicle': 1, 'delivers': 1, "miss'd": 1, 'nerves': 1, 'palate': 1, 'salve': 1, "stamp'd": 1, 'suffered': 1, 'transport': 1, "wond'ring": 1}
+
+SON5.txt and CYM.txt links:
+	Total links: 27
+	two-six links: 13
+{'cherubins': 1, 'compounds': 1, "delay'd": 1, 'doubting': 1, "gather'd": 1, 'inviting': 1, 'madding': 1, "reign'd": 1, "renew'd": 1, 'rosy': 1, "rud'st": 1, 'seconds': 1, 'untrue': 1}
+	Seven-eleven links: 14
+{'assured': 1, 'audit': 1, 'bitterness': 1, "diseas'd": 1, 'drugs': 1, 'ills': 2, "miss'd": 1, 'nerves': 1, 'perfumes': 1, 'proclaims': 1, 'reckon': 1, 'seasons': 1, "stamp'd": 1}
+
+SON5.txt and E3sh.txt links:
+	Total links: 10
+	two-six links: 2
+{'register': 1, 'universe': 1}
+	Seven-eleven links: 8
+{'adulterate': 1, 'antique': 1, 'besiege': 1, 'dispense': 1, 'endless': 1, 'idol': 1, 'presage': 1, 'sweetness': 1}
+
+SON5.txt and ERR.txt links:
+	Total links: 17
+	two-six links: 6
+{'hoisted': 1, 'scanted': 1, 'siren': 1, 'sportive': 1, "suborn'd": 1, 'travels': 1}
+	Seven-eleven links: 11
+{'adulterate': 1, "burn'd": 1, 'detain': 1, 'dial': 1, 'dispense': 1, 'drugs': 1, 'errors': 2, 'healthful': 1, "ruin'd": 1, 'weighs': 1}
+
+SON5.txt and H5.txt links:
+	Total links: 24
+	two-six links: 10
+{'appetites': 1, 'correct': 1, 'creating': 1, 'divert': 1, 'faculty': 1, 'preposterously': 1, "rebuk'd": 1, 'scythe': 1, 'universe': 1, 'willfulness': 1}
+	Seven-eleven links: 14
+{'admire': 1, 'antique': 1, 'assured': 1, "burn'd": 1, 'chronicle': 1, 'fickle': 1, "gor'd": 1, 'healthful': 1, 'idol': 1, 'reckon': 1, "ruin'd": 1, 'savor': 1, 'sweetness': 1, 'weighs': 1}
+
+SON5.txt and H8sh.txt links:
+	Total links: 8
+	two-six links: 6
+{'cherubins': 1, "gather'd": 1, 'hallowed': 1, 'heretic': 1, "reign'd": 1, "sharp'st": 1}
+	Seven-eleven links: 2
+{'audit': 1, 'healthful': 1}
+
+SON5.txt and HAM.txt links:
+	Total links: 32
+	two-six links: 11
+{'antiquity': 1, 'drowns': 1, 'eclipse': 1, 'eisel': 1, 'hallowed': 1, 'incapable': 1, 'lesson': 1, 'prophetic': 1, 'quietus': 1, "raz'd": 1, 'records': 1}
+	Seven-eleven links: 21
+{'adulterate': 1, 'antique': 1, 'audit': 1, 'blazon': 1, 'canopy': 1, "diseas'd": 1, "distill'd": 1, 'drugs': 1, 'eager': 1, 'errors': 1, 'healthful': 1, 'hits': 1, 'idol': 1, 'ills': 1, 'obsequious': 1, 'proclaims': 1, 'reckon': 1, 'resemble': 1, 'seasons': 1, 'spheres': 1, 'surmise': 1}
+
+SON5.txt and JC.txt links:
+	Total links: 14
+	two-six links: 5
+{'crests': 1, "monarch's": 1, 'older': 1, 'ransoms': 1, 'tempests': 1}
+	Seven-eleven links: 9
+{'assemble': 1, 'canopy': 1, 'healthful': 1, "mix'd": 1, 'presage': 1, 'rent': 1, 'salutation': 1, 'sicken': 1, "stamp'd": 1}
+
+SON5.txt and JN.txt links:
+	Total links: 20
+	two-six links: 7
+{'adjunct': 1, 'correct': 1, "figur'd": 1, 'heretic': 1, 'indigest': 1, 'prophetic': 1, 'untrue': 1}
+	Seven-eleven links: 13
+{'antique': 1, 'assemble': 1, 'assured': 1, 'bitterness': 1, "burn'd": 1, 'endless': 1, 'fickle': 1, 'harmful': 1, 'paying': 1, 'presage': 1, 'spheres': 1, 'transgression': 1, 'weeks': 1}
+
+SON5.txt and LC.txt links:
+	Total links: 16
+	two-six links: 7
+{'applying': 1, 'builded': 1, 'hallowed': 1, "monarch's": 1, 'register': 1, "reign'd": 1, 'untrue': 1}
+	Seven-eleven links: 9
+{'adulterate': 1, 'audit': 1, 'besiege': 1, 'errors': 1, 'fickle': 1, 'impediments': 1, 'palate': 1, 'spheres': 1, 'weighs': 1}
+
+SON5.txt and LLL.txt links:
+	Total links: 23
+	two-six links: 12
+{'adjunct': 1, 'critic': 1, 'drowns': 1, 'esteemed': 1, 'idolatry': 1, 'maketh': 1, 'maladies': 1, 'repay': 1, 'replete': 1, 'tombs': 1, 'untrue': 1, 'varying': 1}
+	Seven-eleven links: 11
+{'admire': 1, 'besiege': 1, 'delivers': 1, 'dispense': 1, 'proclaims': 1, 'rent': 1, 'salutation': 1, 'salve': 1, 'transgression': 1, 'weeks': 1, 'winters': 1}
+
+SON5.txt and LR.txt links:
+	Total links: 24
+	two-six links: 9
+{'badness': 1, 'brand': 1, 'creating': 1, 'forests': 1, "raz'd": 1, 'retention': 1, 'scanted': 1, 'seconds': 1, "show'st": 1}
+	Seven-eleven links: 15
+{'alteration': 1, 'assured': 1, "burn'd": 1, 'detain': 1, 'fickle': 1, "gor'd": 1, 'harmful': 1, "mix'd": 1, 'motley': 1, 'rent': 1, "ruin'd": 1, 'savor': 1, 'seasons': 1, 'sweetness': 1, 'transport': 1}
+
+SON5.txt and LUC.txt links:
+	Total links: 36
+	two-six links: 15
+{'adjunct': 1, 'askaunce': 1, 'brand': 1, "character'd": 1, 'cured': 1, 'drowns': 1, 'esteemed': 1, 'gust': 1, 'latch': 1, 'maketh': 1, 'register': 1, 'rosy': 1, 'sportive': 1, 'waning': 1, 'welfare': 1}
+	Seven-eleven links: 21
+{'adulterate': 1, 'assured': 1, 'besiege': 1, 'delivers': 1, 'dial': 1, 'dispense': 1, 'eager': 1, 'endless': 1, 'errors': 1, 'harmful': 1, 'ills': 1, 'kinds': 1, "miss'd": 1, 'newer': 1, 'paying': 1, 'resemble': 1, 'salve': 1, "show'rs": 1, "stamp'd": 1, 'surmise': 1, "wond'ring": 1}
+
+SON5.txt and MAC.txt links:
+	Total links: 26
+	two-six links: 11
+{"adder's": 1, 'crests': 1, 'deepest': 1, 'eclipse': 1, 'frailties': 1, 'latch': 1, 'lease': 1, 'older': 1, 'prophetic': 1, 'pyramids': 1, "rebuk'd": 1}
+	Seven-eleven links: 15
+{'audit': 1, 'delivers': 1, "diseas'd": 1, "distill'd": 1, 'impediments': 1, 'nerves': 1, 'newer': 1, 'perfumes': 1, 'reckon': 1, 'rent': 1, 'salutation': 1, 'sicken': 1, 'surmise': 1, 'transport': 1, 'weighs': 1}
+
+SON5.txt and MMsh.txt links:
+	Total links: 18
+	two-six links: 5
+{'antiquity': 1, 'badness': 1, 'dressings': 1, 'governs': 1, "suborn'd": 1}
+	Seven-eleven links: 13
+{'dispense': 1, 'dreaming': 1, 'nerves': 1, 'obsequious': 1, 'paying': 1, 'qualify': 1, 'rent': 1, 'sicken': 1, "stamp'd": 1, 'sweetness': 1, 'transgression': 1, 'transport': 1, 'winters': 1}
+
+SON5.txt and MND.txt links:
+	Total links: 15
+	two-six links: 7
+{'autumn': 1, 'deepest': 1, "ey'd": 1, 'forests': 1, 'hallowed': 1, 'idolatry': 1, 'withering': 1}
+	Seven-eleven links: 8
+{"burn'd": 1, "distill'd": 1, 'kinds': 1, 'paying': 1, 'rent': 1, 'seasons': 1, "show'rs": 1, 'spheres': 1}
+
+SON5.txt and MV.txt links:
+	Total links: 17
+	two-six links: 8
+{'autumn': 1, 'cherubins': 1, 'expressing': 1, 'proved': 1, 'repay': 1, 'scanted': 1, 'tombs': 1, 'welfare': 1}
+	Seven-eleven links: 9
+{'detain': 1, 'dreaming': 1, 'paying': 1, 'presage': 1, 'qualify': 1, 'rent': 1, 'resemble': 1, 'seasons': 1, "stamp'd": 1}
+
+SON5.txt and OTH.txt links:
+	Total links: 27
+	two-six links: 14
+{'accumulate': 1, 'anew': 1, 'appetites': 1, 'balmy': 1, "delay'd": 1, 'eclipse': 1, 'ever-fixed': 1, 'extern': 1, 'hallowed': 1, 'inviting': 1, 'prophetic': 1, "renew'd": 1, "suborn'd": 1, 'tempests': 1}
+	Seven-eleven links: 13
+{'alteration': 1, 'antique': 1, 'bitterness': 1, 'chronicle': 1, 'dial': 1, 'drugs': 1, 'healthful': 1, 'ills': 2, 'impediments': 1, 'newer': 1, 'obsequious': 1, 'palate': 1}
+
+SON5.txt and PERsh.txt links:
+	Total links: 9
+	two-six links: 4
+{'frequent': 1, 'gentlest': 1, 'honoring': 1, 'records': 1}
+	Seven-eleven links: 5
+{'proclaims': 1, 'savor': 1, 'spheres': 1, 'suffered': 1, 'sweetness': 1}
+
+SON5.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON5.txt and R2.txt links:
+	Total links: 18
+	two-six links: 8
+{'correct': 1, "ey'd": 1, "figur'd": 1, 'frequent': 1, "impeach'd": 1, 'lease': 1, "reign'd": 1, "steel'd": 1}
+	Seven-eleven links: 10
+{'assured': 1, 'eager': 1, 'endless': 1, "gor'd": 1, "ruin'd": 1, "show'rs": 1, 'suffered': 1, 'transport': 1, 'weighs': 1, 'winters': 1}
+
+SON5.txt and R3.txt links:
+	Total links: 21
+	two-six links: 9
+{'crowning': 1, "figur'd": 1, 'forgetfulness': 1, 'incapable': 1, 'older': 1, 'repay': 1, 'sportive': 1, "steel'd": 1, 'waning': 1}
+	Seven-eleven links: 12
+{'adulterate': 1, 'assured': 1, 'bitterness': 1, 'delivers': 1, 'dreaming': 1, 'harmful': 1, 'prophecies': 1, 'rent': 1, 'salutation': 1, 'seasons': 1, "stamp'd": 1, 'surmise': 1}
+
+SON5.txt and ROM.txt links:
+	Total links: 17
+	two-six links: 5
+{'compounds': 1, 'dates': 1, 'idolatry': 1, 'older': 1, 'tombs': 1}
+	Seven-eleven links: 12
+{'blazon': 1, 'canopy': 1, 'dial': 1, "distill'd": 1, 'drugs': 1, 'fickle': 1, "mix'd": 1, 'presage': 1, 'salutation': 1, 'spheres': 1, 'transgression': 1, "wond'ring": 1}
+
+SON5.txt and SHR.txt links:
+	Total links: 10
+	two-six links: 5
+{'askaunce': 1, 'autumn': 1, 'esteemed': 1, 'leases': 1, 'waning': 1}
+	Seven-eleven links: 5
+{'admire': 1, 'hits': 1, "miss'd": 1, 'resemble': 1, "stamp'd": 1}
+
+SON5.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON5.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'qualify': 1}
+
+SON5.txt and TAsh.txt links:
+	Total links: 14
+	two-six links: 6
+{'effectually': 1, "flatt'ry": 1, 'grind': 1, 'lesson': 1, 'shaken': 1, 'welfare': 1}
+	Seven-eleven links: 8
+{'bitterness': 1, "distill'd": 1, "mix'd": 1, 'obsequious': 1, 'rent': 1, 'resemble': 1, "show'rs": 1, 'surmise': 1}
+
+SON5.txt and TGV.txt links:
+	Total links: 12
+	two-six links: 6
+{"character'd": 1, 'deepest': 1, 'forgetfulness': 1, 'idolatry': 1, 'lease': 1, 'lesson': 1}
+	Seven-eleven links: 6
+{'endless': 1, 'idol': 1, 'newer': 1, 'qualify': 1, 'reckon': 1, 'transgression': 1}
+
+SON5.txt and TIMsh.txt links:
+	Total links: 11
+	two-six links: 3
+{'compounds': 1, 'dates': 1, 'forgetfulness': 1}
+	Seven-eleven links: 8
+{"diseas'd": 1, 'drugs': 1, 'palate': 1, 'perfumes': 1, "ruin'd": 1, "show'rs": 1, 'suffered': 1, 'weeks': 1}
+
+SON5.txt and TMP.txt links:
+	Total links: 17
+	two-six links: 6
+{'abysm': 1, 'clearer': 1, 'expressing': 1, "ey'd": 1, 'grind': 1, 'incapable': 1}
+	Seven-eleven links: 11
+{'admire': 1, 'besiege': 1, 'chronicle': 1, 'dreaming': 1, 'kinds': 1, 'nerves': 1, 'savor': 1, "show'rs": 1, 'suffered': 1, 'weeks': 1, 'winters': 1}
+
+SON5.txt and TN.txt links:
+	Total links: 17
+	two-six links: 5
+{'drowns': 1, 'governs': 1, 'gust': 1, 'retention': 1, 'tempests': 1}
+	Seven-eleven links: 12
+{'admire': 1, 'antique': 1, 'blazon': 1, 'delivers': 1, 'hits': 1, 'idol': 1, 'motley': 1, 'palate': 1, 'presage': 1, 'resemble': 1, 'sicken': 1, 'spheres': 1}
+
+SON5.txt and TNKsh.txt links:
+	Total links: 15
+	two-six links: 4
+{'alters': 1, 'anew': 1, 'counting': 1, "gather'd": 1}
+	Seven-eleven links: 11
+{'assured': 1, 'blazon': 1, 'dreaming': 1, 'endless': 1, 'impediments': 1, 'kinds': 1, 'nerves': 1, 'perfumes': 1, 'spheres': 1, 'sweetness': 1, 'winters': 1}
+
+SON5.txt and TRO.txt links:
+	Total links: 27
+	two-six links: 14
+{'appetites': 1, 'autumn': 1, 'bases': 1, 'befriends': 1, 'bends': 1, 'cherubins': 1, 'clearer': 1, 'correct': 1, 'divert': 1, 'idolatry': 1, 'prophetic': 1, 'subscribes': 1, 'travels': 1, 'wights': 1}
+	Seven-eleven links: 13
+{'chronicle': 1, "distill'd": 1, 'dreaming': 1, 'endless': 1, 'errors': 1, "gor'd": 1, 'idol': 1, 'nerves': 1, 'palate': 2, 'qualify': 1, 'sweetness': 1, 'weighs': 1}
+
+SON5.txt and VEN.txt links:
+	Total links: 21
+	two-six links: 10
+{'anew': 1, 'applying': 1, 'bends': 1, "flatt'ry": 1, 'informer': 1, 'lesson': 1, 'maladies': 1, "steel'd": 1, "tend'red": 1, 'tombs': 1}
+	Seven-eleven links: 11
+{'detain': 1, 'fickle': 1, 'idol': 1, "mix'd": 1, 'paying': 1, 'presage': 1, 'prophecies': 1, "ruin'd": 1, 'salve': 1, 'savor': 1, 'sweetness': 1}
+
+SON5.txt and WIV.txt links:
+	Total links: 8
+	two-six links: 5
+{'heretic': 1, 'potions': 1, 'preposterously': 1, 'register': 1, 'repay': 1}
+	Seven-eleven links: 3
+{'blazon': 1, 'dispense': 1, 'obsequious': 1}
+
+SON5.txt and WT.txt links:
+	Total links: 25
+	two-six links: 15
+{"alt'ring": 1, 'alters': 1, 'bases': 1, 'clearer': 1, 'creating': 1, 'dates': 1, "delay'd": 1, "ey'd": 1, 'frequent': 1, 'gust': 1, 'hammered': 1, 'heretic': 1, 'incapable': 1, 'incertainties': 1, 'varying': 1}
+	Seven-eleven links: 10
+{'alteration': 1, "diseas'd": 1, 'kinds': 1, 'newer': 1, 'proclaims': 1, 'qualify': 1, 'reckon': 1, 'savor': 1, 'winters': 1, "wond'ring": 1}
+
+SON5.txt and x1H4.txt links:
+	Total links: 13
+	two-six links: 5
+{'crests': 1, "exchang'd": 1, 'lease': 1, 'potions': 1, 'shaken': 1}
+	Seven-eleven links: 8
+{'chronicle': 1, 'fickle': 1, 'impediments': 1, 'paying': 1, 'prophecies': 1, "ruin'd": 1, 'salve': 1, 'sweetness': 1}
+
+SON5.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'eclipse': 1}
+	Seven-eleven links: 0
+{}
+
+SON5.txt and x2H4.txt links:
+	Total links: 19
+	two-six links: 10
+{'anew': 1, 'antiquity': 1, 'cured': 1, 'forgetfulness': 1, "monarch's": 1, 'potions': 1, "rang'd": 1, "renew'd": 1, "suborn'd": 1, "unfather'd": 1}
+	Seven-eleven links: 9
+{'alteration': 1, 'assemble': 1, 'bitterness': 1, "diseas'd": 1, 'impediments': 1, 'perfumes': 1, 'prophecies': 1, 'seasons': 1, 'surmise': 1}
+
+SON5.txt and x2H6sh.txt links:
+	Total links: 6
+	two-six links: 3
+{"character'd": 1, 'madding': 1, 'welfare': 1}
+	Seven-eleven links: 3
+{'harmful': 1, 'resemble': 1, "show'rs": 1}
+
+SON5.txt and x3H6sh.txt links:
+	Total links: 13
+	two-six links: 5
+{"adder's": 1, 'counting': 1, 'doubting': 1, 'gust': 1, 'replete': 1}
+	Seven-eleven links: 8
+{'canopy': 1, 'dreaming': 1, 'eager': 1, 'obsequious': 1, 'prophecies': 1, 'rent': 1, "show'rs": 1, 'weeks': 1}
+

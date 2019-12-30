@@ -1,0 +1,322 @@
+LC.txt and ADO.txt links:
+	Total links: 17
+	two-six links: 9
+{'comely': 2, "daff'd": 1, 'downward': 1, "levell'd": 2, 'tip': 1, 'tore': 1, 'unconstrained': 1}
+	Seven-eleven links: 8
+{'catching': 1, 'cleft': 1, 'errors': 1, 'feat': 1, 'guards': 1, 'orb': 1, 'stalk': 2}
+
+LC.txt and ANT.txt links:
+	Total links: 27
+	two-six links: 9
+{"assign'd": 1, 'begs': 1, 'builded': 1, 'landlord': 1, "levell'd": 2, 'pelleted': 1, 'register': 1, 'tearing': 1}
+	Seven-eleven links: 18
+{'balls': 1, 'brine': 1, 'catching': 1, 'descended': 1, 'distract': 1, 'errors': 1, 'formal': 1, 'mud': 2, 'orb': 1, 'palate': 1, 'plants': 1, 'precedent': 1, 'secrecy': 1, 'spheres': 1, 'strives': 1, 'subdue': 1, 'weighs': 1}
+
+LC.txt and ARDsh.txt links:
+	Total links: 12
+	two-six links: 7
+{'beguiling': 1, 'blossoms': 1, 'deceives': 1, 'fount': 1, "levell'd": 2, "procur'd": 1}
+	Seven-eleven links: 5
+{'arguments': 1, 'audit': 1, "bewitch'd": 1, 'enchanted': 2}
+
+LC.txt and AWWsh.txt links:
+	Total links: 43
+	two-six links: 23
+{'chill': 1, 'consents': 1, 'contrives': 1, 'curls': 1, 'desired': 1, 'dieted': 1, 'diverted': 1, 'downward': 1, 'lending': 1, 'lettice': 1, 'monarchy': 1, 'motives': 1, 'owed': 1, "procur'd": 1, 'radiance': 1, 'real': 1, 'rounds': 1, 'sanctified': 1, "sear'd": 1, 'similes': 1, 'subjection': 1, 'swiftest': 1, 'untrue': 1}
+	Seven-eleven links: 20
+{"accomplish'd": 1, 'balls': 1, 'besiege': 1, 'brine': 1, 'exclaim': 1, 'grounds': 2, 'hive': 1, 'impediments': 1, 'manifold': 1, 'paradise': 1, 'parcels': 2, 'perils': 1, 'precepts': 1, 'rarest': 1, 'richest': 1, 'safest': 1, 'strives': 1, 'weighs': 1}
+
+LC.txt and AYL.txt links:
+	Total links: 29
+	two-six links: 15
+{"assign'd": 1, "bath'd": 1, 'begs': 1, 'cattle': 2, 'comely': 1, 'concave': 1, 'diverted': 1, 'nun': 4, 'patterns': 1, 'sanctified': 1, 'similes': 1}
+	Seven-eleven links: 14
+{'descended': 1, 'dwelling': 1, 'foil': 2, 'formal': 1, 'parcels': 2, 'plants': 1, 'safest': 2, "sigh'd": 3, 'spheres': 1}
+
+LC.txt and COR.txt links:
+	Total links: 45
+	two-six links: 19
+{'applied': 2, 'aptness': 1, 'assuage': 1, 'comely': 1, 'dieted': 2, "disciplin'd": 1, 'examples': 1, 'glowing': 1, 'grained': 1, 'obeys': 1, "procur'd": 1, 'real': 1, "suff'ring": 1, 'tearing': 1, 'usury': 1, "veil'd": 2}
+	Seven-eleven links: 26
+{'acceptance': 1, 'audit': 1, 'catching': 1, 'channel': 1, 'commanding': 1, 'controversy': 2, 'descended': 1, 'gan': 2, 'orb': 1, 'palate': 1, 'parcels': 2, 'plants': 1, 'precepts': 1, 'rarest': 1, 'richest': 1, "shunn'd": 1, "sigh'd": 2, 'suffering': 4, 'verdict': 1}
+
+LC.txt and CYM.txt links:
+	Total links: 48
+	two-six links: 18
+{'amplify': 1, 'aptness': 1, 'assail': 1, 'carcass': 1, 'jet': 1, 'motives': 1, 'outwardly': 1, 'pervert': 1, "reign'd": 1, 'rubies': 1, 'rudeness': 1, 'shielded': 1, 'slackly': 1, 'spungy': 1, "stone's": 1, 'subjection': 1, 'swiftest': 1, 'untrue': 1}
+	Seven-eleven links: 30
+{"accomplish'd": 3, 'afflicted': 1, 'audit': 1, 'characters': 4, 'conceited': 1, 'descended': 2, "enrich'd": 1, 'feat': 1, 'foil': 1, 'gan': 4, 'gyves': 1, 'haunted': 1, 'rarest': 2, 'rider': 1, "shunn'd": 1, "smil'd": 1, 'suffering': 2, 'talents': 1, 'vale': 1}
+
+LC.txt and E3sh.txt links:
+	Total links: 23
+	two-six links: 9
+{'accorded': 1, 'adulterate': 1, 'aids': 1, "preach'd": 1, "procur'd": 1, 'register': 1, 'rounds': 1, 'tip': 1, 'wavering': 1}
+	Seven-eleven links: 14
+{'airy': 1, 'amber': 1, 'besiege': 2, 'bestowed': 1, 'bloodless': 1, 'distract': 1, 'enchanted': 2, 'orb': 1, 'subdue': 1, 'vale': 1, 'verdict': 2}
+
+LC.txt and ERR.txt links:
+	Total links: 16
+	two-six links: 4
+{'adulterate': 1, 'grained': 1, "remain'd": 1, 'rubies': 1}
+	Seven-eleven links: 12
+{'clamors': 1, 'controversy': 1, 'different': 1, 'distract': 1, 'errors': 2, 'folded': 1, 'formal': 1, 'paradise': 1, 'tragic': 1, 'vale': 1, 'weighs': 1}
+
+LC.txt and H5.txt links:
+	Total links: 34
+	two-six links: 11
+{'beguiling': 1, "beseech'd": 1, 'deceits': 2, "either's": 1, 'examples': 1, 'monarchy': 1, 'patterns': 1, 'rents': 1, 'subjection': 1, 'threaden': 1}
+	Seven-eleven links: 23
+{'acceptance': 2, 'balls': 4, "batt'ry": 2, 'bestowed': 1, 'controversy': 1, 'descended': 1, "enrich'd": 1, 'fickle': 1, 'haunted': 1, 'luxury': 1, 'maidens': 1, 'papers': 1, 'paradise': 1, 'precepts': 1, 'rider': 1, "smil'd": 2, 'weighs': 1}
+
+LC.txt and H8sh.txt links:
+	Total links: 17
+	two-six links: 5
+{'grievance': 1, 'hallowed': 1, 'havings': 1, "peep'd": 1, "reign'd": 1}
+	Seven-eleven links: 12
+{'arguments': 1, 'audit': 1, 'commanding': 1, 'mud': 1, 'papers': 2, 'parcels': 2, 'perils': 1, "perus'd": 1, 'vale': 1, 'verdict': 1}
+
+LC.txt and HAM.txt links:
+	Total links: 56
+	two-six links: 27
+{'adulterate': 1, 'assail': 1, 'bat': 1, "beseech'd": 1, 'blasting': 1, 'blossoms': 1, 'brokers': 1, 'combined': 1, 'credent': 1, 'curls': 1, 'distant': 1, 'examples': 1, 'filial': 1, 'fortified': 1, 'grained': 1, 'hallowed': 1, 'margent': 1, 'obeys': 1, 'orbed': 1, 'origin': 2, 'outwards': 1, 'replication': 1, 'sanctified': 1, 'shocks': 1, "suff'ring": 1, 'trophies': 1}
+	Seven-eleven links: 29
+{'airy': 1, 'amber': 1, 'aptly': 2, 'audit': 1, 'cleft': 1, 'commended': 1, 'controversy': 1, 'different': 1, 'distract': 1, 'dwelling': 1, 'errors': 1, 'exclaim': 1, 'foil': 2, 'folded': 1, 'formal': 1, 'grounds': 1, 'guards': 1, 'gyves': 1, 'luxury': 1, 'orb': 1, 'precedent': 1, 'precepts': 1, 'secrecy': 3, 'spheres': 1, 'stalk': 1}
+
+LC.txt and JC.txt links:
+	Total links: 32
+	two-six links: 15
+{"bath'd": 1, 'carcass': 1, 'concave': 1, 'downward': 1, "glaz'd": 1, 'inflame': 1, "monarch's": 1, 'motives': 1, 'orchards': 1, "remain'd": 1, 'replication': 1, 'rudeness': 1, 'ruffle': 1, 'trophies': 1, "veil'd": 1}
+	Seven-eleven links: 17
+{'catching': 1, 'channel': 1, 'clamors': 1, 'commended': 1, 'conceited': 1, 'controversy': 1, 'distract': 1, 'dwelling': 1, 'formal': 1, 'melting': 1, 'papers': 1, 'perils': 2, 'richest': 1, "smil'd": 1, 'suffering': 2}
+
+LC.txt and JN.txt links:
+	Total links: 22
+	two-six links: 10
+{'carcass': 1, 'concealed': 1, 'fortified': 1, 'inundation': 2, 'preach': 1, 'subjection': 1, 'tore': 1, 'twisted': 1, 'untrue': 1}
+	Seven-eleven links: 12
+{'afflicted': 1, 'arguments': 1, 'channel': 1, 'clamors': 2, 'commanding': 1, 'controversy': 1, 'different': 1, 'fickle': 1, 'folded': 1, 'spheres': 1, 'stalk': 1}
+
+LC.txt and LLL.txt links:
+	Total links: 33
+	two-six links: 9
+{'blossoms': 1, 'desired': 1, 'gazes': 1, 'margent': 2, 'replication': 1, 'sonnets': 1, 'teen': 1, 'untrue': 1}
+	Seven-eleven links: 24
+{'amber': 2, 'arguments': 1, 'besiege': 1, 'clamors': 1, 'enchanted': 1, "enrich'd": 2, 'folded': 1, 'guards': 1, 'haunted': 1, 'maidens': 1, 'papers': 1, 'paradise': 2, "penn'd": 3, 'plants': 1, 'richest': 1, 'rider': 2, 'strives': 1, 'subdue': 1}
+
+LC.txt and LR.txt links:
+	Total links: 37
+	two-six links: 22
+{'a-twain': 1, 'amplify': 1, 'applied': 2, 'begs': 1, 'chill': 3, 'dialect': 1, "either's": 1, 'filial': 1, 'flew': 1, 'lending': 1, 'origin': 1, "piec'd": 1, 'potential': 1, 'preach': 1, 'radiance': 1, 'ruffle': 2, 'showed': 1, 'tearing': 1}
+	Seven-eleven links: 15
+{'arguments': 1, 'different': 1, 'distract': 1, 'fickle': 1, 'luxury': 1, 'manifold': 2, 'papers': 1, "perus'd": 1, 'rarest': 1, "shunn'd": 1, "smil'd": 1, 'strives': 1, 'suffering': 2}
+
+LC.txt and LUC.txt links:
+	Total links: 46
+	two-six links: 20
+{'adulterate': 1, 'applied': 2, 'assuage': 1, 'brinish': 1, 'desired': 1, "either's": 2, 'encloses': 1, 'espied': 1, 'forbod': 1, 'lending': 1, 'obeys': 1, 'owed': 1, 'register': 1, "remain'd": 1, 'rocky': 1, 'showed': 1, 'subjection': 1, 'tore': 1}
+	Seven-eleven links: 26
+{'acceptance': 1, 'balls': 1, 'besiege': 1, "bewitch'd": 1, 'bloodless': 1, 'brine': 1, 'channel': 1, 'clamors': 2, 'commended': 1, 'conceited': 1, 'descended': 1, 'enchanted': 1, 'errors': 1, 'folded': 1, 'gan': 2, 'hive': 2, 'melting': 2, 'mud': 2, "perus'd": 1, 'secrecy': 1, 'strives': 1}
+
+LC.txt and MAC.txt links:
+	Total links: 22
+	two-six links: 13
+{"authoriz'd": 1, 'bat': 2, 'charmed': 4, 'cherubin': 1, 'fillet': 1, 'motives': 1, 'outwardly': 1, 'spungy': 1, 'swiftest': 1}
+	Seven-eleven links: 9
+{'audit': 1, 'balls': 1, 'descended': 1, 'feat': 1, 'impediments': 1, 'safest': 1, 'suffering': 2, 'weighs': 1}
+
+LC.txt and MMsh.txt links:
+	Total links: 27
+	two-six links: 13
+{'blasting': 1, 'cloister': 1, 'combined': 1, 'credent': 1, "destin'd": 1, 'dialect': 1, 'distant': 1, 'examples': 1, 'fount': 1, 'pervert': 1, 'properties': 1, 'rubies': 1, 'tempter': 1}
+	Seven-eleven links: 14
+{'afflicted': 1, "batt'ry": 2, 'characters': 2, 'dwelling': 1, 'guards': 1, 'gyves': 1, 'luxury': 1, 'maidens': 1, 'paradise': 1, 'secrecy': 1, "smil'd": 1, 'subdue': 1}
+
+LC.txt and MND.txt links:
+	Total links: 29
+	two-six links: 17
+{'carcass': 1, 'charmed': 2, 'cloister': 1, 'consents': 1, 'distant': 1, 'fountains': 1, 'hallowed': 1, 'hoard': 1, 'margent': 1, 'nun': 2, 'properties': 1, 'rubies': 1, 'shocks': 1, 'showed': 1, 'tearing': 1}
+	Seven-eleven links: 12
+{"bewitch'd": 1, 'catching': 1, 'different': 1, 'haunted': 2, 'liveries': 1, 'maidens': 2, 'mud': 1, 'paradise': 1, 'richest': 1, 'spheres': 1}
+
+LC.txt and MV.txt links:
+	Total links: 18
+	two-six links: 5
+{'flew': 1, "graz'd": 1, 'jet': 1, 'leisures': 1, 'paleness': 1}
+	Seven-eleven links: 13
+{'acceptance': 1, 'balls': 1, 'bestowed': 2, 'controversy': 1, 'enchanted': 1, 'exclaim': 1, 'hive': 1, 'liveries': 2, 'orb': 1, 'precedent': 1, "sigh'd": 1}
+
+LC.txt and OTH.txt links:
+	Total links: 30
+	two-six links: 7
+{'cherubin': 1, 'deceives': 1, 'grievance': 1, 'hallowed': 1, 'inflame': 1, 'potential': 1, 'sanctified': 1}
+	Seven-eleven links: 23
+{'acceptance': 1, 'clamors': 1, 'distract': 1, 'enchanted': 1, 'exclaim': 1, 'grounds': 2, 'guards': 1, 'impediments': 1, 'melting': 1, 'palate': 1, 'parcels': 2, 'safest': 1, "shunn'd": 1, "sigh'd": 1, 'strives': 1, 'subdue': 4, 'tragic': 1, 'vale': 1}
+
+LC.txt and PERsh.txt links:
+	Total links: 24
+	two-six links: 8
+{'distant': 1, 'falseness': 1, 'gazes': 1, 'inflame': 1, 'nun': 2, "preach'd": 1, 'sleided': 1}
+	Seven-eleven links: 16
+{'aptly': 2, "batt'ry": 2, 'bestowed': 1, 'brine': 1, 'characters': 4, 'feat': 1, 'rarest': 2, 'spheres': 1, 'stalk': 1, 'talents': 1}
+
+LC.txt and PHT.txt links:
+	Total links: 2
+	two-six links: 1
+{'shriking': 1}
+	Seven-eleven links: 1
+{'tragic': 1}
+
+LC.txt and R2.txt links:
+	Total links: 29
+	two-six links: 13
+{'begs': 1, 'cloister': 1, 'downward': 1, 'hoard': 1, 'landlord': 1, 'maim': 1, "reign'd": 1, 'rents': 1, 'rocky': 1, 'rounds': 1, "suff'ring": 1, 'tore': 1, 'wavering': 1}
+	Seven-eleven links: 16
+{"accomplish'd": 2, "enrich'd": 2, 'foil': 1, 'guards': 1, 'haunted': 1, "perus'd": 1, 'plants': 1, 'rider': 2, "sigh'd": 1, 'strives': 1, 'suffering': 2, 'weighs': 1}
+
+LC.txt and R3.txt links:
+	Total links: 32
+	two-six links: 9
+{'adulterate': 1, 'bulwarks': 1, "destin'd": 1, 'equals': 1, 'gems': 1, 'monarchy': 2, 'rocky': 1, 'teen': 1}
+	Seven-eleven links: 23
+{'aptly': 2, 'arguments': 1, "bewitch'd": 1, 'bloodless': 1, 'characters': 2, 'commanding': 2, "enrich'd": 1, 'exclaim': 1, 'foil': 1, 'folded': 1, 'formal': 1, 'luxury': 1, 'plants': 2, 'precedent': 1, 'safest': 1, "smil'd": 1, 'stalk': 1, 'tragic': 1, 'verdict': 1}
+
+LC.txt and ROM.txt links:
+	Total links: 30
+	two-six links: 12
+{'consents': 1, 'fee-simple': 2, "flow'd": 1, 'fountains': 1, 'grievance': 1, 'inundation': 1, 'margent': 1, 'sounding': 2, 'teen': 1, 'twisted': 1}
+	Seven-eleven links: 18
+{'afflicted': 1, 'airy': 3, 'brine': 1, 'cleft': 1, 'different': 2, 'fickle': 3, 'gyves': 1, 'orb': 1, 'paradise': 2, 'plants': 1, "shunn'd": 1, 'spheres': 1}
+
+LC.txt and SHR.txt links:
+	Total links: 14
+	two-six links: 3
+{'caged': 1, "piec'd": 2}
+	Seven-eleven links: 11
+{'amber': 1, 'aptly': 2, 'bestowed': 1, 'controversy': 1, 'dwelling': 1, 'feat': 1, 'formal': 2, 'perils': 1, "perus'd": 1}
+
+LC.txt and SON1.txt links:
+	Total links: 4
+	two-six links: 2
+{'desired': 1, 'rents': 1}
+	Seven-eleven links: 2
+{'acceptance': 1, 'errors': 1}
+
+LC.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+LC.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'owed': 1}
+	Seven-eleven links: 0
+{}
+
+LC.txt and TAsh.txt links:
+	Total links: 18
+	two-six links: 9
+{"bath'd": 1, 'brinish': 1, 'cattle': 1, 'concealed': 1, 'dismount': 1, 'enchant': 1, 'espied': 2, 'jet': 1}
+	Seven-eleven links: 9
+{'afflicted': 1, "bewitch'd": 1, 'bloodless': 1, 'distract': 1, 'melting': 1, 'mud': 1, 'tragic': 1, 'vale': 2}
+
+LC.txt and TGV.txt links:
+	Total links: 22
+	two-six links: 9
+{'blasting': 1, 'cloister': 1, 'consents': 1, "destin'd": 1, 'grievance': 2, 'pined': 1, 'sonnets': 1, 'swiftest': 1}
+	Seven-eleven links: 13
+{"accomplish'd": 1, 'bestowed': 1, 'catching': 1, 'cleft': 1, 'commended': 1, 'descended': 1, 'dwelling': 1, 'liveries': 1, 'melting': 1, 'papers': 2, "shunn'd": 2}
+
+LC.txt and TIMsh.txt links:
+	Total links: 27
+	two-six links: 11
+{'cherubin': 1, 'deceives': 1, "destin'd": 1, 'gouty': 1, 'leisures': 1, "levell'd": 2, 'motives': 1, 'owed': 1, 'properties': 1, 'trophies': 1}
+	Seven-eleven links: 16
+{'aptly': 2, 'different': 2, "enrich'd": 1, 'manifold': 1, 'orb': 1, 'palate': 1, 'precedent': 1, 'precepts': 1, 'talents': 6}
+
+LC.txt and TMP.txt links:
+	Total links: 19
+	two-six links: 6
+{'carcass': 1, 'cherubin': 1, "either's": 1, 'enchant': 1, 'spungy': 1, 'teen': 1}
+	Seven-eleven links: 13
+{'airy': 1, 'besiege': 1, 'brine': 2, 'enchanted': 1, 'foil': 1, 'manifold': 1, 'melting': 1, 'paradise': 1, 'plants': 1, 'precepts': 1, 'rarest': 1, "sigh'd": 1}
+
+LC.txt and TN.txt links:
+	Total links: 34
+	two-six links: 12
+{'assail': 1, 'dismount': 1, 'distractedly': 1, 'fortified': 1, 'gems': 1, 'opal': 1, 'orbed': 1, "preach'd": 1, 'rudeness': 1, 'schedules': 1, "suff'ring": 1, 'wavering': 1}
+	Seven-eleven links: 22
+{"accomplish'd": 1, 'aptly': 2, 'arguments': 3, "bewitch'd": 1, 'bloodless': 1, 'brine': 1, 'cleft': 1, 'commended': 2, 'conceited': 1, 'distract': 1, 'formal': 1, 'grounds': 2, 'orb': 1, 'palate': 1, "penn'd": 1, 'spheres': 1, 'talents': 1}
+
+LC.txt and TNKsh.txt links:
+	Total links: 25
+	two-six links: 7
+{'behoof': 1, 'blend': 1, "diff'rence": 1, 'obeys': 1, 'origin': 1, 'subduing': 1, 'tip': 1}
+	Seven-eleven links: 18
+{'acceptance': 1, 'brine': 2, 'catching': 1, 'dwelling': 1, "enrich'd": 1, 'feat': 2, 'gyves': 2, 'impediments': 1, "penn'd": 1, 'richest': 1, 'rider': 2, 'spheres': 1, 'subdue': 1, 'talents': 1}
+
+LC.txt and TRO.txt links:
+	Total links: 40
+	two-six links: 19
+{'additions': 1, 'appertainings': 1, "disciplin'd": 1, 'fee-simple': 1, 'flew': 1, 'gouty': 1, 'largeness': 1, 'outwardly': 1, "privileg'd": 2, 'rudeness': 2, 'shriking': 1, 'similes': 1, 'slides': 1, 'sounding': 2, 'spungy': 1, 'tip': 1}
+	Seven-eleven links: 21
+{'airy': 1, 'bloodless': 1, 'characters': 4, 'clamors': 2, 'commended': 1, 'errors': 1, 'exclaim': 1, 'hive': 1, 'luxury': 1, 'maidens': 1, 'palate': 2, "perus'd": 1, 'secrecy': 1, 'stalk': 1, 'vale': 1, 'weighs': 1}
+
+LC.txt and VEN.txt links:
+	Total links: 36
+	two-six links: 19
+{'applying': 1, 'assuage': 1, 'braided': 1, 'concealed': 1, 'downward': 1, 'enchant': 1, 'fountains': 1, 'gazes': 1, 'glowing': 1, 'harmed': 1, "mast'ring": 1, 'moisture': 2, 'obeys': 1, 'sepulchres': 1, 'showed': 1, 'sounding': 1, 'teen': 1, 'trophies': 1}
+	Seven-eleven links: 17
+{'aptly': 2, "batt'ry": 2, 'bloodless': 1, 'catching': 1, 'channel': 1, 'exclaim': 1, 'fickle': 1, 'gan': 2, 'liveries': 1, 'melting': 1, 'plants': 1, 'rider': 2, 'stalk': 1}
+
+LC.txt and WIV.txt links:
+	Total links: 15
+	two-six links: 8
+{'additions': 1, 'cattle': 1, 'fee-simple': 1, 'properties': 1, 'register': 1, 'rounds': 1, 'sapphire': 1, 'sonnets': 1}
+	Seven-eleven links: 7
+{'afflicted': 1, 'commended': 1, 'conceited': 1, 'different': 1, 'dwelling': 1, 'luxury': 1, 'secrecy': 1}
+
+LC.txt and WT.txt links:
+	Total links: 23
+	two-six links: 8
+{'blossoms': 1, 'credent': 1, "flow'd": 1, 'gazes': 1, 'outwardly': 1, "remain'd": 1, 'rounds': 1, 'tore': 1}
+	Seven-eleven links: 15
+{'acceptance': 1, 'amber': 1, 'cleft': 1, 'commended': 1, 'conceited': 1, 'dwelling': 1, 'feat': 1, 'parcels': 2, 'precedent': 1, 'rarest': 1, 'secrecy': 1, "shunn'd": 1, "smil'd": 1, 'subdue': 1}
+
+LC.txt and x1H4.txt links:
+	Total links: 25
+	two-six links: 10
+{"assign'd": 1, "bath'd": 1, 'beguiling': 1, "daff'd": 1, 'emptied': 1, "encamp'd": 1, 'equals': 1, 'maim': 1, "procur'd": 1, 'similes': 1}
+	Seven-eleven links: 15
+{"bewitch'd": 1, 'catching': 1, 'channel': 2, "enrich'd": 1, 'fickle': 1, 'foil': 1, 'gyves': 1, 'impediments': 1, 'manifold': 1, 'orb': 1, 'papers': 1, "penn'd": 1, 'secrecy': 1, "smil'd": 1}
+
+LC.txt and x1H6sh.txt links:
+	Total links: 3
+	two-six links: 2
+{'fortified': 1, 'swiftest': 1}
+	Seven-eleven links: 1
+{'verdict': 1}
+
+LC.txt and x2H4.txt links:
+	Total links: 38
+	two-six links: 14
+{'aids': 1, "diff'rence": 1, 'examples': 1, 'falseness': 1, 'figuring': 1, 'filial': 1, "flow'd": 1, 'hoard': 1, 'inflame': 1, "monarch's": 1, "peep'd": 1, 'rocky': 1, 'sanctified': 1, 'tearing': 1}
+	Seven-eleven links: 24
+{'bestowed': 1, 'channel': 3, 'characters': 2, 'conceited': 1, 'dwelling': 1, 'formal': 1, 'gan': 2, 'guards': 1, 'hive': 1, 'impediments': 1, 'liveries': 1, 'parcels': 2, 'perils': 2, 'precepts': 1, "smil'd": 1, 'suffering': 2, 'tragic': 1}
+
+LC.txt and x2H6sh.txt links:
+	Total links: 8
+	two-six links: 3
+{'applied': 2, 'blossoms': 1}
+	Seven-eleven links: 5
+{'bloodless': 1, 'descended': 1, 'distract': 1, 'hive': 1, 'mud': 1}
+
+LC.txt and x3H6sh.txt links:
+	Total links: 14
+	two-six links: 6
+{'begs': 1, 'brinish': 1, "flow'd": 1, 'moisture': 1, 'rents': 1, "sear'd": 1}
+	Seven-eleven links: 8
+{'arguments': 1, "batt'ry": 2, 'commanding': 1, 'foil': 1, 'melting': 1, 'strives': 1, 'tragic': 1}
+

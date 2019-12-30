@@ -1,0 +1,322 @@
+MUC.txt and ADO.txt links:
+	Total links: 11
+	two-six links: 3
+{'arragon': 2, 'disloyalty': 1}
+	Seven-eleven links: 8
+{'appearance': 1, "compos'd": 1, 'coy': 1, "disdain'd": 1, 'florentine': 1, 'obtain': 1, 'planet': 1, 'sentences': 1}
+
+MUC.txt and ANT.txt links:
+	Total links: 21
+	two-six links: 6
+{'cloy': 1, 'deserved': 1, 'desist': 1, 'embers': 1, 'tug': 1, 'vented': 1}
+	Seven-eleven links: 15
+{'battery': 1, 'bended': 1, 'blemish': 1, 'entreats': 1, 'gay': 1, 'healthful': 1, 'hoist': 1, 'infects': 1, 'jaws': 1, 'mate': 1, 'operation': 1, 'planet': 1, 'rules': 1, 'trencher': 1, 'trivial': 1}
+
+MUC.txt and ARDsh.txt links:
+	Total links: 3
+	two-six links: 2
+{'expired': 1, 'mangle': 1}
+	Seven-eleven links: 1
+{"mix'd": 1}
+
+MUC.txt and AWWsh.txt links:
+	Total links: 16
+	two-six links: 6
+{'disclose': 1, 'grafted': 1, 'multiplying': 1, 'plausive': 1, 'sainted': 1, 'waiting': 1}
+	Seven-eleven links: 10
+{"compos'd": 1, 'deem': 1, 'florentine': 1, 'healthful': 1, 'inferior': 1, 'puritan': 1, 'regions': 1, 'trivial': 1, 'vainly': 1, 'verity': 1}
+
+MUC.txt and AYL.txt links:
+	Total links: 8
+	two-six links: 0
+{}
+	Seven-eleven links: 8
+{'bit': 1, 'brooks': 1, 'contrive': 1, 'frosty': 1, "mix'd": 1, 'theatre': 1, 'verity': 1, "wing'd": 1}
+
+MUC.txt and COR.txt links:
+	Total links: 24
+	two-six links: 12
+{'boasting': 1, 'concealment': 1, 'deserved': 1, 'doings': 1, 'grafted': 1, 'humbler': 1, 'magistrate': 1, 'mountebank': 1, 'multiplying': 1, 'twin': 1, 'vented': 1, 'vexed': 1}
+	Seven-eleven links: 12
+{'appearance': 1, 'battery': 1, 'bench': 1, 'bended': 1, 'inferior': 1, 'planet': 1, 'regions': 1, 'shout': 1, 'trencher': 1, 'trivial': 1, 'verity': 1, 'welcomes': 1}
+
+MUC.txt and CYM.txt links:
+	Total links: 18
+	two-six links: 5
+{'dolors': 1, 'drug': 1, "excell'd": 1, 'jollity': 1, "reign'd": 1}
+	Seven-eleven links: 13
+{'battery': 1, 'creditor': 1, 'cures': 1, 'deem': 1, "disdain'd": 1, 'entreats': 1, 'europe': 1, 'gripe': 1, 'regions': 1, 'trivial': 1, 'vicious': 1, "wing'd": 1, 'wonted': 1}
+
+MUC.txt and E3sh.txt links:
+	Total links: 17
+	two-six links: 2
+{'augment': 1, 'lilies': 1}
+	Seven-eleven links: 15
+{'adds': 1, 'amazed': 1, 'bit': 1, 'brooks': 1, 'entreats': 1, 'frosty': 1, 'hay': 1, 'jaws': 1, 'operation': 1, 'puissant': 1, 'regions': 1, 'retain': 1, 'rules': 1, 'sentences': 1, 'wonted': 1}
+
+MUC.txt and ERR.txt links:
+	Total links: 20
+	two-six links: 10
+{'arrived': 1, 'comfortless': 1, 'disloyalty': 1, 'jollity': 1, 'mountebank': 1, 'needy': 1, 'otherwhere': 1, "scar'd": 1, 'twin': 1, 'wend': 1}
+	Seven-eleven links: 10
+{'creditor': 1, "disturb'd": 1, 'gay': 1, 'healthful': 1, 'mate': 1, 'provision': 1, 'retain': 1, 'unwilling': 1, 'verity': 1, 'vicious': 1}
+
+MUC.txt and H5.txt links:
+	Total links: 24
+	two-six links: 7
+{'augment': 1, 'awkward': 1, 'collect': 1, 'forcing': 1, 'humbler': 1, 'mangle': 1, 'swarm': 1}
+	Seven-eleven links: 17
+{'appearance': 1, 'ball': 1, 'bended': 1, 'bit': 1, 'clime': 1, "compos'd": 1, "disturb'd": 1, 'entreats': 1, 'europe': 1, 'frosty': 1, 'galls': 1, 'gay': 1, 'gripe': 1, 'healthful': 1, 'jaws': 1, 'puissant': 1, 'sentences': 1}
+
+MUC.txt and H8sh.txt links:
+	Total links: 15
+	two-six links: 4
+{'augment': 1, 'comfortless': 1, "reign'd": 1, 'trap': 1}
+	Seven-eleven links: 11
+{'adds': 1, 'appearance': 1, 'conception': 1, 'deem': 1, 'healthful': 1, 'masque': 1, 'shone': 1, 'vainly': 1, 'verity': 1, 'vicious': 1, 'whet': 1}
+
+MUC.txt and HAM.txt links:
+	Total links: 25
+	two-six links: 8
+{'arrived': 1, 'disclose': 1, 'extolment': 1, 'forcing': 1, 'loudly': 1, 'mountebank': 1, 'plausive': 1, 'stoops': 1}
+	Seven-eleven links: 17
+{'battery': 1, 'bended': 1, "compos'd": 1, 'conception': 1, 'contrive': 1, 'galls': 1, 'healthful': 1, 'hoist': 1, 'infects': 1, 'jaws': 1, 'retain': 1, 'theatre': 1, 'trivial': 1, 'verity': 1, 'vicious': 1, 'whet': 1, 'wonted': 1}
+
+MUC.txt and JC.txt links:
+	Total links: 13
+	two-six links: 4
+{'disclose': 1, 'factious': 1, 'stricken': 1, 'vexed': 1}
+	Seven-eleven links: 9
+{'contrive': 1, 'healthful': 1, "mix'd": 1, 'puissant': 1, 'regions': 1, 'servile': 1, 'shout': 1, 'theatre': 1, 'whet': 1}
+
+MUC.txt and JN.txt links:
+	Total links: 18
+	two-six links: 4
+{'beseems': 1, 'comfortless': 1, 'lilies': 1, 'tug': 1}
+	Seven-eleven links: 14
+{'amazed': 1, 'battery': 1, 'creditor': 1, 'cures': 1, "disturb'd": 1, 'gripe': 1, 'inferior': 1, 'jaws': 1, 'masque': 1, 'offspring': 1, 'shout': 1, 'theatre': 1, 'vainly': 1, 'whet': 1}
+
+MUC.txt and LC.txt links:
+	Total links: 2
+	two-six links: 2
+{'additions': 1, "reign'd": 1}
+	Seven-eleven links: 0
+{}
+
+MUC.txt and LLL.txt links:
+	Total links: 9
+	two-six links: 3
+{"affection's": 1, 'excel': 1, 'forerun': 1}
+	Seven-eleven links: 6
+{'adds': 1, 'cures': 1, 'deem': 1, 'hay': 1, 'trencher': 1, 'vainly': 1}
+
+MUC.txt and LR.txt links:
+	Total links: 22
+	two-six links: 8
+{'comfortless': 1, 'concealment': 1, 'dolors': 1, "fell'd": 1, 'guardians': 1, 'moulds': 1, "scar'd": 1, 'teem': 1}
+	Seven-eleven links: 14
+{'bench': 1, 'bit': 1, 'conception': 1, "disdain'd": 1, 'hay': 1, 'mate': 1, "mix'd": 1, 'operation': 1, 'provision': 1, 'puissant': 1, 'retain': 1, 'servile': 1, 'verity': 1, 'vicious': 1}
+
+MUC.txt and LUC.txt links:
+	Total links: 23
+	two-six links: 10
+{"affection's": 1, 'arrived': 1, 'beseems': 1, "blemish'd": 1, 'embers': 1, 'lain': 1, 'lilies': 1, 'lurks': 1, 'stoops': 1, 'welfare': 1}
+	Seven-eleven links: 13
+{'adds': 1, 'amazed': 1, 'blemish': 1, 'brooks': 1, 'contrive': 1, 'coy': 1, 'mate': 1, 'obtain': 1, 'offspring': 1, 'servile': 1, 'survive': 1, 'unwilling': 1, 'wonted': 1}
+
+MUC.txt and MAC.txt links:
+	Total links: 13
+	two-six links: 9
+{'augment': 1, 'boasting': 1, 'drug': 1, 'grafted': 1, 'hell-hound': 1, 'multiplying': 1, 'relations': 1, 'sainted': 1, 'swarm': 1}
+	Seven-eleven links: 4
+{'cures': 1, 'gripe': 1, 'hay': 1, 'verity': 1}
+
+MUC.txt and MMsh.txt links:
+	Total links: 11
+	two-six links: 4
+{'doings': 1, 'governs': 1, 'sainted': 1, 'wend': 1}
+	Seven-eleven links: 7
+{'blemish': 1, 'conception': 1, 'creditor': 1, "nurs'd": 1, 'privately': 1, 'servile': 1, 'verity': 1}
+
+MUC.txt and MND.txt links:
+	Total links: 18
+	two-six links: 5
+{'adamant': 1, 'jollity': 1, 'quicker': 1, 'spangled': 1, 'wend': 1}
+	Seven-eleven links: 13
+{'amazed': 1, "compos'd": 1, 'coy': 1, "disturb'd": 1, 'hay': 1, 'jaws': 1, 'masque': 1, 'rehearse': 1, 'sentences': 1, 'shone': 1, 'welcomes': 1, "wing'd": 1, 'wonted': 1}
+
+MUC.txt and MV.txt links:
+	Total links: 14
+	two-six links: 4
+{'arragon': 1, "envy's": 1, 'stoops': 1, 'welfare': 1}
+	Seven-eleven links: 10
+{'clime': 1, 'contrive': 1, 'creditor': 1, 'masque': 1, 'offspring': 1, 'privately': 1, 'sentences': 1, 'shone': 1, 'shout': 1, 'whet': 1}
+
+MUC.txt and OTH.txt links:
+	Total links: 22
+	two-six links: 6
+{'blab': 1, 'boasting': 1, 'disclose': 1, 'excelling': 1, 'molestation': 1, 'teem': 1}
+	Seven-eleven links: 16
+{'appearance': 1, 'clime': 1, 'conception': 1, 'creditor': 1, 'entreats': 1, 'florentine': 1, 'galls': 1, 'gay': 1, 'gripe': 1, 'healthful': 1, 'inferior': 1, 'planet': 1, 'privately': 1, 'rules': 1, 'sentences': 1, 'vicious': 1}
+
+MUC.txt and PERsh.txt links:
+	Total links: 12
+	two-six links: 3
+{'awkward': 1, 'desist': 1, 'twin': 1}
+	Seven-eleven links: 9
+{'battery': 1, 'clime': 1, 'cures': 1, "disdain'd": 1, "nurs'd": 1, 'obtain': 1, 'provision': 1, 'puritan': 1, 'regions': 1}
+
+MUC.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+MUC.txt and R2.txt links:
+	Total links: 25
+	two-six links: 8
+{"blemish'd": 1, 'cloy': 1, 'deserved': 1, "envy's": 1, "fell'd": 1, 'forerun': 1, "reign'd": 1, 'usurped': 1}
+	Seven-eleven links: 17
+{'adds': 1, 'ball': 1, 'bended': 1, 'brooks': 1, 'clime': 1, 'contrive': 1, 'deem': 1, "disdain'd": 1, 'frosty': 1, 'gay': 1, 'gripe': 1, 'inferior': 1, 'obtain': 1, 'rehearse': 1, 'servile': 1, 'theatre': 1, 'unwilling': 1}
+
+MUC.txt and R3.txt links:
+	Total links: 16
+	two-six links: 6
+{"blemish'd": 1, 'cloy': 1, 'deserved': 1, 'factious': 1, 'hell-hound': 1, 'waiting': 1}
+	Seven-eleven links: 10
+{'blemish': 1, 'entreats': 1, 'hag': 1, 'offspring': 1, 'puissant': 1, 'rules': 1, 'shout': 1, 'trivial': 1, 'unwilling': 1, 'whet': 1}
+
+MUC.txt and ROM.txt links:
+	Total links: 23
+	two-six links: 7
+{'dates': 1, 'forerun': 1, 'lain': 1, 'mangle': 1, 'murders': 1, 'needy': 1, 'perjuries': 1}
+	Seven-eleven links: 16
+{'amazed': 1, 'ball': 1, 'bench': 1, 'bit': 1, 'cures': 1, "disturb'd": 1, 'hag': 1, 'hay': 1, 'jaws': 1, "mix'd": 1, "nurs'd": 1, 'operation': 1, 'provision': 1, 'retain': 1, 'trencher': 1, 'vainly': 1}
+
+MUC.txt and SHR.txt links:
+	Total links: 13
+	two-six links: 3
+{"affection's": 1, 'arrived': 1, 'imparted': 1}
+	Seven-eleven links: 10
+{'amazed': 1, 'bit': 1, 'contrive': 1, 'coy': 1, 'florentine': 1, 'inferior': 1, 'privately': 1, 'rules': 1, 'survive': 1, 'unwilling': 1}
+
+MUC.txt and SPTAD.txt links:
+	Total links: 4
+	two-six links: 1
+{'waiting': 1}
+	Seven-eleven links: 3
+{'ball': 1, 'shone': 1, 'survive': 1}
+
+MUC.txt and STMsh.txt links:
+	Total links: 5
+	two-six links: 1
+{'magistrate': 1}
+	Seven-eleven links: 4
+{'bench': 1, 'gay': 1, 'provision': 1, 'whet': 1}
+
+MUC.txt and TAsh.txt links:
+	Total links: 13
+	two-six links: 4
+{'comfortless': 1, 'habiliment': 1, 'relieves': 1, 'welfare': 1}
+	Seven-eleven links: 9
+{'clime': 1, 'frosty': 1, "mix'd": 1, "nurs'd": 1, 'offspring': 1, 'planet': 1, 'servile': 1, 'shone': 1, 'survive': 1}
+
+MUC.txt and TGV.txt links:
+	Total links: 8
+	two-six links: 1
+{'excelling': 1}
+	Seven-eleven links: 7
+{'bended': 1, 'coy': 1, 'obtain': 1, 'rehearse': 1, 'trencher': 1, 'unwilling': 1, 'welcomes': 1}
+
+MUC.txt and TIMsh.txt links:
+	Total links: 8
+	two-six links: 3
+{'dates': 1, 'multiplying': 1, 'teem': 1}
+	Seven-eleven links: 5
+{'bench': 1, 'infects': 1, 'trencher': 1, 'vainly': 1, 'vicious': 1}
+
+MUC.txt and TMP.txt links:
+	Total links: 13
+	two-six links: 2
+{'excel': 1, 'magistrate': 1}
+	Seven-eleven links: 11
+{'blemish': 1, 'brooks': 1, "compos'd": 1, "disturb'd": 1, 'europe': 1, 'hag': 1, 'hoist': 1, 'mate': 1, 'provision': 1, 'regions': 1, 'retain': 1}
+
+MUC.txt and TN.txt links:
+	Total links: 12
+	two-six links: 3
+{'concealment': 1, 'governs': 1, 'twin': 1}
+	Seven-eleven links: 9
+{'adds': 1, 'battery': 1, 'bench': 1, 'blemish': 1, 'deem': 1, 'hoist': 1, 'jaws': 1, 'puritan': 1, 'whet': 1}
+
+MUC.txt and TNKsh.txt links:
+	Total links: 6
+	two-six links: 1
+{"bear's": 1}
+	Seven-eleven links: 5
+{"compos'd": 1, 'hoist': 1, 'infects': 1, 'privately': 1, 'retain': 1}
+
+MUC.txt and TRO.txt links:
+	Total links: 24
+	two-six links: 8
+{'adamant': 1, 'additions': 1, 'awkward': 1, 'boasting': 1, 'dolors': 1, 'excel': 1, 'factious': 1, 'lurks': 1}
+	Seven-eleven links: 16
+{"compos'd": 1, 'conception': 1, 'contrive': 1, 'cures': 1, 'deem': 1, "disdain'd": 1, 'galls': 1, 'infects': 1, 'jaws': 1, 'mate': 1, 'offspring': 1, 'operation': 1, 'planet': 1, 'privately': 1, 'shout': 1, "wing'd": 1}
+
+MUC.txt and VEN.txt links:
+	Total links: 24
+	two-six links: 8
+{"affection's": 1, 'blab': 1, 'cloy': 1, 'excel': 1, "excell'd": 1, 'excelling': 1, 'moulds': 1, 'stoops': 1}
+	Seven-eleven links: 16
+{'adds': 1, 'amazed': 1, 'bit': 1, 'coy': 1, "disdain'd": 1, 'entreats': 1, 'frosty': 1, 'gay': 1, "mix'd": 1, 'servile': 1, 'shone': 1, 'survive': 1, 'unwilling': 1, 'welcomes': 1, 'whet': 1, 'wonted': 1}
+
+MUC.txt and WIV.txt links:
+	Total links: 6
+	two-six links: 2
+{'additions': 1, 'trap': 1}
+	Seven-eleven links: 4
+{'brooks': 1, 'gripe': 1, 'hag': 1, 'sentences': 1}
+
+MUC.txt and WT.txt links:
+	Total links: 29
+	two-six links: 13
+{"blemish'd": 1, 'collect': 1, 'concealment': 1, 'dates': 1, 'doings': 1, 'forcing': 1, 'grafted': 1, 'jollity': 1, 'lilies': 1, 'sainted': 1, "scar'd": 1, 'tug': 1, 'waiting': 1}
+	Seven-eleven links: 16
+{'adds': 1, 'blemish': 1, 'cures': 1, 'deem': 1, 'europe': 1, 'hag': 1, 'hay': 1, 'infects': 1, 'mate': 1, 'planet': 1, 'privately': 1, 'puritan': 1, 'rehearse': 1, 'shone': 1, 'verity': 1, 'welcomes': 1}
+
+MUC.txt and x1H4.txt links:
+	Total links: 12
+	two-six links: 4
+{'grafted': 1, "season's": 1, 'swarm': 1, 'waiting': 1}
+	Seven-eleven links: 8
+{'ball': 1, 'bit': 1, 'brooks': 1, "disdain'd": 1, 'europe': 1, 'frosty': 1, 'gripe': 1, 'jaws': 1}
+
+MUC.txt and x1H6sh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+MUC.txt and x2H4.txt links:
+	Total links: 15
+	two-six links: 1
+{'desist': 1}
+	Seven-eleven links: 14
+{'appearance': 1, 'ball': 1, 'bench': 1, 'blemish': 1, 'europe': 1, 'galls': 1, 'mate': 1, 'operation': 1, 'rules': 1, 'shout': 1, 'survive': 1, 'unwilling': 1, 'vainly': 1, 'wonted': 1}
+
+MUC.txt and x2H6sh.txt links:
+	Total links: 10
+	two-six links: 7
+{'augment': 1, 'awkward': 1, 'blab': 1, 'collect': 1, 'needy': 1, 'trap': 1, 'welfare': 1}
+	Seven-eleven links: 3
+{'clime': 1, 'deem': 1, 'trivial': 1}
+
+MUC.txt and x3H6sh.txt links:
+	Total links: 8
+	two-six links: 2
+{'comic': 1, 'swarm': 1}
+	Seven-eleven links: 6
+{'europe': 1, 'gay': 1, 'inferior': 1, 'obtain': 1, 'puissant': 1, 'wonted': 1}
+

@@ -1,0 +1,322 @@
+AWWnsh.txt and ADO.txt links:
+	Total links: 5
+	two-six links: 2
+{'resistance': 1, 'salvation': 1}
+	Seven-eleven links: 3
+{'gloss': 1, 'reputed': 1, 'suited': 1}
+
+AWWnsh.txt and ANT.txt links:
+	Total links: 9
+	two-six links: 4
+{'files': 2, 'formerly': 1, 'nessus': 1}
+	Seven-eleven links: 5
+{"by't": 2, 'distinction': 1, 'soldiership': 2}
+
+AWWnsh.txt and ARDsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+AWWnsh.txt and AWWsh.txt links:
+	Total links: 14
+	two-six links: 4
+{'cardecue': 1, "debosh'd": 1, 'expertness': 1, "physician's": 1}
+	Seven-eleven links: 10
+{'derive': 1, 'distinction': 2, 'dower': 2, 'sanctified': 1, 'soldiership': 2, 'virgins': 2}
+
+AWWnsh.txt and AYL.txt links:
+	Total links: 8
+	two-six links: 2
+{'cramp': 1, 'retreat': 1}
+	Seven-eleven links: 6
+{'derive': 1, 'lackey': 1, "pour'd": 1, 'principal': 2, 'sanctified': 1}
+
+AWWnsh.txt and COR.txt links:
+	Total links: 11
+	two-six links: 3
+{'files': 1, 'formerly': 1, 'trophy': 1}
+	Seven-eleven links: 8
+{"by't": 1, 'canon': 2, 'disobedience': 1, 'distinction': 1, 'inheritance': 1, 'lowest': 2}
+
+AWWnsh.txt and CYM.txt links:
+	Total links: 11
+	two-six links: 3
+{'dignified': 1, 'doubling': 1, 'remainders': 1}
+	Seven-eleven links: 8
+{'belie': 1, 'bloods': 1, 'blowing': 1, "by't": 2, 'disobedience': 1, 'distinction': 2}
+
+AWWnsh.txt and E3sh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'canon': 1}
+
+AWWnsh.txt and ERR.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'bloods': 1, 'porridge': 1}
+
+AWWnsh.txt and H5.txt links:
+	Total links: 16
+	two-six links: 6
+{'pear': 2, 'retreat': 1, 'self-love': 1, 'trophy': 2}
+	Seven-eleven links: 10
+{'inheritance': 1, 'lackey': 3, 'military': 2, 'virgins': 4}
+
+AWWnsh.txt and H8sh.txt links:
+	Total links: 4
+	two-six links: 1
+{'formerly': 1}
+	Seven-eleven links: 3
+{"by't": 1, 'pie': 1, 'reputed': 1}
+
+AWWnsh.txt and HAM.txt links:
+	Total links: 11
+	two-six links: 5
+{'brooch': 1, 'salvation': 2, 'tragedians': 1, 'trophy': 1}
+	Seven-eleven links: 6
+{'canon': 1, 'differences': 1, 'inheritance': 1, 'lowest': 1, "pour'd": 1, 'sanctified': 1}
+
+AWWnsh.txt and JC.txt links:
+	Total links: 5
+	two-six links: 1
+{'meditating': 1}
+	Seven-eleven links: 4
+{'bloods': 2, 'lowest': 1, 'reputed': 1}
+
+AWWnsh.txt and JN.txt links:
+	Total links: 9
+	two-six links: 2
+{'toothpick': 1, "word's": 1}
+	Seven-eleven links: 7
+{'belie': 1, 'bloods': 1, 'canon': 1, 'differences': 1, 'inheritance': 2, 'reputed': 1}
+
+AWWnsh.txt and LC.txt links:
+	Total links: 4
+	two-six links: 3
+{'additions': 1, 'cloister': 1, 'fee-simple': 1}
+	Seven-eleven links: 1
+{'sanctified': 1}
+
+AWWnsh.txt and LLL.txt links:
+	Total links: 13
+	two-six links: 4
+{'brooch': 2, 'infallible': 1, 'rational': 1}
+	Seven-eleven links: 9
+{'bloods': 1, 'canon': 1, 'derive': 2, 'gloss': 2, 'lowest': 1, 'military': 1, 'porridge': 1}
+
+AWWnsh.txt and LR.txt links:
+	Total links: 12
+	two-six links: 5
+{"debosh'd": 1, 'rarity': 1, 'redeems': 1, 'remainders': 1, "word's": 1}
+	Seven-eleven links: 7
+{'derive': 1, 'differences': 2, 'dower': 1, 'lowest': 1, 'porridge': 1, 'suited': 1}
+
+AWWnsh.txt and LUC.txt links:
+	Total links: 9
+	two-six links: 7
+{'assails': 1, 'consumes': 1, 'dignified': 1, 'outruns': 1, 'perpetually': 1, 'resistance': 1, 'self-love': 1}
+	Seven-eleven links: 2
+{'lackey': 1, 'principal': 1}
+
+AWWnsh.txt and MAC.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'gloss': 1, "pour'd": 1, 'professes': 1, 'soldiership': 1}
+
+AWWnsh.txt and MMsh.txt links:
+	Total links: 6
+	two-six links: 2
+{'cloister': 1, 'infallible': 1}
+	Seven-eleven links: 4
+{'professes': 2, 'virgins': 2}
+
+AWWnsh.txt and MND.txt links:
+	Total links: 2
+	two-six links: 1
+{'cloister': 1}
+	Seven-eleven links: 1
+{'disobedience': 1}
+
+AWWnsh.txt and MV.txt links:
+	Total links: 13
+	two-six links: 4
+{'formerly': 1, 'highways': 1, 'salvation': 1, 'vendible': 1}
+	Seven-eleven links: 9
+{'bloods': 1, 'principal': 3, 'reputed': 1, 'suited': 2, 'virgins': 2}
+
+AWWnsh.txt and OTH.txt links:
+	Total links: 14
+	two-six links: 3
+{'assails': 1, 'drunkenness': 1, 'inhibited': 1}
+	Seven-eleven links: 11
+{'belie': 2, 'blowing': 1, 'excels': 1, 'gloss': 1, 'sanctified': 1, 'soldiership': 1, "with't": 4}
+
+AWWnsh.txt and PERsh.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{"pour'd": 1, 'principal': 2}
+
+AWWnsh.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 1
+{'rarity': 1}
+	Seven-eleven links: 0
+{}
+
+AWWnsh.txt and R2.txt links:
+	Total links: 8
+	two-six links: 3
+{'brooch': 1, 'cloister': 1, "physician's": 1}
+	Seven-eleven links: 5
+{'belie': 1, 'bloods': 1, 'differences': 2, 'inheritance': 1}
+
+AWWnsh.txt and R3.txt links:
+	Total links: 2
+	two-six links: 1
+{'meditating': 1}
+	Seven-eleven links: 1
+{'lackey': 1}
+
+AWWnsh.txt and ROM.txt links:
+	Total links: 9
+	two-six links: 6
+{'dignified': 1, 'fee-simple': 2, 'pear': 2, "word's": 1}
+	Seven-eleven links: 3
+{'excels': 2, 'pie': 1}
+
+AWWnsh.txt and SHR.txt links:
+	Total links: 9
+	two-six links: 2
+{'perpetually': 1, 'volubility': 1}
+	Seven-eleven links: 7
+{'blowing': 1, 'dower': 3, 'lackey': 2, 'pie': 1}
+
+AWWnsh.txt and SPTAD.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'blowing': 1}
+
+AWWnsh.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+AWWnsh.txt and TAsh.txt links:
+	Total links: 4
+	two-six links: 2
+{'rapes': 2}
+	Seven-eleven links: 2
+{'pie': 1, "pour'd": 1}
+
+AWWnsh.txt and TGV.txt links:
+	Total links: 9
+	two-six links: 2
+{'cloister': 1, 'dignified': 1}
+	Seven-eleven links: 7
+{'excels': 2, 'reputed': 1, "with't": 4}
+
+AWWnsh.txt and TIMsh.txt links:
+	Total links: 5
+	two-six links: 2
+{'files': 1, 'rarity': 1}
+	Seven-eleven links: 3
+{'derive': 1, 'virgins': 2}
+
+AWWnsh.txt and TMP.txt links:
+	Total links: 10
+	two-six links: 2
+{'cramp': 1, "debosh'd": 1}
+	Seven-eleven links: 8
+{'dower': 1, 'porridge': 1, 'professes': 1, 'reputed': 1, "with't": 4}
+
+AWWnsh.txt and TN.txt links:
+	Total links: 7
+	two-six links: 4
+{'drunkenness': 2, 'self-love': 1, 'unsuitable': 1}
+	Seven-eleven links: 3
+{'belie': 1, 'distinction': 1, 'suited': 1}
+
+AWWnsh.txt and TNKsh.txt links:
+	Total links: 9
+	two-six links: 2
+{'cramp': 1, 'resistance': 1}
+	Seven-eleven links: 7
+{'blowing': 1, "by't": 1, 'canon': 1, 'gloss': 1, 'military': 1, 'pie': 1, 'professes': 1}
+
+AWWnsh.txt and TRO.txt links:
+	Total links: 16
+	two-six links: 4
+{'additions': 1, 'fee-simple': 1, 'parallels': 1, 'undermine': 1}
+	Seven-eleven links: 12
+{'bloods': 1, 'derive': 1, 'distinction': 2, 'gloss': 1, 'lackey': 1, 'pie': 1, 'porridge': 1, 'professes': 1, 'suited': 1, 'virgins': 2}
+
+AWWnsh.txt and VEN.txt links:
+	Total links: 3
+	two-six links: 2
+{'outruns': 1, 'resistance': 1}
+	Seven-eleven links: 1
+{'gloss': 1}
+
+AWWnsh.txt and WIV.txt links:
+	Total links: 9
+	two-six links: 4
+{'additions': 1, 'fee-simple': 1, 'pear': 2}
+	Seven-eleven links: 5
+{'blowing': 1, 'disobedience': 1, 'military': 1, 'pie': 1, 'porridge': 1}
+
+AWWnsh.txt and WT.txt links:
+	Total links: 24
+	two-six links: 5
+{'barricado': 1, 'brooch': 1, 'formerly': 1, 'infallible': 1, 'redeems': 1}
+	Seven-eleven links: 19
+{'bloods': 1, 'derive': 1, 'disobedience': 1, 'excels': 1, "pour'd": 1, 'principal': 1, 'professes': 1, "with't": 12}
+
+AWWnsh.txt and x1H4.txt links:
+	Total links: 5
+	two-six links: 1
+{'salvation': 1}
+	Seven-eleven links: 4
+{'belie': 2, 'disobedience': 1, 'military': 1}
+
+AWWnsh.txt and x1H6sh.txt links:
+	Total links: 2
+	two-six links: 1
+{'meditating': 1}
+	Seven-eleven links: 1
+{'gloss': 1}
+
+AWWnsh.txt and x2H4.txt links:
+	Total links: 11
+	two-six links: 2
+{'mile-end': 1, 'resistance': 1}
+	Seven-eleven links: 9
+{'belie': 1, 'blowing': 1, 'military': 2, 'pie': 1, 'reputed': 1, 'sanctified': 1, 'soldiership': 2}
+
+AWWnsh.txt and x2H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'self-love': 1}
+	Seven-eleven links: 0
+{}
+
+AWWnsh.txt and x3H6sh.txt links:
+	Total links: 4
+	two-six links: 1
+{"word's": 1}
+	Seven-eleven links: 3
+{'blowing': 1, 'dower': 1, 'principal': 1}
+

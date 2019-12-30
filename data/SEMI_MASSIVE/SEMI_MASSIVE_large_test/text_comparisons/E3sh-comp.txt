@@ -1,0 +1,441 @@
+E3sh.txt and ADO.txt links:
+	Total links: 33
+	two-six links: 8
+{'arbor': 1, "enamor'd": 1, 'leander': 1, 'printed': 1, 'sunburnt': 1, 'thinkest': 1, 'tip': 1, 'twist': 1}
+	Seven-eleven links: 25
+{'accordingly': 1, "apparell'd": 1, 'bower': 1, 'bullets': 1, 'convert': 1, 'embassage': 2, 'expedient': 1, 'fraud': 1, "friend's": 1, 'guardian': 2, "hush'd": 1, 'immodest': 1, 'lovest': 2, 'massy': 1, 'mournful': 1, 'orb': 1, 'regards': 1, 'sentences': 1, 'thaw': 1, 'verified': 1, 'woos': 2}
+
+E3sh.txt and ANT.txt links:
+	Total links: 54
+	two-six links: 20
+{'burgonet': 1, "cleopatra's": 3, "coward's": 1, 'delicious': 1, 'equality': 1, 'feasted': 1, 'inclines': 1, 'lottery': 1, "low'ring": 1, 'quail': 1, 'rebound': 1, 'register': 1, 'squadrons': 2, 'squares': 1, 'tissue': 1, 'treasurer': 1, 'unfolded': 1}
+	Seven-eleven links: 34
+{'abstract': 2, 'accordingly': 2, 'assembled': 1, 'banners': 1, 'buckled': 1, 'caves': 1, 'clip': 2, 'compel': 1, 'conquering': 2, 'distract': 1, 'doubled': 1, 'eastern': 1, 'enow': 1, 'fig': 1, 'hurl': 1, 'juice': 1, 'operation': 2, 'orb': 1, 'playfellow': 1, 'poets': 2, 'rates': 1, 'rules': 1, 'sinks': 1, 'soonest': 1, 'thunders': 1, 'vanish': 1, 'wholly': 1, 'wronged': 1}
+
+E3sh.txt and ARDnsh.txt links:
+	Total links: 26
+	two-six links: 11
+{'arbor': 1, "coward's": 1, "dissever'd": 1, 'foolishness': 1, 'lovingly': 1, 'meditate': 2, 'offence': 1, 'quaking': 1, 'warden': 1, 'wavering': 1}
+	Seven-eleven links: 15
+{'airy': 1, 'bower': 1, 'bravery': 1, 'cuff': 1, 'fog': 2, 'kneeling': 1, 'lavish': 1, 'opening': 1, 'poets': 2, 'railing': 1, 'resolved': 1, "stepp'd": 1, 'veil': 1}
+
+E3sh.txt and ARDsh.txt links:
+	Total links: 23
+	two-six links: 10
+{'awaked': 1, "coward's": 1, 'disturbed': 1, "feather'd": 2, 'meditate': 2, 'offence': 1, 'outcry': 1, 'submissive': 1}
+	Seven-eleven links: 13
+{'bough': 1, 'doubled': 1, 'enchanted': 4, 'eyesight': 1, 'fig': 1, 'infringe': 1, 'passionate': 1, 'presage': 1, "procur'd": 1, 'staring': 1}
+
+E3sh.txt and AWWnsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'canon': 1}
+
+E3sh.txt and AWWsh.txt links:
+	Total links: 36
+	two-six links: 12
+{'austere': 1, 'avail': 1, 'braving': 1, 'defective': 1, 'forfeited': 2, 'heraldry': 1, 'lottery': 1, 'recantation': 2, 'rounds': 1, "tartar's": 1}
+	Seven-eleven links: 24
+{'abstract': 1, 'accordingly': 1, 'attorney': 1, 'compel': 1, 'constraint': 6, 'courtly': 1, 'expedient': 1, 'fresher': 1, 'passport': 1, 'proceeds': 1, "procur'd": 1, 'recovery': 1, 'regions': 1, 'scolding': 1, 'stable': 1, 'suggest': 1, 'sunshine': 1, 'thievish': 1, 'woos': 1}
+
+E3sh.txt and AYL.txt links:
+	Total links: 40
+	two-six links: 13
+{'awaked': 1, 'binds': 1, "cleopatra's": 1, 'engage': 1, "fenc'd": 1, "foil'd": 1, 'hellespont': 1, 'leander': 1, 'leathern': 2, 'pompous': 1, 'quail': 1, 'sestos': 1}
+	Seven-eleven links: 27
+{'adversity': 1, 'attorney': 1, 'bandy': 1, 'bit': 1, 'bravery': 1, 'brawls': 1, 'brooks': 1, 'courtly': 1, 'dotes': 1, 'enrich': 1, 'frosty': 1, 'haunts': 1, 'opening': 1, 'poetry': 6, 'railing': 2, 'ravens': 3, 'strains': 1, 'sundry': 1, 'thievish': 1}
+
+E3sh.txt and COR.txt links:
+	Total links: 60
+	two-six links: 21
+{'bruising': 1, 'carcasses': 1, 'defective': 1, 'disadvantage': 1, "dissolv'd": 1, "dwell'st": 2, 'elders': 2, 'fester': 1, "foil'd": 1, 'freshest': 1, "hoop'd": 1, "kings'": 1, "murd'ring": 1, 'prompts': 1, 'quarry': 1, 'softer': 1, "task'd": 1, 'twist': 1, 'unholy': 1}
+	Seven-eleven links: 39
+{'accents': 1, 'banners': 1, 'bestride': 2, "blush'd": 1, 'bower': 1, 'canon': 2, 'clip': 1, "controll'd": 1, 'digest': 1, 'doubled': 1, 'elsewhere': 1, 'fog': 1, 'fortnight': 1, "hear'st": 1, 'hew': 1, 'humane': 1, "hush'd": 1, 'infringe': 1, 'nourish': 1, 'orb': 1, 'pitying': 1, 'proceeds': 1, "procur'd": 1, 'rates': 1, 'regions': 1, "smother'd": 1, 'solace': 1, 'statutes': 1, 'strains': 1, 'strengths': 2, 'suggest': 1, 'treads': 1, 'vail': 1, 'verdict': 2, 'verified': 1}
+
+E3sh.txt and CYM.txt links:
+	Total links: 58
+	two-six links: 20
+{'azure': 1, 'british': 2, 'brittany': 1, 'carcasses': 1, 'comb': 1, 'consummation': 1, 'floor': 2, 'heart-sick': 1, 'legion': 1, 'nimbler': 1, 'orisons': 1, 'proffer': 1, 'prompts': 1, 'quail': 1, "ransom'd": 1, 'sots': 1, 'vomit': 1, "waken'd": 1}
+	Seven-eleven links: 38
+{'accordingly': 1, 'bravery': 1, 'cancel': 2, "chas'd": 1, 'courtly': 1, 'covers': 1, 'enrich': 1, 'fog': 1, 'fraught': 1, "hear'st": 1, "lopp'd": 3, 'multitudes': 2, 'opening': 1, 'opposition': 1, 'packing': 1, 'pitying': 1, 'playfellow': 1, 'rates': 1, "redeem'd": 1, 'reflection': 2, 'regions': 1, 'sinks': 1, 'solace': 1, "stepp'd": 1, 'strains': 1, 'taper': 2, 'tends': 2, 'therewithal': 1, 'utterance': 1, 'vale': 1, 'wholly': 1}
+
+E3sh.txt and E3nsh.txt links:
+	Total links: 99
+	two-six links: 43
+{"audley's": 2, 'beautified': 1, 'clemency': 3, 'cressy': 2, 'cross-bows': 1, 'david': 6, "dissever'd": 2, 'ensigns': 1, "feather'd": 2, "fenc'd": 1, 'flanders': 1, 'flash': 1, "frenchman's": 2, 'gloomy': 2, 'handful': 2, 'intrusion': 1, 'leathern': 1, "quart'red": 1, 'rebound': 1, 'satirical': 1, 'scandalous': 3, 'scottish': 1, "thund'ring": 1, 'valley': 2, 'willingness': 1, 'wistly': 1}
+	Seven-eleven links: 56
+{'aggravate': 1, 'airy': 1, 'arrive': 1, 'bit': 1, 'caves': 1, 'conquering': 2, "controll'd": 1, 'covers': 1, 'dominions': 2, 'embassage': 1, "encompass'd": 1, "expir'd": 1, 'forgetting': 1, 'fragrant': 1, 'fraught': 2, 'immodest': 1, 'infringe': 1, 'lavish': 1, 'multitudes': 2, 'passport': 3, "procur'd": 1, "proffer'd": 4, 'railing': 1, 'ravens': 6, 'retain': 2, 'rules': 1, 'soonest': 1, 'stratagems': 1, 'sundry': 1, 'thievish': 1, 'treasury': 1, 'uncivil': 1, 'vail': 1, 'villiers': 8}
+
+E3sh.txt and ERR.txt links:
+	Total links: 48
+	two-six links: 16
+{'dines': 1, 'disturbed': 1, 'feasted': 1, 'foolishness': 1, 'fowls': 3, "hous'd": 4, 'intellectual': 1, 'intrusion': 2, 'spouse': 1, "stray'd": 1}
+	Seven-eleven links: 32
+{'adulterate': 1, 'adversity': 2, "apparell'd": 1, 'assembled': 1, 'attorney': 1, 'brawls': 1, "chas'd": 1, 'digest': 1, 'distract': 1, 'doubled': 1, 'elsewhere': 2, 'fading': 1, 'haunts': 1, 'helpless': 2, 'hurl': 1, 'idiot': 1, 'infringe': 1, 'parchment': 1, 'quarters': 2, 'railing': 1, 'recovery': 2, 'retain': 1, 'statutes': 2, 'therewithal': 1, 'trudge': 1, 'vale': 1}
+
+E3sh.txt and H5.txt links:
+	Total links: 86
+	two-six links: 33
+{'ashamed': 1, 'augment': 1, 'charged': 1, 'craven': 1, 'cressy': 1, 'cross-bows': 1, 'dazzle': 1, 'defective': 1, 'disobey': 1, 'embattled': 1, 'esquires': 6, 'fester': 1, 'fluent': 1, 'intellectual': 1, 'meditate': 2, 'murmur': 1, 'orisons': 1, "ransom'd": 3, 'reduce': 1, 'seduce': 1, 'spouse': 1, 'squares': 1, 'thrice-valiant': 1, 'universe': 1, 'via': 1}
+	Seven-eleven links: 53
+{'assembled': 3, 'banners': 1, 'bestowed': 1, 'bestride': 2, 'bit': 1, 'bough': 1, 'caves': 1, "chas'd": 2, 'chatillion': 4, 'compel': 1, 'constraint': 2, 'devout': 1, 'digest': 1, 'englishman': 1, 'enow': 4, 'fig': 1, 'fresher': 1, 'frosty': 2, 'haunts': 1, 'idol': 1, 'kneeling': 1, 'lovest': 2, 'mightiness': 4, 'mote': 1, 'opening': 1, 'passport': 1, 'prevention': 2, 'scour': 1, 'seed': 1, 'sentences': 1, 'soar': 1, 'soonest': 1, 'suggest': 1, 'treads': 1, 'unspotted': 1, 'veil': 1}
+
+E3sh.txt and H8nsh.txt links:
+	Total links: 19
+	two-six links: 3
+{'choicest': 1, 'flanders': 1, 'undoubtedly': 1}
+	Seven-eleven links: 16
+{'argue': 2, 'attendance': 1, 'attorney': 1, 'doubled': 1, 'englishman': 1, 'forgetting': 1, 'fresher': 2, 'mightiness': 2, 'pitying': 1, "stepp'd": 1, 'strains': 1, 'unspotted': 1, 'verified': 1}
+
+E3sh.txt and H8sh.txt links:
+	Total links: 13
+	two-six links: 3
+{'augment': 1, "deem'd": 1, 'unfolded': 1}
+	Seven-eleven links: 10
+{'adds': 1, 'assembled': 1, 'cherry': 2, 'digest': 1, 'dominions': 1, 'pitying': 1, 'vale': 1, 'verdict': 2}
+
+E3sh.txt and HAM.txt links:
+	Total links: 66
+	two-six links: 24
+{'beautified': 2, 'clemency': 1, 'consummation': 1, 'craven': 1, 'defective': 1, 'dug': 1, 'flash': 1, 'flints': 1, 'leprous': 1, 'orisons': 1, 'palpable': 1, 'penetrable': 1, 'quarry': 1, 'satirical': 1, 'seduce': 1, 'tenders': 3, 'twentith': 1, 'unholy': 1, 'westward': 1, 'withers': 1, 'wouldest': 1}
+	Seven-eleven links: 42
+{'abstract': 1, 'adulterate': 1, 'airy': 1, 'amber': 1, 'bravery': 1, 'canon': 1, 'clip': 1, 'coach': 1, 'convert': 2, 'dismay': 1, 'distract': 1, 'dominions': 1, 'dotes': 1, 'forgetting': 1, 'fruits': 1, 'halfpenny': 1, 'hover': 2, 'idol': 1, 'juice': 1, 'massy': 1, 'mote': 1, 'opposition': 2, 'orb': 1, 'packing': 1, 'parchment': 1, "pardon'd": 2, 'passionate': 1, 'perfections': 1, 'potion': 1, 'recovery': 1, 'regards': 1, 'retain': 1, 'seed': 1, 'statutes': 1, 'thaw': 1, 'thunders': 1, 'treads': 1, 'wronged': 1}
+
+E3sh.txt and JC.txt links:
+	Total links: 51
+	two-six links: 12
+{'ashamed': 1, 'attains': 1, 'cumber': 1, 'cynic': 1, 'disturbed': 1, 'elders': 1, 'flash': 1, 'hack': 1, 'handiwork': 1, 'lottery': 1, 'squadrons': 2}
+	Seven-eleven links: 39
+{'accents': 1, 'arrive': 1, 'bestride': 2, 'bravery': 1, 'cancel': 2, 'captivity': 1, 'compel': 1, 'digest': 1, 'distract': 1, "encompass'd": 1, "friend's": 1, 'ghastly': 1, 'hew': 1, 'hurl': 1, 'laments': 1, 'lovest': 1, 'opening': 1, 'parchment': 1, 'presage': 1, 'prevention': 2, 'ravens': 3, 'reflection': 2, 'regions': 1, 'scolding': 1, 'soar': 1, 'taper': 4, 'thunders': 1, 'utterance': 2, 'vanish': 1}
+
+E3sh.txt and JN.txt links:
+	Total links: 78
+	two-six links: 23
+{'armors': 1, 'artillery': 1, 'beardless': 1, 'charged': 1, 'convicted': 1, 'dispossess': 2, 'embracing': 1, 'endamagement': 1, 'equality': 1, 'excommunicate': 2, "grief's": 1, 'handiwork': 1, 'lilies': 1, 'overbear': 1, 'regiments': 1, 'splendor': 1, 'unadvised': 2, 'unswear': 1, 'whirl': 2}
+	Seven-eleven links: 55
+{'abstract': 1, 'accordingly': 1, 'amazed': 1, 'aspiring': 1, 'banners': 1, 'buckled': 1, 'bullets': 2, 'canon': 1, 'chatillion': 10, 'cherry': 1, 'constraint': 4, 'detestable': 1, 'devout': 1, 'dominions': 1, 'englishman': 2, 'expedient': 3, 'fig': 1, 'graceless': 2, 'guardian': 2, "hear'st": 1, 'idiot': 1, 'kneeling': 2, 'litter': 2, 'mote': 1, 'parchment': 1, "pardon'd": 1, 'passionate': 1, 'presage': 1, "proffer'd": 1, 'resolved': 1, 'stable': 1, 'staring': 1, 'strengths': 1, 'tends': 1, 'utterance': 1}
+
+E3sh.txt and LC.txt links:
+	Total links: 20
+	two-six links: 7
+{'accorded': 1, 'aids': 1, "preach'd": 1, 'register': 1, 'rounds': 1, 'tip': 1, 'wavering': 1}
+	Seven-eleven links: 13
+{'adulterate': 1, 'airy': 1, 'amber': 1, 'bestowed': 1, 'bloodless': 1, 'distract': 1, 'enchanted': 2, 'orb': 1, "procur'd": 1, 'vale': 1, 'verdict': 2}
+
+E3sh.txt and LLL.txt links:
+	Total links: 64
+	two-six links: 20
+{'austere': 1, "compar'd": 1, 'epithites': 1, 'extemporal': 2, 'forbidden': 1, 'handful': 2, 'hesperides': 1, 'immured': 2, 'imperator': 1, 'interrupt': 1, 'solicitor': 1, 'submissive': 1, "task'd": 1, 'via': 3, 'wouldest': 1}
+	Seven-eleven links: 44
+{'adds': 1, 'amber': 2, "apparell'd": 1, 'bullets': 1, 'canon': 1, 'coach': 1, 'conquering': 1, 'covers': 1, 'devout': 1, 'digest': 1, 'embassage': 1, 'enchanted': 2, 'eyesight': 3, 'halfpenny': 3, 'hay': 1, 'infringe': 1, 'mote': 2, 'nourish': 1, 'opposition': 1, 'passionate': 1, 'perfections': 1, 'poetry': 2, 'regards': 1, 'resolved': 1, 'solace': 1, 'soonest': 1, 'staring': 2, 'statutes': 1, 'strains': 1, 'sunshine': 1, 'therewithal': 1, "tongue's": 1, 'treads': 1, 'vanish': 1, 'wholly': 1}
+
+E3sh.txt and LR.txt links:
+	Total links: 40
+	two-six links: 11
+{"array'd": 1, 'british': 2, 'croak': 1, 'darker': 1, 'eyeless': 3, 'scythian': 1, 'spouse': 1, 'wouldest': 1}
+	Seven-eleven links: 29
+{'accents': 1, 'attendance': 1, 'bandy': 2, 'banners': 1, 'bit': 2, "blush'd": 1, 'caves': 1, 'covers': 1, 'digest': 1, 'distract': 1, 'dominions': 1, 'eyesight': 1, 'fortnight': 1, 'fraught': 1, 'haunts': 1, 'hay': 1, 'kneeling': 1, 'litter': 1, 'operation': 1, 'regards': 1, 'retain': 2, 'strengths': 1, 'sunshine': 1, 'tends': 1, 'therewithal': 1, 'treasury': 1}
+
+E3sh.txt and LUC.txt links:
+	Total links: 88
+	two-six links: 41
+{'azure': 1, 'beautify': 1, 'braving': 1, 'cabinet': 1, 'delicious': 1, "dissolv'd": 1, 'distain': 1, 'disturbed': 1, 'embracing': 1, 'enacted': 1, 'engirt': 2, 'feareth': 1, "folly's": 1, 'fowls': 1, 'gloomy': 1, 'greeteth': 1, "grief's": 2, 'heraldry': 1, "kings'": 1, 'languishment': 2, 'lawn': 2, 'lilies': 1, 'misdeeds': 2, 'outcry': 1, 'penetrable': 1, 'pens': 2, 'polluted': 1, "ransack'd": 1, 'register': 1, 'splendor': 1, 'subornation': 1, "sug'red": 1, 'unadvised': 1, 'vomit': 1, 'wistly': 1}
+	Seven-eleven links: 47
+{'accents': 1, "achilles'": 1, 'adds': 1, 'adulterate': 1, 'amazed': 1, 'arrive': 1, 'aspiring': 1, 'bee': 2, 'bloodless': 1, "blush'd": 2, 'brooks': 1, "controll'd": 2, 'convert': 1, 'coral': 2, 'covers': 1, 'dotes': 1, 'eastern': 1, 'enchanted': 2, "encompass'd": 1, "expir'd": 1, 'fraud': 1, 'ghastly': 2, 'graceless': 2, 'helpless': 3, 'laments': 1, 'mote': 1, 'pitying': 1, 'proceeds': 2, "smother'd": 1, 'spear': 1, 'staring': 1, 'sundry': 1, 'thievish': 2, 'unspotted': 1, 'wronged': 2}
+
+E3sh.txt and MAC.txt links:
+	Total links: 44
+	two-six links: 7
+{'augment': 1, "compar'd": 1, 'masking': 1, 'palpable': 1, 'quarry': 1, 'resounds': 1, "tartar's": 1}
+	Seven-eleven links: 37
+{'accents': 1, 'banners': 2, 'bestride': 2, 'bough': 1, 'cancel': 2, 'captivity': 1, 'convert': 1, 'enow': 2, 'fog': 1, 'guardian': 2, 'hay': 1, "hear'st": 1, 'hew': 1, 'hover': 2, 'humane': 1, 'idiot': 1, 'lavish': 1, 'quarters': 1, 'reflection': 1, 'scour': 1, 'sinks': 2, "smother'd": 1, "stepp'd": 1, 'sundry': 3, 'therewithal': 1, 'thunders': 1, 'utterance': 1, 'yew': 1}
+
+E3sh.txt and MMsh.txt links:
+	Total links: 19
+	two-six links: 5
+{'avail': 1, 'brick': 1, 'corrects': 1, 'enriched': 1, 'scandalous': 1}
+	Seven-eleven links: 14
+{'accordingly': 1, 'bravery': 1, 'compel': 1, 'infringe': 1, 'lavish': 1, 'opening': 1, "pardon'd": 2, 'seed': 1, 'statutes': 2, 'therewithal': 1, 'vail': 1, 'veil': 1}
+
+E3sh.txt and MND.txt links:
+	Total links: 67
+	two-six links: 17
+{'derision': 4, "dissolv'd": 1, "enamor'd": 1, 'floor': 1, 'handful': 2, 'heraldry': 1, 'milk-white': 1, 'overbear': 1, 'quail': 1, "tartar's": 1, 'unsay': 1, 'valley': 2}
+	Seven-eleven links: 50
+{'aggravate': 1, 'amazed': 1, 'bower': 3, 'brawls': 1, 'cherry': 3, 'compel': 2, 'dotes': 3, 'eastern': 2, 'enrich': 1, 'fog': 1, 'fortnight': 1, 'fragrant': 1, 'haunts': 1, 'hay': 3, 'humane': 1, 'juice': 3, "lovers'": 2, 'lovest': 1, 'moonlight': 6, 'mote': 1, 'opening': 1, 'passionate': 1, 'playfellow': 1, "poet's": 4, 'potion': 1, 'sentences': 1, 'tends': 1, "tongue's": 2}
+
+E3sh.txt and MV.txt links:
+	Total links: 37
+	two-six links: 10
+{'ashamed': 1, 'carcasses': 1, 'dismayed': 2, 'enacted': 1, 'flints': 1, 'floor': 1, 'scottish': 1, "stray'd": 1, 'twentith': 1}
+	Seven-eleven links: 27
+{'bestowed': 2, 'coach': 1, 'dismay': 2, 'enchanted': 2, 'englishman': 1, 'enow': 2, 'fading': 1, 'fortnight': 1, 'fraught': 1, 'humane': 1, 'idiot': 1, 'moonlight': 1, 'multitudes': 2, 'orb': 1, 'poetry': 2, 'presage': 1, 'ravenous': 1, 'seed': 1, 'sentences': 1, 'stratagems': 1, 'treads': 1}
+
+E3sh.txt and OTH.txt links:
+	Total links: 50
+	two-six links: 18
+{'defective': 1, 'engage': 1, 'epithites': 1, "feather'd": 2, 'hellespont': 1, 'heraldry': 1, 'lawn': 1, 'medicinable': 1, 'palpable': 1, 'pens': 2, 'sessions': 1, 'solicitor': 1, 'thrice-gentle': 1, 'unswear': 1, 'vomit': 1, "waken'd": 1}
+	Seven-eleven links: 32
+{"blush'd": 1, 'bravery': 1, 'captivity': 1, 'clip': 1, 'compel': 1, 'devout': 1, 'distract': 1, 'dotes': 2, 'enchanted': 2, 'englishman': 1, 'fig': 1, 'fraught': 1, "friend's": 1, 'fruits': 3, 'haunts': 1, 'humane': 1, 'hurl': 1, "hush'd": 1, "lovers'": 1, 'opposition': 1, 'rules': 2, 'sentences': 1, 'suggest': 1, 'taper': 1, 'tends': 1, 'vale': 1, 'vanish': 1}
+
+E3sh.txt and PERnsh.txt links:
+	Total links: 16
+	two-six links: 3
+{'armors': 1, 'hesperides': 1, 'proffer': 1}
+	Seven-eleven links: 13
+{'bee': 1, 'cancel': 2, "expir'd": 2, 'perfections': 2, 'playfellow': 1, 'potion': 1, 'resolved': 1, 'scour': 1, 'unspotted': 1, 'vail': 1}
+
+E3sh.txt and PERsh.txt links:
+	Total links: 23
+	two-six links: 11
+{"angel's": 1, 'beautify': 1, 'distain': 1, "feather'd": 2, 'interrupt': 1, "kings'": 1, 'pompous': 1, "preach'd": 1, 'starves': 1, 'unholy': 1}
+	Seven-eleven links: 12
+{'banners': 1, 'bestowed': 1, 'cherry': 1, 'clip': 1, 'constraint': 2, "expir'd": 1, 'passport': 1, 'recovery': 1, 'regions': 1, 'thunders': 1, 'vail': 1}
+
+E3sh.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 1
+{'concordant': 1}
+	Seven-eleven links: 0
+{}
+
+E3sh.txt and R2.txt links:
+	Total links: 62
+	two-six links: 22
+{'braving': 2, "buzz'd": 1, "dissolv'd": 1, 'engage': 2, 'forbidden': 1, "kings'": 1, "low'ring": 1, 'pompous': 1, 'rounds': 1, 'shades': 4, 'thinkest': 1, 'thrice-gracious': 1, 'thrice-noble': 1, "thund'ring": 1, 'unsay': 1, 'unwillingness': 1, 'wavering': 1}
+	Seven-eleven links: 40
+{'adds': 1, 'aggravate': 1, 'argue': 1, 'aspiring': 1, 'brooks': 1, 'dominions': 1, 'doubled': 1, 'eastern': 1, 'elsewhere': 1, 'embassage': 1, 'englishman': 2, 'expedient': 1, 'fresher': 1, 'frosty': 1, 'fruits': 1, 'hurl': 1, "hush'd": 1, 'kneeling': 1, 'laments': 1, 'parchment': 1, 'prevention': 1, 'ravenous': 1, 'sinks': 1, 'spear': 3, 'stable': 1, 'statutes': 1, 'suggest': 1, 'sunshine': 1, 'taper': 1, 'tends': 1, "tongue's": 2, 'treasury': 1, 'uncivil': 1, 'utterance': 1, 'vanish': 1, 'yew': 1}
+
+E3sh.txt and R3.txt links:
+	Total links: 78
+	two-six links: 22
+{'all-ending': 1, 'bruising': 1, "defac'd": 2, 'descant': 2, 'distain': 1, 'distraught': 1, 'handiwork': 1, 'invocate': 1, 'legion': 1, 'misdeeds': 1, "murd'ring": 1, 'palpable': 1, 'penetrable': 1, 'prompts': 1, 'reduce': 2, 'sharp-pointed': 1, "sug'red": 1, 'unwillingness': 2}
+	Seven-eleven links: 56
+{'abstract': 1, 'adulterate': 1, 'aspiring': 1, 'assembled': 1, 'attendance': 1, 'attorney': 2, 'bloodless': 1, 'cancel': 2, 'cherry': 1, 'devout': 1, 'digest': 1, 'embassage': 1, 'englishman': 1, 'enrich': 3, 'expedient': 1, 'fortnight': 1, 'fruits': 1, 'ghastly': 1, 'helpless': 1, 'hover': 4, 'hurl': 3, 'infringe': 1, 'packing': 1, 'passionate': 1, 'playfellow': 1, 'poets': 2, 'proceeds': 1, "proffer'd": 2, 'resolved': 1, 'rules': 1, "smother'd": 3, 'solace': 1, 'soonest': 1, 'stratagems': 1, 'trudge': 1, 'vail': 1, 'veil': 1, 'verdict': 2, 'wronged': 4}
+
+E3sh.txt and ROM.txt links:
+	Total links: 75
+	two-six links: 26
+{'beautify': 1, 'distraught': 1, 'divorced': 1, 'dug': 3, "enamor'd": 1, 'eyeless': 1, 'heart-sick': 1, 'interrupt': 1, 'intrusion': 1, 'lifts': 1, "low'ring": 1, 'orisons': 1, 'outcry': 1, 'pens': 2, 'quivers': 1, 'restorative': 1, 'splendor': 1, "tartar's": 1, 'thinkest': 1, 'uncomfortable': 1, "waken'd": 1, "wanton's": 1, 'westward': 1}
+	Seven-eleven links: 49
+{'airy': 3, 'amazed': 1, 'bandy': 1, 'bestride': 2, 'bit': 1, 'bower': 1, 'brawls': 2, 'convert': 1, 'detestable': 2, 'devout': 1, 'eastern': 1, 'enrich': 1, 'eyesight': 2, 'forgetting': 1, 'fortnight': 1, 'hay': 1, "lovers'": 4, 'operation': 1, 'opposition': 1, 'orb': 1, "pardon'd": 1, 'potion': 1, 'presage': 1, 'retain': 1, 'soar': 2, 'solace': 1, 'soonest': 1, 'strains': 1, 'stratagems': 1, 'therewithal': 1, 'thievish': 1, "tongue's": 1, 'treads': 1, 'trudge': 2, 'woos': 1, 'wronged': 1, 'yew': 2}
+
+E3sh.txt and SHR.txt links:
+	Total links: 47
+	two-six links: 9
+{'artillery': 1, 'comb': 1, 'craven': 1, 'delicious': 1, 'elders': 1, 'softer': 1, 'spouse': 1, 'submissive': 1, 'thrice-noble': 1}
+	Seven-eleven links: 38
+{'amazed': 1, 'amber': 1, "apparell'd": 2, 'attendance': 1, 'bandy': 1, 'bestowed': 1, 'bit': 1, 'buckled': 1, 'coral': 1, 'cuff': 3, 'elsewhere': 1, 'fresher': 1, 'graceless': 4, "hear'st": 1, 'lovest': 1, 'mightiness': 2, 'moonlight': 1, 'packing': 1, 'poetry': 4, 'rates': 1, 'rules': 1, 'scolding': 3, 'soar': 1, "stepp'd": 1, 'thaw': 1, 'vail': 1}
+
+E3sh.txt and SON1.txt links:
+	Total links: 12
+	two-six links: 0
+{}
+	Seven-eleven links: 12
+{'aggravate': 1, 'coral': 1, 'elsewhere': 2, 'fading': 1, "friend's": 1, 'lovest': 1, 'pitying': 1, 'proceeds': 1, 'suggest': 1, "tongue's": 1, 'treads': 1}
+
+E3sh.txt and SON145.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+E3sh.txt and SON2.txt links:
+	Total links: 15
+	two-six links: 6
+{'attainted': 1, "compar'd": 1, "deem'd": 1, 'fester': 1, 'gazers': 1, 'lilies': 1}
+	Seven-eleven links: 9
+{'accents': 1, 'bough': 1, 'elsewhere': 1, 'enrich': 1, 'fragrant': 1, 'mournful': 1, 'strains': 1, 'thievish': 1, 'veil': 1}
+
+E3sh.txt and SON3.txt links:
+	Total links: 23
+	two-six links: 8
+{'convertest': 1, "foil'd": 1, 'forbidden': 1, "grief's": 1, 'invocate': 1, 'lifts': 1, 'sessions': 1, 'splendor': 1}
+	Seven-eleven links: 15
+{'convert': 1, 'fading': 1, "friend's": 1, 'ghastly': 1, "hear'st": 1, "lovers'": 1, "poet's": 2, 'poets': 2, 'sinks': 1, 'thievish': 1, 'verdict': 2, 'woos': 1}
+
+E3sh.txt and SON4.txt links:
+	Total links: 6
+	two-six links: 1
+{'immured': 1}
+	Seven-eleven links: 5
+{'fresher': 1, "poet's": 2, 'poets': 2}
+
+E3sh.txt and SON5.txt links:
+	Total links: 5
+	two-six links: 2
+{'register': 1, 'universe': 1}
+	Seven-eleven links: 3
+{'adulterate': 1, 'idol': 1, 'presage': 1}
+
+E3sh.txt and SPTAD.txt links:
+	Total links: 5
+	two-six links: 3
+{'distraught': 1, 'invocate': 1, 'legion': 1}
+	Seven-eleven links: 2
+{'massy': 1, 'taper': 1}
+
+E3sh.txt and STMsh.txt links:
+	Total links: 3
+	two-six links: 1
+{'flanders': 1}
+	Seven-eleven links: 2
+{'halfpenny': 1, 'ravenous': 1}
+
+E3sh.txt and TAfly.txt links:
+	Total links: 3
+	two-six links: 1
+{'dazzle': 1}
+	Seven-eleven links: 2
+{'laments': 1, 'passionate': 1}
+
+E3sh.txt and TAnsh.txt links:
+	Total links: 17
+	two-six links: 6
+{'beautify': 1, 'ensigns': 1, 'flash': 1, 'languishment': 1, 'lovingly': 1, 'thrice-noble': 1}
+	Seven-eleven links: 11
+{'bandy': 1, 'brawls': 1, 'coach': 1, "controll'd": 1, 'fraught': 1, 'hew': 2, 'hover': 2, "lopp'd": 1, 'treasury': 1}
+
+E3sh.txt and TAsh.txt links:
+	Total links: 46
+	two-six links: 13
+{'delicious': 1, 'gloomy': 1, 'lifts': 1, 'milk-white': 1, 'shafts': 2, "stray'd": 1, 'tenders': 1, 'thrice-valiant': 1, 'valley': 2, 'vomit': 1, 'whirl': 1}
+	Seven-eleven links: 33
+{'bloodless': 1, 'caves': 1, "controll'd": 1, 'detestable': 1, 'distract': 1, 'fog': 1, 'fragrant': 2, 'frosty': 2, 'hurl': 1, 'idiot': 1, "lopp'd": 1, 'mightiness': 2, 'mournful': 1, 'nourish': 1, "poet's": 2, 'poetry': 2, 'proceeds': 1, 'rates': 1, 'ravenous': 2, 'ravens': 3, 'regards': 1, 'taper': 1, 'vale': 2, 'yew': 1}
+
+E3sh.txt and TGV.txt links:
+	Total links: 32
+	two-six links: 11
+{'beautified': 1, 'bruising': 1, 'descant': 1, 'hellespont': 2, 'leander': 2, 'milk-white': 1, 'murmur': 1, 'swom': 1, 'unholy': 1}
+	Seven-eleven links: 21
+{'adversity': 1, 'bestowed': 1, 'cancel': 2, "chas'd": 1, 'covers': 1, 'fading': 1, 'fraud': 1, "friend's": 1, 'idol': 2, 'immodest': 1, 'passionate': 1, 'perfections': 1, 'resolved': 1, 'scour': 1, 'therewithal': 2, 'uncivil': 2, 'woos': 1}
+
+E3sh.txt and TIMnsh.txt links:
+	Total links: 9
+	two-six links: 3
+{'cumber': 1, 'feasted': 1, 'milk-white': 1}
+	Seven-eleven links: 6
+{'arrive': 1, 'doubled': 1, "friend's": 1, "redeem'd": 1, "stepp'd": 1, 'treads': 1}
+
+E3sh.txt and TIMsh.txt links:
+	Total links: 17
+	two-six links: 6
+{'austere': 1, 'binds': 1, 'dispossess': 1, 'eyeless': 1, 'forfeited': 1, "sug'red": 1}
+	Seven-eleven links: 11
+{'attendance': 1, 'banners': 1, 'convert': 2, 'courtly': 1, 'detestable': 1, 'forgetting': 1, 'hew': 1, 'orb': 1, "stepp'd": 1, 'thaw': 1}
+
+E3sh.txt and TMP.txt links:
+	Total links: 26
+	two-six links: 5
+{"cap'ring": 1, 'disobey': 1, 'interrupt': 1, 'prompts': 1, 'swom': 1}
+	Seven-eleven links: 21
+{'airy': 1, 'bee': 1, 'bough': 1, 'brooks': 2, 'coral': 1, 'dismay': 1, 'enchanted': 2, 'forgetting': 1, 'fresher': 1, 'ghastly': 1, "hush'd": 1, 'litter': 1, 'massy': 1, "pardon'd": 2, 'regions': 1, 'retain': 1, 'strengths': 1, 'wronged': 1}
+
+E3sh.txt and TN.txt links:
+	Total links: 35
+	two-six links: 9
+{'austere': 1, 'dispossess': 1, 'legion': 1, 'meditate': 2, 'murmur': 1, "preach'd": 1, 'talkest': 1, 'wavering': 1}
+	Seven-eleven links: 26
+{'adds': 1, 'attendance': 1, 'bloodless': 1, 'caves': 1, 'cuff': 1, 'devout': 1, 'digest': 1, 'distract': 1, 'fog': 1, 'fraught': 1, 'fruits': 1, 'idiot': 1, 'idol': 1, 'orb': 1, 'perfections': 2, 'presage': 1, 'railing': 1, 'stable': 1, 'uncivil': 4, 'veil': 1, 'woos': 1, 'yew': 1}
+
+E3sh.txt and TNKnsh.txt links:
+	Total links: 16
+	two-six links: 5
+{'after-ages': 1, 'arbor': 1, 'armors': 1, 'nimbler': 1, 'spouse': 1}
+	Seven-eleven links: 11
+{'argue': 1, 'bravery': 1, 'captivity': 1, 'cherry': 1, 'clip': 1, 'doubled': 1, "encompass'd": 1, 'hay': 1, "procur'd": 1, 'thaw': 1, 'unspotted': 1}
+
+E3sh.txt and TNKsh.txt links:
+	Total links: 26
+	two-six links: 8
+{'consummation': 1, 'darker': 1, 'leprous': 1, 'quaking': 1, 'reduce': 1, 'shades': 2, 'tip': 1}
+	Seven-eleven links: 18
+{'adversity': 1, 'attendance': 1, "blush'd": 1, 'buckled': 1, 'canon': 1, 'captivity': 1, 'cuff': 1, 'fresher': 1, 'humane': 1, 'laments': 1, 'moonlight': 1, 'playfellow': 1, 'rates': 1, 'ravens': 3, 'retain': 1, 'sundry': 1}
+
+E3sh.txt and TRO.txt links:
+	Total links: 60
+	two-six links: 19
+{'armors': 1, 'corrects': 1, 'croak': 1, 'darker': 1, 'derision': 1, "dissolv'd": 1, "foil'd": 1, 'interrupt': 1, 'lifts': 1, 'medicinable': 1, 'polluted': 1, 'prompts': 1, 'ransack': 1, "ransack'd": 1, 'softer': 1, 'sunburnt': 1, 'tip': 1, 'topless': 1, 'wouldest': 1}
+	Seven-eleven links: 41
+{"achilles'": 6, 'adversity': 1, 'airy': 1, 'bloodless': 1, "blush'd": 1, 'buckled': 1, 'conquering': 1, 'courtly': 2, 'devout': 1, 'dotes': 1, 'eastern': 1, 'fraught': 1, 'fresher': 1, 'guardian': 4, 'humane': 1, 'idiot': 1, 'idol': 2, 'massy': 2, 'opening': 1, 'operation': 1, 'railing': 1, 'recovery': 1, 'reflection': 1, 'seed': 1, 'strains': 1, 'thunders': 1, 'vail': 1, 'vale': 1, 'wholly': 2}
+
+E3sh.txt and VEN.txt links:
+	Total links: 49
+	two-six links: 18
+{'cabinet': 1, 'compares': 1, 'disturbed': 1, 'embracing': 2, "foil'd": 1, 'hollows': 1, 'jennet': 1, 'lawn': 1, 'leathern': 1, 'lifts': 1, "low'ring": 1, 'malcontent': 1, 'murmur': 1, 'quaking': 1, 'resounds': 1, 'struggles': 1, 'wistly': 1}
+	Seven-eleven links: 31
+{'adds': 1, 'amazed': 1, 'attorney': 1, 'bit': 1, 'bloodless': 1, "blush'd": 1, 'bough': 1, 'caves': 2, 'clip': 1, 'coral': 1, 'doubled': 1, 'enrich': 1, 'forgetting': 1, 'fraud': 1, 'frosty': 1, "hear'st": 1, 'helpless': 1, "hush'd": 1, 'idol': 1, 'immodest': 1, 'juice': 1, "lovers'": 1, 'presage': 1, 'spear': 1, 'staring': 1, 'sunshine': 1, 'treads': 2, 'veil': 1, 'woos': 1}
+
+E3sh.txt and WIV.txt links:
+	Total links: 40
+	two-six links: 11
+{'embattled': 1, 'hack': 2, 'intrusion': 1, 'lanthorns': 1, 'register': 1, 'rounds': 1, 'shades': 2, 'unfolded': 2}
+	Seven-eleven links: 29
+{'abstract': 1, 'aggravate': 1, 'brooks': 1, 'buckled': 1, 'coach': 2, 'dismay': 1, 'englishman': 1, 'fortnight': 1, 'fragrant': 1, 'halfpenny': 1, 'idiot': 1, 'juice': 1, 'laments': 1, 'litter': 1, 'ravens': 3, 'recovery': 1, 'scour': 2, 'sentences': 1, 'thaw': 1, 'trudge': 2, 'vanish': 1, 'veil': 1, 'wholly': 1, 'woos': 1}
+
+E3sh.txt and WT.txt links:
+	Total links: 52
+	two-six links: 23
+{"dissever'd": 1, 'embracing': 1, 'feasted': 1, 'freshest': 2, 'half-moon': 1, "kings'": 1, 'lawn': 1, 'lilies': 1, "ransack'd": 1, "ransom'd": 1, 'requisite': 1, 'rounds': 1, 'scandalous': 1, 'sessions': 2, "ston'd": 2, 'talkest': 1, 'valley': 2, 'warden': 1, 'westward': 1}
+	Seven-eleven links: 29
+{'adds': 1, 'amber': 1, 'arrive': 2, 'bough': 1, 'detestable': 1, 'dominions': 1, 'fraught': 1, 'haunts': 1, 'hay': 1, 'humane': 1, 'immodest': 1, 'nourish': 1, 'opening': 2, 'parchment': 1, 'playfellow': 2, 'potion': 1, 'quarters': 2, 'ravens': 3, "redeem'd": 1, 'scour': 1, 'staring': 1, 'treasury': 1, 'utterance': 1}
+
+E3sh.txt and x1H4.txt links:
+	Total links: 62
+	two-six links: 24
+{'artillery': 1, 'beardless': 1, 'bruising': 1, "cap'ring": 1, 'engage': 1, 'forfeited': 2, 'hack': 1, 'half-moon': 2, 'murmur': 1, 'never-dying': 1, 'palpable': 1, 'proffer': 1, 'scottish': 2, 'subornation': 1, 'talkest': 1, "task'd": 1, 'thrice-gracious': 1, 'unsay': 1, 'westward': 1, 'withers': 1, 'wouldest': 1}
+	Seven-eleven links: 38
+{'accents': 1, 'accordingly': 1, 'bestride': 2, 'bit': 1, "blush'd": 2, 'brooks': 1, 'elsewhere': 1, 'eyesight': 1, 'fortnight': 1, 'frosty': 1, 'haunts': 1, "hear'st": 1, 'lavish': 1, "lopp'd": 1, 'lovest': 1, 'multitudes': 4, 'nourish': 1, 'opposition': 2, 'orb': 1, 'packing': 1, 'poetry': 2, "procur'd": 1, "proffer'd": 1, 'railing': 1, "redeem'd": 1, 'regards': 1, 'scour': 1, 'spear': 1, 'stable': 2, "stepp'd": 1}
+
+E3sh.txt and x1H6nsh.txt links:
+	Total links: 77
+	two-six links: 26
+{'artillery': 1, 'avail': 2, "deem'd": 1, "defac'd": 1, 'disobey': 1, 'enacted': 3, 'encompassed': 1, 'ensigns': 1, 'extemporal': 1, 'forbidden': 2, 'gloomy': 1, 'hack': 1, 'invocate': 1, 'polluted': 1, 'proffer': 2, 'scythian': 1, 'submissive': 2, "sug'red": 1, 'thinkest': 1, 'wavering': 1}
+	Seven-eleven links: 51
+{'accordingly': 1, 'argue': 1, 'arrive': 1, 'aspiring': 1, 'assembled': 2, 'attorney': 1, 'bullets': 1, 'captivity': 1, 'conquering': 2, 'cuff': 1, 'digest': 1, 'dismay': 1, "encompass'd": 1, 'enow': 1, 'enrich': 1, "expir'd": 1, 'fading': 1, 'graceless': 2, "hear'st": 1, 'hew': 1, 'hurl': 1, 'immodest': 1, 'laments': 1, 'lavish': 1, 'litter': 1, 'mournful': 1, 'nourish': 1, 'packing': 1, 'perfections': 1, 'presage': 1, 'quarters': 1, 'railing': 1, 'ravenous': 1, "redeem'd": 1, 'regards': 1, 'regions': 2, 'resolved': 1, 'retain': 1, 'rules': 1, 'spear': 1, 'tends': 1, 'unspotted': 1, 'vail': 1, 'verdict': 2, 'verified': 2}
+
+E3sh.txt and x1H6sh.txt links:
+	Total links: 14
+	two-six links: 6
+{'artillery': 1, 'attainted': 2, 'craven': 1, 'squadrons': 2}
+	Seven-eleven links: 8
+{'adversity': 1, "apparell'd": 1, 'buckled': 1, 'fraud': 1, "proffer'd": 1, 'stratagems': 1, 'verdict': 2}
+
+E3sh.txt and x2H4.txt links:
+	Total links: 43
+	two-six links: 13
+{'aids': 1, 'arbor': 1, 'binds': 1, 'comb': 1, 'dines': 1, 'disadvantage': 1, "enamor'd": 1, 'leathern': 1, 'pens': 2, 'quoit': 1, 'thinkest': 1, 'vomit': 1}
+	Seven-eleven links: 30
+{'accents': 1, 'aggravate': 1, 'assembled': 1, 'bee': 2, 'bestowed': 1, 'bestride': 2, 'bullets': 2, 'compel': 1, 'convert': 1, 'fig': 1, 'fortnight': 1, "friend's": 1, 'ghastly': 1, 'humane': 1, "hush'd": 1, 'immodest': 1, 'lavish': 1, 'litter': 1, 'operation': 1, 'potion': 1, 'proceeds': 1, 'rules': 1, 'seed': 1, 'strengths': 2, 'sunshine': 1, 'vail': 1}
+
+E3sh.txt and x2H6nsh.txt links:
+	Total links: 42
+	two-six links: 10
+{'attainted': 1, 'brick': 1, 'burgonet': 3, "defac'd": 1, 'engirt': 1, 'feasted': 1, "frenchman's": 1, 'milk-white': 1}
+	Seven-eleven links: 32
+{"achilles'": 1, 'aspiring': 1, 'attendance': 1, 'bee': 1, 'captivity': 1, 'courtly': 1, "expir'd": 1, 'fig': 1, 'frosty': 1, 'graceless': 2, 'halfpenny': 1, 'hew': 1, "lopp'd": 1, 'multitudes': 2, 'parchment': 2, 'passionate': 1, 'prevention': 1, 'proceeds': 1, 'recovery': 1, "redeem'd": 1, 'rules': 1, 'soar': 1, 'solace': 1, 'spear': 2, 'statutes': 1, 'treasury': 2, 'vale': 1}
+
+E3sh.txt and x2H6sh.txt links:
+	Total links: 33
+	two-six links: 14
+{'augment': 1, 'beautify': 1, 'binds': 1, 'comb': 1, 'dug': 1, 'engirt': 1, "low'ring": 1, "murd'ring": 1, 'printed': 1, 'subornation': 2, "sug'red": 1, 'thrice-noble': 1, 'willingness': 1}
+	Seven-eleven links: 19
+{'bloodless': 1, 'caves': 1, "chas'd": 1, 'distract': 1, 'expedient': 1, 'ghastly': 1, 'laments': 1, 'mournful': 2, 'nourish': 1, 'packing': 2, 'railing': 1, 'ravenous': 1, 'soar': 1, 'solace': 1, 'staring': 1, 'uncivil': 1, 'unspotted': 1}
+
+E3sh.txt and x3H6nsh.txt links:
+	Total links: 19
+	two-six links: 6
+{'brittany': 2, 'drummer': 1, 'flanders': 1, 'hearten': 1, 'seduce': 1}
+	Seven-eleven links: 13
+{'brooks': 1, 'captivity': 1, "chas'd": 1, "encompass'd": 1, 'fraud': 1, 'hay': 1, 'poets': 2, 'soonest': 1, 'suggest': 1, 'sunshine': 2, 'veil': 1}
+
+E3sh.txt and x3H6sh.txt links:
+	Total links: 32
+	two-six links: 8
+{'armors': 1, 'brittany': 1, 'contemplate': 1, 'dazzle': 1, 'footstool': 1, 'gazers': 1, 'orisons': 1, 'willingness': 1}
+	Seven-eleven links: 24
+{'argue': 1, 'aspiring': 1, 'bandy': 1, 'bestride': 4, 'elsewhere': 1, "encompass'd": 1, 'fruits': 2, 'haunts': 1, 'hew': 1, "lopp'd": 1, 'multitudes': 2, 'perfections': 1, 'recovery': 1, 'scolding': 1, 'statutes': 1, 'stratagems': 1, 'sunshine': 1, 'thunders': 1, 'verified': 1}
+

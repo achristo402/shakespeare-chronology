@@ -1,0 +1,322 @@
+STMsh.txt and ADO.txt links:
+	Total links: 5
+	two-six links: 1
+{'supposition': 1}
+	Seven-eleven links: 4
+{'german': 1, 'hip': 1, 'offender': 1, 'qualify': 1}
+
+STMsh.txt and ANT.txt links:
+	Total links: 11
+	two-six links: 5
+{'dung': 1, 'mediation': 1, 'province': 1, "shap'd": 1, 'undoing': 1}
+	Seven-eleven links: 6
+{'abode': 1, 'fishes': 1, 'gay': 1, 'insolence': 1, 'meal': 1, 'riotous': 1}
+
+STMsh.txt and ARDsh.txt links:
+	Total links: 2
+	two-six links: 2
+{'removing': 1, 'ruffians': 1}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and AWWsh.txt links:
+	Total links: 10
+	two-six links: 6
+{'forgiven': 1, 'owed': 1, 'ruff': 1, 'supposition': 1, 'undoing': 1, "will'd": 1}
+	Seven-eleven links: 4
+{'german': 1, 'offender': 1, 'prerogative': 1, 'submit': 1}
+
+STMsh.txt and AYL.txt links:
+	Total links: 1
+	two-six links: 1
+{"silenc'd": 1}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and COR.txt links:
+	Total links: 9
+	two-six links: 4
+{'babies': 1, 'magistrate': 1, "silenc'd": 1, 'spun': 1}
+	Seven-eleven links: 5
+{'bench': 1, 'insolence': 1, 'meal': 1, 'prerogative': 1, 'submit': 1}
+
+STMsh.txt and CYM.txt links:
+	Total links: 11
+	two-six links: 4
+{'clement': 1, 'coasts': 1, 'plentiful': 1, "shap'd": 1}
+	Seven-eleven links: 7
+{'abode': 1, 'fishes': 1, 'german': 1, 'meal': 1, 'offender': 1, 'rout': 1, 'submit': 1}
+
+STMsh.txt and E3sh.txt links:
+	Total links: 3
+	two-six links: 1
+{'flanders': 1}
+	Seven-eleven links: 2
+{'halfpenny': 1, 'ravenous': 1}
+
+STMsh.txt and ERR.txt links:
+	Total links: 9
+	two-six links: 2
+{'plentiful': 1, 'supposition': 1}
+	Seven-eleven links: 7
+{'fishes': 1, 'gay': 1, 'hip': 1, 'provision': 1, 'rout': 1, 'sergeant': 1, 'urging': 1}
+
+STMsh.txt and H5.txt links:
+	Total links: 11
+	two-six links: 5
+{'babies': 1, "charter'd": 1, 'groat': 1, 'luggage': 1, 'stillness': 1}
+	Seven-eleven links: 6
+{'beef': 1, "dev'l": 1, 'gay': 1, 'german': 1, 'submit': 1, 'urging': 1}
+
+STMsh.txt and H8sh.txt links:
+	Total links: 7
+	two-six links: 2
+{'coasts': 1, "silenc'd": 1}
+	Seven-eleven links: 5
+{'fishes': 1, 'insolence': 1, 'opinions': 1, 'sergeant': 1, 'whet': 1}
+
+STMsh.txt and HAM.txt links:
+	Total links: 17
+	two-six links: 7
+{'adheres': 1, 'innovation': 1, 'mutines': 1, 'plentiful': 1, 'profanely': 1, 'tithe': 1, "topp'd": 1}
+	Seven-eleven links: 10
+{"dev'l": 2, 'halfpenny': 1, 'insolence': 1, 'opinions': 1, 'removed': 1, 'riotous': 1, 'sergeant': 1, "this'": 1, 'whet': 1}
+
+STMsh.txt and JC.txt links:
+	Total links: 6
+	two-six links: 0
+{}
+	Seven-eleven links: 6
+{'hug': 1, 'opinions': 1, 'rout': 1, 'trash': 2, 'whet': 1}
+
+STMsh.txt and JN.txt links:
+	Total links: 9
+	two-six links: 5
+{'groat': 1, 'hurly': 1, 'mutines': 1, 'tithe': 1, "will'd": 1}
+	Seven-eleven links: 4
+{'hug': 1, 'removed': 1, 'submit': 1, 'whet': 1}
+
+STMsh.txt and LC.txt links:
+	Total links: 1
+	two-six links: 1
+{'owed': 1}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and LLL.txt links:
+	Total links: 5
+	two-six links: 1
+{'plodding': 1}
+	Seven-eleven links: 4
+{'german': 1, 'halfpenny': 1, 'meal': 1, 'removed': 1}
+
+STMsh.txt and LR.txt links:
+	Total links: 8
+	two-six links: 1
+{'herring': 1}
+	Seven-eleven links: 7
+{'abode': 1, 'bench': 1, 'offender': 1, 'provision': 1, 'riotous': 1, "this'": 1, 'yeoman': 1}
+
+STMsh.txt and LUC.txt links:
+	Total links: 3
+	two-six links: 2
+{'owed': 1, 'removing': 1}
+	Seven-eleven links: 1
+{'urging': 1}
+
+STMsh.txt and MAC.txt links:
+	Total links: 6
+	two-six links: 3
+{'house-keeper': 1, 'shark': 1, "silenc'd": 1}
+	Seven-eleven links: 3
+{'meal': 1, 'opinions': 1, 'sergeant': 1}
+
+STMsh.txt and MMsh.txt links:
+	Total links: 10
+	two-six links: 2
+{'province': 1, 'skins': 1}
+	Seven-eleven links: 8
+{'beef': 1, 'hug': 1, 'meal': 1, 'offender': 1, 'qualify': 1, 'removed': 1, 'riotous': 1, "this'": 1}
+
+STMsh.txt and MND.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{"this'": 1}
+
+STMsh.txt and MV.txt links:
+	Total links: 8
+	two-six links: 2
+{'stillness': 1, 'supposition': 1}
+	Seven-eleven links: 6
+{'abode': 1, 'german': 1, 'hip': 1, 'qualify': 1, 'ravenous': 1, 'whet': 1}
+
+STMsh.txt and OTH.txt links:
+	Total links: 12
+	two-six links: 5
+{'innovation': 1, 'removing': 1, 'ruffians': 1, 'stillness': 1, "topp'd": 1}
+	Seven-eleven links: 7
+{'abode': 1, 'gay': 1, 'german': 1, 'hip': 1, 'rout': 1, 'trash': 2}
+
+STMsh.txt and PERsh.txt links:
+	Total links: 5
+	two-six links: 3
+{'province': 1, 'ruff': 1, "will'd": 1}
+	Seven-eleven links: 2
+{'provision': 1, 'rout': 1}
+
+STMsh.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and R2.txt links:
+	Total links: 8
+	two-six links: 3
+{'palsy': 1, 'ruffians': 1, 'unreverent': 1}
+	Seven-eleven links: 5
+{'gay': 1, 'opinions': 1, 'ravenous': 1, 'submit': 1, 'urging': 1}
+
+STMsh.txt and R3.txt links:
+	Total links: 8
+	two-six links: 3
+{'apostle': 1, 'babies': 1, "shap'd": 1}
+	Seven-eleven links: 5
+{'abode': 1, 'fishes': 1, 'riotous': 1, 'urging': 1, 'whet': 1}
+
+STMsh.txt and ROM.txt links:
+	Total links: 9
+	two-six links: 2
+{'herring': 1, 'skins': 1}
+	Seven-eleven links: 7
+{'bench': 1, "dev'l": 2, 'fishes': 1, 'provision': 1, 'removed': 1, 'urging': 1}
+
+STMsh.txt and SHR.txt links:
+	Total links: 8
+	two-six links: 2
+{'hurly': 1, 'unreverent': 1}
+	Seven-eleven links: 6
+{'abode': 1, 'beef': 1, 'insolence': 1, 'prerogative': 1, 'rout': 1, "this'": 1}
+
+STMsh.txt and SON4.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+STMsh.txt and TAsh.txt links:
+	Total links: 4
+	two-six links: 1
+{'skins': 1}
+	Seven-eleven links: 3
+{'hug': 1, 'offender': 1, 'ravenous': 1}
+
+STMsh.txt and TGV.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'abode': 1, 'qualify': 1}
+
+STMsh.txt and TIMsh.txt links:
+	Total links: 12
+	two-six links: 6
+{'forgiven': 1, 'incident': 1, 'owed': 1, 'ruffians': 1, "shap'd": 1, "silenc'd": 1}
+	Seven-eleven links: 6
+{'bench': 1, 'fishes': 1, 'hug': 1, 'insolence': 1, 'riotous': 1, 'rout': 1}
+
+STMsh.txt and TMP.txt links:
+	Total links: 9
+	two-six links: 3
+{'luggage': 1, 'magistrate': 1, 'skins': 1}
+	Seven-eleven links: 6
+{'meal': 1, 'prerogative': 1, 'provision': 1, 'removed': 1, 'trash': 2}
+
+STMsh.txt and TN.txt links:
+	Total links: 9
+	two-six links: 2
+{'adheres': 1, 'house-keeper': 1}
+	Seven-eleven links: 7
+{'beef': 1, 'bench': 1, "dev'l": 1, 'prerogative': 1, 'removed': 1, 'whet': 1, 'yeoman': 1}
+
+STMsh.txt and TNKsh.txt links:
+	Total links: 4
+	two-six links: 1
+{'forgiven': 1}
+	Seven-eleven links: 3
+{'hip': 1, 'meal': 1, 'offender': 1}
+
+STMsh.txt and TRO.txt links:
+	Total links: 8
+	two-six links: 4
+{'dexter': 1, 'herring': 1, 'palsy': 1, 'tithe': 1}
+	Seven-eleven links: 4
+{'insolence': 1, 'prerogative': 1, 'qualify': 1, 'trash': 1}
+
+STMsh.txt and VEN.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'fishes': 1, 'gay': 1, 'whet': 1}
+
+STMsh.txt and WIV.txt links:
+	Total links: 7
+	two-six links: 2
+{'herring': 1, 'skins': 1}
+	Seven-eleven links: 5
+{'butter': 1, 'german': 1, 'halfpenny': 1, 'offender': 1, 'opinions': 1}
+
+STMsh.txt and WT.txt links:
+	Total links: 9
+	two-six links: 6
+{'adheres': 1, 'ampler': 1, 'forewarn': 1, 'forgiven': 1, 'incident': 1, 'province': 1}
+	Seven-eleven links: 3
+{'prerogative': 1, 'qualify': 1, "this'": 1}
+
+STMsh.txt and x1H4.txt links:
+	Total links: 8
+	two-six links: 6
+{'herring': 1, 'innovation': 1, 'luggage': 1, 'plentiful': 1, 'supposition': 1, 'tithe': 1}
+	Seven-eleven links: 2
+{'beef': 1, 'butter': 1}
+
+STMsh.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'yeoman': 1}
+
+STMsh.txt and x2H4.txt links:
+	Total links: 13
+	two-six links: 7
+{'accite': 1, 'clement': 1, 'forgiven': 1, 'hurly': 1, 'mediation': 1, 'ruff': 1, 'shrieve': 1}
+	Seven-eleven links: 6
+{'bench': 1, 'german': 1, 'offender': 1, 'opinions': 1, 'rout': 1, 'yeoman': 1}
+
+STMsh.txt and x2H6sh.txt links:
+	Total links: 4
+	two-six links: 1
+{'groat': 1}
+	Seven-eleven links: 3
+{'offender': 1, 'ravenous': 1, 'rout': 1}
+
+STMsh.txt and x3H6sh.txt links:
+	Total links: 3
+	two-six links: 1
+{"shap'd": 1}
+	Seven-eleven links: 2
+{'gay': 1, 'yeoman': 1}
+

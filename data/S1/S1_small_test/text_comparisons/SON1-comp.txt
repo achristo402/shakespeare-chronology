@@ -1,0 +1,322 @@
+SON1.txt and ADO.txt links:
+	Total links: 17
+	two-six links: 4
+{'afar': 1, 'forsaken': 1, "slander'd": 1, 'taker': 1}
+	Seven-eleven links: 13
+{'belied': 2, 'dissuade': 1, 'errors': 1, "friend's": 1, 'invited': 1, 'jacks': 1, 'jail': 1, 'lovest': 1, 'misuse': 1, 'proudly': 1, 'purity': 1, 'suited': 1}
+
+SON1.txt and ANT.txt links:
+	Total links: 13
+	two-six links: 3
+{'overplus': 1, "reckon'd": 1, 'serving': 1}
+	Seven-eleven links: 10
+{'debtor': 1, 'dissuade': 1, 'errors': 1, 'gay': 1, 'healthful': 1, 'hunted': 1, 'invited': 1, 'merits': 1, 'partake': 1, "pow'rful": 1}
+
+SON1.txt and ARDsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'overplus': 1}
+	Seven-eleven links: 0
+{}
+
+SON1.txt and AWWsh.txt links:
+	Total links: 19
+	two-six links: 6
+{'desired': 1, 'forged': 1, 'prescriptions': 1, "reckon'd": 1, 'unlearned': 1, 'unworthiness': 1}
+	Seven-eleven links: 13
+{'abundance': 1, 'concord': 1, 'creation': 1, 'dissuade': 1, 'drudge': 1, 'healthful': 1, 'merits': 1, 'physicians': 1, 'proceeds': 1, 'sinful': 1, 'suggest': 1, 'uncertain': 1, 'vainly': 1}
+
+SON1.txt and AYL.txt links:
+	Total links: 6
+	two-six links: 3
+{'grounded': 1, 'revenues': 1, 'sensual': 1}
+	Seven-eleven links: 3
+{'debtor': 1, 'dissuade': 1, 'purity': 1}
+
+SON1.txt and COR.txt links:
+	Total links: 24
+	two-six links: 9
+{"bosom's": 1, 'covetous': 1, "dian's": 1, "o'erpress'd": 1, 'pent': 1, 'pitying': 1, 'ruth': 1, 'tickled': 1, 'ushers': 1}
+	Seven-eleven links: 15
+{'abundance': 1, 'acceptance': 1, 'bath': 1, 'brand': 2, "color'd": 1, 'elsewhere': 1, 'partake': 1, 'proceeds': 1, 'steep': 1, 'suggest': 1, 'testy': 1, 'treads': 1, 'uncertain': 1, "warm'd": 1}
+
+SON1.txt and CYM.txt links:
+	Total links: 29
+	two-six links: 12
+{'blindness': 1, 'delighted': 1, 'forged': 1, 'love-suit': 1, "need'st": 1, 'pitying': 1, 'prone': 1, "reckon'd": 1, 'serving': 1, "sweet'st": 1, 'tickled': 1, 'unworthiness': 1}
+	Seven-eleven links: 17
+{'becoming': 2, 'belied': 1, "borrow'd": 1, "color'd": 1, 'counted': 1, 'dart': 1, 'debtor': 1, "diseas'd": 1, 'drudge': 1, "enjoy'd": 1, 'justify': 1, "keep'st": 1, 'merits': 1, 'perfumes': 1, 'uncertain': 1, "warm'd": 1}
+
+SON1.txt and E3sh.txt links:
+	Total links: 16
+	two-six links: 3
+{'aggravate': 1, 'fading': 1, 'pitying': 1}
+	Seven-eleven links: 13
+{'abundance': 1, 'coral': 1, 'elsewhere': 1, "friend's": 1, 'lovest': 1, 'ornaments': 1, 'proceeds': 1, 'proudly': 1, 'scarlet': 1, 'suggest': 1, "tongue's": 1, 'tongue-tied': 1, 'treads': 1}
+
+SON1.txt and ERR.txt links:
+	Total links: 20
+	two-six links: 10
+{'beseem': 1, 'blindness': 1, 'cools': 1, 'covetous': 1, 'dross': 1, 'fading': 1, 'heats': 1, 'randon': 1, "run'st": 1, 'statute': 1}
+	Seven-eleven links: 10
+{'drudge': 1, 'elsewhere': 2, 'errors': 1, 'fulfill': 1, 'gay': 1, 'healthful': 1, 'invited': 1, "keep'st": 1, 'quest': 1}
+
+SON1.txt and H5.txt links:
+	Total links: 18
+	two-six links: 8
+{'blindness': 1, 'covetous': 1, 'love-suit': 1, "play'st": 1, 'rents': 1, "servant's": 1, "suppress'd": 1, 'unworthiness': 1}
+	Seven-eleven links: 10
+{'acceptance': 1, 'bath': 1, 'gay': 1, 'healthful': 1, 'lovest': 1, 'merits': 1, 'proudly': 1, 'suggest': 1, 'swallowed': 1, 'treads': 1}
+
+SON1.txt and H8sh.txt links:
+	Total links: 11
+	two-six links: 4
+{'grounded': 1, 'pitying': 1, 'prone': 1, "reckon'd": 1}
+	Seven-eleven links: 7
+{'becoming': 1, 'healthful': 1, 'justify': 1, 'ornaments': 1, 'steep': 1, 'swallowed': 1, 'vainly': 1}
+
+SON1.txt and HAM.txt links:
+	Total links: 11
+	two-six links: 3
+{'denote': 1, 'forged': 1, 'successive': 1}
+	Seven-eleven links: 8
+{'aright': 1, 'creation': 1, "diseas'd": 1, 'errors': 1, 'healthful': 1, 'quest': 1, 'steep': 1, 'treads': 1}
+
+SON1.txt and JC.txt links:
+	Total links: 11
+	two-six links: 2
+{'covetous': 1, 'flattered': 1}
+	Seven-eleven links: 9
+{"friend's": 1, 'fulfill': 1, 'healthful': 1, 'lovest': 1, 'partake': 1, "propos'd": 1, 'testy': 1, 'threefold': 1, 'tongue-tied': 1}
+
+SON1.txt and JN.txt links:
+	Total links: 13
+	two-six links: 6
+{'cools': 1, 'dross': 1, "infant's": 1, "slander'd": 1, 'tripping': 1, 'wiry': 1}
+	Seven-eleven links: 7
+{'abundance': 1, 'clears': 1, "distemper'd": 1, 'proudly': 1, 'purity': 1, 'quest': 1, 'vainly': 1}
+
+SON1.txt and LC.txt links:
+	Total links: 4
+	two-six links: 2
+{'desired': 1, 'rents': 1}
+	Seven-eleven links: 2
+{'acceptance': 1, 'errors': 1}
+
+SON1.txt and LLL.txt links:
+	Total links: 18
+	two-six links: 8
+{'delighted': 1, 'desired': 1, 'dun': 1, 'maladies': 1, 'pent': 1, 'unlearned': 1, 'votary': 1, "whoe'er": 1}
+	Seven-eleven links: 10
+{'aright': 1, 'becoming': 1, 'counted': 1, 'dart': 1, 'debtor': 1, 'ornaments': 1, 'threefold': 1, "tongue's": 1, 'treads': 1, 'vainly': 1}
+
+SON1.txt and LR.txt links:
+	Total links: 19
+	two-six links: 5
+{'cools': 1, "eyes'": 1, 'forsaken': 1, "put'st": 1, 'revenues': 1}
+	Seven-eleven links: 14
+{'aright': 1, 'brand': 2, 'clears': 1, 'dart': 1, "enjoy'd": 1, 'jail': 1, 'merits': 1, "propos'd": 1, 'quest': 1, 'rigor': 1, 'steep': 1, 'suited': 1, 'usurer': 1}
+
+SON1.txt and LUC.txt links:
+	Total links: 33
+	two-six links: 11
+{'afar': 1, 'desired': 1, 'feathered': 1, 'hooks': 1, "lips'": 1, 'pitying': 1, 'prone': 1, 'reproving': 1, "suppress'd": 1, 'thrall': 1, 'untold': 1}
+	Seven-eleven links: 22
+{'acceptance': 1, 'belied': 1, 'brand': 1, 'clears': 1, "color'd": 1, 'coral': 1, 'creation': 1, 'debtor': 1, "enjoy'd": 1, 'errors': 1, 'fulfill': 2, 'ornaments': 1, 'proceeds': 1, "profan'd": 1, 'purity': 1, 'rigor': 1, 'scarlet': 1, 'steep': 1, 'swallowed': 1, 'testy': 1, 'unrest': 1}
+
+SON1.txt and MAC.txt links:
+	Total links: 13
+	two-six links: 3
+{'censures': 1, 'lease': 1, 'statute': 1}
+	Seven-eleven links: 10
+{'aright': 1, 'bath': 1, 'clears': 1, 'concord': 1, 'creation': 1, "diseas'd": 1, "distemper'd": 1, 'perfumes': 1, "pow'rful": 1, 'sinful': 1}
+
+SON1.txt and MMsh.txt links:
+	Total links: 15
+	two-six links: 8
+{'delighted': 1, 'prone': 1, "run'st": 1, 'sensual': 1, "slander'd": 1, 'slanderers': 1, 'statute': 1, 'successive': 1}
+	Seven-eleven links: 7
+{'creation': 1, 'dart': 1, 'despised': 1, 'justify': 1, "keep'st": 1, 'quest': 1, 'rigor': 1}
+
+SON1.txt and MND.txt links:
+	Total links: 15
+	two-six links: 6
+{'aggravate': 1, "dian's": 1, 'hateth': 1, 'insufficiency': 1, "run'st": 1, 'seething': 1}
+	Seven-eleven links: 9
+{'aright': 1, 'concord': 1, 'despised': 1, 'lovest': 1, 'nymphs': 1, 'steep': 1, 'testy': 1, "tongue's": 1, 'tongue-tied': 1}
+
+SON1.txt and MV.txt links:
+	Total links: 18
+	two-six links: 3
+{'awards': 1, 'dross': 1, 'fading': 1}
+	Seven-eleven links: 15
+{'abundance': 1, 'acceptance': 1, "borrow'd": 1, 'concord': 1, 'creation': 1, 'debtor': 1, 'drudge': 1, "enjoy'd": 1, 'jacks': 1, 'quest': 1, 'sinful': 1, 'suited': 1, 'treads': 1, 'usurer': 1, "warm'd": 1}
+
+SON1.txt and OTH.txt links:
+	Total links: 18
+	two-six links: 5
+{'delighted': 1, 'denote': 1, "dian's": 1, 'selling': 1, 'slavery': 1}
+	Seven-eleven links: 13
+{'acceptance': 1, 'creation': 1, 'dart': 1, 'despised': 1, "friend's": 1, 'gay': 1, 'healthful': 1, 'invited': 1, "keep'st": 1, 'merits': 1, 'misuse': 1, "pow'rful": 1, 'suggest': 1}
+
+SON1.txt and PERsh.txt links:
+	Total links: 7
+	two-six links: 2
+{"o'erpress'd": 1, 'untold': 1}
+	Seven-eleven links: 5
+{'becoming': 1, 'invited': 1, 'justify': 1, 'quest': 1, 'swallowed': 1}
+
+SON1.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 1
+{'mourners': 1}
+	Seven-eleven links: 0
+{}
+
+SON1.txt and R2.txt links:
+	Total links: 20
+	two-six links: 8
+{'aggravate': 1, 'beseem': 1, 'dateless': 1, 'forged': 1, 'lease': 1, 'rents': 1, 'revenues': 1, 'ruth': 1}
+	Seven-eleven links: 12
+{'concord': 1, 'despised': 1, 'elsewhere': 1, 'gay': 1, 'physicians': 1, 'proudly': 1, 'scarlet': 1, 'sinful': 1, 'suggest': 1, "tongue's": 1, 'unrest': 1, "warm'd": 1}
+
+SON1.txt and R3.txt links:
+	Total links: 30
+	two-six links: 9
+{"anchor'd": 1, 'censures': 1, 'flattered': 1, 'grounded': 1, "need'st": 1, 'pent': 1, "servant's": 1, 'thrall': 1, "unsway'd": 1}
+	Seven-eleven links: 21
+{'counted': 1, 'creation': 1, "enjoy'd": 1, 'fulfill': 1, 'jacks': 1, "keep'st": 1, 'ornaments': 1, 'partake': 1, 'physicians': 1, "pow'rful": 1, 'proceeds': 1, "profan'd": 2, "propos'd": 1, 'proudly': 1, 'quest': 1, 'testy': 1, 'threefold': 1, 'tongue-tied': 1, 'uncertain': 1, 'unrest': 1}
+
+SON1.txt and ROM.txt links:
+	Total links: 29
+	two-six links: 14
+{"bosom's": 1, 'brightness': 1, 'dateless': 1, 'denote': 1, "dian's": 1, 'dun': 1, "eyes'": 1, 'forsaken': 1, 'hooks': 1, 'mourners': 1, "need'st": 1, "run'st": 1, 'taker': 1, "whoe'er": 1}
+	Seven-eleven links: 15
+{'clears': 1, 'despised': 1, 'drudge': 1, "enjoy'd": 1, 'invited': 1, 'jacks': 1, 'ornaments': 1, 'rigor': 1, 'scarlet': 1, 'swallowed': 1, "tongue's": 1, 'treads': 1, 'unrest': 1, 'usurer': 1, 'vainly': 1}
+
+SON1.txt and SHR.txt links:
+	Total links: 19
+	two-six links: 3
+{'beseem': 1, 'outright': 1, "reckon'd": 1}
+	Seven-eleven links: 16
+{"color'd": 1, 'coral': 1, 'dart': 1, 'drudge': 1, 'elsewhere': 1, 'hunted': 1, 'jacks': 1, 'jail': 1, "keep'st": 1, 'lovest': 1, 'merits': 1, 'misuse': 1, 'ornaments': 1, 'physicians': 1, 'scarlet': 1, "warm'd": 1}
+
+SON1.txt and SPTAD.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{"pow'rful": 1}
+
+SON1.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'gay': 1}
+
+SON1.txt and TAsh.txt links:
+	Total links: 7
+	two-six links: 1
+{'cheater': 1}
+	Seven-eleven links: 6
+{'aright': 1, 'hunted': 1, 'ornaments': 1, 'proceeds': 1, 'unrest': 1, "warm'd": 1}
+
+SON1.txt and TGV.txt links:
+	Total links: 14
+	two-six links: 7
+{'beseem': 1, 'blindness': 1, 'fading': 1, 'hooks': 1, 'lease': 1, "need'st": 1, 'votary': 1}
+	Seven-eleven links: 7
+{"color'd": 1, 'concord': 1, "friend's": 1, "profan'd": 1, 'testy': 1, 'threefold': 1, 'uncertain': 1}
+
+SON1.txt and TIMsh.txt links:
+	Total links: 11
+	two-six links: 2
+{"dian's": 1, 'serving': 1}
+	Seven-eleven links: 9
+{"diseas'd": 1, 'hunted': 1, 'perfumes': 1, "propos'd": 1, 'purity': 1, 'scarlet': 1, 'uncertain': 1, 'usurer': 1, 'vainly': 1}
+
+SON1.txt and TMP.txt links:
+	Total links: 9
+	two-six links: 3
+{'slavery': 1, 'tripping': 1, 'unworthiness': 1}
+	Seven-eleven links: 6
+{'abundance': 1, 'coral': 1, "distemper'd": 1, 'hunted': 1, 'justify': 1, 'nymphs': 1}
+
+SON1.txt and TN.txt links:
+	Total links: 9
+	two-six links: 4
+{"servant's": 1, 'tickled': 1, 'tripping': 1, "whoe'er": 1}
+	Seven-eleven links: 5
+{"borrow'd": 1, "distemper'd": 1, 'partake': 1, 'steep': 1, 'suited': 1}
+
+SON1.txt and TNKsh.txt links:
+	Total links: 7
+	two-six links: 1
+{'heats': 1}
+	Seven-eleven links: 6
+{'acceptance': 1, 'creation': 1, "distemper'd": 1, "enjoy'd": 1, 'justify': 1, 'perfumes': 1}
+
+SON1.txt and TRO.txt links:
+	Total links: 16
+	two-six links: 8
+{'brightness': 1, 'covetous': 1, 'dross': 1, 'inheritors': 1, 'ruth': 1, 'tickled': 1, 'tripping': 1, 'vowing': 1}
+	Seven-eleven links: 8
+{'debtor': 1, 'errors': 1, 'merits': 1, "propos'd": 1, 'proudly': 1, 'purity': 1, 'suited': 1, 'tongue-tied': 1}
+
+SON1.txt and VEN.txt links:
+	Total links: 18
+	two-six links: 8
+{"eyes'": 1, 'forged': 1, 'hied': 1, "infant's": 1, "lips'": 1, 'maladies': 1, 'randon': 1, 'thrall': 1}
+	Seven-eleven links: 10
+{'coral': 1, 'dart': 1, 'despised': 1, 'gay': 1, 'hunted': 1, 'jail': 1, 'nymphs': 1, 'rigor': 1, 'testy': 1, 'treads': 1}
+
+SON1.txt and WIV.txt links:
+	Total links: 9
+	two-six links: 3
+{'afar': 1, 'aggravate': 1, 'denote': 1}
+	Seven-eleven links: 6
+{'bath': 1, 'debtor': 1, 'misuse': 1, 'purity': 1, 'scarlet': 1, 'sinful': 1}
+
+SON1.txt and WT.txt links:
+	Total links: 17
+	two-six links: 3
+{'afar': 1, 'prone': 1, "sweet'st": 1}
+	Seven-eleven links: 14
+{'acceptance': 1, 'becoming': 1, 'counted': 1, "diseas'd": 1, 'fulfill': 1, 'justify': 1, 'merits': 1, 'partake': 1, "pow'rful": 1, 'purity': 1, 'rigor': 1, 'tongue-tied': 1, 'uncertain': 1, 'usurer': 1}
+
+SON1.txt and x1H4.txt links:
+	Total links: 16
+	two-six links: 6
+{'afar': 1, "bow'r": 1, 'feathered': 1, 'lease': 1, "need'st": 1, "whoe'er": 1}
+	Seven-eleven links: 10
+{'abundance': 1, "borrow'd": 1, 'elsewhere': 1, 'lovest': 1, 'misuse': 1, 'physicians': 1, 'scarlet': 1, 'swallowed': 1, 'threefold': 1, 'uncertain': 1}
+
+SON1.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'tongue-tied': 1}
+
+SON1.txt and x2H4.txt links:
+	Total links: 22
+	two-six links: 7
+{'aggravate': 1, 'cheater': 1, 'engrossed': 1, 'outright': 1, 'prescriptions': 1, 'situation': 1, "whoe'er": 1}
+	Seven-eleven links: 15
+{'abundance': 1, "borrow'd": 1, "diseas'd": 1, "friend's": 1, "keep'st": 1, 'misuse': 1, 'perfumes': 1, 'proceeds': 1, "profan'd": 1, "propos'd": 1, 'proudly': 1, 'scarlet': 1, 'sinful': 1, 'steep': 1, 'vainly': 1}
+
+SON1.txt and x2H6sh.txt links:
+	Total links: 5
+	two-six links: 3
+{'cools': 1, 'successive': 1, "untutor'd": 1}
+	Seven-eleven links: 2
+{"borrow'd": 1, 'threefold': 1}
+
+SON1.txt and x3H6sh.txt links:
+	Total links: 12
+	two-six links: 5
+{'cools': 1, 'forsaken': 1, "put'st": 1, 'rents': 1, "untutor'd": 1}
+	Seven-eleven links: 7
+{'aright': 1, 'elsewhere': 1, 'gay': 1, "keep'st": 1, 'ornaments': 1, 'rigor': 1, 'threefold': 1}
+

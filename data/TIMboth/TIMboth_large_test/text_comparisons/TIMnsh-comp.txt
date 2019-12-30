@@ -1,0 +1,322 @@
+TIMnsh.txt and ADO.txt links:
+	Total links: 33
+	two-six links: 10
+{'broader': 1, 'comely': 2, 'differ': 1, 'impiety': 1, 'inwardly': 1, 'leans': 1, 'thankfulness': 1, 'villainies': 1, "yonder's": 1}
+	Seven-eleven links: 23
+{'banquet': 2, 'bruise': 1, 'conflict': 1, "defil'd": 2, 'dishes': 1, 'dotage': 2, "friend's": 1, 'gloss': 1, 'hits': 1, 'jail': 2, "lik'd": 3, 'quarrelling': 1, 'rarely': 2, 'sending': 2, 'stool': 1}
+
+TIMnsh.txt and ANT.txt links:
+	Total links: 56
+	two-six links: 12
+{'deities': 1, 'feasted': 1, 'harness': 1, "into't": 1, 'pitifully': 1, 'poorer': 1, 'prisons': 1, 'realms': 1, "receive't": 1, 'serving': 1, 'shorter': 1, "unto't": 1}
+	Seven-eleven links: 44
+{"believe't": 1, "by't": 2, 'cleave': 2, 'concern': 2, "done't": 1, 'dotage': 2, 'doubled': 1, 'entreats': 1, 'estates': 1, 'feasting': 1, 'hits': 1, 'humanity': 1, 'meek': 1, 'merits': 1, 'rarely': 3, 'rashness': 4, 'scald': 1, 'stool': 1, 'strives': 1, 'sweep': 1, 'ventidius': 15}
+
+TIMnsh.txt and ARDsh.txt links:
+	Total links: 8
+	two-six links: 3
+{'molten': 1, "pitch'd": 2}
+	Seven-eleven links: 5
+{'conflict': 1, 'doubled': 1, 'striving': 2, 'wealthy': 1}
+
+TIMnsh.txt and AWWsh.txt links:
+	Total links: 53
+	two-six links: 20
+{'cruelly': 1, 'curtsies': 1, 'expecting': 1, 'expose': 1, 'grateful': 1, "into't": 1, 'muffled': 2, 'plunge': 1, 'poorer': 2, 'remembrances': 1, 'seriously': 2, 'shrinks': 1, 'singly': 1, 'unnoted': 1, "unto't": 1, 'waiting': 1, "yonder's": 1}
+	Seven-eleven links: 33
+{"'t": 2, "believe't": 2, 'bountiful': 2, 'concern': 1, "defil'd": 1, 'derive': 1, 'estates': 1, "ev'ry": 2, 'faithfully': 2, 'flinty': 1, 'hits': 1, 'honored': 1, "i'm": 3, "lik'd": 1, "lordship's": 2, 'malady': 2, 'merits': 1, 'moderate': 1, 'physicians': 2, 'sending': 2, 'strives': 1, 'unfortunate': 1}
+
+TIMnsh.txt and AYL.txt links:
+	Total links: 36
+	two-six links: 6
+{'allows': 1, 'carelessly': 1, 'comely': 1, 'desirous': 1, "into't": 1, 'properer': 1}
+	Seven-eleven links: 30
+{'ages': 1, 'benefits': 3, 'betters': 1, 'bountiful': 2, 'derive': 1, 'extremest': 1, 'faithfully': 1, 'honored': 1, "lik'd": 1, 'lived': 1, 'needless': 1, 'overcome': 1, 'plenteous': 2, "saw'st": 3, 'shrunk': 2, 'sweep': 1, 'tyrants': 2, 'unfortunate': 1, 'wages': 2, 'woods': 1, 'worships': 1}
+
+TIMnsh.txt and COR.txt links:
+	Total links: 56
+	two-six links: 21
+{'buildings': 1, 'comely': 1, 'covetous': 1, 'deepest': 1, 'donation': 1, 'dregs': 1, 'expel': 1, 'factions': 2, 'fitly': 2, 'grateful': 1, 'hostilius': 1, 'loaden': 1, 'reeking': 1, 'refuge': 1, 'remembrances': 1, 'shrinks': 1, 'singly': 1, 'thankfulness': 1, 'usury': 1}
+	Seven-eleven links: 35
+{"'t": 2, 'ages': 1, 'alteration': 1, "believe't": 1, 'benefits': 1, 'bountiful': 2, "by't": 1, 'cleave': 1, 'commanding': 1, 'compassion': 1, "done't": 1, 'doubled': 1, 'extremest': 1, "he'ld": 1, 'irons': 1, 'lick': 1, 'lived': 1, 'needless': 1, 'raiment': 1, 'striving': 1, 'suffering': 2, 'treads': 1, 'unfortunate': 1, 'ungrateful': 1, "weep'st": 1, 'welcomes': 3, 'whereby': 1, 'worships': 3}
+
+TIMnsh.txt and CYM.txt links:
+	Total links: 65
+	two-six links: 20
+{'afflictions': 1, 'diligent': 2, 'donation': 1, 'doubting': 2, 'failing': 3, 'guise': 1, 'humh': 1, 'illustrious': 1, 'infinitely': 1, 'inviting': 1, 'kindnesses': 1, 'lasts': 1, 'leans': 1, "mine's": 1, "redeem'd": 1, 'serving': 1}
+	Seven-eleven links: 45
+{"'t": 2, 'admittance': 4, 'bloods': 1, "borrow'd": 1, 'buys': 1, "by't": 2, 'chambers': 1, 'dishes': 1, "done't": 3, 'entreats': 1, 'estates': 1, "he'ld": 4, 'humanity': 1, "i'm": 3, "lordship's": 2, 'merits': 1, 'mire': 1, 'needless': 1, "preferr'd": 2, 'rarely': 1, 'reckon': 1, 'reserve': 1, "stepp'd": 1, 'stool': 1, 'suffering': 1, 'tasted': 1, 'thankfully': 2, 'unfortunate': 1, 'wages': 1, "weep'st": 1}
+
+TIMnsh.txt and E3sh.txt links:
+	Total links: 14
+	two-six links: 5
+{'arrive': 1, 'cumber': 1, 'feasted': 1, 'milk-white': 1, "redeem'd": 1}
+	Seven-eleven links: 9
+{'dispense': 1, 'doubled': 1, 'entreats': 1, "famish'd": 1, "friend's": 1, 'plenteous': 2, "stepp'd": 1, 'treads': 1}
+
+TIMnsh.txt and ERR.txt links:
+	Total links: 29
+	two-six links: 11
+{'buildings': 1, 'churl': 1, 'covetous': 1, 'feasted': 1, 'harshly': 1, 'kindnesses': 1, 'meals': 1, 'ruinous': 1, 'sinner': 1, 'tiring': 1, "wax'd": 1}
+	Seven-eleven links: 18
+{'bloods': 1, 'dispense': 1, 'doubled': 1, 'harlot': 2, "i'm": 3, 'meek': 1, 'mire': 1, 'patron': 1, 'provision': 1, 'reserve': 1, "saw'st": 1, 'sprung': 1, 'stealth': 1, 'unluckily': 1, 'vapors': 1}
+
+TIMnsh.txt and H5.txt links:
+	Total links: 36
+	two-six links: 11
+{'bates': 1, 'courser': 1, 'covetous': 1, 'cruelly': 1, 'expel': 1, 'greyhounds': 1, 'meals': 1, 'prisons': 1, 'realms': 1, 'reeking': 1, 'thankfulness': 1}
+	Seven-eleven links: 25
+{'admittance': 2, 'bruise': 1, 'cases': 1, 'entreats': 1, 'faithfully': 1, "famish'd": 1, 'gore': 2, "lik'd": 1, 'lived': 1, 'malady': 1, 'merits': 1, 'rashness': 2, 'reckon': 1, 'scald': 4, 'sending': 2, 'treads': 1, 'void': 2}
+
+TIMnsh.txt and H8sh.txt links:
+	Total links: 19
+	two-six links: 7
+{'bounties': 2, "from't": 2, "mind's": 1, 'realms': 1, 'weightier': 1}
+	Seven-eleven links: 12
+{'benefits': 1, 'buys': 1, "by't": 1, 'commanding': 1, 'conception': 1, 'estates': 1, "ev'ry": 1, 'meek': 1, 'plenteous': 2, 'sprung': 1, 'whereby': 1}
+
+TIMnsh.txt and HAM.txt links:
+	Total links: 59
+	two-six links: 23
+{'afflictions': 1, 'crust': 1, 'desirous': 1, 'dip': 1, 'drowns': 2, 'expel': 2, 'harshly': 1, 'importunate': 1, 'lasts': 1, 'leans': 1, 'milky': 1, "mind's": 2, 'paradox': 1, 'plunge': 1, 'remembrances': 1, "sin's": 1, 'spills': 1, 'sprinkle': 1, 'villainies': 1, 'wards': 1}
+	Seven-eleven links: 36
+{'admittance': 2, 'buys': 1, 'cases': 1, 'cleave': 1, 'conception': 1, 'dishes': 1, 'gore': 1, 'harlot': 1, 'hits': 3, 'humanity': 1, 'lick': 1, 'lived': 1, 'moderate': 1, 'overcome': 1, "preferr'd": 1, 'quarrelling': 1, 'quietly': 2, 'rashness': 2, 'reckon': 1, 'resemble': 1, 'reserve': 1, 'sending': 4, 'shrunk': 1, 'sprung': 1, 'sweep': 2, 'treads': 1, 'vapors': 1}
+
+TIMnsh.txt and JC.txt links:
+	Total links: 32
+	two-six links: 13
+{'arrive': 1, 'befriend': 1, 'carelessly': 1, 'covetous': 1, 'cumber': 1, 'curtsies': 1, 'dip': 1, "flatterer's": 1, 'flavius': 1, 'meals': 1, "mine's": 1, 'retentive': 1, 'unkindly': 1}
+	Seven-eleven links: 19
+{'ages': 1, 'bloods': 2, "conjur'd": 1, "friend's": 1, 'harlot': 1, "i'm": 3, 'lived': 1, 'meek': 1, 'received': 1, 'shrunk': 1, 'suffering': 1, 'tyrants': 2, 'unluckily': 1, 'void': 1, 'worships': 1}
+
+TIMnsh.txt and JN.txt links:
+	Total links: 30
+	two-six links: 15
+{'becks': 1, 'befriend': 1, "brib'd": 1, "days'": 1, 'evilly': 1, 'forerunner': 1, "giv'st": 1, 'pours': 1, 'prisons': 1, 'rumors': 1, 'tides': 2, 'unmatched': 1, 'washes': 2}
+	Seven-eleven links: 15
+{'betters': 1, 'bloods': 1, 'casket': 1, 'chambers': 1, 'commanding': 1, 'compassion': 1, 'faithfully': 1, 'flinty': 1, 'irons': 3, 'needless': 1, "sun's": 1, 'sways': 2}
+
+TIMnsh.txt and LC.txt links:
+	Total links: 7
+	two-six links: 3
+{'comely': 1, 'equals': 1, 'usury': 1}
+	Seven-eleven links: 4
+{'commanding': 1, 'strives': 1, 'suffering': 2}
+
+TIMnsh.txt and LLL.txt links:
+	Total links: 35
+	two-six links: 9
+{'diamonds': 1, 'drowns': 1, 'expecting': 1, 'extremely': 1, 'illustrious': 1, 'importunate': 1, 'oppressing': 1, 'paradox': 1, "pitch'd": 1}
+	Seven-eleven links: 26
+{'admittance': 2, 'ages': 1, 'banquet': 1, 'bloods': 1, 'bruise': 1, 'buys': 2, 'cases': 1, 'concern': 1, 'conflict': 1, 'derive': 2, 'dispense': 1, 'estates': 1, 'faithfully': 2, 'gloss': 2, 'mire': 1, 'needless': 1, 'overcome': 1, 'patron': 1, 'strives': 1, 'treads': 1, 'tyrants': 1}
+
+TIMnsh.txt and LR.txt links:
+	Total links: 70
+	two-six links: 22
+{"'bove": 1, 'allows': 1, 'crust': 1, 'diamonds': 1, 'diligent': 1, 'expose': 1, 'fitly': 2, 'flatteries': 2, 'humh': 1, 'illustrious': 1, "into't": 1, 'lag': 1, 'milky': 1, "mind's": 1, 'molten': 1, 'reeking': 1, 'ruinous': 1, 'sects': 1, 'shorter': 1, "trumpet's": 1}
+	Seven-eleven links: 48
+{'alteration': 1, 'benefits': 1, 'betters': 2, 'bruise': 1, 'conception': 1, 'conflict': 2, 'derive': 1, 'dotage': 3, 'extremest': 1, 'humanity': 1, "i'm": 3, 'jail': 1, 'lick': 1, "loath'd": 1, 'malady': 1, 'merits': 1, 'mire': 1, 'needless': 1, 'patron': 2, 'plenteous': 2, 'provision': 3, 'raiment': 1, 'rashness': 2, 'received': 1, 'reserve': 1, 'scald': 1, 'stealth': 2, 'strives': 1, 'striving': 2, 'suffering': 1, 'sways': 1, 'thankfully': 1, 'unfortunate': 1, 'wages': 1, 'worships': 1}
+
+TIMnsh.txt and LUC.txt links:
+	Total links: 39
+	two-six links: 20
+{'arrive': 1, 'buildings': 1, 'cheers': 1, 'comparing': 1, 'cruelly': 1, 'drowns': 1, 'expecting': 1, "friendship's": 1, "grant'st": 1, 'gust': 1, 'impiety': 2, "int'rest": 1, 'muffled': 1, 'poorer': 1, 'reeking': 1, 'refuge': 1, "sin's": 1, 'unmatched': 1, 'unnoted': 1}
+	Seven-eleven links: 19
+{'buys': 1, 'casket': 1, "defil'd": 2, 'dispense': 3, 'feasting': 2, 'honored': 1, 'humanity': 1, "loath'd": 1, 'meek': 1, 'mire': 1, 'resemble': 1, 'shrunk': 1, 'strives': 1, 'vapors': 2}
+
+TIMnsh.txt and MAC.txt links:
+	Total links: 35
+	two-six links: 10
+{"'bove": 1, 'deepest': 1, 'greyhounds': 1, 'guise': 1, 'harness': 1, 'humh': 1, 'maws': 1, "mind's": 1, 'reeking': 1, 'villainies': 1}
+	Seven-eleven links: 25
+{'banquet': 1, 'cases': 1, 'chambers': 1, 'cleave': 2, 'concern': 1, 'conflict': 1, "done't": 3, 'gloss': 1, 'gore': 1, 'malady': 1, 'meek': 1, "nev'r": 1, 'overcome': 1, 'plenteous': 2, 'reckon': 1, "stepp'd": 1, 'stool': 1, 'suffering': 1, 'sweep': 1, 'unfortunate': 1, 'whereby': 1}
+
+TIMnsh.txt and MMsh.txt links:
+	Total links: 37
+	two-six links: 18
+{'benefactors': 3, 'creditors': 1, "days'": 1, "ere't": 1, "fault's": 3, 'flavius': 1, 'forfeits': 2, 'gratulate': 1, 'muffled': 1, 'sects': 1, 'shorter': 1, "sin's": 1, 'wards': 1}
+	Seven-eleven links: 19
+{'ages': 1, 'bruise': 1, 'cleave': 1, 'coffer': 1, 'conception': 1, 'dishes': 3, 'dispense': 1, 'extremest': 1, "he'ld": 1, "lordship's": 1, 'needless': 1, 'plenteous': 2, 'received': 1, 'stealth': 1, "villain's": 1, 'void': 1}
+
+TIMnsh.txt and MND.txt links:
+	Total links: 26
+	two-six links: 9
+{'churl': 1, 'deepest': 1, 'extremely': 1, 'milk-white': 1, 'plunge': 1, 'spangled': 1, 'tomorrow': 1, 'unkindly': 1, 'washes': 1}
+	Seven-eleven links: 17
+{'buys': 1, 'concern': 1, "defil'd": 1, 'dotage': 1, 'gore': 1, "lik'd": 1, "preferr'd": 1, 'rarely': 1, 'stealth': 2, 'stool': 1, 'sweep': 3, 'ungrateful': 1, 'welcomes': 1, 'worships': 1}
+
+TIMnsh.txt and MV.txt links:
+	Total links: 42
+	two-six links: 9
+{'alighted': 1, 'allows': 1, 'creditors': 2, 'crossing': 1, 'forerunner': 1, 'infinitely': 1, "int'rest": 2}
+	Seven-eleven links: 33
+{'bloods': 1, "borrow'd": 1, 'casket': 7, 'coffer': 1, "conjur'd": 1, 'estates': 1, 'extremest': 1, 'faithfully': 1, "famish'd": 1, 'feasting': 1, 'honored': 1, 'moderate': 1, "preferr'd": 1, 'quarrelling': 1, 'resemble': 1, 'sways': 1, 'thankfully': 2, 'treads': 1, "villain's": 1, 'void': 3, 'wealthy': 3, 'whereby': 1}
+
+TIMnsh.txt and OTH.txt links:
+	Total links: 53
+	two-six links: 17
+{"belong'd": 1, "cashier'd": 2, 'depth': 1, 'failing': 1, "giv'st": 1, 'humh': 1, 'importunate': 1, 'inviting': 1, "mine's": 1, 'mutter': 1, 'seriously': 1, 'shorter': 1, 'trump': 1, 'unkindly': 1, 'virtuously': 1, "yonder's": 1}
+	Seven-eleven links: 36
+{'alteration': 1, "believe't": 2, 'buys': 1, 'cases': 2, 'conception': 2, "conjur'd": 2, 'dishes': 1, "done't": 1, 'dotage': 1, 'entreats': 2, 'feasting': 1, 'flinty': 1, "friend's": 1, 'gloss': 1, 'humanity': 1, 'merits': 1, "nev'r": 5, 'plenteous': 2, 'strives': 1, 'tasted': 1, "they're": 2, 'unfortunate': 1, 'wealthy': 1, "weep'st": 1, 'whereby': 1}
+
+TIMnsh.txt and PERsh.txt links:
+	Total links: 28
+	two-six links: 9
+{"'as": 2, 'diamonds': 1, 'disfurnish': 1, "into't": 1, 'pitifully': 1, 'thankfulness': 1, 'washes': 1, 'wooed': 1}
+	Seven-eleven links: 19
+{"'t": 6, 'cases': 1, 'casket': 1, 'coffer': 1, 'honored': 1, 'provision': 2, 'quietly': 2, 'rarely': 1, 'reserve': 1, 'thankfully': 1, "they're": 1, 'wages': 1}
+
+TIMnsh.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 1
+{"giv'st": 1}
+	Seven-eleven links: 0
+{}
+
+TIMnsh.txt and R2.txt links:
+	Total links: 23
+	two-six links: 9
+{'deniest': 1, "ere't": 1, 'flatteries': 2, "giv'st": 1, 'recanting': 1, 'refuge': 2, 'sprinkle': 1}
+	Seven-eleven links: 14
+{'ages': 2, 'bloods': 1, 'cleave': 1, 'compassion': 1, "defil'd": 1, 'doubled': 1, 'extremest': 1, 'flinty': 1, 'physicians': 1, 'strives': 1, 'suffering': 1, "weep'st": 1, 'woods': 1}
+
+TIMnsh.txt and R3.txt links:
+	Total links: 39
+	two-six links: 17
+{'crust': 1, 'dregs': 1, 'equals': 1, 'expecting': 1, "friends'": 1, 'gratulate': 1, 'hoy-day': 1, "inferr'd": 2, 'lag': 1, "land's": 2, 'readiest': 1, 'rumors': 1, 'victories': 1, 'waiting': 1, 'weightier': 1}
+	Seven-eleven links: 22
+{'ages': 1, 'commanding': 2, 'compassion': 1, 'entreats': 1, 'estates': 1, 'extremest': 1, "famish'd": 1, 'harlot': 1, 'irons': 1, "loath'd": 1, "lordship's": 1, 'needless': 1, 'physicians': 1, 'plenteous': 2, 'rashness': 2, "saw'st": 1, 'tyrants': 1, 'ungrateful': 1, "villain's": 1}
+
+TIMnsh.txt and ROM.txt links:
+	Total links: 33
+	two-six links: 10
+{'carelessly': 1, 'cheers': 1, 'churl': 1, 'crossing': 1, 'depth': 1, 'fees': 1, 'healths': 1, 'leans': 1, 'muffled': 1, 'properer': 1}
+	Seven-eleven links: 23
+{'banquet': 1, "conjur'd": 1, 'faithfully': 1, 'feasting': 2, 'gore': 1, 'lick': 3, 'mire': 1, 'provision': 1, 'quarrelling': 2, 'sending': 2, 'shrunk': 1, 'sprung': 1, 'stealth': 1, "sun's": 1, 'tasted': 1, 'treads': 1, 'unluckily': 1, "weep'st": 1}
+
+TIMnsh.txt and SHR.txt links:
+	Total links: 45
+	two-six links: 17
+{'affable': 2, 'alighted': 1, 'basin': 1, 'crossing': 1, 'depth': 1, 'diligent': 1, 'grateful': 1, 'greyhounds': 1, 'harness': 1, 'lasts': 1, 'plunge': 1, 'readiest': 1, 'slide': 2, "trapp'd": 1, 'unkindly': 1}
+	Seven-eleven links: 28
+{'banquet': 2, 'betters': 1, 'hits': 1, 'jail': 4, 'malady': 1, 'merits': 1, 'patron': 2, 'physicians': 1, 'quietly': 2, 'raiment': 3, 'resemble': 1, "saw'st": 1, "stepp'd": 1, 'stool': 1, "they're": 1, 'unluckily': 1, "villain's": 1, 'wealthy': 2, 'whereby': 1}
+
+TIMnsh.txt and SPTAD.txt links:
+	Total links: 3
+	two-six links: 1
+{'waiting': 1}
+	Seven-eleven links: 2
+{'reserve': 1, 'ungrateful': 1}
+
+TIMnsh.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'provision': 1}
+
+TIMnsh.txt and TAsh.txt links:
+	Total links: 31
+	two-six links: 15
+{'basin': 1, 'befriend': 1, 'desirous': 1, 'expecting': 1, "friends'": 1, 'loaden': 1, 'milk-white': 1, 'outrages': 1, 'pledges': 2, 'ruinous': 1, 'sempronius': 1, 'tiring': 1, 'unkindly': 1, 'villainies': 1}
+	Seven-eleven links: 16
+{'banquet': 1, 'cleave': 1, 'compassion': 1, 'conflict': 1, 'overcome': 1, 'quietly': 2, 'received': 2, 'resemble': 1, 'sprung': 1, "sun's": 1, 'ungrateful': 2, 'woods': 2}
+
+TIMnsh.txt and TGV.txt links:
+	Total links: 24
+	two-six links: 8
+{'deepest': 1, 'disfurnish': 1, 'milk-white': 1, "mine's": 1, 'outrages': 2, 'ruinous': 1, 'virtuously': 1}
+	Seven-eleven links: 16
+{'concern': 1, "friend's": 1, "lordship's": 1, 'malady': 1, "preferr'd": 1, 'raiment': 1, 'rashness': 2, 'reckon': 1, "they're": 1, 'wages': 3, "weep'st": 1, 'welcomes': 1, 'woods': 1}
+
+TIMnsh.txt and TIMsh.txt links:
+	Total links: 73
+	two-six links: 14
+{'afflictions': 1, 'creditors': 1, 'failing': 1, 'flatteries': 2, 'humh': 1, 'importunate': 1, 'lacedaemon': 1, 'pours': 1, 'sempronius': 1, 'serving': 1, "trumpet's": 1, 'varro': 2}
+	Seven-eleven links: 59
+{"'t": 2, "believe't": 2, "conjur'd": 1, 'derive': 1, 'dishes': 1, 'draught': 1, 'flaminius': 6, 'humanity': 2, "lordship's": 1, 'lucullus': 10, 'mire': 1, "nev'r": 1, 'plenteous': 2, 'reserve': 1, "saw'st": 1, 'scald': 1, 'servilius': 7, 'sprung': 1, "stepp'd": 1, "sun's": 1, 'tasted': 1, 'thankfully': 1, 'ventidius': 9, "villain's": 1, 'wealthy': 1, 'woods': 2}
+
+TIMnsh.txt and TMP.txt links:
+	Total links: 21
+	two-six links: 11
+{"'bove": 1, 'afflictions': 1, 'cruelly': 1, 'diligent': 1, 'donation': 1, 'dregs': 1, "fault's": 1, 'remembrances': 1, 'seriously': 1, 'sinner': 1, 'tides': 1}
+	Seven-eleven links: 10
+{'bountiful': 2, 'cleave': 1, 'compassion': 1, "ev'ry": 1, 'lick': 1, "lik'd": 1, 'mire': 1, 'provision': 1, "saw'st": 1}
+
+TIMnsh.txt and TN.txt links:
+	Total links: 22
+	two-six links: 9
+{'curtsies': 1, 'desirous': 1, 'drowns': 1, 'expose': 1, "feel't": 1, 'gust': 1, 'healths': 1, 'kindnesses': 1, 'sinner': 1}
+	Seven-eleven links: 13
+{'betters': 1, "borrow'd": 1, 'coffer': 1, 'draught': 2, 'gore': 1, 'hits': 1, 'moderate': 1, 'quarrelling': 1, 'resemble': 1, 'reserve': 1, 'stealth': 1, 'sways': 1}
+
+TIMnsh.txt and TNKsh.txt links:
+	Total links: 23
+	two-six links: 6
+{'deities': 1, "friends'": 1, 'grateful': 1, 'lag': 1, "pity's": 1, 'prolong': 1}
+	Seven-eleven links: 17
+{"by't": 1, 'concern': 1, "ev'ry": 5, 'flinty': 1, 'gloss': 1, 'honored': 1, "lik'd": 1, "nev'r": 2, 'shrunk': 1, 'striving': 1, "they're": 1, 'void': 1}
+
+TIMnsh.txt and TRO.txt links:
+	Total links: 43
+	two-six links: 22
+{'bounties': 2, 'covetous': 1, 'deities': 1, 'depth': 1, 'dregs': 2, 'factions': 4, 'fees': 1, 'forfeits': 1, 'harness': 1, 'illustrious': 1, "joy's": 1, 'meals': 1, 'ruinous': 1, 'singly': 1, 'trump': 1, 'virtuously': 1, 'wards': 1}
+	Seven-eleven links: 21
+{'bloods': 1, 'conception': 1, 'derive': 1, 'draught': 1, 'extremest': 1, "famish'd": 1, 'gloss': 1, 'humanity': 1, 'irons': 1, "loath'd": 2, 'merits': 2, 'moderate': 3, 'needless': 1, 'reserve': 1, 'stool': 1, 'tasted': 1, "they're": 1}
+
+TIMnsh.txt and VEN.txt links:
+	Total links: 38
+	two-six links: 12
+{"brib'd": 1, 'cheers': 1, 'comparing': 1, 'courser': 2, 'expel': 1, 'guise': 1, "int'rest": 1, 'shrinks': 1, 'victories': 1, 'wooed': 2}
+	Seven-eleven links: 26
+{'banquet': 1, 'buys': 1, 'conflict': 1, 'doubled': 1, 'entreats': 2, 'flinty': 1, 'gloss': 1, 'gore': 2, 'honored': 1, 'jail': 1, "loath'd": 1, 'overcome': 2, 'patron': 1, 'quietly': 2, 'sprung': 1, 'striving': 1, 'tasted': 1, 'treads': 2, 'vapors': 2, 'welcomes': 1}
+
+TIMnsh.txt and WIV.txt links:
+	Total links: 17
+	two-six links: 2
+{'pitifully': 1, 'singly': 1}
+	Seven-eleven links: 15
+{'admittance': 4, 'buys': 1, 'cases': 1, 'chambers': 3, 'coffer': 2, 'dispense': 1, 'draught': 1, 'mire': 1, 'worships': 1}
+
+TIMnsh.txt and WT.txt links:
+	Total links: 46
+	two-six links: 17
+{'arrive': 2, 'churl': 1, 'deities': 1, "equall'd": 1, 'expose': 1, 'feasted': 1, "feel't": 2, 'fees': 1, "from't": 2, 'gust': 1, 'importunate': 1, "redeem'd": 1, 'slide': 1, 'waiting': 1}
+	Seven-eleven links: 29
+{"'t": 2, 'ages': 2, 'alteration': 2, 'betters': 1, 'bloods': 1, 'cases': 1, 'concern': 1, "conjur'd": 1, 'derive': 1, "done't": 1, 'draught': 1, 'feasting': 1, 'harlot': 1, "he'ld": 1, 'malady': 1, 'merits': 1, 'needless': 1, 'rarely': 1, 'rashness': 2, 'reckon': 1, "saw'st": 1, "they're": 1, 'unluckily': 1, 'wages': 1, 'welcomes': 1}
+
+TIMnsh.txt and x1H4.txt links:
+	Total links: 30
+	two-six links: 17
+{'affable': 1, 'befriend': 1, 'equals': 1, 'harness': 1, 'infinitely': 1, 'lag': 1, 'loaden': 1, 'molten': 1, 'mutter': 1, "redeem'd": 1, 'shorter': 1, 'victories': 1, 'virtuously': 1, 'waiting': 1, 'wards': 1, 'washes': 1, 'wooed': 1}
+	Seven-eleven links: 13
+{"borrow'd": 1, 'bountiful': 2, 'bruise': 2, 'cases': 1, 'physicians': 1, 'shrunk': 1, "stepp'd": 1, 'striving': 1, "sun's": 1, 'vapors': 1, 'whereby': 1}
+
+TIMnsh.txt and x1H6sh.txt links:
+	Total links: 4
+	two-six links: 1
+{"pitch'd": 1}
+	Seven-eleven links: 3
+{'gloss': 1, 'sending': 2}
+
+TIMnsh.txt and x2H4.txt links:
+	Total links: 30
+	two-six links: 6
+{'creditors': 1, "endear'd": 2, 'infinitely': 1, 'inwardly': 1, 'tiring': 1}
+	Seven-eleven links: 24
+{'admittance': 2, 'alteration': 1, 'betters': 1, "borrow'd": 1, 'chambers': 2, 'concern': 1, 'extremest': 1, "famish'd": 1, "friend's": 1, "lik'd": 1, 'malady': 1, 'overcome': 1, 'received': 1, 'sprung': 1, 'suffering': 1, 'unluckily': 1, 'vapors': 1, "villain's": 1, 'wages': 1, 'whereby': 3}
+
+TIMnsh.txt and x2H6sh.txt links:
+	Total links: 13
+	two-six links: 6
+{'affable': 1, 'churl': 1, "days'": 1, 'diamonds': 1, "land's": 1, 'villainies': 1}
+	Seven-eleven links: 7
+{"borrow'd": 1, 'conflict': 1, 'flinty': 1, 'lived': 1, 'resemble': 1, "sun's": 2}
+
+TIMnsh.txt and x3H6sh.txt links:
+	Total links: 29
+	two-six links: 15
+{'cheers': 1, "days'": 1, 'depth': 1, 'diamonds': 1, 'doubting': 2, "ere't": 1, 'greyhounds': 1, 'gust': 2, 'impiety': 1, 'lasts': 1, 'outrages': 1, 'prolong': 1, "trumpet's": 1}
+	Seven-eleven links: 14
+{'commanding': 1, 'conflict': 1, 'flinty': 2, 'patron': 1, 'sending': 2, 'sprung': 1, 'strives': 1, 'striving': 1, 'sways': 2, 'vapors': 1, 'wealthy': 1}
+

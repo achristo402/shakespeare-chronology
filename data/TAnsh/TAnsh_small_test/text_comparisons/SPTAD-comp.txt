@@ -1,0 +1,315 @@
+SPTAD.txt and ADO.txt links:
+	Total links: 9
+	two-six links: 2
+{'alley': 2}
+	Seven-eleven links: 7
+{'massy': 1, 'pedro': 5, 'prouder': 1}
+
+SPTAD.txt and ANT.txt links:
+	Total links: 8
+	two-six links: 3
+{"heav'ns": 1, 'nineteen': 1, "rear'd": 1}
+	Seven-eleven links: 5
+{'acted': 1, 'creeps': 1, "pow'rful": 1, 'rear': 1, 'roll': 1}
+
+SPTAD.txt and ARDsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'murderer': 1}
+	Seven-eleven links: 1
+{'leaning': 1}
+
+SPTAD.txt and AWWsh.txt links:
+	Total links: 13
+	two-six links: 7
+{'furies': 1, 'jarring': 1, 'kernel': 1, 'lump': 1, 'pitchy': 1, 'tortures': 1, 'waiting': 1}
+	Seven-eleven links: 6
+{'cutting': 1, "desp'rate": 1, 'duly': 1, "name's": 1, 'scornful': 1, 'stings': 1}
+
+SPTAD.txt and AYL.txt links:
+	Total links: 5
+	two-six links: 2
+{'bushes': 1, 'slut': 1}
+	Seven-eleven links: 3
+{'childish': 1, 'mines': 1, 'stature': 1}
+
+SPTAD.txt and COR.txt links:
+	Total links: 7
+	two-six links: 4
+{'afire': 1, 'gird': 1, "stor'd": 1, 'ungrateful': 1}
+	Seven-eleven links: 3
+{'childish': 1, 'ounce': 1, 'pins': 1}
+
+SPTAD.txt and CYM.txt links:
+	Total links: 17
+	two-six links: 4
+{'legion': 1, 'pool': 1, 'scowl': 1, 'trice': 1}
+	Seven-eleven links: 13
+{'blowing': 1, "boy's": 1, 'creeps': 1, 'duly': 1, "murd'rous": 1, 'prouder': 1, 'reserve': 1, 'rides': 1, 'scornful': 1, 'starting': 1, 'striking': 1, "supp'd": 1, 'taper': 1}
+
+SPTAD.txt and E3sh.txt links:
+	Total links: 5
+	two-six links: 3
+{'distraught': 1, 'invocate': 1, 'legion': 1}
+	Seven-eleven links: 2
+{'massy': 1, 'taper': 1}
+
+SPTAD.txt and ERR.txt links:
+	Total links: 8
+	two-six links: 1
+{'ballast': 1}
+	Seven-eleven links: 7
+{'balthazar': 2, 'reserve': 1, 'rides': 1, 'ruins': 1, 'sprites': 1, 'such-like': 1}
+
+SPTAD.txt and H5.txt links:
+	Total links: 11
+	two-six links: 4
+{'ball': 1, 'furies': 1, 'jutty': 1, 'spotless': 1}
+	Seven-eleven links: 7
+{'duly': 1, 'james': 1, 'mines': 1, 'pry': 1, 'range': 1, 'riots': 1, 'stings': 1}
+
+SPTAD.txt and H8sh.txt links:
+	Total links: 7
+	two-six links: 4
+{'gallery': 1, "heav'n": 1, 'persuasions': 1, 'tempting': 1}
+	Seven-eleven links: 3
+{'duly': 1, 'range': 1, 'shone': 1}
+
+SPTAD.txt and HAM.txt links:
+	Total links: 19
+	two-six links: 5
+{'croaking': 1, 'extinct': 1, 'raves': 1, 'remiss': 1, 'thereabout': 1}
+	Seven-eleven links: 14
+{'acted': 1, 'applaud': 1, "desp'rate": 1, 'massy': 1, 'mines': 1, "murd'rous": 1, "name's": 1, 'range': 1, 'rear': 1, 'reserve': 1, 'stature': 1, 'striking': 1, 'such-like': 1, 'whips': 1}
+
+SPTAD.txt and JC.txt links:
+	Total links: 9
+	two-six links: 3
+{'murderers': 2, 'shrieking': 1}
+	Seven-eleven links: 6
+{'acted': 1, "murd'rous": 1, "name's": 1, 'range': 1, 'ruins': 1, 'taper': 1}
+
+SPTAD.txt and JN.txt links:
+	Total links: 10
+	two-six links: 3
+{"heav'n": 1, 'slippers': 1, "stor'd": 1}
+	Seven-eleven links: 7
+{'cutting': 1, 'dive': 1, 'doleful': 1, 'james': 1, 'leaning': 1, 'prouder': 1, 'rape': 1}
+
+SPTAD.txt and LC.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SPTAD.txt and LLL.txt links:
+	Total links: 8
+	two-six links: 3
+{"liege's": 1, 'manus': 1, "short-liv'd": 1}
+	Seven-eleven links: 5
+{"boy's": 1, 'cutting': 1, 'ounce': 1, 'pins': 1, 'roll': 1}
+
+SPTAD.txt and LR.txt links:
+	Total links: 14
+	two-six links: 6
+{'hecat': 1, 'jarring': 1, 'murderers': 1, 'pool': 1, "stor'd": 1, 'trice': 1}
+	Seven-eleven links: 8
+{"boy's": 1, "name's": 1, 'ounce': 1, 'pins': 1, 'reserve': 1, 'riots': 1, 'scornful': 1, 'slack': 1}
+
+SPTAD.txt and LUC.txt links:
+	Total links: 19
+	two-six links: 6
+{'bushes': 1, 'meantime': 1, 'pitchy': 1, 'rave': 1, 'spotless': 1, 'trance': 1}
+	Seven-eleven links: 13
+{'childish': 1, 'creeps': 1, "desp'rate": 1, 'doleful': 1, "murd'rous": 1, 'rape': 1, 'roll': 1, 'ruins': 1, 'scornful': 1, 'striking': 1, 'survive': 2, 'toads': 1}
+
+SPTAD.txt and MAC.txt links:
+	Total links: 12
+	two-six links: 2
+{'hecat': 1, 'jutty': 1}
+	Seven-eleven links: 10
+{'acted': 1, 'applaud': 1, 'creeps': 1, "name's": 1, "pow'rful": 1, 'rides': 1, 'sprites': 2, 'starting': 1, "supp'd": 1}
+
+SPTAD.txt and MMsh.txt links:
+	Total links: 12
+	two-six links: 3
+{'nineteen': 1, 'remiss': 1, 'rupture': 1}
+	Seven-eleven links: 9
+{'duly': 1, 'isabella': 5, 'stings': 1, 'striking': 1, 'whips': 1}
+
+SPTAD.txt and MND.txt links:
+	Total links: 11
+	two-six links: 5
+{'bushes': 1, 'frolic': 1, 'furies': 1, 'tempting': 1, 'ungrateful': 1}
+	Seven-eleven links: 6
+{'creeps': 1, 'ounce': 1, 'rear': 1, 'roll': 1, 'scornful': 1, 'shone': 1}
+
+SPTAD.txt and MV.txt links:
+	Total links: 6
+	two-six links: 0
+{}
+	Seven-eleven links: 6
+{'balthazar': 2, 'cutting': 1, 'leaps': 1, 'prouder': 1, 'shone': 1}
+
+SPTAD.txt and OTH.txt links:
+	Total links: 13
+	two-six links: 2
+{'murderer': 1, 'night-cap': 1}
+	Seven-eleven links: 11
+{'blowing': 1, 'mines': 1, "murd'rous": 1, "murder'd": 1, "pow'rful": 1, 'roll': 1, 'slack': 1, 'stings': 1, "supp'd": 1, 'taper': 1, 'toads': 1}
+
+SPTAD.txt and PERsh.txt links:
+	Total links: 9
+	two-six links: 4
+{'doest': 1, 'murderer': 1, 'tottering': 1, 'weave': 1}
+	Seven-eleven links: 5
+{'leaps': 1, 'reserve': 1, 'rides': 1, 'slack': 1, 'stature': 1}
+
+SPTAD.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SPTAD.txt and R2.txt links:
+	Total links: 14
+	two-six links: 7
+{'ball': 1, 'extinct': 1, 'insatiate': 1, "pale-fac'd": 1, 'remiss': 1, 'scowl': 1, 'spotless': 1}
+	Seven-eleven links: 7
+{'dive': 1, 'duly': 1, 'pins': 1, 'range': 1, 'rear': 1, 'taper': 1, 'toads': 1}
+
+SPTAD.txt and R3.txt links:
+	Total links: 24
+	two-six links: 12
+{'distraught': 1, "engross'd": 1, 'furies': 1, "heav'n": 1, 'inestimable': 1, 'insatiate': 1, 'invocate': 1, 'legion': 1, 'lump': 1, 'mid': 1, 'ungrateful': 1, 'waiting': 1}
+	Seven-eleven links: 12
+{'childish': 1, "desp'rate": 1, 'dive': 1, 'ignoble': 1, 'james': 1, "murd'rous": 1, "pow'rful": 1, 'pry': 1, 'ruins': 1, 'slack': 1, 'such-like': 1, 'toads': 1}
+
+SPTAD.txt and ROM.txt links:
+	Total links: 16
+	two-six links: 6
+{'afire': 1, 'ball': 1, 'distraught': 1, 'drag': 1, 'murderer': 1, 'pouts': 1}
+	Seven-eleven links: 10
+{'acted': 1, 'childish': 1, 'cutting': 1, "desp'rate": 1, 'doleful': 1, 'james': 1, "murder'd": 1, "name's": 1, 'pry': 1, 'slack': 1}
+
+SPTAD.txt and SHR.txt links:
+	Total links: 11
+	two-six links: 6
+{'frolic': 1, 'gird': 1, 'jarring': 1, 'slippers': 1, 'tempting': 1, 'trance': 1}
+	Seven-eleven links: 5
+{'blowing': 1, 'pry': 1, 'scornful': 1, 'slack': 1, 'survive': 1}
+
+SPTAD.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SPTAD.txt and TAnsh.txt links:
+	Total links: 5
+	two-six links: 1
+{'spotless': 1}
+	Seven-eleven links: 4
+{'applaud': 1, 'rape': 1, 'survive': 2}
+
+SPTAD.txt and TGV.txt links:
+	Total links: 8
+	two-six links: 1
+{"heav'n": 1}
+	Seven-eleven links: 7
+{'acted': 1, 'applaud': 1, "boy's": 1, 'pins': 1, 'stature': 1, 'stings': 1, 'whips': 1}
+
+SPTAD.txt and TIMsh.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'dive': 1, 'reserve': 1, 'whips': 1}
+
+SPTAD.txt and TMP.txt links:
+	Total links: 15
+	two-six links: 5
+{'afire': 1, 'mid': 1, 'pool': 1, 'shrieking': 1, 'trice': 1}
+	Seven-eleven links: 10
+{"boy's": 1, 'cutting': 1, 'dive': 1, 'ignoble': 1, 'massy': 1, 'rear': 1, 'sprites': 2, 'such-like': 1, 'toads': 1}
+
+SPTAD.txt and TN.txt links:
+	Total links: 9
+	two-six links: 4
+{'legion': 1, 'rave': 1, 'trice': 1, 'weave': 1}
+	Seven-eleven links: 5
+{"murd'rous": 1, "name's": 1, 'ounce': 1, 'range': 1, 'reserve': 1}
+
+SPTAD.txt and TNKsh.txt links:
+	Total links: 5
+	two-six links: 2
+{'bacon': 1, 'extinct': 1}
+	Seven-eleven links: 3
+{'blowing': 1, 'ruins': 1, 'stings': 1}
+
+SPTAD.txt and TRO.txt links:
+	Total links: 21
+	two-six links: 6
+{'inestimable': 1, 'kernel': 1, 'raves': 1, "rear'd": 1, 'remiss': 1, "unsquar'd": 1}
+	Seven-eleven links: 15
+{'cutting': 1, 'leaning': 1, 'leaps': 1, 'massy': 1, 'prouder': 1, 'rape': 1, 'rear': 1, 'reserve': 1, 'rides': 1, 'slack': 1, 'sprites': 1, 'starting': 2, 'such-like': 1, 'toads': 1}
+
+SPTAD.txt and VEN.txt links:
+	Total links: 12
+	two-six links: 4
+{'bushes': 1, "pale-fac'd": 1, 'pitchy': 1, 'tempting': 1}
+	Seven-eleven links: 8
+{'childish': 1, 'leaning': 1, 'leaps': 1, 'scornful': 1, 'shone': 1, 'striking': 1, 'such-like': 1, 'survive': 1}
+
+SPTAD.txt and WIV.txt links:
+	Total links: 7
+	two-six links: 2
+{'bacon': 1, 'seemingly': 1}
+	Seven-eleven links: 5
+{'blowing': 1, 'riots': 1, 'scornful': 1, 'slack': 1, 'stature': 1}
+
+SPTAD.txt and WT.txt links:
+	Total links: 24
+	two-six links: 9
+{'drag': 1, 'eyebrows': 1, 'gallery': 1, 'kernel': 1, 'nineteen': 1, "rear'd": 1, 'spotless': 1, 'tortures': 1, 'waiting': 1}
+	Seven-eleven links: 15
+{'acted': 1, "boy's": 1, 'childish': 1, 'doleful': 1, 'ignoble': 1, 'leaning': 1, 'ounce': 1, 'pins': 1, "pow'rful": 1, 'rear': 1, 'rides': 1, 'shone': 1, 'sprites': 2, 'toads': 1}
+
+SPTAD.txt and x1H4.txt links:
+	Total links: 16
+	two-six links: 7
+{'bacon': 1, 'ball': 1, 'doest': 1, 'drag': 1, "pale-fac'd": 1, "villains'": 1, 'waiting': 1}
+	Seven-eleven links: 9
+{'applaud': 1, "boy's": 1, 'dive': 1, 'leaning': 1, 'mines': 1, 'pry': 1, 'range': 1, 'rides': 1, 'roll': 1}
+
+SPTAD.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'remiss': 1}
+	Seven-eleven links: 0
+{}
+
+SPTAD.txt and x2H4.txt links:
+	Total links: 19
+	two-six links: 6
+{'ball': 1, 'gird': 1, "heav'n": 1, "liege's": 1, 'tolling': 1, 'tortures': 1}
+	Seven-eleven links: 13
+{'blowing': 1, 'doleful': 1, 'pins': 1, 'rides': 1, 'riots': 1, 'roll': 1, 'ruins': 1, 'starting': 1, 'stature': 1, 'stings': 1, 'striking': 1, "supp'd": 1, 'survive': 1}
+
+SPTAD.txt and x2H6sh.txt links:
+	Total links: 8
+	two-six links: 3
+{'drag': 1, "pale-fac'd": 1, 'tortures': 1}
+	Seven-eleven links: 5
+{'cutting': 1, 'ignoble': 1, "murd'rous": 1, 'rear': 1, 'stings': 1}
+
+SPTAD.txt and x3H6sh.txt links:
+	Total links: 10
+	two-six links: 4
+{'lump': 1, 'pitchy': 1, 'rave': 1, 'tortures': 1}
+	Seven-eleven links: 6
+{'blowing': 1, 'childish': 1, "desp'rate": 1, 'ignoble': 1, 'range': 1, 'rear': 1}
+

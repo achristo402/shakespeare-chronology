@@ -1,0 +1,476 @@
+TAnsh.txt and ADO.txt links:
+	Total links: 10
+	two-six links: 3
+{'consummate': 1, 'controlment': 1, 'dumps': 1}
+	Seven-eleven links: 7
+{'impiety': 1, 'obtain': 1, 'piety': 1, 'planted': 1, 'propose': 1, "reconcil'd": 1, 'son-in-law': 1}
+
+TAnsh.txt and ALCH.txt links:
+	Total links: 15
+	two-six links: 7
+{'appease': 1, "brethren's": 1, "gallant'st": 1, 'infuse': 1, 'lovingly': 1, 'panther': 1, 'served': 1}
+	Seven-eleven links: 8
+{'ad': 1, 'adorn': 1, 'charming': 1, 'coach': 1, 'earthy': 1, 'family': 1, 'piety': 1, 'righteous': 1}
+
+TAnsh.txt and ANT.txt links:
+	Total links: 13
+	two-six links: 7
+{'competitor': 1, 'competitors': 1, 'laden': 1, 'laurel': 1, 'salutes': 1, 'sued': 1, 'thracian': 1}
+	Seven-eleven links: 6
+{"broach'd": 1, 'chariot': 1, 'discontents': 1, 'planted': 1, 'plebeians': 1, 'swells': 1}
+
+TAnsh.txt and ARDnsh.txt links:
+	Total links: 15
+	two-six links: 8
+{'accomplish': 1, 'brabble': 1, 'engines': 1, "flourish'd": 1, 'glued': 1, 'lovingly': 1, 'shipwrack': 1, 'warrants': 1}
+	Seven-eleven links: 7
+{"displeas'd": 1, 'lawless': 1, 'mildly': 1, 'obsequies': 1, 'pile': 1, 'pretend': 1, "reconcil'd": 1}
+
+TAnsh.txt and ARDsh.txt links:
+	Total links: 4
+	two-six links: 1
+{'seizeth': 1}
+	Seven-eleven links: 3
+{'cleanly': 1, 'massacre': 1, 'new-made': 1}
+
+TAnsh.txt and AWWnsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and AWWsh.txt links:
+	Total links: 8
+	two-six links: 3
+{'engines': 1, 'indignity': 1, 'undertook': 1}
+	Seven-eleven links: 5
+{'humbleness': 1, 'pile': 1, 'propose': 1, "reconcil'd": 1, 'son-in-law': 1}
+
+TAnsh.txt and AYL.txt links:
+	Total links: 12
+	two-six links: 4
+{'adopted': 1, 'brides': 1, 'gallops': 1, 'successfully': 1}
+	Seven-eleven links: 8
+{'bandy': 1, 'brawls': 1, 'clubs': 1, 'first-born': 1, 'groaning': 1, 'hart': 1, 'humbleness': 1, 'religiously': 1}
+
+TAnsh.txt and COR.txt links:
+	Total links: 26
+	two-six links: 7
+{'accomplish': 1, "barr'st": 1, 'defender': 1, 'doings': 1, 'indifferently': 1, "senate's": 1, 'unburied': 1}
+	Seven-eleven links: 19
+{'accompany': 1, 'admits': 1, 'clubs': 2, "consum'd": 1, "controll'd": 1, 'dames': 1, "enemies'": 1, 'factions': 1, 'gratify': 1, 'hew': 1, 'incorporate': 1, 'mildly': 1, 'pile': 2, 'planted': 1, 'plebeians': 1, 'tapers': 1, 'traitorous': 1}
+
+TAnsh.txt and CYM.txt links:
+	Total links: 18
+	two-six links: 6
+{'appease': 1, 'empery': 1, 'fealty': 1, 'headless': 1, 'knighted': 1, 'reflect': 1}
+	Seven-eleven links: 12
+{'charming': 1, 'cordial': 1, "enemies'": 1, 'gratify': 1, 'jet': 1, "lopp'd": 1, 'obsequies': 1, 'pretend': 1, 'slavish': 1, 'son-in-law': 1, 'sufficeth': 1, 'tributary': 1}
+
+TAnsh.txt and E3nsh.txt links:
+	Total links: 20
+	two-six links: 11
+{'elect': 1, 'ensigns': 1, 'fealty': 1, 'flash': 1, 'gratulate': 1, 'laden': 1, 'laurel': 1, 'manfully': 1, 'servitors': 1, 'sheath': 1, 'successfully': 1}
+	Seven-eleven links: 9
+{"controll'd": 1, "displeas'd": 1, 'groaning': 1, 'lawless': 1, 'obtain': 1, 'sheathe': 1, 'tapers': 1, 'traitorous': 1, 'treasury': 1}
+
+TAnsh.txt and E3sh.txt links:
+	Total links: 14
+	two-six links: 6
+{'beautify': 1, 'ensigns': 1, 'flash': 1, 'languishment': 1, 'lovingly': 1, 'thrice-noble': 1}
+	Seven-eleven links: 8
+{'bandy': 1, 'brawls': 1, 'coach': 1, "controll'd": 1, 'hew': 1, 'hover': 1, "lopp'd": 1, 'treasury': 1}
+
+TAnsh.txt and ERR.txt links:
+	Total links: 14
+	two-six links: 4
+{'indignity': 1, 'mishaps': 1, 'siren': 1, 'unspeakable': 1}
+	Seven-eleven links: 10
+{'brawls': 1, 'consecrate': 1, "displeas'd": 1, "disturb'd": 1, 'earthy': 1, 'incorporate': 1, 'mildly': 1, 'openly': 1, 'patron': 1, 'trembles': 1}
+
+TAnsh.txt and H5.txt links:
+	Total links: 24
+	two-six links: 13
+{'betrothed': 1, 'bon': 1, 'empery': 1, "espous'd": 1, 'espouse': 1, "fett'red": 1, 'graciously': 1, 'indifferently': 1, 'ripen': 1, "sheath'd": 1, 'spousal': 1, "suffer'st": 1, 'wots': 1}
+	Seven-eleven links: 11
+{'chariot': 1, 'charming': 1, 'dames': 1, "disturb'd": 1, 'family': 1, 'incorporate': 1, 'piety': 1, 'plebeians': 1, 'religiously': 1, 'sheathe': 1, 'spotless': 1}
+
+TAnsh.txt and H8nsh.txt links:
+	Total links: 11
+	two-six links: 4
+{"flourish'd": 1, 'inter': 1, 'salutes': 1, 'sued': 1}
+	Seven-eleven links: 7
+{'clubs': 1, 'cordial': 1, 'earthy': 1, 'frankly': 1, 'righteous': 1, 'spotless': 1, 'strengthen': 1}
+
+TAnsh.txt and H8sh.txt links:
+	Total links: 8
+	two-six links: 4
+{'elect': 1, 'handmaid': 1, 'rays': 1, 'tractable': 1}
+	Seven-eleven links: 4
+{'groaning': 1, 'humbleness': 1, 'sheathe': 1, 'son-in-law': 1}
+
+TAnsh.txt and HAM.txt links:
+	Total links: 22
+	two-six links: 9
+{'flash': 1, 'hundreth': 1, 'indifferently': 1, 'inter': 1, 'served': 1, 'speedier': 1, 'stoops': 1, 'successive': 1, "vulcan's": 1}
+	Seven-eleven links: 13
+{'coach': 1, 'frankly': 1, 'groaning': 1, 'hart': 1, 'hover': 1, 'lawless': 1, 'obsequies': 1, 'pile': 1, 'propose': 1, 'strengthen': 1, 'traitorous': 1, 'tributary': 1, 'trophies': 1}
+
+TAnsh.txt and HAMQ1.txt links:
+	Total links: 10
+	two-six links: 4
+{'indifferently': 1, 'liberality': 1, 'served': 1, "tend'ring": 1}
+	Seven-eleven links: 6
+{'adorn': 1, 'groaning': 1, 'hover': 1, 'jet': 1, 'lawless': 1, 'propose': 1}
+
+TAnsh.txt and JC.txt links:
+	Total links: 20
+	two-six links: 7
+{'flash': 1, "flourish'd": 1, 'funerals': 1, 'indifferently': 1, 'prodigies': 1, 'rays': 1, 'ruffle': 1}
+	Seven-eleven links: 13
+{'chariot': 1, "consum'd": 1, "displeas'd": 1, 'groaning': 1, 'grudge': 1, 'hart': 1, 'hew': 1, 'incorporate': 1, 'repute': 1, 'sheathe': 1, 'strengthen': 1, 'sufficeth': 1, 'trophies': 1}
+
+TAnsh.txt and JN.txt links:
+	Total links: 19
+	two-six links: 8
+{'consummate': 1, 'controlment': 1, 'knighted': 1, 'onset': 1, 'overlooks': 1, 'prodigies': 1, "thunder's": 1, "unadvis'd": 1}
+	Seven-eleven links: 11
+{'braver': 1, 'discontents': 1, "disturb'd": 1, 'earthy': 1, "enemies'": 1, 'new-made': 1, "reconcil'd": 1, 'religiously': 1, 'sheathe': 1, 'slaughtered': 1, 'strengthen': 1}
+
+TAnsh.txt and KNACKsh.txt links:
+	Total links: 2
+	two-six links: 2
+{'challenged': 1, 'scythia': 1}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and LC.txt links:
+	Total links: 3
+	two-six links: 1
+{'ruffle': 1}
+	Seven-eleven links: 2
+{'jet': 1, 'trophies': 1}
+
+TAnsh.txt and LLL.txt links:
+	Total links: 23
+	two-six links: 11
+{'competitors': 1, "fame's": 1, 'gallops': 1, 'indignity': 1, 'mill': 1, 'phoebe': 1, 'rays': 1, 'remit': 1, 'reputes': 1, "tend'ring": 1, 'wean': 1}
+	Seven-eleven links: 12
+{'ad': 1, 'coach': 1, 'dames': 1, 'first-born': 1, 'gratify': 1, 'groaning': 1, 'patron': 1, 'planted': 1, 'religiously': 1, 'repute': 1, 'tapers': 1, 'trembles': 1}
+
+TAnsh.txt and LR.txt links:
+	Total links: 10
+	two-six links: 3
+{'adopted': 1, 'ruffle': 1, 'suum': 1}
+	Seven-eleven links: 7
+{'bandy': 1, "enemies'": 1, 'grudge': 1, 'patron': 1, 'swells': 1, 'traitorous': 1, 'treasury': 1}
+
+TAnsh.txt and LUC.txt links:
+	Total links: 23
+	two-six links: 12
+{'beautify': 1, 'dumps': 1, 'intrude': 1, 'languishment': 1, 'lurks': 1, 'onset': 1, 'servitors': 1, 'shadowed': 1, "sheath'd": 1, 'stoops': 1, 'suffrages': 1, 'surnamed': 1}
+	Seven-eleven links: 11
+{'admits': 1, 'adorn': 1, 'cleanly': 1, "controll'd": 1, 'family': 1, 'impiety': 1, 'obtain': 1, 'piety': 1, 'slavish': 1, 'spotless': 1, 'swells': 1}
+
+TAnsh.txt and MAC.txt links:
+	Total links: 11
+	two-six links: 1
+{'appease': 1}
+	Seven-eleven links: 10
+{'accompany': 1, 'dames': 1, 'frankly': 1, 'hew': 1, 'hover': 1, 'planted': 1, 'pretend': 1, "reconcil'd": 1, 'sheathe': 1, 'swells': 1}
+
+TAnsh.txt and MMsh.txt links:
+	Total links: 12
+	two-six links: 8
+{'betrothed': 1, 'consummate': 1, 'doings': 1, 'graciously': 1, 'gratulate': 1, 'remit': 1, 'successive': 1, 'warrants': 1}
+	Seven-eleven links: 4
+{'commonweal': 1, 'frankly': 1, 'groaning': 1, 'lawless': 1}
+
+TAnsh.txt and MND.txt links:
+	Total links: 12
+	two-six links: 5
+{'betrothed': 1, 'funerals': 1, 'headless': 1, 'phoebe': 1, 'thracian': 1}
+	Seven-eleven links: 7
+{'accompany': 1, 'brawls': 1, "broach'd": 1, 'consecrate': 1, "disturb'd": 1, 'incorporate': 1, 'nymphs': 1}
+
+TAnsh.txt and MUC.txt links:
+	Total links: 7
+	two-six links: 5
+{'doings': 1, "envy's": 1, 'lurks': 1, 'stoops': 1, "wishes'": 1}
+	Seven-eleven links: 2
+{"disturb'd": 1, 'obtain': 1}
+
+TAnsh.txt and MV.txt links:
+	Total links: 17
+	two-six links: 8
+{'bon': 1, "envy's": 1, 'gramercy': 1, 'infuse': 1, 'lading': 1, 'shadowed': 1, 'stoops': 1, 'undertook': 1}
+	Seven-eleven links: 9
+{'braver': 1, 'coach': 1, "displeas'd": 1, 'gratify': 1, 'grudge': 1, 'humbleness': 1, 'jet': 1, 'planted': 1, 'slavish': 1}
+
+TAnsh.txt and OTH.txt links:
+	Total links: 18
+	two-six links: 8
+{'engines': 1, 'indignity': 1, 'intrude': 1, 'nephews': 1, 'saidst': 1, 'trump': 1, 'undertook': 1, "yok'd": 1}
+	Seven-eleven links: 10
+{'consecrate': 1, 'dames': 1, 'family': 1, 'frankly': 1, 'gratify': 1, 'incorporate': 1, 'propose': 1, 'repute': 1, 'son-in-law': 1, 'tapers': 1}
+
+TAnsh.txt and PERnsh.txt links:
+	Total links: 8
+	two-six links: 3
+{'favorers': 1, 'shipwrack': 1, 'suffrages': 1}
+	Seven-eleven links: 5
+{'chariot': 1, 'dames': 1, 'gratify': 1, 'per': 2}
+
+TAnsh.txt and PERsh.txt links:
+	Total links: 6
+	two-six links: 4
+{'beautify': 1, 'graciously': 1, 'saidst': 1, 'tractable': 1}
+	Seven-eleven links: 2
+{'obtain': 1, 'strengthen': 1}
+
+TAnsh.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and R2.txt links:
+	Total links: 27
+	two-six links: 14
+{'caucasus': 1, 'champions': 1, 'cometh': 1, 'elect': 1, "envy's": 1, 'fealty': 1, 'flourishing': 1, 'forfend': 1, 'rase': 1, 'ripen': 1, 'sacrificing': 1, 'supplant': 1, "tend'ring": 1, 'thrice-noble': 1}
+	Seven-eleven links: 13
+{"consum'd": 1, 'earthy': 1, 'jar': 1, 'mildly': 1, 'new-made': 1, 'obtain': 1, 'planted': 1, 'slaughtered': 1, 'slavish': 1, 'spotless': 1, 'swells': 1, 'treasury': 1, 'trembles': 1}
+
+TAnsh.txt and R3.txt links:
+	Total links: 26
+	two-six links: 14
+{'appease': 1, 'chastised': 1, 'competitors': 1, 'empery': 1, 'espouse': 1, 'gramercy': 1, 'gratulate': 1, 'inter': 1, 'rase': 1, 're-edified': 1, 'readiest': 1, 'sued': 1, "tend'ring": 1, 'tractable': 1}
+	Seven-eleven links: 12
+{'adorn': 1, "betroth'd": 1, "consum'd": 1, 'cordial': 1, "displeas'd": 1, 'grudge': 1, 'hover': 1, 'lawless': 1, 'massacre': 1, "reconcil'd": 1, 'slaughtered': 1, 'trembles': 1}
+
+TAnsh.txt and ROM.txt links:
+	Total links: 29
+	two-six links: 12
+{"aspir'd": 1, 'beautify': 1, 'bon': 1, 'dumps': 1, 'gallops': 1, 'jour': 1, 'lath': 1, 'manes': 1, 'receptacle': 1, 'sheath': 1, "titan's": 1, "unadvis'd": 1}
+	Seven-eleven links: 17
+{'bandy': 1, "betroth'd": 1, 'brawls': 1, 'chariot': 1, 'clubs': 1, 'cordial': 1, "displeas'd": 1, "disturb'd": 1, 'groaning': 1, 'grudge': 1, 'incorporate': 1, 'new-made': 1, 'obsequies': 1, 'righteous': 1, 'son-in-law': 1, 'trembles': 1, 'tributary': 1}
+
+TAnsh.txt and SHR.txt links:
+	Total links: 23
+	two-six links: 12
+{"'larums": 1, 'braves': 1, 'daunt': 1, 'dumps': 1, "keeper's": 1, 'liberality': 1, 'readiest': 1, 'semiramis': 1, 'successful': 1, 'successfully': 1, 'thrice-noble': 1, 'youngling': 1}
+	Seven-eleven links: 11
+{'accompany': 1, 'ad': 1, 'bandy': 1, "broach'd": 1, 'gratify': 1, 'openly': 1, 'patron': 1, 'propose': 1, 'repute': 1, 'son-in-law': 1, 'sufficeth': 1}
+
+TAnsh.txt and SON1.txt links:
+	Total links: 2
+	two-six links: 1
+{'successive': 1}
+	Seven-eleven links: 1
+{'nymphs': 1}
+
+TAnsh.txt and SON145.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and SON2.txt links:
+	Total links: 4
+	two-six links: 1
+{'onset': 1}
+	Seven-eleven links: 3
+{'consecrate': 1, "consum'd": 1, 'impiety': 1}
+
+TAnsh.txt and SON3.txt links:
+	Total links: 4
+	two-six links: 2
+{'graciously': 1, 'hundreth': 1}
+	Seven-eleven links: 2
+{'first-born': 1, 'trophies': 1}
+
+TAnsh.txt and SON4.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and SON5.txt links:
+	Total links: 1
+	two-six links: 1
+{'siren': 1}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and SPTAD.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'spotless': 1}
+
+TAnsh.txt and SPTKYD.txt links:
+	Total links: 27
+	two-six links: 16
+{'aut': 1, 'betrothed': 1, 'daunt': 1, 'funerals': 1, 'gramercy': 1, 'liberality': 1, 'mishaps': 1, 'phoebe': 1, 'readiest': 1, 'saidst': 1, 'styx': 1, 'successive': 1, 'survives': 1, 'thracian': 1, 'unburied': 1, 'unfrequented': 1}
+	Seven-eleven links: 11
+{'accompany': 1, 'chariot': 1, 'cleanly': 1, 'discontents': 1, 'obsequies': 1, 'per': 2, 'piety': 1, 'righteous': 1, 'slaughtered': 1, 'sufficeth': 1}
+
+TAnsh.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'loaf': 1}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and TAfly.txt links:
+	Total links: 2
+	two-six links: 1
+{'doings': 1}
+	Seven-eleven links: 1
+{"titus'": 1}
+
+TAnsh.txt and TAsh.txt links:
+	Total links: 39
+	two-six links: 14
+{"bassianus'": 1, 'braves': 1, "dismall'st": 1, 'gramercy': 1, 'irreligious': 1, 'nephews': 1, 'panther': 1, 'receptacle': 1, 'renowmed': 1, 'semiramis': 1, 'suffrages': 1, 'thracian': 1, "titan's": 1, 'unspeakable': 1}
+	Seven-eleven links: 25
+{'ad': 1, 'chiron': 1, "controll'd": 1, 'dames': 1, 'earthy': 1, 'emperess': 3, 'first-born': 1, 'gratify': 1, 'humbleness': 1, 'jet': 1, "lopp'd": 1, 'planted': 1, 'slaughtered': 1, 'spotless': 1, 'swells': 1, 'tapers': 1, "titus'": 3, 'traitorous': 2, 'trembles': 1, 'tributary': 1}
+
+TAnsh.txt and TGV.txt links:
+	Total links: 16
+	two-six links: 10
+{'competitor': 1, 'fealty': 1, 'flourishing': 1, 'manfully': 1, 'onset': 1, 'served': 1, 'survives': 1, "unadvis'd": 1, 'unfrequented': 1, 'wrongful': 1}
+	Seven-eleven links: 6
+{"betroth'd": 1, "displeas'd": 1, 'grudge': 1, 'lawless': 1, 'obtain': 1, 'repute': 1}
+
+TAnsh.txt and TIMnsh.txt links:
+	Total links: 6
+	two-six links: 3
+{'gratulate': 1, 'readiest': 1, 'trump': 1}
+	Seven-eleven links: 3
+{'factions': 1, 'impiety': 1, 'patron': 1}
+
+TAnsh.txt and TIMsh.txt links:
+	Total links: 8
+	two-six links: 1
+{'gramercy': 1}
+	Seven-eleven links: 7
+{'discontents': 1, 'frankly': 1, 'hew': 1, 'piety': 1, 'righteous': 1, 'swells': 1, 'trophies': 1}
+
+TAnsh.txt and TMP.txt links:
+	Total links: 11
+	two-six links: 3
+{'indignity': 1, 'supplant': 1, 'warrants': 1}
+	Seven-eleven links: 8
+{'braver': 1, "disturb'd": 1, 'earthy': 1, 'grudge': 1, 'nymphs': 1, 'pile': 2, 'strengthen': 1}
+
+TAnsh.txt and TN.txt links:
+	Total links: 7
+	two-six links: 5
+{'brabble': 1, 'competitors': 1, 'dissembled': 1, 'handmaid': 1, 'lath': 1}
+	Seven-eleven links: 2
+{"betroth'd": 1, 'hart': 1}
+
+TAnsh.txt and TNKnsh.txt links:
+	Total links: 7
+	two-six links: 4
+{'gallops': 1, "keeper's": 1, 'salutes': 1, 'unburied': 1}
+	Seven-eleven links: 3
+{'braver': 1, 'grudge': 1, 'spotless': 1}
+
+TAnsh.txt and TNKsh.txt links:
+	Total links: 7
+	two-six links: 4
+{'infuse': 1, 'nephews': 1, 'sheath': 1, 'wots': 1}
+	Seven-eleven links: 3
+{"broach'd": 1, 'first-born': 1, "reconcil'd": 1}
+
+TAnsh.txt and TRO.txt links:
+	Total links: 20
+	two-six links: 8
+{'forfend': 1, 'liberality': 1, 'lurks': 1, 'salutes': 1, 'styx': 1, 'tractable': 1, 'trump': 1, "vulcan's": 1}
+	Seven-eleven links: 12
+{'admits': 1, 'consecrate': 1, "consum'd": 1, 'dames': 1, "enemies'": 1, 'factions': 1, 'frankly': 1, 'hart': 1, 'jar': 1, 'per': 1, 'propose': 1, 'repute': 1}
+
+TAnsh.txt and VEN.txt links:
+	Total links: 20
+	two-six links: 10
+{'glued': 1, 'laden': 1, 'mishaps': 1, 'prodigies': 1, 'reflect': 1, 'remaineth': 1, 'salutes': 1, 'seizeth': 1, "sheath'd": 1, 'stoops': 1}
+	Seven-eleven links: 10
+{'chariot': 1, 'cleanly': 1, 'discontents': 1, 'incorporate': 1, 'jar': 1, 'nymphs': 1, 'patron': 1, 'trembles': 1, 'tributary': 1, 'trophies': 1}
+
+TAnsh.txt and WIV.txt links:
+	Total links: 9
+	two-six links: 3
+{'irreligious': 1, 'knighted': 1, 'miller': 1}
+	Seven-eleven links: 6
+{'admits': 1, 'coach': 1, 'righteous': 1, 'sheathe': 1, 'swells': 1, 'tapers': 1}
+
+TAnsh.txt and WT.txt links:
+	Total links: 20
+	two-six links: 9
+{'doings': 1, "flourish'd": 1, 'glistering': 1, 'mill': 1, 'proclamations': 1, 'reflect': 1, 'successful': 1, 'unspeakable': 1, "yok'd": 1}
+	Seven-eleven links: 11
+{'accompany': 1, 'cleanly': 1, "consum'd": 1, 'cordial': 1, 'jar': 1, 'openly': 1, 'piety': 1, "reconcil'd": 1, 'son-in-law': 1, 'spotless': 1, 'treasury': 1}
+
+TAnsh.txt and x1H4.txt links:
+	Total links: 16
+	two-six links: 7
+{'adopted': 1, 'lath': 1, 'ransomless': 1, 'renowmed': 1, 'saidst': 1, 'sheath': 1, 'tractable': 1}
+	Seven-eleven links: 9
+{'accompany': 1, 'braver': 1, 'charming': 1, 'cleanly': 1, 'discontents': 1, 'earthy': 1, "lopp'd": 1, 'repute': 1, 'son-in-law': 1}
+
+TAnsh.txt and x1H6nsh.txt links:
+	Total links: 28
+	two-six links: 12
+{'braves': 1, 'cometh': 1, 'elect': 1, 'ensigns': 1, 'forfend': 1, 'handmaid': 1, 'rays': 1, 'remaineth': 1, 'servitors': 1, 'shipwrack': 1, "tend'ring": 1, 'trump': 1}
+	Seven-eleven links: 16
+{'adorn': 1, "betroth'd": 1, 'braver': 1, 'charming': 1, 'clubs': 1, 'commonweal': 1, "enemies'": 1, 'factions': 1, 'grudge': 1, 'hew': 1, 'jar': 1, 'massacre': 1, 'obtain': 1, 'pretend': 1, 'righteous': 1, 'traitorous': 1}
+
+TAnsh.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'noble-minded': 1}
+	Seven-eleven links: 0
+{}
+
+TAnsh.txt and x2H4.txt links:
+	Total links: 11
+	two-six links: 5
+{"keeper's": 1, 'overween': 1, 'rase': 1, 'successful': 1, 'undertook': 1}
+	Seven-eleven links: 6
+{'admits': 1, 'first-born': 1, 'lawless': 1, 'openly': 2, 'propose': 1}
+
+TAnsh.txt and x2H6nsh.txt links:
+	Total links: 26
+	two-six links: 9
+{'affy': 1, 'ambitiously': 1, 'champions': 1, "espous'd": 1, 'espouse': 1, 'fealty': 1, 'headless': 1, 'lath': 1, 'sheath': 1}
+	Seven-eleven links: 17
+{'braver': 1, "broach'd": 1, 'commonweal': 3, "displeas'd": 1, 'hart': 1, 'hew': 1, 'jar': 1, 'jet': 1, "lopp'd": 1, 'new-made': 1, 'openly': 1, 'repute': 1, 'spotless': 1, 'sufficeth': 1, 'treasury': 1}
+
+TAnsh.txt and x2H6sh.txt links:
+	Total links: 7
+	two-six links: 5
+{'beautify': 1, 'forfend': 1, 'successive': 1, 'supplant': 1, 'thrice-noble': 1}
+	Seven-eleven links: 2
+{'earthy': 1, 'obsequies': 1}
+
+TAnsh.txt and x3H6nsh.txt links:
+	Total links: 12
+	two-six links: 5
+{'adopted': 1, 'laurel': 1, 'lurks': 1, 'successful': 1, 'thracian': 1}
+	Seven-eleven links: 7
+{"broach'd": 1, 'family': 1, 'new-made': 1, 'nymphs': 1, 'pretend': 1, "reconcil'd": 1, 'strengthen': 1}
+
+TAnsh.txt and x3H6sh.txt links:
+	Total links: 18
+	two-six links: 6
+{'accomplish': 1, 'adopted': 1, 'champions': 1, 'coffins': 1, 'infuse': 1, "keeper's": 1}
+	Seven-eleven links: 12
+{'bandy': 1, 'braver': 1, 'hew': 1, 'impiety': 1, "lopp'd": 1, 'obsequies': 1, 'obtain': 1, 'patron': 1, 'propose': 1, 'sheathe': 1, 'strengthen': 1, 'trembles': 1}
+

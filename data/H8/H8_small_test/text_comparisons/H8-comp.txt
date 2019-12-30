@@ -1,0 +1,315 @@
+H8.txt and ADO.txt links:
+	Total links: 73
+	two-six links: 27
+{'accusers': 1, 'agony': 1, 'converting': 1, 'correct': 1, 'dedicates': 1, 'discovers': 1, "ent'ring": 1, 'examination': 1, 'exclamation': 1, 'foulness': 1, 'heretic': 1, 'july': 1, 'lessen': 1, 'lighten': 1, 'muzzle': 1, 'obstinate': 1, "reform'd": 1, 'remnants': 1, 'reproaches': 1, 'sincerely': 1, 'spaniard': 1, 'undertakes': 1, 'untruths': 1, "utter'd": 1, 'vacant': 1, 'values': 1, 'verified': 1}
+	Seven-eleven links: 46
+{'agent': 1, 'appearance': 1, 'banquet': 2, "beggar's": 1, 'burden': 1, 'catching': 1, "challeng'd": 1, 'chapel': 1, "conceiv'd": 1, 'construction': 1, 'corner': 1, 'costly': 1, 'cow': 1, "cur'd": 1, 'disdainful': 1, 'ensuing': 1, "excus'd": 1, "fashion'd": 1, 'getting': 1, 'gloss': 1, 'grieved': 1, 'guarded': 1, 'happen': 1, 'hearers': 1, 'honorably': 1, 'however': 1, 'invited': 1, 'louder': 1, 'net': 1, 'proudest': 1, "rail'd": 1, "ravish'd": 1, 'repentance': 1, 'reputed': 1, 'scold': 1, 'slightly': 1, 'smart': 1, 'son-in-law': 1, 'sparks': 1, 'spell': 1, 'travail': 1, 'trusted': 1, 'upward': 1, 'wishing': 1, 'witnesses': 1}
+
+H8.txt and ANT.txt links:
+	Total links: 113
+	two-six links: 51
+{'accusations': 1, 'acquire': 1, "as't": 1, 'assuredly': 1, 'branded': 1, 'casts': 1, 'comforting': 1, 'declare': 1, 'determines': 1, 'disgraces': 1, 'dwarfish': 1, 'envied': 1, 'formerly': 1, "foul'st": 1, 'gem': 1, 'heaviest': 1, 'induce': 1, 'jaded': 1, 'meek': 1, "o'ertake": 1, 'outgo': 1, 'outstare': 1, 'pageants': 1, 'pales': 1, 'partners': 2, "perform't": 1, 'pinches': 1, 'realms': 1, "reckon'd": 1, 'reel': 1, 'salutes': 1, 'scatters': 1, 'separation': 1, "show'r": 1, 'showers': 1, 'sorely': 1, "spar'd": 1, 'steer': 1, 'sued': 1, 'tailors': 1, 'targets': 1, "though't": 1, 'tires': 1, "traduc'd": 1, 'treaty': 1, 'twins': 1, 'undoing': 1, 'unfolded': 1, 'usher': 1, 'wastes': 1}
+	Seven-eleven links: 62
+{'assembled': 1, 'barge': 2, "beggar's": 1, 'begs': 1, "by't": 1, 'capacity': 1, 'catching': 1, "caus'd": 1, 'claims': 1, 'consideration': 1, 'cow': 1, "cur'd": 1, 'darts': 1, "discharg'd": 1, 'discontented': 1, 'disdainful': 1, 'doctrine': 1, 'doubled': 1, 'earnestly': 1, 'entreats': 1, 'estates': 1, 'expected': 1, 'faints': 1, 'fishes': 1, 'forgo': 1, 'garlands': 1, 'getting': 1, 'graver': 1, 'grieved': 1, "hack'd": 1, 'healthful': 1, 'insolence': 1, 'invited': 1, 'kindle': 1, "kneel'd": 1, 'laying': 1, 'lighted': 1, 'mate': 1, 'mud': 1, 'navy': 1, "obey'd": 1, 'paces': 1, 'peck': 1, 'pestilent': 1, 'plate': 1, 'publicly': 1, "purchas'd": 1, "pursu'd": 1, "quarter'd": 1, "rain'd": 1, 'rend': 1, 'replied': 1, "requir'd": 1, 'rewards': 1, 'rooted': 1, 'spell': 1, 'staying': 1, 'sweep': 1, 'trusted': 1, 'utterly': 1, 'vine': 1}
+
+H8.txt and ARDsh.txt links:
+	Total links: 29
+	two-six links: 12
+{'accusations': 1, 'blew': 1, 'escapes': 1, "gather'd": 1, 'lop': 1, 'mistakes': 1, 'nips': 1, "produc'd": 1, "publish'd": 1, 'sect': 1, 'spells': 1, "whatsoe'er": 1}
+	Seven-eleven links: 17
+{'arguments': 1, 'audit': 1, 'bitterly': 1, 'blossoms': 1, 'doubled': 1, "dream'd": 1, "fancy's": 1, "miss'd": 1, 'odious': 1, 'pardons': 1, 'peck': 1, 'repentance': 1, 'rooted': 1, 'tenor': 1, 'thorny': 1, "travell'd": 1, "view'd": 1}
+
+H8.txt and AWWsh.txt links:
+	Total links: 105
+	two-six links: 43
+{"'longing": 1, 'appliance': 1, 'arrogance': 1, "as't": 1, 'bestowing': 2, "blam'd": 1, 'calumnious': 1, 'caution': 1, 'disgraces': 1, 'doctors': 1, 'eminent': 1, 'examination': 1, 'fadom': 1, "fail'd": 1, 'fondness': 1, 'furniture': 1, 'gem': 1, 'gossips': 1, "happen'd": 1, 'hats': 1, 'humbleness': 1, 'inducement': 1, 'judges': 1, 'justified': 1, 'limbo': 1, 'lump': 1, 'may-day': 1, 'mounts': 1, 'mule': 1, "patient's": 1, 'perfidious': 1, 'premises': 1, "reckon'd": 1, 'solicited': 1, 'sorely': 1, 'strove': 1, 'thinkings': 1, "traduc'd": 1, "truth's": 1, 'undoing': 1, 'warranted': 1, "will'd": 1}
+	Seven-eleven links: 62
+{"'t": 1, 'attorney': 1, 'besiege': 1, 'claims': 1, 'commendations': 2, 'complaints': 1, "conceiv'd": 1, 'confirmation': 1, "cur'd": 1, 'deem': 1, 'deliverance': 1, "discharg'd": 1, 'doctrine': 1, 'duly': 1, 'endeavors': 2, 'endless': 1, 'estates': 1, "excus'd": 1, 'faculties': 1, 'faithfully': 1, "fancy's": 1, 'fitness': 1, 'forgiven': 1, 'fresher': 1, 'fry': 1, 'gamester': 1, 'getting': 1, "great'st": 1, 'happen': 1, 'healthful': 1, "i'm": 1, 'importing': 1, "kneel'd": 1, "lordship's": 1, 'lousy': 1, 'malignant': 1, 'mistaken': 1, "obey'd": 1, 'odious': 1, 'parcels': 1, 'perils': 1, 'pretense': 1, 'progress': 1, 'remainder': 1, 'rend': 1, 'rooted': 1, 'snuff': 1, 'son-in-law': 1, 'sparks': 1, 'succeed': 1, 'succeeding': 1, 'syllable': 1, 'unfit': 1, 'unsettled': 1, 'usurping': 1, 'vainly': 1, 'verity': 1, 'vouch': 1, 'wins': 1, 'wishing': 1}
+
+H8.txt and AYL.txt links:
+	Total links: 83
+	two-six links: 34
+{'assuredly': 1, 'benefits': 1, 'clubs': 1, 'committing': 1, 'defied': 1, 'escapes': 1, 'exempt': 1, 'flocks': 1, 'foulness': 1, 'furnace': 1, 'grounded': 1, 'heathen': 1, 'humbleness': 1, 'lacking': 1, 'mounts': 1, 'pageants': 1, 'promotion': 1, "pull'd": 1, 'purgation': 1, 'rams': 1, 'rankness': 1, "silenc'd": 1, 'sounder': 1, 'span': 1, 'spitting': 1, 'stagger': 1, 'startle': 1, 'tailors': 1, 'tastes': 1, 'taxation': 1, 'timber': 1, 'unwillingly': 1, "ventur'd": 1, 'village': 1}
+	Seven-eleven links: 49
+{'attorney': 1, 'beggarly': 1, 'begs': 1, 'bites': 1, "challeng'd": 1, 'chapel': 1, 'chiding': 1, 'childish': 1, 'compounded': 1, "conceiv'd": 1, "cramm'd": 1, "cur'd": 2, 'disdainful': 1, 'entreaties': 1, 'faints': 1, 'faithfully': 1, 'filling': 1, 'freeze': 2, 'freshly': 1, 'gamester': 1, 'getting': 1, 'groaning': 1, "heap'd": 1, 'kindle': 1, 'latin': 1, 'motley': 1, 'nations': 1, 'odious': 1, 'paces': 1, 'pages': 1, 'parcels': 1, 'parish': 1, 'plenteous': 1, 'portion': 1, "rail'd": 1, 'remainder': 1, 'seventh': 1, 'shrink': 1, 'smart': 1, 'strains': 1, 'succor': 1, 'sweep': 1, 'thorny': 1, 'usurping': 1, 'verity': 1, 'wages': 1, 'wedlock': 1}
+
+H8.txt and COR.txt links:
+	Total links: 138
+	two-six links: 61
+{'abilities': 1, 'accusations': 1, 'accusers': 1, "anger's": 1, 'benefits': 1, 'bits': 1, 'butts': 1, 'caution': 1, "chaf'd": 1, 'clubs': 1, 'considering': 1, 'convented': 1, 'covetous': 1, 'dews': 2, 'disposing': 1, 'distribute': 1, 'doublets': 1, "enroll'd": 1, "enter'd": 1, 'envied': 1, "fellow's": 1, 'fines': 1, 'flung': 1, "forg'd": 1, 'formerly': 1, 'heaviest': 1, "induc'd": 1, 'inkling': 1, 'intercession': 1, 'inventory': 1, 'loaden': 1, 'maker': 1, 'mow': 1, 'mysteries': 1, 'obstinate': 1, 'officious': 1, 'opposing': 1, 'pibbles': 1, 'piles': 1, 'pitying': 1, 'potency': 1, 'prescription': 1, 'prudent': 1, "rebell'd": 1, 'reel': 1, "say't": 1, 'shunning': 1, "silenc'd": 1, 'sincerely': 1, 'speakest': 1, 'spoons': 1, "state's": 1, 'swiftness': 1, 'tailors': 1, 'threepence': 1, 'treaty': 1, 'upper': 1, "utter'd": 1, 'verified': 1, 'wagging': 1}
+	Seven-eleven links: 77
+{"'t": 1, 'accompanied': 1, 'allowance': 1, 'appearance': 1, 'attach': 1, 'audit': 1, "beggar's": 1, 'begging': 1, "by't": 1, 'capacity': 1, 'catching': 1, "caus'd": 1, 'chaff': 1, 'childish': 1, 'coal': 2, 'commanding': 1, 'compounded': 1, 'construction': 1, 'courts': 1, "cramm'd": 1, 'darts': 1, 'digest': 1, "discharg'd": 1, 'discontented': 1, 'distinctly': 1, 'doubled': 1, 'ensuing': 1, 'entreaties': 1, 'examples': 1, 'expected': 1, 'filling': 1, 'fitness': 1, "gall'd": 1, 'graver': 1, "great'st": 1, 'guarded': 1, "heap'd": 1, 'hopeless': 1, 'insolence': 1, 'issues': 1, 'kindle': 1, "kneel'd": 1, 'malicious': 2, 'minded': 1, "miss'd": 1, 'mistaken': 1, 'mould': 1, 'nations': 1, "obey'd": 2, 'pages': 1, 'parcels': 1, 'pardons': 1, 'peck': 1, 'poorest': 1, "quarter'd": 1, 'rabble': 1, 'reek': 1, 'rend': 1, 'replied': 1, "requir'd": 1, 'revengeful': 1, 'rewards': 1, 'scold': 1, 'smart': 1, 'spell': 1, "stamp'd": 1, 'staves': 1, 'steep': 1, 'strains': 1, 'troublesome': 1, 'verdict': 1, 'verity': 1, 'vouch': 1, 'whereby': 1}
+
+H8.txt and CYM.txt links:
+	Total links: 121
+	two-six links: 41
+{'afflictions': 1, 'ancestry': 1, 'becoming': 1, 'bores': 1, 'cherubins': 1, 'choir': 1, 'coasts': 1, 'declare': 1, 'defied': 1, 'eminent': 1, "enter'd": 1, 'favorer': 1, 'friended': 1, "gather'd": 1, 'gripes': 1, 'hitting': 1, "induc'd": 1, 'induce': 1, "inspir'd": 1, 'inventory': 1, 'partners': 1, 'pitying': 1, 'pointed': 1, 'posted': 1, 'postures': 1, 'preservation': 1, 'prone': 1, 'protects': 1, "question'd": 1, "reckon'd": 1, "reign'd": 1, 'sloth': 1, 'tailors': 1, 'teachers': 1, 'tendance': 1, 'unite': 1, 'unsatisfied': 1, 'vainglory': 1, 'values': 1, 'wagging': 1, 'wife-like': 1}
+	Seven-eleven links: 80
+{"'t": 1, 'afflicted': 1, 'agent': 1, 'ambassador': 1, 'attention': 1, 'audit': 1, 'bedchamber': 1, 'buys': 1, "by't": 1, "caus'd": 1, 'cedar': 1, 'chapel': 1, 'commendations': 1, 'compounded': 1, 'confirmation': 1, 'construction': 1, 'cordial': 1, 'courts': 1, "cur'd": 1, 'deem': 1, 'deliverance': 1, "despis'd": 1, "distress'd": 1, "dream'd": 1, 'duly': 1, 'entreats': 1, 'estates': 1, 'expected': 1, 'fishes': 1, 'fitness': 1, 'freshly': 1, "gav'st": 1, 'graver': 1, "great'st": 1, 'guarded': 1, 'habits': 1, 'hopeless': 1, "i'm": 1, 'issues': 1, 'justify': 1, 'laying': 1, 'livers': 1, "lordship's": 1, "miss'd": 2, 'mistaken': 1, 'moulded': 1, 'orleance': 1, 'pages': 1, 'parish': 1, 'pious': 1, 'plate': 1, "pray'rs": 1, "preferr'd": 1, 'pretense': 1, 'protect': 1, "pursu'd": 1, "quarter'd": 1, 'queens': 1, 'reek': 1, 'rooted': 1, 'singular': 1, 'slightly': 1, 'smart': 1, 'snuff': 1, 'son-in-law': 1, 'sparks': 1, 'speaker': 1, "stamp'd": 1, "stepp'd": 1, 'strains': 1, 'temporal': 1, 'tenor': 1, 'troublesome': 1, 'vale': 1, 'vicious': 1, 'vine': 1, 'wages': 1, 'wonted': 1, 'wretchedness': 1}
+
+H8.txt and E3sh.txt links:
+	Total links: 36
+	two-six links: 10
+{'argue': 1, 'augment': 1, 'choicest': 1, "deem'd": 1, 'flanders': 1, 'pitying': 1, 'undoubtedly': 1, 'unfolded': 1, 'unspotted': 1, 'verified': 1}
+	Seven-eleven links: 26
+{'abject': 1, 'accompt': 1, 'adds': 1, 'assembled': 1, 'attendance': 1, 'attorney': 1, 'besiege': 1, 'cherry': 1, 'digest': 1, 'dominions': 1, 'doubled': 1, 'endless': 1, 'englishman': 1, 'entreats': 1, 'forgetting': 1, 'fresher': 1, 'mightiness': 1, 'ornaments': 1, 'plate': 1, 'plenteous': 1, "stepp'd": 1, 'strains': 1, 'vale': 1, 'verdict': 1, 'wins': 1, 'wonted': 1}
+
+H8.txt and ERR.txt links:
+	Total links: 61
+	two-six links: 22
+{'arose': 1, "attach'd": 1, 'beneficial': 1, 'certes': 1, 'comfortless': 1, 'covetous': 1, 'debating': 1, 'exempt': 1, 'illusions': 1, 'indies': 1, 'limbo': 1, 'meek': 1, 'misfortunes': 1, 'otherwhere': 1, 'pleaded': 1, "retain'd": 1, "revil'd": 1, "shipwrack'd": 1, 'sparing': 1, 'summers': 1, 'twins': 1, "unfinish'd": 1}
+	Seven-eleven links: 39
+{'abject': 1, 'arrested': 1, 'assembled': 1, 'attach': 1, 'attorney': 1, 'claims': 1, 'decline': 1, 'digest': 1, "discharg'd": 1, 'doubled': 1, 'earthy': 1, 'fishes': 1, "gav'st": 1, 'healthful': 1, "hind'red": 1, 'holiness': 1, 'hopeless': 1, "i'm": 1, 'invited': 1, 'mate': 1, 'niggard': 1, 'passages': 1, 'publicly': 1, "pursu'd": 1, 'rabble': 1, "requir'd": 1, "ruin'd": 1, 'ruins': 1, 'sergeant': 1, 'sprung': 1, 'staying': 1, 'travail': 1, 'unwilling': 1, 'usurping': 1, 'vale': 1, 'verity': 1, 'vicious': 1, 'vine': 1, 'witnesses': 1}
+
+H8.txt and H5.txt links:
+	Total links: 134
+	two-six links: 60
+{'abound': 1, 'apples': 1, 'augment': 1, 'authors': 1, 'baptism': 1, 'barons': 1, 'beseeching': 1, 'billows': 1, 'chamber-door': 1, 'chattels': 1, 'chronicles': 1, 'cited': 1, 'clergy': 1, 'communication': 1, 'coronets': 1, 'correct': 1, 'covetous': 1, 'customs': 1, 'declare': 1, 'deum': 1, 'escapes': 1, 'flowing': 1, 'foresaid': 1, 'founder': 1, 'germany': 1, "glist'ring": 1, 'grosser': 1, 'hedges': 1, 'interview': 1, 'lackeys': 1, 'louvre': 1, 'lucifer': 1, 'madams': 1, 'maker': 1, 'mounts': 1, 'outrun': 1, 'pales': 1, "pav'd": 1, 'pepin': 1, 'plain-song': 1, 'playhouse': 1, 'porters': 1, 'preservation': 1, 'rake': 1, 'realms': 1, 'reformation': 1, 'rex': 1, 'rolls': 1, 'ruminate': 1, 'solemnly': 1, 'spiritual': 1, "subject's": 1, 'swallowed': 1, 'swiftness': 1, 'unspotted': 1, 'usurper': 1, 'vacant': 1, 'village': 1, "warn'd": 1, 'wilder': 1}
+	Seven-eleven links: 74
+{'accompt': 1, 'alanson': 1, 'ambassador': 1, "an't": 1, 'appearance': 2, 'assembled': 1, "beggar's": 1, 'beggarly': 1, "caus'd": 1, 'coal': 1, 'conjunction': 1, 'consideration': 1, 'contagious': 1, 'courts': 1, "cramm'd": 1, 'digest': 1, 'disdainful': 1, 'duly': 1, 'embassador': 1, 'embassadors': 1, 'endeavors': 1, 'englishman': 1, 'entreats': 1, 'examples': 1, "excus'd": 1, 'expressly': 1, 'faithfully': 1, 'fresher': 1, 'freshly': 1, 'gamester': 1, 'gaping': 1, 'glories': 1, 'guarded': 1, 'healthful': 1, 'heralds': 1, "hind'red": 1, 'hitherto': 1, 'latin': 1, 'lousy': 1, 'mary': 2, 'mightiness': 1, 'mirror': 1, 'mistaken': 1, 'mould': 1, 'nations': 1, 'navy': 1, 'net': 1, 'orleance': 1, 'oui': 1, 'paces': 1, 'papers': 1, 'passages': 1, 'profits': 1, "pursu'd": 1, "rail'd": 1, 'range': 1, 'repentance': 1, "ruin'd": 1, 'seals': 1, 'sheathe': 1, 'sow': 1, 'speaker': 1, 'spotless': 1, 'succeed': 1, 'suns': 1, 'te': 2, 'temporal': 1, 'vanities': 1, 'vine': 1, 'wins': 1, 'wringing': 1}
+
+H8.txt and HAM.txt links:
+	Total links: 146
+	two-six links: 62
+{'acquire': 1, 'afflictions': 1, 'annual': 1, 'appliance': 1, 'calumnious': 1, 'cannons': 1, 'caution': 1, 'chamber-door': 1, 'chronicles': 1, 'combination': 1, 'conjectures': 1, 'devoutly': 1, 'dews': 1, 'dye': 1, 'easiness': 1, "fail'd": 1, "fellow's": 1, 'fines': 1, 'foresaid': 1, "forg'd": 1, "gave't": 1, 'gem': 1, 'grosser': 1, 'hallowed': 1, 'heated': 1, 'heathen': 1, 'horseback': 1, 'inter': 1, 'judges': 1, 'lewdness': 1, 'mincing': 1, "mind's": 1, 'obligation': 1, 'obstinate': 1, 'opposing': 1, 'pagan': 1, 'pales': 1, 'pat': 1, 'potency': 1, 'potently': 1, "pull'd": 1, 'purgation': 1, 'ratified': 1, 'reaches': 1, "reform'd": 1, 'scenes': 1, 'scholars': 1, 'showers': 1, 'solicited': 1, 'surrender': 1, 'tenants': 1, 'tennis': 1, 'thereunto': 1, "traduc'd": 1, 'unhappily': 1, 'unite': 1, 'unmanly': 1, "unmatch'd": 1, 'unsatisfied': 1, 'unseal': 1, 'unshaken': 1, 'usual': 1}
+	Seven-eleven links: 84
+{'allowance': 1, "an't": 1, 'audit': 1, 'bawdy': 1, 'bites': 1, 'blossoms': 1, 'buys': 1, 'buzz': 1, 'chapel': 1, 'christians': 1, 'commended': 1, 'compounded': 1, 'conception': 1, 'contagious': 1, 'corner': 1, 'costly': 1, 'decline': 1, 'departed': 1, "despis'd": 1, 'dominions': 1, 'embassador': 1, 'embassadors': 1, 'examples': 1, 'faculties': 1, 'fitness': 1, 'forgetting': 1, 'frankly': 1, 'freeze': 1, "fulfill'd": 1, "gall'd": 1, 'garlands': 1, 'groaning': 1, 'guarded': 1, 'habits': 1, 'happen': 1, 'healthful': 1, 'hearers': 2, 'hitherto': 1, 'importing': 1, 'incensed': 1, 'insolence': 1, 'laying': 1, 'lighted': 1, 'malicious': 2, 'mirror': 1, 'mould': 1, 'nations': 1, 'niggard': 1, 'packet': 1, 'passages': 1, 'pestilent': 1, 'pious': 2, "preferr'd": 1, 'progress': 1, "quarter'd": 1, 'rabble': 1, "rain'd": 1, 'range': 1, 'remainder': 1, 'rend': 1, 'repentance': 1, 'revengeful': 1, 'rewards': 1, 'seals': 1, 'seated': 1, 'sergeant': 1, 'slightly': 1, 'smart': 1, 'snuff': 1, 'sprung': 1, 'steep': 1, 'strengthen': 1, 'summons': 1, 'sweep': 1, 'thorny': 1, 'verity': 1, 'vicious': 1, 'vouch': 1, 'whet': 1, 'wonted': 1, 'wringing': 1}
+
+H8.txt and JC.txt links:
+	Total links: 67
+	two-six links: 27
+{'arose': 1, 'buzzing': 1, 'cloaks': 1, 'contribution': 1, 'coronets': 1, 'covetous': 1, 'crowd': 1, 'dews': 1, 'disposing': 1, 'eagerly': 1, "enroll'd": 1, "flourish'd": 1, 'forgetful': 1, 'hats': 1, 'meditating': 1, 'meek': 1, 'mention': 1, 'mischiefs': 1, "pull'd": 1, 'rays': 1, 'suburbs': 1, 'superstitious': 1, 'upper': 1, "utter'd": 1, 'waited': 1, 'well-beloved': 1, 'youths': 1}
+	Seven-eleven links: 40
+{'ague': 1, "an't": 1, 'catching': 1, 'commended': 1, "conceiv'd": 1, 'costly': 1, 'darts': 1, 'decline': 1, 'digest': 1, 'disperse': 1, 'doubted': 1, 'faculties': 1, 'glories': 1, 'groaning': 1, "hack'd": 1, 'healthful': 1, "heap'd": 1, 'heralds': 1, 'honorably': 1, 'however': 1, "i'm": 1, 'kindle': 1, 'lighted': 1, 'niggard': 1, 'papers': 1, 'perils': 1, 'progress': 1, "quarter'd": 1, 'range': 1, 'reek': 1, 'reputed': 1, 'ruins': 1, 'sheathe': 1, 'spaniel': 1, 'sparks': 1, "stamp'd": 1, 'strengthen': 1, 'upward': 1, 'whet': 1, 'womanish': 1}
+
+H8.txt and JN.txt links:
+	Total links: 110
+	two-six links: 43
+{'arch-heretic': 1, "besmear'd": 1, 'blew': 1, 'breeches': 1, 'cannons': 1, 'colbrand': 1, 'comfortless': 1, 'correct': 1, 'disposing': 1, 'dwarfish': 1, 'exclamation': 1, 'exhalation': 1, 'faithless': 1, 'fling': 1, 'foresaid': 1, 'germany': 1, 'heretic': 1, 'horseback': 1, 'inside': 1, 'legate': 1, 'lincoln': 1, 'lucifer': 1, 'masque': 1, 'monk': 2, 'mounts': 1, 'pagan': 1, 'prudent': 1, 'rankness': 1, "reform'd": 1, 'scenes': 1, "show'r": 1, 'shrouds': 1, "spar'd": 1, 'stifled': 1, 'strangest': 1, 'string': 1, 'stuffs': 1, 'treaty': 1, 'usurper': 1, 'vacant': 1, "warn'd": 1, "will'd": 1}
+	Seven-eleven links: 67
+{'accompt': 1, 'afflicted': 1, 'agent': 1, 'arguments': 1, 'burden': 1, "challeng'd": 1, 'chapel': 1, 'cherry': 1, 'coal': 2, 'commanding': 1, 'conjunction': 1, 'consideration': 1, 'contagious': 1, 'corner': 1, 'cow': 1, 'departed': 1, 'discontented': 1, 'dominions': 1, 'earthy': 1, 'endless': 1, 'englishman': 1, 'entreaties': 1, "excus'd": 1, 'expected': 1, 'faithfully': 1, "fashion'd": 1, 'forgo': 1, 'freeze': 1, 'grieved': 1, 'guarded': 1, "heav'n": 1, 'heralds': 1, 'holiness': 2, 'however': 1, 'incense': 1, 'incensed': 1, 'injustice': 1, "judg'd": 1, 'legitimate': 1, 'malicious': 1, 'moulded': 1, 'mounting': 1, 'pembroke': 1, 'pence': 1, "pray'rs": 1, 'progress': 2, "quarter'd": 1, 'reputed': 1, 'scold': 1, 'sheathe': 1, 'shrink': 1, 'sped': 1, 'strengthen': 1, 'suggestion': 1, "travell'd": 1, 'troublesome': 1, 'unsettled': 1, 'usurping': 1, 'vainly': 1, 'wedlock': 1, 'whet': 1, 'wins': 1, 'witnesses': 1, 'womanish': 1}
+
+H8.txt and LC.txt links:
+	Total links: 24
+	two-six links: 7
+{'flew': 1, 'grievance': 1, 'hallowed': 1, 'havings': 1, "peep'd": 1, "privileg'd": 1, "reign'd": 1}
+	Seven-eleven links: 17
+{'afflicted': 1, 'arguments': 1, 'audit': 1, 'begs': 1, 'besiege': 1, 'blossoms': 1, 'catching': 1, 'commanding': 1, 'commended': 1, 'examples': 1, 'mud': 1, 'papers': 1, 'parcels': 1, 'perils': 1, "perus'd": 1, 'vale': 1, 'verdict': 1}
+
+H8.txt and LLL.txt links:
+	Total links: 93
+	two-six links: 32
+{'agony': 1, 'annual': 1, 'authors': 1, 'bearer': 1, 'becoming': 1, 'bits': 1, 'certes': 1, "display'd": 1, 'extremely': 1, 'foresaid': 1, 'godfather': 1, 'grosser': 1, 'hypocrisy': 1, "inspir'd": 1, 'interview': 1, 'larks': 1, 'nourishment': 1, 'purgation': 1, 'ratified': 1, 'rays': 1, "reap'd": 1, 'reformation': 1, 'rewarded': 1, 'sampson': 1, 'scholars': 1, 'spaniard': 1, 'speakest': 1, 'straying': 1, 'surrender': 1, 'suspicious': 1, 'tires': 1, 'unsatisfied': 1}
+	Seven-eleven links: 61
+{'accompt': 1, 'adding': 1, 'adds': 1, 'alanson': 1, "an't": 1, 'arguments': 1, 'attach': 1, 'attention': 1, 'banquet': 1, "beggar's": 1, 'begging': 1, 'besiege': 1, 'bites': 1, 'blossoms': 1, 'buys': 1, 'capacity': 1, 'cedar': 1, 'commendations': 1, 'corner': 1, "cramm'd": 1, 'deem': 1, 'digest': 1, 'doctrine': 1, 'embassador': 1, 'embassadors': 1, 'endeavors': 1, 'estates': 1, 'expressly': 1, 'faithfully': 1, 'gamester': 1, 'gloss': 1, 'groaning': 1, 'habits': 2, 'hearers': 1, 'honorably': 1, 'implore': 1, 'latin': 1, 'miscarried': 1, 'mistaken': 1, 'mounting': 1, 'ornaments': 1, 'packet': 1, 'papers': 1, 'parish': 1, 'peck': 1, "purchas'd": 1, 'queens': 1, 'reek': 1, 'relate': 1, 'replied': 1, 'seventh': 1, 'singular': 1, 'snuff': 1, 'staying': 1, 'strains': 1, 'te': 2, 'upward': 1, 'usurping': 1, 'vainly': 1}
+
+H8.txt and LR.txt links:
+	Total links: 119
+	two-six links: 46
+{'benefits': 1, "blam'd": 1, 'breeches': 1, 'chamber-door': 1, 'comforting': 1, 'comfortless': 1, 'confederacy': 1, "display'd": 1, 'eminence': 1, "fellow's": 1, 'flatteries': 1, "flaw'd": 1, 'flew': 1, 'foulness': 1, 'germany': 1, 'goodliest': 1, 'lag': 1, 'memories': 1, "mind's": 1, 'mysteries': 1, "o'ertake": 1, 'obligation': 1, "par'd": 1, 'pat': 1, 'posted': 1, 'potency': 1, 'privily': 1, "publish'd": 1, 'rake': 1, 'ripeness': 1, 'sectary': 1, 'sincere': 1, 'singe': 1, 'sloth': 1, 'sorely': 1, "spar'd": 1, 'strove': 1, 'surrender': 1, 'tamely': 1, "thron'd": 1, 'true-hearted': 1, "truth's": 1, 'unhappily': 1, 'unseal': 1, "utter'd": 1, 'values': 1}
+	Seven-eleven links: 73
+{'allowance': 1, "an't": 1, 'arguments': 1, 'attendance': 1, 'beggarly': 1, 'begs': 1, 'bites': 1, 'buzz': 1, 'chiding': 1, 'compounded': 1, 'conception': 1, 'confirmation': 1, 'consideration': 1, 'dealing': 1, 'decline': 1, "despis'd": 1, 'digest': 1, 'dominions': 1, 'doubted': 1, 'earnestly': 1, 'faints': 1, 'fitness': 1, "gav'st": 1, 'however': 1, "i'm": 1, 'incense': 1, 'issues': 1, 'kindle': 1, 'laying': 1, 'legitimate': 1, 'louder': 1, 'malicious': 1, 'mate': 1, 'minded': 1, 'miscarried': 1, 'mistaken': 1, 'motley': 1, 'nations': 1, "obey'd": 1, 'papers': 1, "perus'd": 1, 'pestilent': 1, 'plate': 1, 'plenteous': 1, 'poorest': 1, 'portion': 1, 'pretense': 2, 'profits': 1, 'protect': 1, 'rabble': 1, "rail'd": 1, 'replied': 1, "requir'd": 1, "ruin'd": 1, 'session': 1, 'slightly': 1, 'snuff': 1, 'spaniel': 1, 'sparks': 1, 'steep': 1, 'succeed': 1, 'suggestion': 1, 'summons': 1, 'suns': 1, 'syllable': 1, "travell'd": 1, 'upward': 1, 'verity': 1, 'vicious': 1, 'wages': 1, 'wins': 1, 'wretchedness': 1}
+
+H8.txt and LUC.txt links:
+	Total links: 104
+	two-six links: 38
+{'abusing': 1, 'aspire': 1, 'authors': 1, 'charging': 1, 'cited': 1, 'customs': 1, 'debating': 1, 'demure': 1, 'digestion': 1, "display'd": 1, 'exclamation': 1, 'father-in-law': 1, 'founts': 1, 'freed': 1, 'furnace': 1, "grip'd": 1, 'incomparable': 1, 'meek': 1, 'orpheus': 1, 'pitying': 1, 'posted': 1, 'privily': 1, 'prone': 1, 'respecting': 1, 'saint-like': 1, 'scatter': 1, 'solicited': 1, 'sparing': 1, 'strond': 1, 'swallowed': 1, 'tenants': 1, "thought's": 1, 'tool': 1, 'unspotted': 1, 'uproar': 1, 'usurper': 1, 'weakly': 1, 'wilder': 1}
+	Seven-eleven links: 66
+{'accompanied': 1, 'adds': 1, 'attention': 1, "beggar's": 1, 'besiege': 1, 'buys': 1, 'cedar': 1, 'childish': 1, 'claims': 1, 'coal': 1, 'commended': 1, 'dealing': 1, 'departed': 1, "distress'd": 1, 'disturb': 1, 'endless': 1, 'expressly': 1, 'faints': 1, "fancy's": 1, 'filling': 1, 'forgo': 1, "fulfill'd": 1, 'gaping': 1, "gav'st": 1, 'grooms': 1, 'guarded': 1, 'hearers': 1, 'hopeless': 1, 'incense': 1, 'injustice': 1, 'lighted': 1, "list'ning": 1, 'mate': 1, 'mirror': 1, "miss'd": 1, 'mud': 1, 'niggard': 1, 'ornaments': 1, 'paces': 1, 'pages': 1, "perus'd": 1, "ravish'd": 1, 'replied': 1, 'revengeful': 1, 'ruins': 1, 'seated': 1, 'singular': 1, 'sparks': 1, 'spotless': 1, "stamp'd": 1, 'staying': 1, 'steep': 1, 'succeeding': 1, 'suns': 2, "traitor's": 1, 'travail': 1, 'tunes': 1, 'unwilling': 1, 'vanities': 1, "view'd": 2, 'vine': 1, 'wedlock': 1, 'wonted': 1, 'wretchedness': 1}
+
+H8.txt and MAC.txt links:
+	Total links: 80
+	two-six links: 28
+{'abound': 1, 'augment': 1, 'cannons': 1, 'caution': 1, 'combustion': 1, 'digestion': 1, 'dwarfish': 1, 'eminence': 1, "fail'd": 1, 'flung': 1, 'fortitude': 1, 'heaviest': 1, 'holily': 1, 'meek': 1, "mind's": 1, 'outrun': 1, 'pertains': 1, 'rung': 1, "say't": 1, "silenc'd": 1, 'sleek': 1, 'sorely': 1, 'spells': 1, "temp'rance": 1, 'treasonous': 1, 'uproar': 1, 'warranted': 1, 'youths': 1}
+	Seven-eleven links: 52
+{'accompt': 1, 'agent': 1, 'ague': 1, 'audit': 1, 'banquet': 1, 'commendations': 1, 'construction': 1, 'corner': 1, 'faculties': 1, 'filling': 1, 'fitness': 1, 'frankly': 1, 'fry': 1, 'gloss': 1, 'grooms': 1, "hack'd": 1, "heap'd": 1, 'hearers': 1, 'laying': 1, 'lighted': 1, "list'ning": 1, 'malicious': 1, 'mould': 1, 'net': 1, 'niggard': 1, 'pious': 2, 'plenteous': 1, 'pretense': 1, 'relate': 2, 'repentance': 1, 'rooted': 1, 'seated': 1, 'sergeant': 1, 'seventh': 1, 'sheathe': 1, 'speaker': 1, 'staves': 1, "stepp'd": 1, 'succeed': 1, 'succeeding': 1, 'suggestion': 1, 'summons': 1, 'sweep': 1, 'syllable': 2, 'trusted': 1, 'upward': 1, 'verity': 1, 'weighty': 1, 'whereby': 1}
+
+H8.txt and MMsh.txt links:
+	Total links: 105
+	two-six links: 46
+{'advertise': 1, 'allied': 1, 'bits': 1, 'commissions': 1, 'convented': 1, 'covent': 1, 'crowd': 1, 'defied': 1, 'determines': 1, 'eminence': 1, 'eminent': 1, "ent'ring": 1, 'escapes': 1, 'faithless': 1, "fellow's": 1, 'fondness': 1, 'foresaid': 1, 'fornication': 1, 'freed': 1, 'friended': 1, 'gravel': 1, 'great-bellied': 1, "induc'd": 1, 'judges': 1, 'jury': 1, 'nips': 1, "o'ertake": 1, 'pang': 1, 'perceives': 1, 'personally': 1, 'potency': 1, 'privily': 1, 'prone': 1, "pull'd": 1, 'respite': 1, 'rested': 1, 'rung': 1, 'sounder': 1, "spar'd": 1, 'stagger': 1, 'suburbs': 1, 'threepence': 1, 'unhappily': 1, 'values': 1, 'vehemency': 1, 'warranted': 1}
+	Seven-eleven links: 59
+{'accompt': 1, 'afflicted': 1, 'agent': 1, 'ambassador': 1, 'bawdy': 1, 'bitterly': 1, 'christians': 1, 'complaints': 1, "conceiv'd": 1, 'conception': 1, 'confessor': 3, 'dealing': 1, 'deliverance': 1, 'duly': 1, 'examples': 1, 'expected': 1, 'filling': 1, 'fitness': 1, 'frankly': 1, 'freshly': 1, 'getting': 1, 'groaning': 1, 'holiness': 1, 'hopeful': 1, 'implore': 1, 'injustice': 1, 'issues': 1, 'justify': 1, "kneel'd": 1, "lordship's": 1, 'louder': 1, 'miscarried': 1, 'moulded': 1, 'pardons': 1, 'parish': 1, 'pious': 1, 'plenteous': 1, 'portion': 1, 'profits': 1, 'progress': 1, 'publicly': 1, "purchas'd": 1, 'relate': 1, 'replied': 1, 'session': 1, 'sow': 1, "stamp'd": 1, 'staying': 1, 'succeed': 1, 'syllable': 1, 'temporal': 1, 'tenor': 1, "travell'd": 1, 'unfit': 1, 'verity': 1, 'vouch': 1, 'wishing': 1}
+
+H8.txt and MND.txt links:
+	Total links: 57
+	two-six links: 27
+{'abound': 1, "blam'd": 1, 'blessedness': 1, 'clerks': 1, 'confederacy': 1, 'devoutly': 1, 'dowager': 2, 'dwarfish': 1, 'dye': 1, 'extremely': 1, 'hallowed': 1, 'hats': 1, 'heresies': 1, 'masque': 1, 'memories': 1, 'officious': 1, 'pat': 1, 'plain-song': 1, 'separation': 1, 'sleek': 1, 'solemnly': 1, 'speakest': 1, 'tangled': 1, 'tempting': 1, 'usual': 1, 'venturous': 1}
+	Seven-eleven links: 30
+{'buys': 1, 'capacity': 1, 'catching': 1, 'cherry': 2, 'chiding': 1, 'conjunction': 1, 'contagious': 1, "discharg'd": 1, 'disdainful': 1, 'disturb': 1, "fancy's": 1, 'gaping': 1, 'india': 1, 'indian': 1, 'mistaken': 1, 'moulded': 1, 'mud': 1, 'odious': 1, 'peck': 1, "preferr'd": 1, 'shone': 1, 'snuff': 1, 'spaniel': 1, 'spell': 1, 'steep': 1, 'sweep': 1, 'thorny': 1, 'wonted': 1, 'wretchedness': 1}
+
+H8.txt and MV.txt links:
+	Total links: 82
+	two-six links: 40
+{"'mong": 1, 'buzzing': 1, 'cherubins': 1, 'converting': 1, 'debating': 1, "enter'd": 1, 'enthroned': 1, 'exaction': 1, "fail'd": 1, 'faithless': 1, 'flew': 1, 'formerly': 1, 'gem': 1, 'germany': 1, 'happiest': 1, 'heated': 1, 'humbleness': 1, 'indies': 1, 'life-blood': 1, 'masque': 1, 'mincing': 1, 'orpheus': 1, 'pagan': 1, 'pageants': 1, 'pertains': 1, "princes'": 1, 'rams': 1, 'ratified': 1, 'roads': 1, "say't": 1, 'scatter': 1, "state's": 1, 'strond': 1, "suff'rance": 1, 'talker': 1, 'unhandled': 1, 'unseal': 1, 'unwillingly': 1, 'usual': 1, 'woven': 1}
+	Seven-eleven links: 42
+{'abject': 1, 'ague': 1, "an't": 1, 'chaff': 1, 'christians': 1, 'costly': 1, 'deliverance': 1, 'earnestly': 1, 'embassador': 1, 'endeavors': 1, 'englishman': 1, 'estates': 1, 'expressly': 1, 'faithfully': 1, "fancy's": 1, "fashion'd": 1, 'gaping': 1, 'getting': 1, 'guarded': 1, "hind'red": 1, 'india': 1, 'indian': 1, 'latin': 1, 'livers': 1, 'miscarried': 1, 'nations': 1, "preferr'd": 1, "purchas'd": 1, 'rend': 1, 'reputed': 1, 'seated': 1, 'shone': 1, 'slightly': 1, 'sped': 1, "stamp'd": 1, 'temporal': 1, 'tops': 1, 'trusted': 1, 'wedlock': 1, 'whereby': 1, 'whet': 1, 'wins': 1}
+
+H8.txt and OTH.txt links:
+	Total links: 91
+	two-six links: 34
+{'abilities': 1, 'baptism': 1, 'beneficial': 1, 'breeches': 1, 'certes': 1, 'confessions': 1, 'depth': 1, 'determinate': 1, 'dilatory': 1, 'eminent': 1, 'fadom': 1, "fellow's": 1, 'flowing': 1, 'fortitude': 1, 'grievance': 1, 'grosser': 1, 'hallowed': 1, 'heathen': 1, 'hypocrisy': 1, "leap'd": 1, "maim'd": 1, 'meditations': 1, 'observing': 1, 'pertains': 1, 'prescription': 1, "question'd": 1, 'ruminate': 1, 'sect': 1, 'slavery': 1, 'span': 1, 'spells': 1, 'thereunto': 1, 'thinkings': 1, "traduc'd": 1}
+	Seven-eleven links: 57
+{'accompt': 1, 'allowance': 1, 'appearance': 2, 'attach': 1, 'bawdy': 1, 'beggarly': 1, 'buys': 1, 'celebration': 1, 'chiding': 1, 'complaints': 1, 'conception': 1, 'corner': 1, "despis'd": 1, 'discontented': 1, 'distinctly': 1, 'englishman': 1, 'entreats': 1, 'faints': 1, "fancy's": 1, 'frankly': 1, "gav'st": 1, 'gloss': 1, 'habits': 1, 'healthful': 1, 'hitherto': 1, 'importing': 1, 'incense': 1, 'indian': 1, 'invited': 1, 'issues': 1, 'malicious': 1, 'malignant': 1, 'net': 1, 'odious': 1, 'parcels': 1, 'peck': 1, 'pestilent': 1, 'plenteous': 1, "rain'd": 1, 'relate': 2, "requir'd": 1, 'seals': 1, 'session': 1, 'son-in-law': 1, 'sow': 1, 'succeed': 1, 'summons': 1, 'syllable': 1, 'unfit': 1, 'vale': 1, 'vicious': 1, 'vouch': 1, 'wedlock': 1, 'whereby': 1, 'wins': 1}
+
+H8.txt and PERsh.txt links:
+	Total links: 48
+	two-six links: 19
+{'annual': 1, 'appliance': 1, 'becoming': 1, 'beseeching': 1, 'clerks': 1, 'dives': 1, 'nips': 1, 'opposing': 1, "pac'd": 1, 'scatter': 1, 'scenes': 1, 'scholars': 1, 'startle': 1, 'stint': 1, 'swallowed': 1, 'tractable': 1, 'training': 1, "will'd": 1, 'youths': 1}
+	Seven-eleven links: 29
+{"'t": 1, 'barge': 2, 'burden': 1, 'cherry': 1, 'chiding': 1, 'coal': 1, 'confirmation': 1, 'freeze': 1, 'gamester': 1, 'incensed': 1, 'invited': 1, 'justify': 1, 'kindle': 1, "list'ning": 1, 'louder': 1, 'moulded': 1, 'pious': 1, "ravish'd": 1, 'relate': 1, 'rend': 1, 'rooted': 1, 'spaniel': 1, 'strengthen': 1, 'syllable': 1, 'tenor': 1, 'travail': 1, 'utterly': 1, 'wages': 1}
+
+H8.txt and PHT.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'compounded': 1, 'session': 1}
+
+H8.txt and R2.txt links:
+	Total links: 99
+	two-six links: 36
+{'abbot': 2, 'accusations': 1, 'argue': 1, 'blew': 1, 'bores': 1, 'correct': 1, 'determinate': 1, 'digestion': 1, "divorc'd": 1, 'doctors': 1, 'elect': 1, 'exactions': 1, 'flatteries': 1, "glist'ring": 1, 'hedges': 1, 'hypocrisy': 1, "inspir'd": 1, 'larks': 1, 'letters-patents': 1, 'lop': 1, 'manors': 1, 'misfortunes': 1, 'mistakes': 1, 'perceives': 1, 'personally': 1, "reign'd": 1, 'solemnly': 1, 'string': 1, "subject's": 1, 'summers': 1, 'surrender': 1, 'taxations': 1, 'tires': 1, 'undertakes': 1, 'wherewithal': 1}
+	Seven-eleven links: 63
+{'adding': 1, 'adds': 1, 'ague': 1, 'attach': 1, 'attention': 1, 'begs': 1, 'bishop': 2, 'bites': 1, 'bitterly': 1, 'burdeaux': 1, "caus'd": 1, 'darts': 1, 'deem': 1, 'discontented': 1, 'disperse': 1, 'dominions': 1, 'doubled': 1, 'duly': 1, 'earthy': 1, 'endless': 1, 'englishman': 1, 'ensuing': 1, 'filling': 1, 'forgo': 1, 'fresher': 1, "gall'd": 1, 'glories': 1, 'grieved': 1, "hack'd": 1, 'happen': 1, 'hearers': 1, 'hopeless': 1, 'however': 1, 'injustice': 1, 'issues': 1, "judg'd": 1, 'mirror': 1, 'mould': 1, 'mounting': 1, 'musicians': 1, 'passages': 1, "perus'd": 1, 'plate': 1, "rain'd": 1, 'range': 1, 'remainder': 1, 'revengeful': 1, "ruin'd": 2, 'seals': 1, 'shrink': 1, 'sparks': 1, 'spotless': 1, 'succeeding': 1, 'summons': 1, 'tops': 1, "traitor's": 1, 'unwilling': 1, 'usurping': 1, 'vanities': 1, 'wretchedness': 2}
+
+H8.txt and R3.txt links:
+	Total links: 148
+	two-six links: 61
+{'abusing': 1, 'accusers': 1, 'agony': 1, 'ancestry': 1, 'arrogance': 1, 'assistants': 1, 'billows': 1, 'bishops': 1, 'branded': 1, "buckingham's": 1, 'chaplain': 1, 'cited': 1, 'cloaks': 1, 'consistory': 1, 'damage': 1, 'elizabeth': 2, 'exempt': 1, 'father-in-law': 2, 'gilbert': 1, 'gossips': 1, 'grounded': 1, 'hats': 1, 'inducement': 1, 'inter': 1, 'intercepted': 1, 'lag': 1, "land's": 1, 'leicester': 1, 'lump': 1, 'meditating': 1, 'meekness': 1, 'mischiefs': 1, 'northampton': 1, "pac'd": 1, "person's": 1, 'persuading': 1, 'preferments': 1, 'preservation': 1, 'respite': 1, 'solemnly': 1, 'sparing': 1, 'string': 1, 'sued': 1, 'summers': 1, 'tailors': 1, 'tenants': 1, "tow'r": 1, 'tract': 1, 'tractable': 1, "unfinish'd": 1, 'unite': 1, 'unwittingly': 1, 'upper': 1, 'venturous': 1, 'village': 1, 'wagging': 1, "warn'd": 1, 'weightier': 1, "whatsoe'er": 1}
+	Seven-eleven links: 87
+{'accompanied': 1, 'arguments': 1, 'assembled': 1, 'attendance': 1, 'attorney': 1, 'bedchamber': 1, 'beggarly': 1, 'begging': 1, 'bishop': 1, 'bites': 1, 'bitterly': 1, "caus'd": 1, 'cherry': 1, 'childish': 1, 'commanding': 2, 'complaints': 2, 'compounded': 1, 'conjunction': 1, 'cordial': 1, 'dealing': 1, 'decline': 1, 'digest': 1, 'discontented': 1, "distress'd": 1, "dream'd": 1, 'endeavors': 1, 'englishman': 1, 'ensuing': 1, 'entreaties': 1, 'entreats': 1, 'estates': 1, 'fishes': 1, 'garlands': 1, "gav'st": 1, 'glories': 1, "hack'd": 1, "heav'n": 1, 'heralds': 1, 'hitherto': 1, 'hopeful': 1, 'importing': 1, 'incense': 1, 'incensed': 1, 'injustice': 1, "kneel'd": 1, 'lighted': 1, "lordship's": 1, 'malignant': 1, 'marquess': 2, 'miscarried': 1, 'mounting': 1, 'navy': 1, "obey'd": 1, 'ornaments': 1, 'pembroke': 3, 'plenteous': 1, "pray'rs": 1, 'prophecies': 1, 'protect': 2, 'proudest': 1, 'publicly': 1, "quarter'd": 1, 'queens': 1, 'revengeful': 1, 'ruins': 1, 'seated': 1, 'shrink': 1, 'slightly': 1, "stamp'd": 1, 'staves': 1, 'succeeding': 1, 'suggestion': 1, 'trusted': 1, 'unfit': 2, 'unwilling': 1, 'usurping': 1, 'verdict': 1, 'weighty': 1, 'whet': 1, 'womanish': 1}
+
+H8.txt and ROM.txt links:
+	Total links: 82
+	two-six links: 32
+{"absolv'd": 1, "as't": 1, 'bladders': 1, 'cakes': 1, 'clubs': 1, 'considering': 1, 'dashing': 1, 'depth': 1, 'fadom': 1, "fall'st": 1, 'gossips': 1, 'gregory': 1, 'grievance': 1, 'healths': 1, 'intercession': 1, 'lawrence': 1, 'meteor': 1, 'promotion': 1, 'remnants': 1, 'righteous': 1, 'rung': 1, 'severing': 1, 'sparing': 1, 'stifled': 1, 'stint': 1, 'strangled': 1, 'stretches': 1, 'summers': 1, 'swallowed': 1, 'tool': 1, 'unsatisfied': 1, 'wrenching': 1}
+	Seven-eleven links: 50
+{'adding': 1, 'afflicted': 1, 'attach': 1, 'banquet': 1, 'bawdy': 1, "beggar's": 1, 'beggarly': 1, 'bitterly': 1, 'childish': 1, 'confessor': 2, 'cordial': 1, 'courts': 1, 'dealing': 1, 'departed': 1, "despis'd": 1, "discharg'd": 1, 'disperse': 1, 'disturb': 1, 'doctrine': 1, "excus'd": 1, 'expressly': 1, 'faints': 1, 'faithfully': 1, 'fishes': 1, 'forgetting': 1, 'groaning': 1, "heap'd": 1, 'heralds': 1, 'hopeful': 1, 'invited': 1, 'minded': 1, 'miscarried': 1, 'musicians': 1, 'ornaments': 1, 'pestilent': 1, 'pie': 1, 'plate': 1, 'progress': 1, 'singular': 1, 'son-in-law': 1, 'sped': 1, 'spell': 1, 'sprung': 1, 'staying': 1, 'strains': 1, 'tops': 1, 'vainly': 1, 'womanish': 1, 'wretchedness': 1}
+
+H8.txt and SHR.txt links:
+	Total links: 89
+	two-six links: 31
+{'apples': 1, 'arrogance': 1, 'breeches': 1, 'chafed': 1, 'chattels': 1, 'chine': 1, 'chronicles': 1, 'conformable': 1, 'considering': 1, 'cum': 1, 'depth': 1, 'doctors': 1, 'doublets': 1, 'fling': 1, 'footboy': 1, 'furniture': 1, 'gregory': 1, 'huntsman': 1, 'incomparable': 1, "maim'd": 1, 'porringer': 1, 'privilegio': 1, "publish'd": 1, "reckon'd": 1, 'respecting': 1, 'scatters': 1, 'speeding': 1, 'strond': 1, 'tempting': 1, 'usual': 1, "whatsoe'er": 1}
+	Seven-eleven links: 58
+{'abject': 1, "an't": 1, 'attendance': 1, 'banquet': 2, 'beggarly': 1, 'buzz': 1, "conceiv'd": 1, 'costly': 1, 'disdainful': 1, "dream'd": 2, 'expressly': 1, "fashion'd": 1, 'ferdinand': 1, 'freeze': 2, 'fresher': 1, 'fry': 1, "gall'd": 1, 'gamester': 1, 'grieved': 1, 'grooms': 1, 'insolence': 1, 'latin': 1, 'laying': 1, 'lighted': 1, "list'ning": 1, 'louder': 1, 'mightiness': 1, "miss'd": 1, 'mould': 1, 'moulded': 1, 'nicholas': 1, 'ornaments': 1, 'packet': 1, 'pence': 1, 'perils': 1, "perus'd": 1, 'pie': 1, 'plate': 1, 'poorest': 1, 'portion': 1, 'proudest': 1, 'replied': 1, 'scold': 1, 'son-in-law': 1, 'spaniel': 1, 'sped': 1, "stamp'd": 1, "stepp'd": 1, 'te': 1, 'thorny': 1, 'unwilling': 1, 'weighty': 2, 'whereby': 1, 'witnesses': 1}
+
+H8.txt and SPTAD.txt links:
+	Total links: 11
+	two-six links: 4
+{'gallery': 1, 'lump': 1, 'persuasions': 1, 'tempting': 1}
+	Seven-eleven links: 7
+{'childish': 1, 'duly': 1, "heav'n": 1, 'range': 1, 'ruins': 1, 'shone': 1, 'spotless': 1}
+
+H8.txt and STMsh.txt links:
+	Total links: 11
+	two-six links: 6
+{'coasts': 1, 'flanders': 1, "silenc'd": 1, "strangers'": 1, 'undoing': 1, "will'd": 1}
+	Seven-eleven links: 5
+{'fishes': 1, 'forgiven': 1, 'insolence': 1, 'sergeant': 1, 'whet': 1}
+
+H8.txt and TAsh.txt links:
+	Total links: 66
+	two-six links: 30
+{'broach': 1, 'chafed': 1, 'comfortless': 1, 'embracement': 1, 'goodliest': 1, 'humbleness': 1, 'huntsman': 1, 'induce': 1, "inspir'd": 1, 'intercepted': 1, 'judges': 1, 'life-blood': 1, 'limbo': 1, 'loaden': 1, 'lordships': 1, 'martyr': 1, 'mischiefs': 1, 'officious': 1, "par'd": 1, 'ruminate': 1, 'rung': 1, 'scatter': 1, 'showers': 1, 'stint': 1, 'straying': 1, 'stump': 1, 'unsolicited': 1, 'uproars': 1, 'waited': 1, "whatsoe'er": 1}
+	Seven-eleven links: 36
+{'accompanied': 1, 'afflicted': 1, 'ambassador': 1, 'banquet': 1, 'bedchamber': 1, 'buzz': 1, 'cow': 1, "despis'd": 1, 'disperse': 1, 'doubted': 1, 'earnestly': 1, 'earthy': 1, 'filling': 1, "gall'd": 1, 'gaping': 1, 'grooms': 1, 'honorably': 1, 'hopeful': 1, 'however': 1, 'mightiness': 1, 'mud': 1, 'ornaments': 1, 'pie': 1, 'proudest': 1, "purchas'd": 1, "ravish'd": 1, 'remainder': 1, 'revengeful': 1, 'shone': 1, 'shrink': 1, 'spotless': 1, 'sprung': 1, 'succor': 1, 'suns': 1, 'vale': 1, 'witnesses': 1}
+
+H8.txt and TGV.txt links:
+	Total links: 58
+	two-six links: 21
+{'allied': 1, 'ancestry': 1, "angels'": 1, 'aspire': 1, 'breeches': 1, "chaf'd": 1, 'gossips': 1, 'grievance': 1, 'heaviest': 1, 'intercession': 1, 'lacking': 1, 'outrun': 1, 'pageants': 1, 'puppy': 1, 'rake': 1, 'ruminate': 1, 'sincere': 1, "tow'r": 1, 'unwillingly': 1, 'upper': 1, 'wasps': 1}
+	Seven-eleven links: 37
+{'agent': 1, 'bitterly': 1, 'burden': 1, 'catching': 1, 'commendations': 1, 'commended': 1, "despis'd": 1, 'endless': 1, 'ensuing': 1, "excus'd": 1, 'garlands': 1, "gav'st": 1, "heav'n": 1, 'however': 1, "judg'd": 1, 'kindle': 1, 'laying': 1, "lordship's": 1, 'malignant': 1, 'nicholas': 1, 'papers': 2, 'pence': 1, "preferr'd": 1, 'pretense': 1, "rail'd": 1, 'rend': 1, 'repentance': 1, 'reputed': 1, 'rewards': 1, 'shrink': 1, 'staying': 1, 'trusted': 1, 'unwilling': 1, 'wages': 1, 'wishing': 1, 'wringing': 1}
+
+H8.txt and TIMsh.txt links:
+	Total links: 64
+	two-six links: 27
+{"'mong": 1, 'afflictions': 1, 'bearer': 1, 'bits': 1, 'broach': 1, 'customs': 1, 'exempt': 1, 'flatteries': 1, 'flung': 1, 'heaviest': 1, 'incomparable': 1, 'mysteries': 1, "nois'd": 1, 'numberless': 1, 'persuading': 1, 'righteous': 1, "show'r": 1, "silenc'd": 1, 'span': 1, 'star-like': 1, "state's": 1, 'stint': 1, 'tendance': 1, "thron'd": 1, 'tract': 1, 'unmanly': 1, 'vacant': 1}
+	Seven-eleven links: 37
+{"'t": 1, 'accompt': 1, 'attendance': 1, "beggar's": 1, 'commendations': 1, 'compounded': 1, "conceiv'd": 1, 'consideration': 1, 'decline': 1, "despis'd": 1, "discharg'd": 1, 'expressly': 1, "fashion'd": 1, 'filling': 1, 'fishes': 1, 'forgetting': 1, 'forgiven': 1, 'frankly': 1, "gav'st": 1, 'insolence': 1, "lordship's": 1, 'nations': 1, 'niggard': 1, 'pious': 1, 'plenteous': 1, 'remainder': 1, 'rewards': 1, "ruin'd": 1, 'sow': 1, 'sprung': 1, "stepp'd": 1, 'suns': 1, 'travail': 1, 'upward': 1, 'vainly': 1, 'vicious': 1, 'wretchedness': 1}
+
+H8.txt and TMP.txt links:
+	Total links: 68
+	two-six links: 27
+{"'mong": 1, 'afflictions': 1, 'annual': 1, "attach'd": 1, 'billows': 1, 'certes': 1, 'councillor': 1, 'fadom': 1, 'flung': 1, 'foretold': 1, 'fortitude': 1, "happen'd": 1, 'hats': 1, 'learnedly': 1, 'mischiefs': 1, 'mow': 1, 'perfidious': 1, 'pillars': 1, 'pinches': 1, 'premises': 1, 'preservation': 1, 'rectify': 1, 'slavery': 1, 'sloth': 1, 'stuffs': 1, 'unwillingly': 1, 'weakly': 1}
+	Seven-eleven links: 41
+{'ague': 1, 'besiege': 1, 'bites': 1, "caus'd": 1, 'cedar': 1, 'celebration': 1, 'distinctly': 1, 'earthy': 1, 'ensuing': 1, 'ferdinand': 1, 'forgetting': 1, 'forgo': 1, 'fresher': 1, 'freshly': 1, "great'st": 1, 'indian': 1, 'its': 1, 'justify': 1, "kneel'd": 1, 'lighted': 1, 'louder': 1, 'malignant': 1, 'mate': 1, 'minded': 1, 'mounting': 1, 'odious': 1, "purchas'd": 1, 'rabble': 1, 'remainder': 1, 'rend': 1, 'reputed': 1, "requir'd": 1, 'spell': 1, 'strengthen': 1, 'suggestion': 1, 'summons': 1, 'syllable': 1, 'temporal': 1, 'travail': 1, 'unfit': 1, 'unsettled': 1}
+
+H8.txt and TN.txt links:
+	Total links: 64
+	two-six links: 28
+{'allied': 1, 'authors': 1, "besmear'd": 1, 'cakes': 1, 'churchman': 1, 'combination': 1, 'demure': 1, 'determinate': 1, 'detests': 1, 'discovers': 1, "display'd": 1, "divorc'd": 1, 'handmaid': 1, 'healths': 1, 'heathen': 1, 'indies': 1, "induc'd": 1, "knight's": 1, 'mercies': 1, "open't": 1, 'pang': 1, 'prudent': 1, 'spinsters': 1, 'strangest': 1, 'suburbs': 1, 'swiftness': 1, 'taxation': 1, "thron'd": 1}
+	Seven-eleven links: 36
+{'adds': 1, 'arguments': 1, 'attendance': 1, 'begging': 1, 'capacity': 1, 'celebration': 1, "challeng'd": 1, 'commended': 1, "conceiv'd": 1, 'consideration': 1, 'construction': 1, 'contagious': 1, 'corner': 1, "cramm'd": 1, 'dealing': 1, 'deem': 1, 'digest': 1, 'doctrine': 1, "fancy's": 1, 'habits': 2, 'however': 1, 'india': 1, 'legitimate': 1, 'mary': 2, 'mistaken': 1, 'motley': 1, 'passages': 1, 'protect': 1, 'range': 1, 'steep': 1, "travell'd": 1, 'whet': 1, 'wins': 1, 'witnesses': 1}
+
+H8.txt and TNKsh.txt links:
+	Total links: 71
+	two-six links: 25
+{"action's": 1, 'appliance': 1, 'aspire': 1, 'assistants': 1, 'considering': 1, 'damage': 1, 'dozens': 1, 'freed': 1, "gather'd": 1, "heav'nly": 1, 'hypocrisy': 1, 'induce': 1, "inspir'd": 1, 'intercession': 1, 'lag': 1, 'mistakes': 1, 'perfidious': 1, 'prejudice': 1, 'scenes': 1, 'sloth': 1, 'spinsters': 1, 'strove': 1, "subject's": 1, 'twins': 1, 'unbounded': 1}
+	Seven-eleven links: 46
+{'allowance': 1, 'attendance': 1, 'attention': 1, 'begging': 1, 'burden': 1, "by't": 1, 'catching': 1, 'celebration': 1, 'chaff': 1, 'chapel': 1, 'compounded': 1, "conceiv'd": 1, 'corner': 1, 'costly': 1, "cur'd": 1, 'deliverance': 1, 'departed': 1, "distress'd": 1, 'doubted': 1, 'endless': 1, 'faculties': 1, 'forgiven': 1, 'fresher': 1, 'gloss': 1, 'happen': 1, 'implore': 1, 'issues': 1, 'its': 1, "judg'd": 1, 'justify': 1, 'kindle': 1, 'livers': 1, 'niggard': 1, 'passages': 1, 'pie': 1, 'portion': 1, "pray'rs": 1, 'queens': 1, 'ruins': 1, 'slightly': 1, 'sow': 1, 'speaker': 1, 'tenor': 1, 'travail': 1, 'unsettled': 1, 'wedlock': 1}
+
+H8.txt and TRO.txt links:
+	Total links: 119
+	two-six links: 51
+{'abilities': 1, 'arrogance': 1, 'avow': 1, 'bearer': 1, 'bestowing': 1, 'bits': 1, 'bladders': 1, 'bounties': 1, "chaf'd": 1, 'cherubins': 1, 'cited': 1, 'correct': 1, 'covetous': 1, 'cuckold-maker': 1, 'damage': 1, "dark'ning": 1, 'depth': 1, 'digestion': 1, 'embracement': 1, 'eminence': 1, 'flew': 1, 'flowing': 1, 'foretold': 1, 'gainsay': 1, "gave't": 1, 'gravel': 1, 'interview': 1, 'obeying': 1, 'obligation': 1, 'observing': 1, 'pageants': 1, "patient's": 1, 'plains': 1, 'potency': 1, "privileg'd": 1, 'ruminate': 1, 'salutes': 1, 'spice': 1, 'string': 1, "suff'rance": 1, 'superstitious': 1, "though't": 1, 'thousandfold': 1, 'tractable': 1, "truth's": 2, 'untruths': 1, 'vainglory': 1, 'winnowed': 1, "you'd": 1, 'youths': 1}
+	Seven-eleven links: 68
+{'abject': 1, 'agent': 1, 'ague': 1, 'allowance': 1, 'ambassador': 1, 'bawdy': 1, 'bites': 1, 'capacity': 1, 'chaff': 1, "challeng'd": 1, 'chiding': 1, 'commended': 1, 'commotion': 1, 'conception': 1, 'costly': 1, "cramm'd": 1, 'dealing': 1, 'decline': 1, 'deem': 1, "despis'd": 1, 'earnestly': 1, 'endless': 1, 'entreaties': 1, 'expected': 1, 'expressly': 1, 'fitness': 1, 'forgo': 1, 'frankly': 1, 'fresher': 1, 'fry': 1, 'gloss': 1, "hack'd": 1, 'hearers': 1, 'holiness': 1, 'however': 1, 'india': 1, 'insolence': 1, 'issues': 1, 'laying': 1, 'livers': 1, 'mate': 1, 'mould': 1, 'moulded': 1, 'musicians': 1, 'nations': 1, "perus'd": 1, 'pie': 1, "rail'd": 1, "ravish'd": 1, 'remainder': 1, 'rend': 1, 'seals': 1, 'slightly': 1, 'smart': 1, 'speaker': 1, 'sped': 1, 'staying': 1, 'strains': 1, 'syllable': 1, 'tenor': 1, 'tops': 1, "traitor's": 1, 'travail': 1, "travell'd": 1, 'unfit': 1, 'vale': 1, 'winchester': 1, 'womanish': 1}
+
+H8.txt and VEN.txt links:
+	Total links: 68
+	two-six links: 20
+{'aspire': 1, 'choir': 1, 'consulting': 1, 'disposing': 1, 'furnace': 1, 'godfather': 1, 'huntsman': 1, 'lacking': 1, 'mistakes': 1, 'mounts': 1, 'respecting': 1, 'salutes': 1, 'showers': 1, 'sparing': 1, 'tangled': 1, 'tempting': 1, 'tires': 1, "unfinish'd": 1, 'waited': 1, 'woven': 1}
+	Seven-eleven links: 48
+{'adds': 1, 'attorney': 1, 'banquet': 1, 'bedchamber': 1, 'bites': 1, 'buys': 1, 'catching': 1, 'cedar': 1, 'childish': 1, 'coal': 2, 'darts': 1, 'dealing': 1, "distress'd": 1, 'disturb': 1, 'doubled': 1, 'ensuing': 1, 'entreats': 1, 'expected': 1, 'faints': 1, 'fishes': 1, 'forgetting': 1, 'fry': 1, 'glories': 1, 'gloss': 1, 'graver': 1, 'hopeful': 1, 'kindle': 1, "list'ning": 1, 'net': 1, 'prophecies': 1, "rail'd": 1, "rain'd": 1, 'reek': 1, "ruin'd": 1, 'seals': 1, 'shone': 1, 'sprung': 1, 'suggestion': 1, 'thorny': 1, 'tops': 1, 'tunes': 1, 'unwilling': 1, "view'd": 1, 'whet': 1, 'wishing': 1, 'wonted': 1, 'wringing': 1}
+
+H8.txt and WIV.txt links:
+	Total links: 56
+	two-six links: 23
+{'abusing': 1, 'aspire': 1, 'churchman': 1, 'conjectures': 1, 'doctors': 1, 'heretic': 1, 'humblest': 1, 'indies': 1, 'lucifer': 1, 'meteor': 1, 'obligation': 1, 'outrun': 1, 'primero': 1, 'ridden': 1, 'righteous': 1, 'shilling': 1, 'spells': 1, 'successors': 1, 'suggests': 1, 'superstitious': 1, 'trap': 1, 'unfolded': 1, 'vehemency': 1}
+	Seven-eleven links: 33
+{'afflicted': 1, 'arrested': 1, 'buys': 1, 'capacity': 1, 'chiding': 1, 'christians': 1, 'commendations': 1, 'commended': 1, 'construction': 1, 'disperse': 1, 'doubted': 1, 'englishman': 1, 'gamester': 1, 'incense': 1, 'latin': 1, 'louder': 1, 'lousy': 1, 'odious': 1, 'oui': 1, 'peck': 1, 'pence': 1, 'pie': 1, 'profits': 1, 'proudest': 1, 'publicly': 1, 'rabble': 1, 'reek': 1, 'scold': 1, 'sheathe': 1, 'sped': 1, 'troublesome': 1, 'upward': 1, 'utterly': 1}
+
+H8.txt and WT.txt links:
+	Total links: 126
+	two-six links: 50
+{'abound': 1, "air'd": 1, 'allied': 1, 'becoming': 1, "blam'd": 1, 'comforting': 1, 'committing': 1, 'declare': 1, 'embracement': 1, 'fadom': 1, "flourish'd": 1, 'formerly': 1, 'freed': 1, "from't": 1, 'gainsay': 1, 'gallery': 1, 'gossips': 1, 'heretic': 1, 'inside': 1, 'interpreters': 1, 'justified': 1, 'learnedly': 1, 'officious': 1, "open't": 1, "person's": 1, 'professors': 1, 'promotion': 1, 'prone': 1, "publish'd": 1, 'purgation': 1, 'putter-on': 1, "question'd": 2, "reform'd": 1, 'respecting': 1, 'saint-like': 1, "say't": 1, 'sect': 1, 'separation': 1, 'shilling': 1, 'sorely': 1, 'spice': 1, 'spiritual': 1, 'steer': 1, 'summers': 1, 'tastes': 1, 'tires': 1, 'unwillingly': 1, 'upper': 1, 'wasps': 1}
+	Seven-eleven links: 76
+{"'t": 1, 'accompt': 1, 'adds': 1, 'agent': 1, 'attach': 1, 'bawdy': 1, 'blossoms': 1, 'celebration': 1, 'chaff': 1, 'chapel': 1, 'chiding': 1, 'childish': 1, 'commended': 1, 'confirmation': 1, 'cordial': 1, 'courts': 1, "cur'd": 1, 'deem': 1, 'departed': 1, "discharg'd": 1, 'doctrine': 1, 'dominions': 1, 'doubted': 1, "dream'd": 2, 'earnestly': 1, 'endeavors': 1, 'entreaties': 1, 'forgiven': 1, "fulfill'd": 2, "gall'd": 1, 'garlands': 1, 'getting': 1, 'graver': 1, "great'st": 1, 'habits': 1, 'hopeful': 1, 'implore': 1, 'incense': 1, 'injustice': 1, 'its': 1, 'justify': 1, 'louder': 1, 'mate': 1, 'minded': 1, 'mirror': 1, 'mould': 1, 'parcels': 1, 'pardons': 1, 'portion': 1, 'pretense': 1, 'profits': 1, 'publicly': 1, "purchas'd": 1, "pursu'd": 1, 'queens': 1, "requir'd": 1, 'rooted': 1, 'seals': 1, 'session': 1, 'shone': 1, 'singular': 1, 'son-in-law': 1, 'sped': 1, 'spell': 1, 'spotless': 1, 'tenor': 1, 'trusted': 1, 'tunes': 1, 'unsettled': 1, 'verity': 1, 'wages': 1, 'wedlock': 1, 'wishing': 1, 'witnesses': 1}
+
+H8.txt and x1H4.txt links:
+	Total links: 86
+	two-six links: 42
+{"archbishop's": 1, 'barons': 1, 'bishops': 1, 'chronicles': 1, 'clerks': 1, 'confederacy': 1, 'council-board': 1, 'dives': 1, "fall'st": 1, 'faulty': 1, 'flocks': 1, "forg'd": 1, 'forgetful': 1, 'furniture': 1, 'gregory': 1, 'happiest': 1, 'horseback': 1, 'inside': 1, 'intercepted': 1, 'lackeys': 1, 'lag': 1, 'life-blood': 1, 'loaden': 1, 'lucifer': 1, 'meteor': 1, 'mincing': 1, 'pagan': 1, 'plains': 1, 'pointed': 1, 'posted': 1, "reap'd": 1, 'reformation': 1, 'solemnly': 1, "spar'd": 1, 'speakest': 1, 'stafford': 1, 'strangest': 1, 'strangled': 1, 'swallowed': 1, 'tenants': 1, 'tractable': 1, 'unsatisfied': 1}
+	Seven-eleven links: 44
+{'accompanied': 1, 'bawdy': 1, 'beggarly': 1, 'catching': 1, "challeng'd": 1, 'complaints': 1, 'conjunction': 1, 'contagious': 1, 'earthy': 1, 'habits': 1, "hack'd": 1, 'hitherto': 1, 'india': 1, 'lighted': 1, "list'ning": 1, 'livers': 1, 'moulded': 1, 'musicians': 1, 'nicholas': 3, 'paces': 1, 'packet': 1, 'pages': 1, 'papers': 1, 'passages': 1, 'progress': 1, 'prophecies': 1, "rain'd": 1, 'range': 1, 'rewards': 1, "ruin'd": 1, 'shrink': 1, 'snuff': 1, 'son-in-law': 1, "stepp'd": 1, 'succor': 1, 'suggestion': 1, 'tenor': 1, 'trusted': 1, 'tunes': 1, 'utterly': 1, 'vanities': 1, 'whereby': 1}
+
+H8.txt and x1H6sh.txt links:
+	Total links: 17
+	two-six links: 7
+{'dye': 1, 'exempt': 1, 'forfeiting': 1, "maz'd": 1, 'meditating': 1, 'pleaded': 1, "warn'd": 1}
+	Seven-eleven links: 10
+{'alanson': 1, 'burdeaux': 1, "distress'd": 1, 'gloss': 1, 'malignant': 1, 'orleance': 1, 'shrink': 1, 'succor': 1, 'verdict': 1, 'winchester': 1}
+
+H8.txt and x2H4.txt links:
+	Total links: 115
+	two-six links: 40
+{"attach'd": 1, 'bearer': 1, 'billows': 1, 'blew': 1, "butcher's": 1, 'buzzing': 1, 'cakes': 1, 'chronicles': 1, 'conjectures': 1, 'crowd': 1, 'demure': 1, "divorc'd": 1, 'exclamation': 1, "forg'd": 1, 'good-nights': 1, 'happiest': 1, "heav'nly": 1, 'inventory': 1, 'keech': 1, 'lighten': 1, 'martyr': 1, 'mercies': 1, 'mischiefs': 1, 'muzzle': 1, 'observing': 1, 'pagan': 1, "peep'd": 1, 'pinches': 1, 'puppy': 1, 'sect': 1, 'shilling': 1, 'sincere': 1, 'spaniard': 1, 'stafford': 1, 'stretches': 1, 'strond': 1, 'tamely': 1, 'undeserver': 1, "ventur'd": 1, 'wrenching': 1}
+	Seven-eleven links: 75
+{'abject': 1, 'accompanied': 1, 'accompt': 1, 'ague': 1, 'appearance': 2, 'arrested': 1, 'assembled': 1, 'attach': 1, 'attention': 1, 'begging': 1, 'bishop': 4, 'burdeaux': 1, 'burden': 1, 'chaff': 1, 'commotion': 1, 'complaints': 1, 'confirmation': 1, 'conjunction': 1, 'consideration': 1, 'contagious': 1, 'costly': 1, 'dealing': 1, 'deliverance': 1, 'examples': 1, "excus'd": 1, 'faculties': 1, "fashion'd": 1, 'forgiven': 1, 'gaping': 1, 'guarded': 1, "heav'n": 1, 'incensed': 1, "list'ning": 1, 'livers': 1, 'louder': 1, 'mate': 1, 'miscarried': 1, 'musicians': 1, 'navy': 1, 'odious': 1, 'packet': 1, 'parcels': 1, 'pardons': 1, 'parish': 1, 'pence': 1, 'perils': 1, 'pie': 1, 'plate': 1, 'poorest': 1, 'progress': 1, 'prophecies': 1, "purchas'd": 1, 'repentance': 1, 'reputed': 1, 'ruins': 1, 'singular': 1, 'sow': 1, 'speaker': 1, 'sprung': 1, 'staves': 1, 'staying': 1, 'steep': 1, 'suggestion': 1, 'troublesome': 1, 'tunes': 1, 'unwilling': 1, 'utterly': 1, 'vainly': 1, 'wages': 1, 'whereby': 1, 'wonted': 1}
+
+H8.txt and x2H6sh.txt links:
+	Total links: 40
+	two-six links: 22
+{'augment': 1, "card'nal": 1, 'cited': 1, 'crab-tree': 1, 'disgraces': 1, "display'd": 1, 'faulty': 1, "land's": 1, 'mow': 1, 'playfellows': 1, 'posted': 1, "princes'": 1, 'reaches': 1, 'respecting': 1, 'scatter': 1, 'strangled': 1, 'surveyor': 1, 'suspicious': 1, 'trap': 1, 'unspotted': 1, 'vaux': 1, 'venturous': 1}
+	Seven-eleven links: 18
+{'agent': 1, 'blossoms': 1, 'commotion': 1, 'costly': 1, 'courts': 1, 'darts': 1, 'deem': 1, 'disturb': 1, 'earthy': 1, 'embassador': 1, 'injustice': 1, 'its': 1, "judg'd": 1, 'mud': 1, 'smart': 1, 'staying': 1, 'utterly': 1, 'weighty': 1}
+
+H8.txt and x3H6sh.txt links:
+	Total links: 71
+	two-six links: 24
+{'agony': 1, 'argue': 1, "butcher's": 1, 'chafed': 1, 'chaplain': 1, 'depth': 1, 'fling': 1, 'flocks': 1, 'gainsay': 1, 'gripes': 1, 'heated': 1, 'incomparable': 1, "install'd": 1, 'kindling': 1, 'life-blood': 1, 'lump': 1, 'obeying': 1, 'showers': 1, 'shrouds': 1, 'stafford': 1, 'straying': 1, 'suspicious': 1, 'thousandfold': 1, 'verified': 1}
+	Seven-eleven links: 47
+{'arguments': 1, 'begs': 1, 'buzz': 1, 'childish': 1, 'commanding': 1, 'deliverance': 1, "discharg'd": 1, 'disperse': 1, 'glories': 1, 'happen': 1, 'hearers': 1, 'honorably': 1, 'hopeful': 1, 'hopeless': 1, 'indian': 1, 'net': 1, "obey'd": 1, 'ornaments': 1, 'peck': 1, 'pembroke': 1, 'profits': 1, 'prophecies': 1, "pursu'd": 1, 'queens': 1, 'range': 1, 'relate': 1, 'rend': 1, 'revengeful': 1, 'rewards': 1, 'scold': 1, 'seals': 1, 'seated': 1, 'sheathe': 1, 'shrink': 1, 'sprung': 1, 'strengthen': 1, 'suns': 2, 'thorny': 1, 'tops': 1, "traitor's": 1, 'unfit': 1, 'upward': 1, "view'd": 1, 'wins': 1, 'wishing': 1, 'wonted': 1}
+

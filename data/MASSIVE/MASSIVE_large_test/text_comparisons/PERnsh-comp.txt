@@ -1,0 +1,476 @@
+PERnsh.txt and ADO.txt links:
+	Total links: 30
+	two-six links: 9
+{'archer': 1, 'blithe': 1, 'ethiope': 1, 'graceful': 1, 'haps': 1, 'largely': 1, 'overflow': 1, 'peaceable': 1, "sinn'd": 1}
+	Seven-eleven links: 21
+{'arrow': 1, 'commence': 1, 'correct': 1, 'decreed': 2, "defil'd": 2, 'hits': 1, 'hypocrite': 2, 'louder': 1, 'misfortune': 2, 'reft': 1, 'sexton': 4, 'smother': 1, 'unclasp': 2}
+
+PERnsh.txt and ALCH.txt links:
+	Total links: 36
+	two-six links: 17
+{'artist': 1, 'buxom': 1, 'furtherance': 1, 'gat': 1, 'indenture': 1, 'lodgings': 1, 'lots': 2, 'mite': 1, 'nourishment': 1, "now's": 1, 'pelf': 2, 'perpetually': 1, 'reaching': 1, 'sharpest': 1, 'vails': 1}
+	Seven-eleven links: 19
+{"bring'st": 1, 'convince': 1, 'courser': 1, 'covering': 4, "display'd": 1, 'furnished': 1, 'interpret': 2, 'liberties': 2, 'pages': 1, 'planets': 1, 'turned': 1, 'vessels': 1, "you'd": 2}
+
+PERnsh.txt and ANT.txt links:
+	Total links: 49
+	two-six links: 25
+{'bellows': 1, 'birthday': 1, 'blackness': 1, 'casts': 1, 'consist': 1, 'dejected': 1, 'desist': 1, 'envied': 1, 'flags': 1, 'flatters': 1, 'goal': 2, 'graceful': 1, 'landing': 1, 'lots': 2, 'orbs': 1, 'palates': 1, 'supremacy': 1, 'syria': 5, 'targets': 1}
+	Seven-eleven links: 24
+{"believe't": 1, 'brim': 1, 'chariot': 1, 'conversation': 1, "cropp'd": 1, 'descried': 1, 'edict': 1, 'gnats': 1, 'haven': 1, 'hits': 1, 'languish': 1, 'moons': 1, 'playfellow': 1, 'serpents': 3, 'shipping': 2, "strew'd": 1, 'target': 1, 'vessels': 1, 'viands': 1, 'withhold': 2}
+
+PERnsh.txt and ARDnsh.txt links:
+	Total links: 14
+	two-six links: 8
+{'adventures': 1, 'asks': 1, "fir'd": 1, 'shipwrack': 2, 'sufficiently': 1, 'whoso': 2}
+	Seven-eleven links: 6
+{"bewitch'd": 1, 'brim': 1, 'destinies': 1, 'gaping': 1, 'needy': 1, 'pointed': 1}
+
+PERnsh.txt and ARDsh.txt links:
+	Total links: 6
+	two-six links: 3
+{'cates': 1, 'detect': 1, 'lop': 1}
+	Seven-eleven links: 3
+{"bewitch'd": 1, 'languish': 1, 'smother': 1}
+
+PERnsh.txt and AWWnsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'perpetually': 1}
+	Seven-eleven links: 1
+{'lowest': 1}
+
+PERnsh.txt and AWWsh.txt links:
+	Total links: 37
+	two-six links: 14
+{'braid': 1, 'heritage': 1, 'impudence': 1, 'lawfully': 1, 'neighboring': 2, 'propagate': 1, 'repeated': 1, 'shuns': 2, "sinn'd": 1, 'spares': 2, 'unthankfulness': 1}
+	Seven-eleven links: 23
+{"believe't": 2, 'betake': 1, 'brim': 1, 'calendar': 1, 'chill': 1, 'conversation': 1, "defil'd": 1, 'education': 1, 'expecting': 1, 'fry': 1, 'hits': 1, 'ne': 1, 'pretense': 1, 'riddle': 1, "strew'd": 1, 'subjection': 1, 'succeeding': 1, 'threatens': 1, 'whale': 1, 'whipping': 3}
+
+PERnsh.txt and AYL.txt links:
+	Total links: 26
+	two-six links: 7
+{'blacker': 1, 'consist': 1, 'detect': 1, 'flatters': 1, 'touchstone': 3}
+	Seven-eleven links: 19
+{"bring'st": 1, 'destinies': 1, 'education': 2, 'entrap': 1, 'erst': 1, 'heap': 1, 'languish': 1, 'pages': 1, 'parish': 2, 'rhymes': 1, 'smother': 1, 'travels': 4, 'tyrants': 2}
+
+PERnsh.txt and COR.txt links:
+	Total links: 48
+	two-six links: 14
+{'buildings': 1, 'envied': 2, 'fitly': 2, 'glowing': 1, 'graceful': 1, 'hostile': 1, 'lots': 1, 'palates': 1, 'parent': 1, 'rapture': 1, 'risen': 1, 'viper': 1}
+	Seven-eleven links: 34
+{'begging': 1, "believe't": 1, 'conversation': 1, 'dames': 1, 'decreed': 2, 'embracements': 1, 'famish': 2, 'gratify': 1, 'hitherward': 1, 'liberties': 3, 'lowest': 2, 'pages': 1, 'senate-house': 3, "stor'd": 8, 'target': 1, 'teaches': 1, 'testy': 1, 'tumbled': 1, 'vail': 1, 'volume': 1}
+
+PERnsh.txt and CYM.txt links:
+	Total links: 52
+	two-six links: 13
+{'clasp': 1, 'dragons': 1, 'expound': 1, "hunger's": 1, 'lucina': 1, 'neighboring': 2, 'orbs': 2, 'proffer': 1, "ras'd": 1, 'repeated': 1, 'unlaid': 1}
+	Seven-eleven links: 39
+{"bring'st": 1, 'cancel': 1, 'conversation': 1, 'convince': 1, 'covering': 2, "diana's": 2, 'doubting': 1, 'embracements': 1, 'ensues': 1, 'gains': 1, 'gratify': 1, 'haven': 3, 'infirmities': 2, 'justify': 1, 'languish': 2, 'liberties': 1, 'mole': 3, 'monarchs': 1, 'pages': 1, 'parish': 2, 'playfellow': 1, 'pointed': 1, 'pretense': 1, 'shipping': 1, "strew'd": 2, 'subjection': 1, 'testify': 1, 'viands': 1, 'volume': 1}
+
+PERnsh.txt and E3nsh.txt links:
+	Total links: 51
+	two-six links: 18
+{"adorn'd": 1, 'betook': 1, 'cates': 1, 'dragons': 1, 'drone': 1, 'furtherance': 1, "inflam'd": 1, 'inheritor': 1, 'landing': 2, 'lawfully': 1, 'motto': 3, "now's": 1, 'sic': 1, 'towers': 1, 'viper': 1}
+	Seven-eleven links: 33
+{'commence': 1, "cropp'd": 2, 'decreed': 4, 'descried': 1, "display'd": 1, 'distant': 1, 'ensues': 1, 'expecting': 1, "expir'd": 2, 'haven': 3, 'hitherward': 2, 'ire': 2, 'needy': 1, 'reft': 1, 'respite': 1, 'scholars': 1, 'serpents': 1, "subject's": 1, 'target': 1, "toss'd": 1, 'vail': 1, 'vessels': 1, 'wreath': 2}
+
+PERnsh.txt and E3sh.txt links:
+	Total links: 15
+	two-six links: 3
+{'armors': 1, 'hesperides': 1, 'proffer': 1}
+	Seven-eleven links: 12
+{'bee': 1, 'cancel': 2, "expir'd": 2, 'perfections': 2, 'playfellow': 1, 'potion': 1, 'scour': 1, 'unspotted': 1, 'vail': 1}
+
+PERnsh.txt and ERR.txt links:
+	Total links: 23
+	two-six links: 6
+{'adventures': 1, 'buildings': 1, 'cates': 1, 'fishermen': 2, 'fishers': 1}
+	Seven-eleven links: 17
+{'agrees': 1, 'decreed': 2, 'embracements': 1, 'fulfill': 1, 'gains': 1, 'gnats': 1, 'ire': 1, 'liberties': 1, 'mole': 1, 'needy': 1, 'reft': 2, 'summers': 1, 'travels': 2, 'unquiet': 1}
+
+PERnsh.txt and H5.txt links:
+	Total links: 51
+	two-six links: 16
+{'adventures': 1, 'blithe': 1, 'buxom': 1, 'drone': 1, 'expound': 1, 'gloze': 1, 'macedon': 5, 'minding': 2, 'ostent': 1, "pistol's": 1, 'viper': 1}
+	Seven-eleven links: 35
+{'authors': 1, 'ball': 1, 'beadle': 1, 'brim': 1, 'chariot': 1, 'correct': 1, 'courser': 1, 'covering': 2, 'dames': 2, 'erst': 1, 'gaping': 1, 'monarchs': 3, 'ne': 4, 'qui': 1, 'remembered': 1, 'riots': 1, 'rusty': 2, 'scour': 1, 'smother': 1, "subject's": 2, 'subjection': 1, 'threatens': 1, 'unprovided': 1, 'unquiet': 1, 'unspotted': 1, 'wight': 1}
+
+PERnsh.txt and H8nsh.txt links:
+	Total links: 21
+	two-six links: 5
+{'casts': 1, 'envied': 1, 'nourishment': 1, 'speeding': 1, 'targets': 1}
+	Seven-eleven links: 16
+{'aspire': 1, 'authors': 1, 'correct': 1, 'fry': 1, 'gaping': 1, 'pages': 2, 'parish': 2, "princes'": 2, 'scholars': 1, 'succeeding': 1, 'summers': 1, 'unspotted': 1, "you'd": 1}
+
+PERnsh.txt and H8sh.txt links:
+	Total links: 22
+	two-six links: 4
+{'bounties': 1, 'casts': 1, 'lop': 1, 'musings': 1}
+	Seven-eleven links: 18
+{'begging': 1, 'conception': 2, "display'd": 1, 'gallery': 1, "judg'd": 1, 'justify': 1, "list'ning": 1, 'louder': 1, 'pages': 1, 'parish': 2, 'pointed': 1, 'pretense': 2, 'respite': 2, "subject's": 1}
+
+PERnsh.txt and HAM.txt links:
+	Total links: 47
+	two-six links: 8
+{'bethought': 1, 'dejected': 1, "finger'd": 1, 'glow-worm': 1, 'haps': 1, 'inheritor': 1, "law's": 1, "topp'd": 1}
+	Seven-eleven links: 39
+{"aim'd": 1, 'arrow': 1, 'calendar': 1, 'conception': 2, 'conversation': 1, 'distant': 1, 'hits': 3, 'hypocrite': 1, 'incest': 5, 'interpret': 1, 'lowest': 1, 'mole': 2, 'monarchs': 1, 'moons': 1, 'perfections': 2, 'planets': 1, 'potion': 1, 'rusty': 2, 'scholars': 1, 'sexton': 1, "strew'd": 1, 'target': 1, "this'": 1, 'tumbled': 1, 'volume': 1, 'whale': 2, 'whipping': 1, "wit's": 1}
+
+PERnsh.txt and HAMQ1.txt links:
+	Total links: 32
+	two-six links: 3
+{"adorn'd": 1, 'blacker': 1, 'gloze': 1}
+	Seven-eleven links: 29
+{'arrow': 1, "believe't": 1, 'brim': 1, 'conversation': 1, 'entrap': 1, 'furnished': 1, 'gallery': 2, 'interpret': 1, 'mole': 1, 'potion': 1, "princes'": 2, 'remembered': 1, 'scholars': 1, 'shipping': 1, 'target': 1, 'tumbled': 1, 'unable': 1, 'unclasp': 2, 'vessels': 1, 'whale': 2, 'whereas': 2, 'whipping': 1, "wit's": 1, "you'd": 1}
+
+PERnsh.txt and JC.txt links:
+	Total links: 23
+	two-six links: 3
+{'birthday': 1, 'expounded': 1, 'flattered': 1}
+	Seven-eleven links: 20
+{"bring'st": 1, 'calendar': 1, 'cancel': 1, 'chariot': 1, 'fulfill': 1, 'heap': 1, 'infirmities': 2, 'inflame': 1, 'liberties': 1, 'lowest': 1, 'scorning': 1, 'senate-house': 3, 'testy': 1, 'tyrants': 2, 'wreath': 2}
+
+PERnsh.txt and JN.txt links:
+	Total links: 34
+	two-six links: 10
+{'accounts': 1, 'armors': 1, 'flags': 1, 'harborage': 1, 'indenture': 1, "inflam'd": 1, "murther's": 1, 'sharpest': 1, 'supremacy': 1, 'taper-light': 1}
+	Seven-eleven links: 24
+{'beadle': 1, 'boundless': 1, 'calendar': 1, 'correct': 1, 'education': 1, 'ensues': 1, 'hitherward': 1, "judg'd": 1, 'moons': 2, 'rhymes': 1, 'sexton': 1, "stor'd": 4, "strew'd": 1, 'subjection': 1, 'teaches': 1, 'tumbled': 1, 'turned': 1, 'volume': 1, 'withhold': 2}
+
+PERnsh.txt and KNACKsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'nets': 1}
+	Seven-eleven links: 1
+{'entrap': 1}
+
+PERnsh.txt and LC.txt links:
+	Total links: 7
+	two-six links: 2
+{'defiling': 1, 'glowing': 1}
+	Seven-eleven links: 5
+{"bewitch'd": 1, 'chill': 1, 'distant': 1, 'inflame': 1, 'subjection': 1}
+
+PERnsh.txt and LLL.txt links:
+	Total links: 48
+	two-six links: 10
+{'betook': 1, "fir'd": 1, 'hesperides': 1, 'inheritor': 1, 'jangling': 1, "law's": 1, "minute's": 1, 'nourishment': 1, "wisdom's": 2}
+	Seven-eleven links: 38
+{'authors': 1, 'beadle': 1, 'begging': 1, 'convince': 1, 'dames': 1, 'delightful': 2, 'descried': 1, 'diamonds': 1, "display'd": 1, 'edict': 2, 'expecting': 1, 'gratify': 1, 'lowest': 1, 'ne': 2, 'parish': 2, 'perfections': 2, 'qui': 1, 'rhymes': 3, 'riddle': 2, 'scholars': 1, 'serpents': 1, 'teaches': 2, 'tyrants': 1, 'vowed': 1, 'whipping': 1, 'wight': 1, "wit's": 3}
+
+PERnsh.txt and LR.txt links:
+	Total links: 50
+	two-six links: 18
+{'beacon': 1, 'benison': 2, 'bethought': 1, 'dejected': 1, 'eater': 1, 'fishermen': 1, 'fitly': 2, "he'd": 1, "inflam'd": 1, "o'erlook": 1, 'orbs': 1, 'parent': 1, "pleasure's": 1, 'risen': 1, "show'dst": 1, "sinn'd": 1}
+	Seven-eleven links: 32
+{'beadle': 1, 'brim': 1, 'chill': 3, 'conception': 2, 'covering': 2, 'diamonds': 1, "display'd": 1, 'hitherward': 1, 'infirmities': 2, 'louder': 1, 'lowest': 1, 'moons': 1, 'pretense': 2, 'riddle': 1, 'riots': 2, 'shaft': 1, "stor'd": 4, "this'": 1, 'unable': 1, 'unprovided': 1, 'wreath': 2}
+
+PERnsh.txt and LUC.txt links:
+	Total links: 54
+	two-six links: 14
+{'buildings': 1, 'eater': 1, 'entice': 1, 'flatters': 1, 'inventions': 1, "minute's": 1, "murther's": 1, 'perpetually': 1, "subjects'": 1, 'suffrages': 1, "throng'd": 2, 'wanteth': 2}
+	Seven-eleven links: 40
+{'agrees': 1, 'aspire': 1, 'authors': 1, 'bee': 2, 'betake': 1, "bewitch'd": 1, 'boundless': 1, "defil'd": 2, 'descried': 1, "display'd": 1, 'ensues': 1, 'expecting': 1, "expir'd": 2, 'fulfill': 2, 'gaping': 1, 'gnats': 1, 'incest': 5, "list'ning": 3, 'misfortune': 2, 'monarchs': 1, 'pages': 1, 'rhymes': 1, 'smother': 1, 'subjection': 1, 'succeeding': 1, 'testy': 1, "toss'd": 1, 'unspotted': 1, 'vowed': 1}
+
+PERnsh.txt and MAC.txt links:
+	Total links: 20
+	two-six links: 2
+{'benison': 1, "shipman's": 1}
+	Seven-eleven links: 18
+{'boundless': 1, 'calendar': 1, 'cancel': 1, 'convince': 1, 'dames': 1, 'fry': 1, 'gains': 1, 'interpret': 2, "list'ning": 1, 'pretense': 1, 'scour': 1, 'shaft': 1, 'succeeding': 2, 'threatens': 1, 'vessels': 1, 'volume': 1}
+
+PERnsh.txt and MMsh.txt links:
+	Total links: 28
+	two-six links: 4
+{'bethought': 1, 'dejected': 1, "err'd": 1, 'impudence': 1}
+	Seven-eleven links: 24
+{'conception': 2, 'distant': 1, 'edict': 1, 'hypocrite': 1, 'incest': 5, 'justify': 1, 'louder': 1, 'parish': 2, 'respite': 1, 'riddle': 1, "strew'd": 1, "this'": 1, 'unable': 1, 'vail': 1, 'whipping': 2, "wond'red": 2}
+
+PERnsh.txt and MND.txt links:
+	Total links: 35
+	two-six links: 15
+{'dragons': 1, 'entice': 1, 'exposition': 1, 'expound': 1, 'groves': 2, 'jangling': 1, 'loathing': 1, 'minding': 2, 'now-a-days': 1, "o'erlook": 1, 'orbs': 1, 'sparta': 2}
+	Seven-eleven links: 20
+{'arrow': 2, "bewitch'd": 1, 'calendar': 2, "defil'd": 1, "diana's": 1, 'distant': 1, 'edict': 1, 'gaping': 1, 'languish': 1, 'mole': 1, 'playfellow': 1, 'potion': 1, 'rhymes': 1, 'scorning': 1, 'shaft': 1, 'testy': 1, "this'": 1, 'turned': 1}
+
+PERnsh.txt and MUC.txt links:
+	Total links: 6
+	two-six links: 2
+{'desist': 1, 'fasting-days': 1}
+	Seven-eleven links: 4
+{'ball': 1, 'conception': 2, 'needy': 1}
+
+PERnsh.txt and MV.txt links:
+	Total links: 33
+	two-six links: 8
+{'drones': 1, "dull-ey'd": 1, 'exposition': 1, 'furthermore': 1, 'lawfully': 1, 'loathing': 1, 'ostent': 1, 'palates': 1}
+	Seven-eleven links: 25
+{'arrow': 1, 'destinies': 1, 'entrap': 2, 'gains': 1, 'gaping': 3, 'gnats': 1, 'gratify': 1, 'misfortune': 4, 'portly': 1, "princes'": 2, 'shaft': 1, 'teaches': 2, 'threatens': 1, 'turned': 1, 'unquiet': 2, 'viands': 1}
+
+PERnsh.txt and OTH.txt links:
+	Total links: 26
+	two-six links: 9
+{'blacker': 1, 'blackness': 1, "calm'd": 1, 'darlings': 1, "murther's": 1, 'palates': 1, 'scan': 1, "topp'd": 1, 'viper': 1}
+	Seven-eleven links: 17
+{"aim'd": 1, "believe't": 2, 'conception': 4, 'conversation': 1, 'dames': 1, 'education': 2, 'gratify': 1, 'inflame': 1, 'moons': 1, 'wight': 3}
+
+PERnsh.txt and PERsh.txt links:
+	Total links: 59
+	two-six links: 23
+{'a-land': 1, 'bethought': 1, 'desist': 1, 'dionyza': 8, 'escanes': 1, 'graceful': 1, 'indenture': 1, 'lodgings': 1, 'lucina': 1, "music's": 1, 'pentapolis': 4, "stir'st": 1, 'well-a-day': 1}
+	Seven-eleven links: 36
+{'diamonds': 1, "diana's": 3, 'distant': 1, 'education': 1, 'ensues': 1, "expir'd": 2, 'inflame': 1, 'justify': 1, "list'ning": 1, 'louder': 1, 'moons': 1, 'scholars': 1, 'simonides': 7, 'thaisa': 9, 'threatens': 1, "toss'd": 2, 'vail': 1, 'whale': 1}
+
+PERnsh.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'commence': 1}
+
+PERnsh.txt and R2.txt links:
+	Total links: 38
+	two-six links: 10
+{'flatters': 1, 'lengthen': 1, 'lodgings': 1, 'lop': 1, 'overflow': 1, "ras'd": 1, "subjects'": 2, 'viol': 1, 'whoso': 1}
+	Seven-eleven links: 28
+{"aim'd": 1, 'aweful': 1, 'ball': 1, 'correct': 1, 'covering': 2, "cropp'd": 1, "defil'd": 1, 'delightful': 2, 'destinies': 1, 'furnished': 1, 'gains': 1, 'ire': 1, "judg'd": 2, 'misfortune': 4, 'moons': 1, 'rusty': 2, "subject's": 1, 'succeeding': 1, 'summers': 1, 'volume': 1, "wit's": 1}
+
+PERnsh.txt and R3.txt links:
+	Total links: 44
+	two-six links: 11
+{'adventures': 1, 'dragons': 1, 'flattered': 1, 'hostile': 1, 'inestimable': 1, 'inheritor': 1, "o'erlook": 1, 'shuns': 1, 'strictly': 1, 'unthankfulness': 1, 'wanteth': 1}
+	Seven-eleven links: 33
+{'begging': 2, "bewitch'd": 1, 'calendar': 1, 'cancel': 1, 'conversation': 1, "cropp'd": 1, 'delightful': 2, 'descried': 1, 'edict': 1, 'embracements': 1, 'ensues': 1, 'expecting': 1, 'fulfill': 1, 'gains': 1, 'heap': 2, 'planets': 1, 'playfellow': 1, 'reft': 1, 'respite': 1, 'riddle': 1, 'smother': 1, 'succeeding': 1, 'summers': 1, 'testy': 1, "toss'd": 1, 'tyrants': 1, 'unprovided': 1, 'unquiet': 2, 'vail': 1}
+
+PERnsh.txt and ROM.txt links:
+	Total links: 34
+	two-six links: 10
+{'countervail': 1, 'driving': 1, 'environed': 1, 'exposition': 1, "fir'd": 1, "music's": 1, 'nets': 1, 'propagate': 1, 'unsavory': 1, 'unthankfulness': 1}
+	Seven-eleven links: 24
+{'agrees': 1, "aim'd": 1, 'arrow': 1, 'ball': 1, 'betake': 1, 'boundless': 1, 'chariot': 1, 'decreed': 2, 'languish': 1, 'misfortune': 2, 'needy': 3, 'portly': 1, 'potion': 1, 'serpents': 1, 'shaft': 1, 'summers': 1, 'testify': 1, 'vessels': 1, 'volume': 2}
+
+PERnsh.txt and SHR.txt links:
+	Total links: 36
+	two-six links: 12
+{'bots': 1, 'expound': 1, 'husht': 1, 'inventions': 2, 'perpetually': 1, 'presumes': 1, 'risen': 1, 'shuns': 1, 'speeding': 1, 'supremacy': 2}
+	Seven-eleven links: 24
+{"aim'd": 2, 'aweful': 1, 'descried': 1, 'education': 2, 'embracements': 1, 'famish': 1, 'fry': 1, 'furnished': 1, 'gratify': 1, 'haven': 1, 'hits': 1, "list'ning": 1, 'louder': 1, 'rusty': 2, 'shipping': 1, "strew'd": 1, 'testify': 1, "this'": 1, 'unable': 1, 'unprovided': 1, 'vail': 1}
+
+PERnsh.txt and SON1.txt links:
+	Total links: 6
+	two-six links: 2
+{'flattered': 1, "untutor'd": 1}
+	Seven-eleven links: 4
+{'fulfill': 2, 'justify': 1, 'testy': 1}
+
+PERnsh.txt and SON145.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PERnsh.txt and SON2.txt links:
+	Total links: 7
+	two-six links: 2
+{'glowing': 1, 'towers': 1}
+	Seven-eleven links: 5
+{'boundless': 1, 'doubting': 1, 'gains': 1, 'needy': 1, 'remembered': 1}
+
+PERnsh.txt and SON3.txt links:
+	Total links: 8
+	two-six links: 1
+{'decrease': 1}
+	Seven-eleven links: 7
+{'commence': 1, 'erst': 1, "princes'": 2, 'smother': 1, 'succeeding': 1, 'tyrants': 1}
+
+PERnsh.txt and SON4.txt links:
+	Total links: 1
+	two-six links: 1
+{"o'erlook": 1}
+	Seven-eleven links: 0
+{}
+
+PERnsh.txt and SON5.txt links:
+	Total links: 7
+	two-six links: 2
+{'bases': 1, "tyrants'": 1}
+	Seven-eleven links: 5
+{'correct': 1, 'doubting': 1, 'hits': 1, 'travels': 2}
+
+PERnsh.txt and SPTAD.txt links:
+	Total links: 10
+	two-six links: 1
+{'inestimable': 1}
+	Seven-eleven links: 9
+{'ball': 1, 'gallery': 1, 'riots': 1, "stor'd": 4, 'whereas': 2}
+
+PERnsh.txt and SPTKYD.txt links:
+	Total links: 52
+	two-six links: 14
+{'asks': 1, 'clothed': 1, 'desist': 1, 'envies': 1, 'haps': 1, 'mihi': 2, "mischief's": 1, 'piu': 1, 'reaching': 1, 'sic': 2, 'tua': 1, 'vita': 1}
+	Seven-eleven links: 38
+{'chariot': 1, 'chill': 1, 'courser': 1, 'delightful': 4, 'destinies': 1, 'entrap': 1, 'furnished': 2, 'gallery': 1, 'haven': 1, 'ire': 2, 'lowest': 1, 'ne': 1, 'per': 4, 'pretense': 1, 'qui': 3, 'remembered': 3, 'scholars': 1, 'scour': 1, 'serpents': 1, 'succeeding': 1, 'turned': 3, 'unquiet': 1, 'vowed': 2}
+
+PERnsh.txt and STMsh.txt links:
+	Total links: 3
+	two-six links: 2
+{"cloth'd": 1, "topp'd": 1}
+	Seven-eleven links: 1
+{"this'": 1}
+
+PERnsh.txt and TAfly.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'begging': 1, 'interpret': 1}
+
+PERnsh.txt and TAnsh.txt links:
+	Total links: 11
+	two-six links: 4
+{'favorers': 1, 'shipwrack': 2, 'suffrages': 1}
+	Seven-eleven links: 7
+{'chariot': 1, 'dames': 1, 'gratify': 1, 'per': 4}
+
+PERnsh.txt and TAsh.txt links:
+	Total links: 27
+	two-six links: 10
+{"advent'rous": 1, 'archer': 1, 'blithe': 1, 'countless': 2, 'detect': 1, 'gloze': 1, 'groves': 1, 'nets': 1, 'suffrages': 1}
+	Seven-eleven links: 17
+{"aim'd": 1, "bewitch'd": 1, 'dames': 1, 'decreed': 2, 'delightful': 2, 'erst': 2, 'expecting': 1, 'famish': 2, 'gaping': 1, 'gnats': 1, 'gratify': 1, 'heap': 1, 'turned': 1}
+
+PERnsh.txt and TGV.txt links:
+	Total links: 24
+	two-six links: 9
+{"ador'd": 1, 'deeps': 1, 'ethiope': 1, "now's": 1, 'puddings': 1, "sinn'd": 1, 'steeple': 2, 'wanteth': 1}
+	Seven-eleven links: 15
+{'aspire': 1, 'aweful': 1, 'cancel': 1, 'heap': 1, 'interpret': 1, "judg'd": 1, 'perfections': 2, 'pretense': 1, 'rhymes': 1, 'scour': 1, 'testify': 1, 'testy': 1, "wond'red": 2}
+
+PERnsh.txt and TIMnsh.txt links:
+	Total links: 16
+	two-six links: 5
+{'bounties': 2, 'buildings': 1, 'fitly': 1, 'pelf': 1}
+	Seven-eleven links: 11
+{"believe't": 1, 'conception': 2, 'courser': 1, "defil'd": 1, 'diamonds': 1, 'doubting': 2, 'expecting': 1, 'hits': 1, 'tyrants': 1}
+
+PERnsh.txt and TIMsh.txt links:
+	Total links: 21
+	two-six links: 11
+{"ador'd": 1, 'dragons': 1, 'givest': 1, 'hostile': 1, "now's": 1, 'propagate': 1, "throng'd": 4, 'whoso': 1}
+	Seven-eleven links: 10
+{"believe't": 2, 'boundless': 1, 'commence': 1, 'famish': 1, 'heap': 2, 'interpret': 1, "toss'd": 1, 'vessels': 1}
+
+PERnsh.txt and TMP.txt links:
+	Total links: 11
+	two-six links: 4
+{'groves': 1, "he'd": 1, "now's": 1, 'parent': 1}
+	Seven-eleven links: 7
+{'bee': 1, 'justify': 1, 'louder': 1, 'mole': 1, 'viands': 1, "wond'red": 2}
+
+PERnsh.txt and TN.txt links:
+	Total links: 29
+	two-six links: 9
+{"ador'd": 1, 'bethought': 1, 'consist': 1, 'driving': 1, 'eater': 1, "given't": 1, "minute's": 1, 'well-a-day': 1, 'whipstock': 1}
+	Seven-eleven links: 20
+{'authors': 2, 'begging': 1, 'betake': 2, "bewitch'd": 1, 'decreed': 2, "diana's": 1, "display'd": 1, 'hits': 1, 'mole': 1, 'perfections': 4, 'riddle': 1, 'shaft': 1, "wond'red": 2}
+
+PERnsh.txt and TNKnsh.txt links:
+	Total links: 33
+	two-six links: 15
+{'accounts': 1, 'armors': 1, 'birthday': 1, 'casts': 1, 'clasp': 1, 'cynthia': 1, 'entice': 1, "fir'd": 1, 'fishermen': 1, 'helpers': 1, 'lawfully': 1, 'nourishment': 1, "pleasure's": 1, 'quo': 1, 'tumbles': 1}
+	Seven-eleven links: 18
+{'authors': 1, 'begging': 1, "bring'st": 1, 'conversation': 1, 'edict': 2, 'heap': 1, 'inflame': 1, 'ire': 1, 'parish': 2, 'pointed': 2, 'qui': 1, 'scorning': 1, 'unspotted': 1, 'wreath': 2}
+
+PERnsh.txt and TNKsh.txt links:
+	Total links: 24
+	two-six links: 3
+{"music's": 1, 'overflow': 1, 'whipstock': 1}
+	Seven-eleven links: 21
+{'aspire': 1, 'begging': 1, 'betake': 1, 'boundless': 1, "judg'd": 1, 'justify': 1, 'playfellow': 1, 'rusty': 2, "subject's": 1, 'tumbled': 1, 'unclasp': 2, 'vessels': 1, 'viands': 1, 'wreath': 6}
+
+PERnsh.txt and TRO.txt links:
+	Total links: 51
+	two-six links: 17
+{'armors': 1, 'artist': 1, 'bases': 1, 'beacon': 1, 'blackness': 1, 'bounties': 1, "calm'd": 1, 'chime': 1, 'clasp': 1, 'gat': 1, 'inestimable': 1, "inflam'd": 1, "merit's": 1, 'misers': 1, 'palates': 1, 'rapture': 1, 'towers': 1}
+	Seven-eleven links: 34
+{'boundless': 1, 'conception': 2, 'convince': 2, 'correct': 1, "cropp'd": 1, 'dames': 1, 'decreed': 2, "diana's": 1, 'fry': 2, 'per': 2, 'planets': 3, 'portly': 1, 'rhymes': 1, 'rusty': 2, 'shaft': 1, "strew'd": 1, 'travels': 2, 'unclasp': 2, 'vail': 1, 'viands': 1, 'whale': 1, 'withhold': 1, "you'd": 2}
+
+PERnsh.txt and VEN.txt links:
+	Total links: 37
+	two-six links: 13
+{'asks': 1, 'cynthia': 1, 'digs': 1, 'flatters': 1, 'framing': 1, 'gazer': 1, 'glowing': 1, 'mihi': 1, "minute's": 1, 'overflow': 1, 'subtilty': 1, 'unsavory': 1, 'vails': 1}
+	Seven-eleven links: 24
+{'agrees': 1, 'arrow': 1, 'aspire': 1, 'brim': 1, 'chariot': 1, 'courser': 2, 'delightful': 2, 'destinies': 2, 'embracements': 2, 'famish': 1, 'fry': 1, 'infirmities': 2, "list'ning": 1, 'reft': 1, 'scorning': 2, 'smother': 1, 'testy': 1, 'withhold': 1}
+
+PERnsh.txt and WIV.txt links:
+	Total links: 23
+	two-six links: 7
+{'decrease': 1, 'dejected': 1, 'detect': 1, 'hac': 1, 'largely': 1, 'puddings': 1, 'well-a-day': 1}
+	Seven-eleven links: 16
+{'agrees': 1, 'arrow': 1, 'aspire': 1, 'conversation': 1, 'louder': 1, 'portly': 1, 'qui': 2, 'riots': 1, 'scour': 2, 'shaft': 1, 'teaches': 1, 'whale': 1, 'wight': 2}
+
+PERnsh.txt and WT.txt links:
+	Total links: 31
+	two-six links: 12
+{'asks': 2, 'bases': 1, 'blacker': 2, 'goal': 1, 'graceful': 1, 'impudence': 1, "relish'd": 1, 'sharpest': 1, "sinn'd": 1, 'sufficiently': 1}
+	Seven-eleven links: 19
+{'betake': 1, 'boundless': 1, 'covering': 2, 'ensues': 1, 'fulfill': 1, 'gallery': 1, 'infirmities': 2, 'justify': 1, 'louder': 1, 'playfellow': 2, 'potion': 1, 'pretense': 1, 'scour': 1, 'summers': 1, "this'": 1, 'threatens': 1}
+
+PERnsh.txt and x1H4.txt links:
+	Total links: 40
+	two-six links: 13
+{'bots': 1, 'cates': 1, 'drone': 1, 'givest': 1, 'holidays': 1, 'hostile': 1, 'indenture': 1, 'neighboring': 2, 'proffer': 1, 'towers': 1, 'unsavory': 1, 'upside': 1}
+	Seven-eleven links: 27
+{'agrees': 1, "aim'd": 1, 'ball': 1, "bewitch'd": 1, "diana's": 1, 'entrap': 1, "list'ning": 1, 'pages': 1, 'pointed': 1, 'portly': 2, 'rusty': 2, 'scour': 1, 'smother': 1, 'target': 1, 'threatens': 1, "toss'd": 1, 'unclasp': 2, 'unprovided': 1, "wond'red": 6}
+
+PERnsh.txt and x1H6nsh.txt links:
+	Total links: 47
+	two-six links: 17
+{'beacon': 1, 'cates': 1, 'entice': 1, 'festivals': 1, 'furtherance': 1, "glory's": 1, 'haps': 1, 'helpers': 1, 'lop': 1, 'proffer': 2, 'risen': 1, 'shipwrack': 2, 'sufficiently': 1, 'wanteth': 1, 'whoso': 1}
+	Seven-eleven links: 30
+{"bewitch'd": 1, 'commence': 1, "cropp'd": 1, "display'd": 1, 'doubting': 1, "expir'd": 2, 'gallery': 1, 'hypocrite': 1, 'parish': 2, 'perfections': 2, 'planets': 2, 'respite': 1, 'shipping': 1, 'smother': 1, 'succeeding': 1, 'testify': 1, 'unable': 1, 'unspotted': 1, 'vail': 1, 'volume': 1, 'whereas': 6}
+
+PERnsh.txt and x1H6sh.txt links:
+	Total links: 5
+	two-six links: 1
+{'towers': 1}
+	Seven-eleven links: 4
+{"cropp'd": 1, 'ire': 1, 'unable': 1, 'withhold': 1}
+
+PERnsh.txt and x2H4.txt links:
+	Total links: 38
+	two-six links: 10
+{'beacon': 1, 'consist': 1, 'desist': 1, 'exposition': 1, "he'd": 1, 'inheritor': 1, 'largely': 1, 'martyrs': 1, "minute's": 1, "pistol's": 1}
+	Seven-eleven links: 28
+{'arrow': 1, 'aweful': 2, 'ball': 1, 'bee': 2, 'begging': 1, "bring'st": 1, 'commence': 1, 'gaping': 1, 'hypocrite': 2, 'inflame': 1, "list'ning": 1, 'louder': 1, 'parish': 2, 'potion': 1, 'riots': 2, 'shaft': 1, 'unquiet': 1, 'vail': 1, 'volume': 1, 'whale': 1, 'whipping': 1, "wit's": 1, 'withhold': 1}
+
+PERnsh.txt and x2H6nsh.txt links:
+	Total links: 27
+	two-six links: 7
+{'buildings': 1, "calm'd": 1, 'drones': 1, 'furthermore': 1, 'lengthen': 1, 'reaching': 1, "wisdom's": 1}
+	Seven-eleven links: 20
+{'agrees': 1, 'aweful': 1, 'beadle': 2, 'bee': 1, 'betake': 1, 'correct': 1, 'erst': 1, "expir'd": 2, 'famish': 1, 'heap': 1, 'hitherward': 1, 'justify': 1, 'scholars': 1, 'testify': 1, 'threatens': 1, 'whereas': 2, 'whipping': 1}
+
+PERnsh.txt and x2H6sh.txt links:
+	Total links: 18
+	two-six links: 7
+{"calm'd": 1, 'envies': 1, 'gazer': 1, "murther's": 1, 'spares': 2, "untutor'd": 1}
+	Seven-eleven links: 11
+{'diamonds': 1, "display'd": 1, 'edict': 1, "judg'd": 1, 'needy': 1, "princes'": 2, 'serpents': 1, 'unspotted': 1, 'vowed': 2}
+
+PERnsh.txt and x3H6nsh.txt links:
+	Total links: 14
+	two-six links: 5
+{'detect': 1, 'environed': 1, "err'd": 1, 'haps': 1, 'unsavory': 1}
+	Seven-eleven links: 9
+{'aspire': 1, 'destinies': 1, 'haven': 1, 'misfortune': 2, "toss'd": 1, 'tyrants': 1, 'vowed': 1, 'withhold': 1}
+
+PERnsh.txt and x3H6sh.txt links:
+	Total links: 25
+	two-six links: 6
+{'armors': 1, 'environed': 1, "finger'd": 1, "subjects'": 2, "untutor'd": 1}
+	Seven-eleven links: 19
+{'aweful': 1, "cropp'd": 1, 'diamonds': 1, 'doubting': 1, 'famish': 1, 'gnats': 1, 'hitherward': 1, 'ire': 1, 'perfections': 2, 'scorning': 1, 'target': 1, 'tumbled': 1, 'unprovided': 1, 'viands': 1, "wond'red": 4}
+

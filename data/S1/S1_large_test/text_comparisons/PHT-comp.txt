@@ -1,0 +1,322 @@
+PHT.txt and ADO.txt links:
+	Total links: 1
+	two-six links: 1
+{'commence': 1}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and ANT.txt links:
+	Total links: 3
+	two-six links: 2
+{'arabian': 1, 'cinders': 1}
+	Seven-eleven links: 1
+{'eternity': 1}
+
+PHT.txt and ARDsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and AWWsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'surplice': 1}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and AYL.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'compounded': 1}
+
+PHT.txt and COR.txt links:
+	Total links: 5
+	two-six links: 1
+{'urn': 1}
+	Seven-eleven links: 4
+{'compounded': 1, 'eternity': 1, 'posterity': 1, 'remote': 1}
+
+PHT.txt and CYM.txt links:
+	Total links: 4
+	two-six links: 1
+{'arabian': 1}
+	Seven-eleven links: 3
+{'compounded': 1, 'confounded': 1, "tak'st": 1}
+
+PHT.txt and E3sh.txt links:
+	Total links: 2
+	two-six links: 1
+{'concordant': 1}
+	Seven-eleven links: 1
+{'confounded': 1}
+
+PHT.txt and ERR.txt links:
+	Total links: 2
+	two-six links: 1
+{'harbinger': 1}
+	Seven-eleven links: 1
+{'tragic': 1}
+
+PHT.txt and H5.txt links:
+	Total links: 5
+	two-six links: 3
+{'chorus': 1, "enclos'd": 1, 'urn': 1}
+	Seven-eleven links: 2
+{'confounded': 2}
+
+PHT.txt and H8sh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'compounded': 1, 'session': 1}
+
+PHT.txt and HAM.txt links:
+	Total links: 9
+	two-six links: 5
+{'chorus': 1, 'gender': 1, 'requiem': 1, 'sable': 2}
+	Seven-eleven links: 4
+{'compounded': 1, 'eternity': 1, 'flaming': 2}
+
+PHT.txt and JC.txt links:
+	Total links: 2
+	two-six links: 1
+{"enclos'd": 1}
+	Seven-eleven links: 1
+{'confounded': 1}
+
+PHT.txt and JN.txt links:
+	Total links: 6
+	two-six links: 1
+{"giv'st": 1}
+	Seven-eleven links: 5
+{'confounded': 1, 'posterity': 2, 'remote': 1, 'swan': 1}
+
+PHT.txt and LC.txt links:
+	Total links: 2
+	two-six links: 1
+{'shriking': 1}
+	Seven-eleven links: 1
+{'tragic': 1}
+
+PHT.txt and LLL.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'confounded': 1, 'eternity': 1, 'remote': 1}
+
+PHT.txt and LR.txt links:
+	Total links: 3
+	two-six links: 1
+{'rarity': 1}
+	Seven-eleven links: 2
+{'compounded': 1, 'session': 1}
+
+PHT.txt and LUC.txt links:
+	Total links: 10
+	two-six links: 2
+{'sable': 2}
+	Seven-eleven links: 8
+{'confounded': 1, 'eternity': 2, 'flaming': 2, 'posterity': 1, 'swan': 2}
+
+PHT.txt and MAC.txt links:
+	Total links: 2
+	two-six links: 1
+{'harbinger': 1}
+	Seven-eleven links: 1
+{'posterity': 1}
+
+PHT.txt and MMsh.txt links:
+	Total links: 3
+	two-six links: 1
+{'essence': 1}
+	Seven-eleven links: 2
+{'session': 1, "tak'st": 1}
+
+PHT.txt and MND.txt links:
+	Total links: 3
+	two-six links: 1
+{'harbinger': 1}
+	Seven-eleven links: 2
+{'remote': 1, "tak'st": 1}
+
+PHT.txt and MV.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{"tak'st": 1}
+
+PHT.txt and OTH.txt links:
+	Total links: 10
+	two-six links: 6
+{'arabian': 1, 'cinders': 1, 'essence': 1, 'gender': 2, "giv'st": 1}
+	Seven-eleven links: 4
+{'flaming': 1, 'session': 1, 'swan': 1, 'tragic': 1}
+
+PHT.txt and PERsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'sable': 1}
+	Seven-eleven links: 1
+{'flaming': 1}
+
+PHT.txt and R2.txt links:
+	Total links: 2
+	two-six links: 1
+{"giv'st": 1}
+	Seven-eleven links: 1
+{"tak'st": 1}
+
+PHT.txt and R3.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'compounded': 1, 'posterity': 1, "tak'st": 1, 'tragic': 1}
+
+PHT.txt and ROM.txt links:
+	Total links: 3
+	two-six links: 1
+{'mourners': 1}
+	Seven-eleven links: 2
+{'posterity': 1, 'swan': 1}
+
+PHT.txt and SHR.txt links:
+	Total links: 6
+	two-six links: 0
+{}
+	Seven-eleven links: 6
+{'turtle': 6}
+
+PHT.txt and SON1.txt links:
+	Total links: 2
+	two-six links: 2
+{'mourners': 2}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and TAsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'cinders': 1}
+	Seven-eleven links: 1
+{'tragic': 1}
+
+PHT.txt and TGV.txt links:
+	Total links: 2
+	two-six links: 2
+{'anthem': 1, 'essence': 1}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and TIMsh.txt links:
+	Total links: 4
+	two-six links: 2
+{'commence': 1, 'rarity': 1}
+	Seven-eleven links: 2
+{'compounded': 1, 'confounded': 1}
+
+PHT.txt and TMP.txt links:
+	Total links: 3
+	two-six links: 2
+{"phoenix'": 2}
+	Seven-eleven links: 1
+{"tak'st": 1}
+
+PHT.txt and TN.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and TNKsh.txt links:
+	Total links: 5
+	two-six links: 2
+{'harbinger': 1, 'urn': 1}
+	Seven-eleven links: 3
+{'compounded': 1, 'eternity': 1, 'flaming': 1}
+
+PHT.txt and TRO.txt links:
+	Total links: 7
+	two-six links: 2
+{'appalled': 1, 'shriking': 1}
+	Seven-eleven links: 5
+{'eternity': 1, 'flaming': 1, 'turtle': 3}
+
+PHT.txt and VEN.txt links:
+	Total links: 4
+	two-six links: 2
+{'anthem': 1, "feath'red": 1}
+	Seven-eleven links: 2
+{'confounded': 1, 'posterity': 1}
+
+PHT.txt and WIV.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'swan': 1}
+
+PHT.txt and WT.txt links:
+	Total links: 11
+	two-six links: 0
+{}
+	Seven-eleven links: 11
+{'eternity': 1, 'posterity': 1, 'remote': 2, 'session': 2, "tak'st": 2, 'turtle': 3}
+
+PHT.txt and x1H4.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'remote': 1}
+
+PHT.txt and x1H6sh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+PHT.txt and x2H4.txt links:
+	Total links: 4
+	two-six links: 2
+{'cinders': 1, 'commence': 1}
+	Seven-eleven links: 2
+{"tak'st": 1, 'tragic': 1}
+
+PHT.txt and x2H6sh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'flaming': 1}
+
+PHT.txt and x3H6sh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'swan': 1, 'tragic': 1}
+

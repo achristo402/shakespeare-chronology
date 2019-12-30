@@ -1,0 +1,322 @@
+KNACKsh.txt and ADO.txt links:
+	Total links: 8
+	two-six links: 2
+{'comely': 2}
+	Seven-eleven links: 6
+{'approved': 1, 'embassage': 2, 'monday': 2, 'painful': 1}
+
+KNACKsh.txt and ANT.txt links:
+	Total links: 7
+	two-six links: 4
+{'fleeting': 2, 'grants': 1, 'scantly': 1}
+	Seven-eleven links: 3
+{'declining': 1, "discharg'd": 1, 'hatch': 1}
+
+KNACKsh.txt and ARDsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{"fancy's": 1}
+
+KNACKsh.txt and AWWsh.txt links:
+	Total links: 8
+	two-six links: 4
+{"conceal'd": 1, 'cozen': 2, 'receipts': 1}
+	Seven-eleven links: 4
+{"discharg'd": 1, "fancy's": 1, 'unfit': 2}
+
+KNACKsh.txt and AYL.txt links:
+	Total links: 7
+	two-six links: 5
+{'comely': 1, "conceal'd": 1, 'entrap': 1, 'flocks': 1, 'travellers': 1}
+	Seven-eleven links: 2
+{'shepherds': 2}
+
+KNACKsh.txt and COR.txt links:
+	Total links: 11
+	two-six links: 6
+{'comely': 1, 'constrains': 1, 'extremities': 2, 'folds': 1, 'stalls': 1}
+	Seven-eleven links: 5
+{"color'd": 1, "discharg'd": 1, 'dissemble': 1, 'painful': 1, 'shepherds': 1}
+
+KNACKsh.txt and CYM.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{"color'd": 1, 'therewithal': 1, 'vale': 1, 'wonted': 1}
+
+KNACKsh.txt and E3sh.txt links:
+	Total links: 9
+	two-six links: 4
+{'arrive': 1, 'distraught': 1, 'malcontent': 2}
+	Seven-eleven links: 5
+{'embassage': 1, 'therewithal': 1, 'vale': 1, 'veil': 1, 'wonted': 1}
+
+KNACKsh.txt and ERR.txt links:
+	Total links: 7
+	two-six links: 0
+{}
+	Seven-eleven links: 7
+{'approved': 1, 'declining': 1, "discharg'd": 1, 'globe': 1, 'hatch': 1, 'therewithal': 1, 'vale': 1}
+
+KNACKsh.txt and H5.txt links:
+	Total links: 7
+	two-six links: 4
+{'billows': 1, 'cornish': 2, 'eloquent': 1}
+	Seven-eleven links: 3
+{'painful': 1, 'restless': 1, 'veil': 1}
+
+KNACKsh.txt and H8sh.txt links:
+	Total links: 7
+	two-six links: 2
+{'gainsay': 1, 'usual': 1}
+	Seven-eleven links: 5
+{"discharg'd": 1, "fancy's": 1, 'unfit': 2, 'vale': 1}
+
+KNACKsh.txt and HAM.txt links:
+	Total links: 15
+	two-six links: 6
+{"conceal'd": 1, 'dallying': 1, 'eloquent': 1, 'nill': 1, 'rashly': 1, 'usual': 1}
+	Seven-eleven links: 9
+{'declining': 1, 'globe': 1, 'hatch': 1, 'monday': 1, 'sable': 2, 'shepherds': 1, 'wonted': 2}
+
+KNACKsh.txt and JC.txt links:
+	Total links: 5
+	two-six links: 4
+{'arrive': 1, 'extremities': 1, 'games': 1, 'purpled': 1}
+	Seven-eleven links: 1
+{'received': 1}
+
+KNACKsh.txt and JN.txt links:
+	Total links: 4
+	two-six links: 2
+{'purpled': 1, 'sunk': 1}
+	Seven-eleven links: 2
+{'hatch': 2}
+
+KNACKsh.txt and LC.txt links:
+	Total links: 2
+	two-six links: 1
+{'comely': 1}
+	Seven-eleven links: 1
+{'vale': 1}
+
+KNACKsh.txt and LLL.txt links:
+	Total links: 6
+	two-six links: 2
+{'luna': 1, 'matchless': 1}
+	Seven-eleven links: 4
+{'embassage': 1, 'painful': 1, 'shepherds': 1, 'therewithal': 1}
+
+KNACKsh.txt and LR.txt links:
+	Total links: 9
+	two-six links: 5
+{'constrains': 1, "cornwall's": 2, 'folds': 1, 'spreads': 1}
+	Seven-eleven links: 4
+{'globe': 1, 'hatch': 1, 'received': 1, 'therewithal': 1}
+
+KNACKsh.txt and LUC.txt links:
+	Total links: 16
+	two-six links: 5
+{'arrive': 1, 'bounding': 1, 'fleeting': 1, 'folds': 1, 'hovering': 1}
+	Seven-eleven links: 11
+{"color'd": 2, "fancy's": 1, 'hatch': 1, 'painful': 1, 'restless': 2, 'sable': 2, 'shepherds': 1, 'wonted': 1}
+
+KNACKsh.txt and MAC.txt links:
+	Total links: 3
+	two-six links: 1
+{'stalls': 1}
+	Seven-eleven links: 2
+{'restless': 1, 'therewithal': 1}
+
+KNACKsh.txt and MMsh.txt links:
+	Total links: 16
+	two-six links: 1
+{"conceal'd": 1}
+	Seven-eleven links: 15
+{'lucio': 9, 'received': 1, 'restless': 1, 'therewithal': 1, 'unfit': 2, 'veil': 1}
+
+KNACKsh.txt and MND.txt links:
+	Total links: 11
+	two-six links: 5
+{'rival': 1, 'spangled': 2, 'stalls': 1, 'usual': 1}
+	Seven-eleven links: 6
+{"discharg'd": 1, "fancy's": 2, 'globe': 1, 'wonted': 2}
+
+KNACKsh.txt and MV.txt links:
+	Total links: 8
+	two-six links: 6
+{'cozen': 1, 'entrap': 2, 'likest': 1, 'rival': 1, 'usual': 1}
+	Seven-eleven links: 2
+{"fancy's": 1, 'monday': 1}
+
+KNACKsh.txt and OTH.txt links:
+	Total links: 7
+	two-six links: 1
+{'commonly': 1}
+	Seven-eleven links: 6
+{'dissemble': 1, "fancy's": 1, 'globe': 1, 'unfit': 2, 'vale': 1}
+
+KNACKsh.txt and PERsh.txt links:
+	Total links: 3
+	two-six links: 1
+{'nill': 1}
+	Seven-eleven links: 2
+{'painful': 1, 'sable': 1}
+
+KNACKsh.txt and PHT.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'sable': 1}
+
+KNACKsh.txt and R2.txt links:
+	Total links: 5
+	two-six links: 1
+{"eas'd": 1}
+	Seven-eleven links: 4
+{'approved': 1, 'declining': 1, 'embassage': 1, 'globe': 1}
+
+KNACKsh.txt and R3.txt links:
+	Total links: 18
+	two-six links: 9
+{'billows': 1, 'dallying': 1, 'distraught': 1, 'dusky': 1, 'eloquent': 1, 'fleeting': 1, 'grants': 1, 'rashly': 2}
+	Seven-eleven links: 9
+{'dissemble': 2, 'embassage': 1, 'restless': 1, 'unfit': 4, 'veil': 1}
+
+KNACKsh.txt and ROM.txt links:
+	Total links: 10
+	two-six links: 5
+{"conceal'd": 1, 'constrains': 1, 'distraught': 1, 'extremities': 1, 'nets': 1}
+	Seven-eleven links: 5
+{"discharg'd": 1, 'lucio': 1, 'monday': 2, 'therewithal': 1}
+
+KNACKsh.txt and SHR.txt links:
+	Total links: 15
+	two-six links: 9
+{'commonly': 1, 'cozen': 2, 'nill': 1, 'oxen': 1, 'rival': 1, 'stalls': 1, 'travellers': 1, 'usual': 1}
+	Seven-eleven links: 6
+{'approved': 1, "color'd": 1, 'declining': 1, 'dissemble': 2, 'painful': 1}
+
+KNACKsh.txt and SPTAD.txt links:
+	Total links: 1
+	two-six links: 1
+{'distraught': 1}
+	Seven-eleven links: 0
+{}
+
+KNACKsh.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+KNACKsh.txt and TAsh.txt links:
+	Total links: 7
+	two-six links: 1
+{'nets': 1}
+	Seven-eleven links: 6
+{'approved': 1, 'hatch': 1, 'received': 2, 'vale': 2}
+
+KNACKsh.txt and TGV.txt links:
+	Total links: 7
+	two-six links: 4
+{'environ': 1, 'rival': 2, 'travellers': 1}
+	Seven-eleven links: 3
+{"color'd": 1, 'therewithal': 2}
+
+KNACKsh.txt and TIMsh.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'declining': 1, "discharg'd": 1, 'dissemble': 1}
+
+KNACKsh.txt and TMP.txt links:
+	Total links: 8
+	two-six links: 4
+{'billows': 1, 'dusky': 1, 'sunk': 1, 'travellers': 1}
+	Seven-eleven links: 4
+{'globe': 1, 'painful': 1, 'unfit': 2}
+
+KNACKsh.txt and TN.txt links:
+	Total links: 5
+	two-six links: 2
+{'eloquent': 1, 'oxen': 1}
+	Seven-eleven links: 3
+{'dissemble': 1, "fancy's": 1, 'veil': 1}
+
+KNACKsh.txt and TNKsh.txt links:
+	Total links: 2
+	two-six links: 2
+{'circuit': 1, 'rashly': 1}
+	Seven-eleven links: 0
+{}
+
+KNACKsh.txt and TRO.txt links:
+	Total links: 10
+	two-six links: 6
+{'bounding': 1, 'gainsay': 1, 'games': 1, 'matchless': 1, 'olympian': 1, 'sunk': 1}
+	Seven-eleven links: 4
+{'globe': 1, 'unfit': 2, 'vale': 1}
+
+KNACKsh.txt and VEN.txt links:
+	Total links: 9
+	two-six links: 5
+{'captivate': 1, 'circuit': 1, 'folds': 1, 'malcontent': 2}
+	Seven-eleven links: 4
+{'dissemble': 1, 'shepherds': 1, 'veil': 1, 'wonted': 1}
+
+KNACKsh.txt and WIV.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'veil': 1}
+
+KNACKsh.txt and WT.txt links:
+	Total links: 7
+	two-six links: 5
+{'arrive': 2, 'commonly': 1, 'gainsay': 1, 'hovering': 1}
+	Seven-eleven links: 2
+{"discharg'd": 1, 'shepherds': 1}
+
+KNACKsh.txt and x1H4.txt links:
+	Total links: 8
+	two-six links: 6
+{'bounding': 1, 'entrap': 1, 'extremities': 1, 'flocks': 1, 'oxen': 1, 'travellers': 1}
+	Seven-eleven links: 2
+{'approved': 1, 'monday': 1}
+
+KNACKsh.txt and x1H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'rashly': 1}
+	Seven-eleven links: 0
+{}
+
+KNACKsh.txt and x2H4.txt links:
+	Total links: 7
+	two-six links: 3
+{'billows': 1, 'environ': 1, 'subdued': 1}
+	Seven-eleven links: 4
+{'globe': 1, 'hatch': 1, 'received': 1, 'wonted': 1}
+
+KNACKsh.txt and x2H6sh.txt links:
+	Total links: 4
+	two-six links: 3
+{'circuit': 1, 'dusky': 2}
+	Seven-eleven links: 1
+{'globe': 1}
+
+KNACKsh.txt and x3H6sh.txt links:
+	Total links: 8
+	two-six links: 3
+{'flocks': 1, 'gainsay': 1, 'grants': 1}
+	Seven-eleven links: 5
+{"discharg'd": 1, 'shepherds': 1, 'unfit': 2, 'wonted': 1}
+

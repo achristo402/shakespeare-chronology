@@ -1,0 +1,322 @@
+SON3.txt and ADO.txt links:
+	Total links: 40
+	two-six links: 16
+{'accusing': 1, 'active': 1, 'commence': 1, 'determined': 1, 'dully': 1, "endow'd": 1, 'favorites': 1, "featur'd": 1, 'hearsay': 1, 'masked': 1, 'nearly': 1, 'onward': 1, 'placed': 1, 'profitless': 1, 'statues': 1, 'threescore': 1}
+	Seven-eleven links: 24
+{'appearance': 1, 'banquet': 2, 'befits': 1, 'bitterness': 1, 'carve': 1, 'convert': 1, 'converted': 4, 'copy': 1, "distill'd": 2, "friend's": 1, 'frost': 1, 'offenders': 1, 'painful': 1, 'smother': 1, 'sparkling': 1, 'wishing': 1, 'woos': 2, "youth's": 1}
+
+SON3.txt and ANT.txt links:
+	Total links: 41
+	two-six links: 25
+{"april's": 1, 'beck': 1, 'commits': 2, 'destroys': 1, 'dullness': 1, 'external': 1, 'foison': 1, 'nearly': 1, "o'ertake": 3, 'orient': 1, 'perfumed': 1, 'poets': 1, 'revolution': 1, 'rhymers': 1, 'scythe': 2, 'separation': 1, 'serving': 1, "silver'd": 1, 'teachest': 2, 'wastes': 1}
+	Seven-eleven links: 16
+{"bear'st": 1, 'befits': 1, 'conspire': 1, 'defects': 1, 'famine': 2, 'gaudy': 1, 'guides': 1, 'hasten': 1, 'jaws': 1, 'mud': 2, "pow'rful": 1, 'shifts': 1, 'sinks': 1, 'tires': 1}
+
+SON3.txt and ARDsh.txt links:
+	Total links: 12
+	two-six links: 5
+{'assailed': 1, "climb'd": 1, 'exceeded': 1, 'expired': 1, 'gardens': 1}
+	Seven-eleven links: 7
+{'audit': 2, 'converted': 2, 'smother': 1, 'stormy': 2}
+
+SON3.txt and AWWsh.txt links:
+	Total links: 45
+	two-six links: 16
+{'accessary': 1, 'bareness': 1, "blam'd": 1, 'curls': 1, 'darling': 1, 'foregone': 1, 'legacy': 2, 'masonry': 1, 'perspective': 1, 'posting': 1, 'replete': 1, 'sluttish': 1, "truth's": 1, 'waiting': 1, 'zealous': 1}
+	Seven-eleven links: 29
+{"bear'st": 1, 'besiege': 1, 'bitterness': 1, 'charter': 1, "check'd": 2, 'concord': 1, 'contracted': 2, 'copy': 2, 'darkly': 1, 'deem': 1, 'derive': 1, "ev'ry": 2, 'frank': 2, 'hasten': 1, "helen's": 2, 'influence': 1, 'sequent': 2, 'succeeding': 1, 'survey': 1, 'thievish': 1, 'wishing': 1, 'woos': 1}
+
+SON3.txt and AYL.txt links:
+	Total links: 40
+	two-six links: 12
+{'dullness': 1, 'erst': 1, 'exceeded': 1, 'first-born': 1, "foil'd": 1, 'invent': 1, 'lacking': 2, 'riper': 1, "seasons'": 1, 'sensual': 1, "suffic'd": 1}
+	Seven-eleven links: 28
+{'bars': 2, 'bitterness': 1, "carv'd": 1, 'carve': 1, 'charter': 1, 'converted': 2, 'crowned': 1, 'derive': 1, "distill'd": 2, 'guides': 1, "helen's": 1, 'hidden': 1, 'hiding': 1, 'inconstant': 1, "measur'd": 1, 'offenders': 1, 'robs': 1, 'shifts': 1, 'smother': 1, 'survey': 1, 'thievish': 1, 'tyrants': 2, 'wasteful': 2}
+
+SON3.txt and COR.txt links:
+	Total links: 51
+	two-six links: 20
+{"bosom's": 1, 'declines': 2, 'despising': 1, "foil'd": 1, 'mow': 2, 'onward': 1, 'pent': 1, 'sourly': 2, "suff'ring": 1, 'thrusts': 1, 'trenches': 3, 'unswept': 1, 'usury': 1, "work's": 1, 'youngly': 1}
+	Seven-eleven links: 31
+{'appearance': 1, 'audit': 2, 'broils': 1, 'brood': 1, 'canopy': 2, 'charter': 1, 'disdains': 1, 'evident': 2, 'frank': 1, 'frost': 1, 'gusts': 1, "hear'st": 1, 'imperfect': 1, "mask'd": 1, 'minded': 2, 'painful': 1, 'pupil': 1, 'raiment': 1, 'remote': 1, 'salve': 1, 'summon': 1, 'survey': 1, 'tenth': 1, 'verdict': 1, "war's": 3}
+
+SON3.txt and CYM.txt links:
+	Total links: 36
+	two-six links: 9
+{'bier': 1, 'enjoys': 1, 'fade': 2, 'fortify': 1, 'fullness': 1, "pictur'd": 1, 'posting': 1, 'serving': 1}
+	Seven-eleven links: 27
+{'advocate': 1, 'assured': 1, 'audit': 2, 'bitterness': 1, 'cures': 1, 'deem': 1, "despis'd": 1, 'dig': 1, 'disdains': 2, 'drooping': 1, 'evident': 1, 'famine': 1, "gav'st": 1, "hear'st": 1, 'hiding': 1, "measur'd": 1, 'neigh': 1, 'poorly': 1, 'pupil': 1, 'reserve': 1, 'seasons': 1, 'sinks': 1, 'tenth': 1, 'violet': 1, "war's": 1}
+
+SON3.txt and E3sh.txt links:
+	Total links: 31
+	two-six links: 13
+{'convertest': 1, 'fading': 1, "foil'd": 1, 'forbidden': 1, "grief's": 1, 'invocate': 1, 'lifts': 1, "poet's": 2, 'poets': 2, 'sessions': 1, 'splendor': 1}
+	Seven-eleven links: 18
+{'besiege': 2, 'broils': 1, 'convert': 1, "famish'd": 1, "friend's": 1, 'ghastly': 1, "hear'st": 1, 'inconstant': 1, 'jaws': 1, "lovers'": 1, 'plea': 2, 'sinks': 1, 'thievish': 1, 'verdict': 2, 'woos': 1}
+
+SON3.txt and ERR.txt links:
+	Total links: 20
+	two-six links: 9
+{'carcanet': 1, 'churl': 1, "eye's": 3, 'fading': 1, 'insconce': 1, 'spites': 1, "term'd": 1}
+	Seven-eleven links: 11
+{'advocate': 1, "carv'd": 1, 'copy': 1, "gav'st": 1, 'imaginary': 1, 'niggard': 1, 'quest': 2, 'reserve': 1, 'shifts': 1, 'traffic': 1}
+
+SON3.txt and H5.txt links:
+	Total links: 56
+	two-six links: 21
+{'active': 1, 'corrupting': 1, 'deface': 1, 'defeated': 1, 'defendant': 1, 'enjoys': 1, 'erst': 1, 'fortify': 1, 'fuel': 1, 'fullness': 1, 'girded': 1, 'graciously': 1, 'largess': 1, 're-survey': 1, 'rolling': 1, 'scythe': 2, 'self-love': 1, 'threescore': 1, 'voutsafe': 1, 'wardrobe': 1}
+	Seven-eleven links: 35
+{'appearance': 3, 'assured': 1, 'copy': 1, 'crowned': 1, "either's": 2, 'famine': 1, "famish'd": 1, 'frank': 1, 'hidden': 1, 'imaginary': 2, 'inconstant': 2, 'jaws': 1, "measur'd": 1, 'neigh': 2, 'offenders': 1, 'painful': 1, 'papers': 1, 'poorly': 1, 'receiving': 1, 'smother': 1, 'streams': 1, 'temperate': 1, 'tenth': 1, 'used': 1, 'violet': 1, 'wasteful': 4}
+
+SON3.txt and H8sh.txt links:
+	Total links: 22
+	two-six links: 7
+{"besmear'd": 1, "blam'd": 1, 'dye': 1, 'string': 1, 'tenants': 1, 'tract': 1, 'wastes': 1}
+	Seven-eleven links: 15
+{'adding': 1, 'appearance': 1, 'audit': 2, 'bearer': 1, 'deem': 1, "ev'ry": 1, 'mud': 1, 'niggard': 1, 'papers': 2, 'tempting': 1, 'tires': 1, 'verdict': 1, 'wishing': 1}
+
+SON3.txt and HAM.txt links:
+	Total links: 66
+	two-six links: 30
+{'beck': 1, 'bier': 1, 'curls': 1, 'defeated': 1, 'determination': 1, 'dye': 1, 'hems': 1, 'hundreth': 1, 'imitated': 1, 'loan': 1, "offender's": 1, "offense's": 1, 'perusal': 1, 'placed': 1, 'purging': 2, 'revolution': 1, "shadow's": 1, "silver'd": 1, "suff'ring": 1, 'tenants': 1, 'trophies': 1, 'twofold': 1, "unus'd": 3, 'vial': 1, 'voutsafe': 2, 'wards': 1}
+	Seven-eleven links: 36
+{'audit': 2, 'brood': 1, 'canopy': 1, 'carve': 1, 'contracted': 2, 'convert': 2, 'converted': 2, "despis'd": 1, 'dig': 2, "distill'd": 2, 'drooping': 1, 'frost': 1, 'gaudy': 1, 'hasten': 1, 'influence': 1, 'jaws': 1, 'liquid': 1, 'mightier': 1, 'niggard': 1, 'obsequious': 1, 'quest': 1, 'removed': 1, 'reserve': 1, 'sable': 2, 'seasons': 1, 'sequent': 1, 'violet': 1, 'wary': 2}
+
+SON3.txt and JC.txt links:
+	Total links: 26
+	two-six links: 7
+{"climb'd": 1, 'desiring': 1, 'determined': 1, 'ingrafted': 1, 'legacy': 1, 'receivest': 1, 'trophies': 1}
+	Seven-eleven links: 19
+{'bars': 2, 'canopy': 1, 'carve': 1, "check'd": 2, "friend's": 1, 'ghastly': 1, 'hidden': 1, 'mightier': 1, 'neigh': 1, 'niggard': 1, 'papers': 1, 'receiving': 1, 'tired': 2, 'tyrants': 2, 'wary': 1}
+
+SON3.txt and JN.txt links:
+	Total links: 68
+	two-six links: 28
+{'assailed': 1, 'awakes': 1, "besmear'd": 1, 'controlling': 1, 'deceased': 1, 'desiring': 1, 'endeared': 1, 'enjoys': 1, 'excusing': 1, 'external': 1, 'fullness': 1, "grief's": 1, 'lengths': 1, 'liker': 1, 'ordering': 1, 'pencil': 1, 'rolling': 1, 'sightless': 2, 'splendor': 1, 'string': 1, "suffic'd": 1, 'sunk': 1, "unlook'd": 2, 'uphold': 1, 'zealous': 2}
+	Seven-eleven links: 40
+{'assured': 1, 'bars': 2, 'bitterness': 1, 'blots': 3, 'conspire': 1, 'copy': 1, 'cures': 1, 'darkly': 1, "hear'st": 1, 'hiding': 1, 'imaginary': 1, 'jaws': 1, 'mightier': 1, 'plea': 2, 'quest': 1, 'remote': 1, 'removed': 3, 'resembling': 2, 'robs': 1, 'shifts': 1, 'streams': 1, 'summon': 2, "sun's": 1, 'temperate': 2, 'violet': 1, "war's": 1, 'wasteful': 2, 'wherewith': 1, "widow's": 2}
+
+SON3.txt and LC.txt links:
+	Total links: 15
+	two-six links: 7
+{'blunting': 1, 'curls': 1, 'fountains': 1, 'gems': 1, "suff'ring": 1, 'trophies': 1, 'usury': 1}
+	Seven-eleven links: 8
+{'audit': 2, 'besiege': 1, "either's": 2, 'mud': 1, 'papers': 1, 'verdict': 1}
+
+SON3.txt and LLL.txt links:
+	Total links: 73
+	two-six links: 19
+{'badges': 1, 'candles': 1, 'couplement': 1, 'decrepit': 1, 'excel': 2, 'first-born': 1, 'forbidden': 1, 'intitled': 1, 'liker': 1, 'meadows': 1, 'pent': 1, 'replete': 1, 'steep-up': 1, 'straying': 1, 'uphold': 1, 'viewest': 1, 'world-without-end': 1, 'zealous': 1}
+	Seven-eleven links: 54
+{'adding': 5, 'banquet': 1, 'bearer': 1, 'besiege': 1, 'carve': 2, 'cures': 1, 'darkly': 1, 'deem': 1, 'derive': 2, 'devouring': 1, 'frost': 1, 'gaudy': 1, 'influence': 1, "mask'd": 4, "measur'd": 3, 'neigh': 1, 'painful': 1, 'papers': 1, "pierc'd": 2, 'plea': 2, 'pupil': 2, 'remote': 1, 'removed': 1, 'resembling': 2, 'salve': 6, 'sequent': 1, 'summon': 1, 'tired': 2, 'tires': 1, 'tyrants': 1, 'used': 1, 'wherewith': 1, 'winters': 1}
+
+SON3.txt and LR.txt links:
+	Total links: 47
+	two-six links: 15
+{'beweep': 1, "blam'd": 1, 'eclipses': 6, "endow'd": 1, 'nearly': 1, "o'ertake": 1, "ow'st": 1, 'recounting': 1, "truth's": 1, 'weakens': 1}
+	Seven-eleven links: 32
+{'assured': 1, "bear'st": 1, 'broils': 1, 'contracted': 2, 'defects': 1, 'derive': 1, "despis'd": 2, "either's": 2, 'frank': 1, "gav'st": 3, 'hasten': 2, 'imperfect': 2, 'influence': 2, 'minded': 1, 'papers': 1, 'quest': 1, 'raiment': 1, 'reserve': 1, 'seasons': 1, 'sequent': 1, 'tenth': 1, 'tired': 2, 'usurer': 1}
+
+SON3.txt and LUC.txt links:
+	Total links: 96
+	two-six links: 31
+{'accessary': 2, "cancell'd": 3, 'commits': 2, "dimm'd": 1, 'gazeth': 1, "grief's": 2, 'legacy': 1, 'moiety': 1, 'monuments': 2, 'onward': 1, "painter's": 1, 'proving': 1, 'rolling': 1, 'ruinate': 1, 'self-love': 1, 'sheeds': 1, 'shifting': 1, 'sightless': 2, 'splendor': 1, "stell'd": 1, "suffic'd": 1, 'tenants': 1, 'vaunt': 1, 'wailing': 1}
+	Seven-eleven links: 65
+{'assured': 1, 'bars': 2, "bear'st": 1, 'besiege': 1, 'brood': 1, "carv'd": 1, "check'd": 2, 'chest': 2, 'convert': 1, 'devouring': 1, "either's": 4, 'frost': 1, 'gaudy': 1, "gav'st": 1, "gaz'd": 3, 'ghastly': 2, 'guides': 1, "helen's": 1, 'hiding': 2, 'imaginary': 1, 'mightier': 2, 'mud': 2, 'niggard': 1, 'offenders': 1, 'painful': 1, 'plea': 2, 'poorly': 1, 'resembling': 2, 'sable': 2, 'salve': 1, 'shifts': 1, 'smother': 1, 'stormy': 1, 'streams': 2, 'succeeding': 1, 'survive': 2, 'thievish': 2, 'tired': 6, 'traffic': 1, 'untainted': 2, 'wherewith': 1}
+
+SON3.txt and MAC.txt links:
+	Total links: 44
+	two-six links: 17
+{'candles': 1, 'fullness': 1, 'largess': 1, 'lease': 2, 'monuments': 1, 'nearly': 1, "perfect'st": 1, 'sightless': 4, 'threescore': 1, 'thriftless': 1, 'thrusts': 1, "tiger's": 1, 'twofold': 1}
+	Seven-eleven links: 27
+{'audit': 2, 'banquet': 1, "carv'd": 1, 'concord': 1, 'convert': 1, 'cures': 1, "distill'd": 2, 'famine': 2, "hear'st": 1, 'hidden': 1, 'imperfect': 1, "measur'd": 1, 'niggard': 1, 'poorly': 1, "pow'rful": 1, 'sinks': 2, 'streams': 1, 'succeeding': 2, 'traffic': 1, 'wasteful': 2, 'wherewith': 1}
+
+SON3.txt and MMsh.txt links:
+	Total links: 34
+	two-six links: 12
+{'awakes': 1, 'desiring': 1, 'determination': 1, 'external': 1, 'foison': 1, 'graciously': 1, "o'ertake": 1, 'sensual': 1, 'temptation': 2, 'unfolding': 1, 'wards': 1}
+	Seven-eleven links: 22
+{"bear'st": 2, 'contracted': 2, 'darkly': 2, 'guides': 1, 'hidden': 1, 'mightier': 1, 'obsequious': 1, 'quest': 1, 'receiving': 1, 'removed': 1, 'sequent': 1, 'shifts': 1, 'untainted': 1, 'violet': 1, 'wary': 1, "widow's": 1, 'winters': 1, 'wishing': 2}
+
+SON3.txt and MND.txt links:
+	Total links: 53
+	two-six links: 20
+{'admiring': 1, "blam'd": 1, 'churl': 1, 'defeated': 1, 'dye': 1, 'fade': 2, 'fountains': 1, 'hymns': 1, 'nearly': 1, 'odors': 1, 'orient': 1, "poet's": 2, 'presenteth': 1, 'quicker': 1, 'rolling': 1, 'separation': 1, 'shifting': 1, 'wane': 1}
+	Seven-eleven links: 33
+{'blots': 1, 'concord': 2, 'crowned': 1, "distill'd": 2, 'drooping': 1, "helen's": 1, 'inconstant': 1, 'jaws': 1, 'liquid': 1, "lovers'": 2, 'mud': 1, 'neigh': 1, "pierc'd": 1, 'rehearse': 10, 'remote': 1, 'seasons': 1, 'streams': 1, 'tempting': 1, 'used': 2, 'violet': 1}
+
+SON3.txt and MV.txt links:
+	Total links: 45
+	two-six links: 16
+{'candles': 1, 'commits': 2, 'deface': 1, 'defendant': 1, 'describe': 1, 'fading': 1, "offender's": 1, 'placed': 1, "princes'": 1, "shadow's": 1, "silver'd": 1, "stick'st": 1, 'temptation': 1, 'unthrift': 1, 'unthrifty': 1}
+	Seven-eleven links: 29
+{'bars': 4, 'charter': 1, 'chest': 2, 'concord': 1, 'converted': 2, "famish'd": 1, 'frost': 1, 'gaudy': 1, 'gusts': 1, 'hiding': 1, 'plea': 8, 'quest': 1, 'seasons': 1, 'summon': 1, 'survey': 1, 'tops': 1, 'usurer': 1}
+
+SON3.txt and OTH.txt links:
+	Total links: 45
+	two-six links: 16
+{'darling': 1, 'dullness': 1, 'foregone': 1, 'gardens': 1, 'ingraft': 1, 'invent': 1, 'loveliness': 1, 'profitless': 1, "sea's": 1, 'sessions': 1, 'teachest': 1, 'thinly': 1, "travel's": 1, 'unfolding': 1, 'unused': 1, 'weakens': 1}
+	Seven-eleven links: 29
+{'appearance': 2, 'bitterness': 1, 'broils': 1, 'carve': 1, 'charter': 1, 'conspire': 1, "despis'd": 1, 'frank': 2, "friend's": 1, "gav'st": 1, 'guides': 1, 'hidden': 1, 'imperfect': 1, 'liquid': 1, "lovers'": 1, 'neigh': 1, 'obsequious': 1, "pow'rful": 2, 'robs': 2, 'sequent': 1, 'streams': 2, 'summon': 1, 'wary': 2}
+
+SON3.txt and PERsh.txt links:
+	Total links: 20
+	two-six links: 6
+{'awakes': 1, 'graciously': 1, "o'ercharg'd": 1, 'odor': 1, "sea's": 1, 'vial': 1}
+	Seven-eleven links: 14
+{'chest': 4, 'cures': 1, "gaz'd": 1, "mask'd": 1, 'painful': 1, "pierc'd": 1, 'quest': 1, 'reserve': 1, 'robs': 1, 'sable': 1, 'stormy': 1}
+
+SON3.txt and PHT.txt links:
+	Total links: 3
+	two-six links: 1
+{'commence': 1}
+	Seven-eleven links: 2
+{'remote': 1, 'sable': 1}
+
+SON3.txt and R2.txt links:
+	Total links: 67
+	two-six links: 28
+{'badges': 1, 'bier': 1, 'controlling': 1, 'dateless': 1, 'desiring': 1, "eas'd": 1, 'external': 1, 'favorites': 1, 'forbidden': 1, 'glazed': 1, 'largess': 1, 'lease': 2, 'posting': 1, 'spurring': 1, 'string': 1, "suff'ring": 1, 'teachest': 1, 'thriftless': 1, "toil'd": 1, 'tottered': 1, 'twofold': 2, "unlook'd": 2, 'unthrifts': 1, 'unthrifty': 1, 'vial': 1}
+	Seven-eleven links: 39
+{'adding': 1, 'assured': 1, 'befits': 1, 'blots': 1, 'chest': 2, 'concord': 1, 'crowned': 1, 'deem': 1, 'devouring': 1, 'drooping': 1, "gaz'd": 1, 'guides': 1, 'imaginary': 1, 'limits': 2, "pierc'd": 1, 'poorly': 1, 'pupil': 1, 'rehearse': 2, 'robs': 1, 'sinks': 1, 'stormy': 1, 'streams': 1, 'succeeding': 1, 'tired': 2, 'tires': 1, 'tops': 2, 'wasteful': 2, 'wherewith': 1, "widow's": 1, 'winters': 4}
+
+SON3.txt and R3.txt links:
+	Total links: 68
+	two-six links: 34
+{'accessary': 1, 'afresh': 1, "bett'ring": 1, 'beweep': 1, 'cheered': 1, 'closure': 1, 'corrupting': 1, 'determined': 1, "dimm'd": 1, 'enjoys': 1, 'expiate': 1, 'gems': 1, 'invocate': 1, 'monuments': 1, 'new-appearing': 1, 'orient': 1, "ow'st": 1, 'pent': 3, 'placed': 1, 'poets': 1, 'rased': 1, 'statues': 1, 'string': 1, 'tenants': 1, 'tract': 1, "unlook'd": 2, 'victories': 1, 'wailing': 1, 'waiting': 1, "yourself's": 1, 'zealous': 1}
+	Seven-eleven links: 34
+{'advocate': 1, 'assured': 1, 'bars': 2, 'bitterness': 1, 'blots': 1, 'broils': 1, 'charter': 1, "check'd": 2, 'conspire': 1, 'crowned': 1, 'darkly': 1, 'defects': 1, 'disdains': 1, "famish'd": 1, "gav'st": 1, 'ghastly': 1, 'hidden': 1, 'liquid': 1, 'offenders': 1, "pow'rful": 1, 'quest': 1, 'seasons': 1, 'smother': 1, 'streams': 1, 'succeeding': 1, 'summon': 1, 'survey': 1, 'tyrants': 1, 'untainted': 2, 'used': 1, 'verdict': 1}
+
+SON3.txt and ROM.txt links:
+	Total links: 63
+	two-six links: 25
+{'bier': 2, "bosom's": 1, "cancell'd": 1, 'candles': 1, 'churl': 1, 'dateless': 1, 'fade': 2, 'fountains': 1, 'highmost': 1, 'hymns': 1, 'lifts': 1, 'pencil': 1, "self-will'd": 1, 'singleness': 1, 'sluttish': 1, 'splendor': 1, 'thinly': 1, 'thrusts': 1, 'unthrifty': 1, 'usest': 1, 'vial': 2, 'wailing': 1}
+	Seven-eleven links: 38
+{'adding': 1, 'banquet': 1, 'befits': 1, 'canopy': 1, 'convert': 1, 'cures': 1, "despis'd": 1, "distill'd": 2, 'famine': 1, 'frank': 1, 'frost': 1, 'grievances': 1, 'hasten': 1, 'inconstant': 3, 'jaws': 1, 'limits': 1, 'liquid': 1, "lovers'": 4, "mask'd": 1, 'minded': 1, "pierc'd": 1, 'pupil': 1, 'removed': 1, 'sparkling': 1, "sun's": 1, 'thievish': 1, 'tops': 2, 'traffic': 1, 'usurer': 1, 'wary': 1, 'woos': 1}
+
+SON3.txt and SHR.txt links:
+	Total links: 32
+	two-six links: 13
+{'afresh': 1, 'beck': 1, "brav'ry": 1, 'commits': 2, 'deceased': 1, 'external': 1, "feed'st": 1, 'largess': 1, 'outcast': 1, 'slide': 2, 'spites': 1}
+	Seven-eleven links: 19
+{'banquet': 2, 'bars': 2, 'blots': 1, "carv'd": 1, 'defects': 1, 'frost': 1, 'gusts': 1, "hear'st": 1, 'hiding': 1, 'painful': 1, 'raiment': 3, 'survive': 1, 'temperate': 1, 'tempting': 1, 'traffic': 1}
+
+SON3.txt and SPTAD.txt links:
+	Total links: 7
+	two-six links: 2
+{'invocate': 1, 'waiting': 1}
+	Seven-eleven links: 5
+{"pow'rful": 1, 'reserve': 1, 'survive': 2, 'tempting': 1}
+
+SON3.txt and STMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'removed': 1}
+
+SON3.txt and TAsh.txt links:
+	Total links: 34
+	two-six links: 14
+{'closure': 1, "dimm'd": 1, 'disdaineth': 1, 'erst': 2, 'first-born': 1, 'lifts': 1, 'meadows': 1, 'paws': 1, "poet's": 1, 'straying': 1, "tiger's": 1, 'trenches': 1, 'uphold': 1}
+	Seven-eleven links: 20
+{'banquet': 1, 'bitterness': 1, 'brood': 1, 'chest': 2, "despis'd": 1, 'devouring': 1, 'dig': 2, "distill'd": 2, 'frost': 1, 'gusts': 1, 'limits': 1, 'mud': 1, 'obsequious': 1, "pierc'd": 1, 'shifts': 1, "sun's": 1, 'survive': 1}
+
+SON3.txt and TGV.txt links:
+	Total links: 31
+	two-six links: 10
+{'composed': 1, 'dully': 1, 'fading': 1, 'lacking': 1, 'lease': 2, 'legacy': 1, 'thrusts': 1, 'unseeing': 1, 'wailing': 1}
+	Seven-eleven links: 21
+{'concord': 1, 'conspire': 1, "despis'd": 1, "friend's": 1, "gav'st": 1, 'grievances': 1, 'hasten': 1, 'influence': 1, "mask'd": 1, 'papers': 2, 'pupil': 1, 'raiment': 1, 'receiving': 1, 'rehearse': 4, 'wherewith': 1, 'wishing': 1, 'woos': 1}
+
+SON3.txt and TIMsh.txt links:
+	Total links: 30
+	two-six links: 10
+{'beweep': 1, 'commence': 1, 'dullness': 1, "feed'st": 1, "sea's": 1, 'serving': 1, 'spurring': 1, 'tract': 1, 'trophies': 1, 'unthrift': 1}
+	Seven-eleven links: 20
+{'bearer': 1, 'convert': 2, 'derive': 1, "despis'd": 1, 'disdains': 1, "gav'st": 1, 'influence': 1, 'liquid': 1, 'niggard': 1, 'reserve': 1, 'robs': 1, "sun's": 1, 'tenth': 1, 'traffic': 2, 'usurer': 2, 'wasteful': 2}
+
+SON3.txt and TMP.txt links:
+	Total links: 37
+	two-six links: 18
+{'badges': 1, 'clearer': 1, 'darling': 1, 'dullness': 1, "endow'd": 1, 'excel': 1, 'executor': 1, 'fade': 2, 'foison': 2, 'fuel': 1, 'mow': 2, "ow'st": 1, 'sunk': 1, "term'd": 1, 'wardrobe': 1}
+	Seven-eleven links: 19
+{'advocate': 1, 'befits': 1, 'besiege': 1, 'brood': 1, 'devouring': 1, 'dig': 1, "either's": 2, "ev'ry": 1, 'frost': 1, 'ghastly': 1, 'influence': 1, "measur'd": 1, 'minded': 1, 'painful': 1, 'removed': 1, 'temperate': 1, 'traffic': 1, 'winters': 1}
+
+SON3.txt and TN.txt links:
+	Total links: 32
+	two-six links: 14
+{"besmear'd": 1, 'gems': 1, "int'rim": 1, 'odor': 1, 'odors': 3, 'perspective': 1, "sea's": 1, 'self-love': 1, "suff'ring": 1, 'thriftless': 1, 'usest': 1, 'wardrobe': 1}
+	Seven-eleven links: 18
+{'contracted': 2, 'copy': 1, 'crowned': 1, 'darkly': 1, 'deem': 1, 'evident': 1, 'inconstant': 1, 'jaws': 1, 'limits': 1, 'receiving': 1, 'removed': 1, 'reserve': 1, 'woos': 1, "youth's": 4}
+
+SON3.txt and TNKsh.txt links:
+	Total links: 29
+	two-six links: 10
+{"feel'st": 2, 'first-born': 1, 'foison': 1, 'foregone': 1, 'odor': 1, 'odors': 1, "ow'st": 1, 'uphold': 1, 'weakens': 1}
+	Seven-eleven links: 19
+{'advocate': 1, 'assured': 1, 'carve': 1, 'crowned': 1, 'disdains': 1, "ev'ry": 5, 'hasten': 1, 'imperfect': 1, 'niggard': 1, 'plea': 2, 'pupil': 1, 'sequent': 1, "war's": 1, 'winters': 1}
+
+SON3.txt and TRO.txt links:
+	Total links: 50
+	two-six links: 20
+{'active': 1, 'allege': 1, 'clearer': 1, 'despising': 1, 'determination': 1, 'excel': 1, "foil'd": 1, 'lifts': 1, 'maturity': 1, 'parallels': 1, "self-will'd": 1, 'sluttish': 1, 'statues': 1, 'string': 1, 'sunk': 1, "truth's": 2, 'vassalage': 1, 'vaunt': 1, 'wards': 1}
+	Seven-eleven links: 30
+{'bearer': 1, 'broils': 2, 'chest': 4, 'conspire': 1, 'cures': 1, 'deem': 1, 'defects': 1, 'derive': 1, "despis'd": 1, "distill'd": 2, "famish'd": 1, "helen's": 4, 'hiding': 1, 'imaginary': 1, 'jaws': 1, 'liquid': 1, 'poorly': 1, 'reserve': 1, 'sequent': 1, 'temperate': 1, 'tenth': 1, 'tops': 1}
+
+SON3.txt and VEN.txt links:
+	Total links: 53
+	two-six links: 21
+{'bristly': 1, 'closure': 1, 'controlling': 1, 'decrepit': 1, 'excel': 1, "foil'd": 1, 'fountains': 1, 'gardens': 1, 'gazeth': 1, 'glutton': 2, 'lacking': 1, 'lifts': 1, 'orient': 1, 'presenteth': 1, 'sluttish': 1, 'staineth': 1, 'statues': 1, 'trophies': 1, 'victories': 1, 'wailing': 1}
+	Seven-eleven links: 32
+{'banquet': 1, 'defects': 1, 'devouring': 1, 'gaudy': 1, 'gusts': 1, "hear'st": 1, 'hidden': 1, 'imaginary': 1, 'influence': 1, "lovers'": 1, 'resembling': 4, 'salve': 1, 'shifts': 1, 'smother': 1, 'stormy': 1, 'summon': 1, 'survey': 1, 'survive': 1, 'tempting': 2, 'tired': 2, 'tires': 1, 'tops': 1, 'violet': 1, 'wishing': 2, 'woos': 1, "youth's": 1}
+
+SON3.txt and WIV.txt links:
+	Total links: 18
+	two-six links: 6
+{'candles': 1, 'decrease': 1, 'determination': 1, 'distillation': 1, 'equipage': 1, 'unswept': 1}
+	Seven-eleven links: 12
+{'bars': 2, 'chest': 2, 'contracted': 2, 'frank': 1, 'guides': 1, 'hiding': 2, 'obsequious': 1, 'woos': 1}
+
+SON3.txt and WT.txt links:
+	Total links: 51
+	two-six links: 19
+{'admiring': 2, 'afresh': 2, "april's": 1, "blam'd": 1, 'churl': 1, 'clearer': 1, 'issueless': 1, 'marigold': 1, "o'ercharg'd": 1, 'ordering': 1, 'separation': 1, 'sessions': 2, 'slide': 1, 'tincture': 1, 'unthrifty': 1, 'waiting': 1}
+	Seven-eleven links: 32
+{'advocate': 3, "bear'st": 1, 'contracted': 2, 'copy': 2, 'cures': 1, 'deem': 1, 'derive': 1, 'evident': 1, "gaz'd": 1, 'inconstant': 1, "measur'd": 1, 'minded': 1, 'offenders': 1, "pow'rful": 2, 'receiving': 1, 'rehearse': 2, 'remote': 2, 'summon': 1, 'tenth': 1, 'tires': 1, 'traffic': 1, 'usurer': 1, 'wary': 1, 'winters': 1, 'wishing': 1}
+
+SON3.txt and x1H4.txt links:
+	Total links: 44
+	two-six links: 22
+{'active': 1, 'admiring': 1, 'bareness': 1, 'determination': 1, 'favorites': 1, 'lease': 2, 'metre': 1, 'perfumed': 1, "self-will'd": 1, 'tenants': 1, 'threescore': 2, "totter'd": 1, 'trenches': 1, "unlook'd": 2, 'uphold': 1, 'victories': 1, 'waiting': 1, 'wardrobe': 1, 'wards': 1}
+	Seven-eleven links: 22
+{'broils': 1, 'carve': 1, 'contracted': 2, 'crowned': 1, 'grievances': 1, "hear'st": 1, 'jaws': 1, 'limits': 2, 'offenders': 1, 'papers': 1, 'pupil': 2, 'remote': 1, 'salve': 1, 'smother': 1, "sun's": 1, 'survey': 1, 'temperate': 1, 'tired': 2}
+
+SON3.txt and x1H6sh.txt links:
+	Total links: 7
+	two-six links: 2
+{'dye': 1, 'sullied': 1}
+	Seven-eleven links: 5
+{'drooping': 1, 'evident': 1, 'famine': 1, 'mightier': 1, 'verdict': 1}
+
+SON3.txt and x2H4.txt links:
+	Total links: 51
+	two-six links: 17
+{'accusing': 1, 'active': 1, 'awakes': 1, 'commence': 1, 'first-born': 1, 'fortify': 1, 'glutton': 2, 'invent': 2, 'orient': 1, 'revolution': 1, "robb'ry": 1, 'spurring': 1, "toil'd": 1, 'twofold': 1, 'usest': 1}
+	Seven-eleven links: 34
+{'appearance': 2, 'bearer': 2, 'befits': 1, 'bitterness': 1, 'brood': 1, "carv'd": 1, "check'd": 4, 'convert': 1, 'copy': 1, 'crowned': 1, 'dig': 1, 'drooping': 1, 'famine': 1, "famish'd": 1, 'frank': 1, "friend's": 1, 'ghastly': 1, 'grievances': 3, 'imaginary': 1, "measur'd": 1, 'offenders': 1, 'seasons': 1, 'sparkling': 1, 'stormy': 1, 'survey': 2, 'survive': 1}
+
+SON3.txt and x2H6sh.txt links:
+	Total links: 25
+	two-six links: 12
+{'churl': 1, 'decease': 2, "dimm'd": 1, 'fuel': 1, 'invent': 1, 'monuments': 1, 'mow': 1, "offender's": 1, "princes'": 1, 'self-love': 1, "term'd": 1}
+	Seven-eleven links: 13
+{'deem': 1, 'ghastly': 1, 'gusts': 1, 'liquid': 1, 'mightier': 1, 'mud': 1, 'offenders': 1, 'sparkling': 1, 'stormy': 1, "sun's": 2, 'survey': 1, 'untainted': 1}
+
+SON3.txt and x3H6sh.txt links:
+	Total links: 32
+	two-six links: 16
+{"cancell'd": 1, 'darling': 1, 'enjoys': 1, "eye's": 3, 'fuel': 1, "o'ercharg'd": 1, 'paws': 1, 'placed': 1, 'presenteth': 1, 'replete': 1, 'ruinate': 1, 'straying': 1, "tiger's": 1, 'usest': 1}
+	Seven-eleven links: 16
+{'befits': 1, 'broils': 1, 'canopy': 1, 'carve': 1, 'crowned': 1, 'devouring': 1, 'obsequious': 1, 'sparkling': 2, 'tops': 1, 'used': 1, "war's": 1, 'wherewith': 1, "widow's": 2, 'wishing': 1}
+

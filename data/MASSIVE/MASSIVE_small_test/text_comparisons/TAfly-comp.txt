@@ -1,0 +1,476 @@
+TAfly.txt and ADO.txt links:
+	Total links: 2
+	two-six links: 1
+{'wrest': 1}
+	Seven-eleven links: 1
+{"kill'st": 1}
+
+TAfly.txt and ALCH.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'insult': 1, 'interpret': 1, 'thump': 1}
+
+TAfly.txt and ANT.txt links:
+	Total links: 2
+	two-six links: 1
+{'tenfold': 1}
+	Seven-eleven links: 1
+{"kill'st": 1}
+
+TAfly.txt and ARDnsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'stumps': 1}
+	Seven-eleven links: 1
+{'outrageous': 1}
+
+TAfly.txt and ARDsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'insult': 1, 'passionate': 1}
+
+TAfly.txt and AWWnsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and AWWsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and AYL.txt links:
+	Total links: 4
+	two-six links: 2
+{"ill-favor'd": 1, 'purposely': 1}
+	Seven-eleven links: 2
+{'insult': 1, 'sighing': 1}
+
+TAfly.txt and COR.txt links:
+	Total links: 4
+	two-six links: 2
+{'doings': 1, 'unknit': 1}
+	Seven-eleven links: 2
+{'begging': 1, 'insult': 1}
+
+TAfly.txt and CYM.txt links:
+	Total links: 2
+	two-six links: 1
+{"cloy'd": 1}
+	Seven-eleven links: 1
+{'lamenting': 1}
+
+TAfly.txt and E3nsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'franticly': 1}
+	Seven-eleven links: 1
+{'outrageous': 1}
+
+TAfly.txt and E3sh.txt links:
+	Total links: 2
+	two-six links: 1
+{'dazzle': 1}
+	Seven-eleven links: 1
+{'passionate': 1}
+
+TAfly.txt and ERR.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'folded': 1, 'outrageous': 1, 'stories': 1}
+
+TAfly.txt and H5.txt links:
+	Total links: 3
+	two-six links: 3
+{"cloy'd": 1, 'dazzle': 1, 'wrest': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and H8nsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'buzzing': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and H8sh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'begging': 1}
+
+TAfly.txt and HAM.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'folded': 1, 'interpret': 1, 'outrageous': 1, 'passionate': 1}
+
+TAfly.txt and HAMQ1.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'interpret': 1, 'passionate': 1}
+
+TAfly.txt and JC.txt links:
+	Total links: 3
+	two-six links: 1
+{'buzzing': 1}
+	Seven-eleven links: 2
+{"kill'st": 1, 'sighing': 1}
+
+TAfly.txt and JN.txt links:
+	Total links: 3
+	two-six links: 1
+{'tyrannize': 1}
+	Seven-eleven links: 2
+{'folded': 1, 'passionate': 1}
+
+TAfly.txt and KNACKsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and LC.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'folded': 1}
+
+TAfly.txt and LLL.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'begging': 1, 'folded': 1, 'passionate': 1, 'thump': 1}
+
+TAfly.txt and LR.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and LUC.txt links:
+	Total links: 10
+	two-six links: 3
+{"cloy'd": 1, "martyr'd": 1, 'tyrannize': 1}
+	Seven-eleven links: 7
+{'coal-black': 1, 'folded': 1, 'lamenting': 2, 'melody': 1, 'outrageous': 1, 'stories': 1}
+
+TAfly.txt and MAC.txt links:
+	Total links: 3
+	two-six links: 2
+{"brew'd": 1, 'substances': 1}
+	Seven-eleven links: 1
+{'interpret': 1}
+
+TAfly.txt and MMsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'doings': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and MND.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'lamenting': 1, 'melody': 1, 'passionate': 1, 'stories': 1}
+
+TAfly.txt and MUC.txt links:
+	Total links: 1
+	two-six links: 1
+{'doings': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and MV.txt links:
+	Total links: 4
+	two-six links: 3
+{'buzzing': 1, 'chanced': 1, 'wrest': 1}
+	Seven-eleven links: 1
+{'outrageous': 1}
+
+TAfly.txt and OTH.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'sighing': 1}
+
+TAfly.txt and PERnsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'begging': 1, 'interpret': 1}
+
+TAfly.txt and PERsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'sapling': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and R2.txt links:
+	Total links: 4
+	two-six links: 1
+{"grandsire's": 1}
+	Seven-eleven links: 3
+{'coal-black': 1, "kill'st": 1, 'stories': 1}
+
+TAfly.txt and R3.txt links:
+	Total links: 5
+	two-six links: 1
+{'sapling': 1}
+	Seven-eleven links: 4
+{'begging': 1, 'folded': 1, 'lamenting': 1, 'passionate': 1}
+
+TAfly.txt and ROM.txt links:
+	Total links: 1
+	two-six links: 1
+{"martyr'd": 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SHR.txt links:
+	Total links: 2
+	two-six links: 2
+{"ill-favor'd": 1, 'unknit': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON1.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON145.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON2.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON3.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON4.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SON5.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and SPTKYD.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'insult': 1}
+
+TAfly.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and TAnsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'doings': 1}
+	Seven-eleven links: 1
+{"titus'": 1}
+
+TAfly.txt and TAsh.txt links:
+	Total links: 5
+	two-six links: 2
+{'stumps': 1, 'tyrannize': 1}
+	Seven-eleven links: 3
+{'coal-black': 1, 'melody': 1, "titus'": 1}
+
+TAfly.txt and TGV.txt links:
+	Total links: 3
+	two-six links: 1
+{"ill-favor'd": 1}
+	Seven-eleven links: 2
+{'interpret': 1, 'passionate': 1}
+
+TAfly.txt and TIMnsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and TIMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'interpret': 1}
+
+TAfly.txt and TMP.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'sighing': 1}
+
+TAfly.txt and TN.txt links:
+	Total links: 3
+	two-six links: 1
+{'purposely': 1}
+	Seven-eleven links: 2
+{'begging': 1, "kill'st": 1}
+
+TAfly.txt and TNKnsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'begging': 1, "kill'st": 1}
+
+TAfly.txt and TNKsh.txt links:
+	Total links: 3
+	two-six links: 1
+{"martyr'd": 1}
+	Seven-eleven links: 2
+{'begging': 1, 'lamenting': 1}
+
+TAfly.txt and TRO.txt links:
+	Total links: 3
+	two-six links: 1
+{'wrest': 1}
+	Seven-eleven links: 2
+{'melody': 1, 'sighing': 1}
+
+TAfly.txt and VEN.txt links:
+	Total links: 4
+	two-six links: 1
+{'franticly': 1}
+	Seven-eleven links: 3
+{'coal-black': 1, 'sighing': 1, 'stories': 1}
+
+TAfly.txt and WIV.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and WT.txt links:
+	Total links: 3
+	two-six links: 2
+{'doings': 1, 'soaking': 1}
+	Seven-eleven links: 1
+{'thump': 1}
+
+TAfly.txt and x1H4.txt links:
+	Total links: 2
+	two-six links: 1
+{'unknit': 1}
+	Seven-eleven links: 1
+{'sighing': 1}
+
+TAfly.txt and x1H6nsh.txt links:
+	Total links: 2
+	two-six links: 1
+{"cloy'd": 1}
+	Seven-eleven links: 1
+{'outrageous': 1}
+
+TAfly.txt and x1H6sh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and x2H4.txt links:
+	Total links: 8
+	two-six links: 3
+{'buzzing': 1, 'chanced': 1, "cloy'd": 1}
+	Seven-eleven links: 5
+{'begging': 1, 'lamenting': 1, 'melody': 1, 'sighing': 1, 'stories': 1}
+
+TAfly.txt and x2H6nsh.txt links:
+	Total links: 5
+	two-six links: 1
+{'purposely': 1}
+	Seven-eleven links: 4
+{'coal-black': 1, 'lamenting': 1, 'passionate': 1, 'thump': 1}
+
+TAfly.txt and x2H6sh.txt links:
+	Total links: 1
+	two-six links: 1
+{'wrest': 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and x3H6nsh.txt links:
+	Total links: 1
+	two-six links: 1
+{"brew'd": 1}
+	Seven-eleven links: 0
+{}
+
+TAfly.txt and x3H6sh.txt links:
+	Total links: 4
+	two-six links: 1
+{'dazzle': 1}
+	Seven-eleven links: 3
+{'coal-black': 1, 'insult': 1, 'sighing': 1}
+

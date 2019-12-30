@@ -1,0 +1,441 @@
+SON4.txt and ADO.txt links:
+	Total links: 1
+	two-six links: 1
+{'hymn': 1}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and ANT.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'modern': 1, 'poets': 1}
+
+SON4.txt and ARDnsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'invent': 1, 'poets': 1}
+
+SON4.txt and ARDsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and AWWnsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and AWWsh.txt links:
+	Total links: 6
+	two-six links: 1
+{"decay'd": 1}
+	Seven-eleven links: 5
+{'anew': 1, 'fresher': 1, 'inferior': 1, 'influence': 1, 'modern': 1}
+
+SON4.txt and AYL.txt links:
+	Total links: 6
+	two-six links: 0
+{}
+	Seven-eleven links: 6
+{'invent': 1, 'modern': 1, 'penury': 1, 'rhetoric': 1, 'robs': 1, 'writers': 1}
+
+SON4.txt and COR.txt links:
+	Total links: 3
+	two-six links: 2
+{"decay'd": 1, 'dignifies': 1}
+	Seven-eleven links: 1
+{'inferior': 1}
+
+SON4.txt and CYM.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'building': 1, 'victors': 1}
+
+SON4.txt and E3nsh.txt links:
+	Total links: 3
+	two-six links: 2
+{'entombed': 1, 'hindmost': 1}
+	Seven-eleven links: 1
+{'inferior': 1}
+
+SON4.txt and E3sh.txt links:
+	Total links: 4
+	two-six links: 1
+{'immured': 1}
+	Seven-eleven links: 3
+{'fresher': 1, "poet's": 1, 'poets': 1}
+
+SON4.txt and ERR.txt links:
+	Total links: 4
+	two-six links: 2
+{"decay'd": 1, 'spends': 1}
+	Seven-eleven links: 2
+{'attaint': 1, 'building': 1}
+
+SON4.txt and H5.txt links:
+	Total links: 5
+	two-six links: 1
+{'enfeebled': 1}
+	Seven-eleven links: 4
+{'attaint': 1, 'building': 1, 'fresher': 1, 'writers': 1}
+
+SON4.txt and H8nsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'disperse': 1, 'fresher': 1}
+
+SON4.txt and H8sh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and HAM.txt links:
+	Total links: 4
+	two-six links: 2
+{'extant': 1, 'willfully': 1}
+	Seven-eleven links: 2
+{'influence': 1, 'writers': 1}
+
+SON4.txt and JC.txt links:
+	Total links: 5
+	two-six links: 3
+{'afloat': 1, "o'er-read": 1, 'soundless': 1}
+	Seven-eleven links: 2
+{'disperse': 1, 'mayest': 1}
+
+SON4.txt and JN.txt links:
+	Total links: 7
+	two-six links: 3
+{'comments': 1, 'hymn': 1, 'willfully': 1}
+	Seven-eleven links: 4
+{'inferior': 1, 'modern': 1, 'robs': 1, 'victors': 1}
+
+SON4.txt and LC.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and LLL.txt links:
+	Total links: 9
+	two-six links: 5
+{'compile': 1, 'immured': 1, 'poesy': 1, "sympathiz'd": 1, 'unlettered': 1}
+	Seven-eleven links: 4
+{'admired': 1, 'attaint': 1, 'influence': 1, 'rhetoric': 1}
+
+SON4.txt and LR.txt links:
+	Total links: 7
+	two-six links: 3
+{'compeers': 1, "o'er-read": 1, "o'erlook": 1}
+	Seven-eleven links: 4
+{'attaint': 1, 'building': 1, 'influence': 1, 'penury': 1}
+
+SON4.txt and LUC.txt links:
+	Total links: 8
+	two-six links: 5
+{"decay'd": 1, 'entombed': 1, 'quill': 1, 'spends': 1, "sympathiz'd": 1}
+	Seven-eleven links: 3
+{'admired': 1, 'attaint': 1, 'victors': 1}
+
+SON4.txt and MAC.txt links:
+	Total links: 3
+	two-six links: 1
+{"fil'd": 1}
+	Seven-eleven links: 2
+{'building': 1, 'modern': 1}
+
+SON4.txt and MMsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'penury': 1}
+
+SON4.txt and MND.txt links:
+	Total links: 8
+	two-six links: 7
+{'hymn': 1, 'impair': 1, 'muses': 1, "o'erlook": 1, 'quill': 1, 'shallowest': 1, 'willfully': 1}
+	Seven-eleven links: 1
+{"poet's": 1}
+
+SON4.txt and MV.txt links:
+	Total links: 2
+	two-six links: 2
+{'alien': 1, 'hymn': 1}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and OTH.txt links:
+	Total links: 6
+	two-six links: 1
+{'spends': 1}
+	Seven-eleven links: 5
+{'anew': 1, 'inferior': 1, 'invent': 1, 'modern': 1, 'robs': 1}
+
+SON4.txt and PERnsh.txt links:
+	Total links: 2
+	two-six links: 1
+{"o'erlook": 1}
+	Seven-eleven links: 1
+{'building': 1}
+
+SON4.txt and PERsh.txt links:
+	Total links: 3
+	two-six links: 1
+{'dignifies': 1}
+	Seven-eleven links: 2
+{'admired': 1, 'robs': 1}
+
+SON4.txt and PHT.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and R2.txt links:
+	Total links: 6
+	two-six links: 1
+{'impute': 1}
+	Seven-eleven links: 5
+{'disperse': 1, 'fresher': 1, 'inferior': 1, 'penury': 1, 'robs': 1}
+
+SON4.txt and R3.txt links:
+	Total links: 4
+	two-six links: 2
+{'gulls': 1, "o'erlook": 1}
+	Seven-eleven links: 2
+{'mayest': 1, 'poets': 1}
+
+SON4.txt and ROM.txt links:
+	Total links: 6
+	two-six links: 1
+{'impute': 1}
+	Seven-eleven links: 5
+{'admired': 1, 'disperse': 1, 'mayest': 1, 'modern': 1, 'penury': 1}
+
+SON4.txt and SHR.txt links:
+	Total links: 5
+	two-six links: 2
+{'affable': 1, 'poesy': 1}
+	Seven-eleven links: 3
+{'fresher': 1, 'inferior': 1, 'rhetoric': 1}
+
+SON4.txt and SON1.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and SON145.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'anew': 1}
+
+SON4.txt and SON2.txt links:
+	Total links: 1
+	two-six links: 1
+{'comments': 1}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and SON3.txt links:
+	Total links: 5
+	two-six links: 0
+{}
+	Seven-eleven links: 5
+{'influence': 1, 'invent': 1, "poet's": 1, 'poets': 1, 'robs': 1}
+
+SON4.txt and SON5.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'anew': 1}
+
+SON4.txt and SPTAD.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and STMsh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and TAfly.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and TAnsh.txt links:
+	Total links: 1
+	two-six links: 0
+{}
+	Seven-eleven links: 1
+{'anew': 1}
+
+SON4.txt and TAsh.txt links:
+	Total links: 4
+	two-six links: 0
+{}
+	Seven-eleven links: 4
+{'building': 1, 'disperse': 1, 'mayest': 1, "poet's": 1}
+
+SON4.txt and TGV.txt links:
+	Total links: 7
+	two-six links: 3
+{'graced': 1, 'poesy': 1, 'spends': 1}
+	Seven-eleven links: 4
+{'admired': 1, 'building': 1, 'influence': 1, 'writers': 1}
+
+SON4.txt and TIMnsh.txt links:
+	Total links: 1
+	two-six links: 1
+{'affable': 1}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and TIMsh.txt links:
+	Total links: 5
+	two-six links: 2
+{'dedicated': 1, 'poesy': 1}
+	Seven-eleven links: 3
+{'admired': 1, 'influence': 1, 'robs': 1}
+
+SON4.txt and TMP.txt links:
+	Total links: 3
+	two-six links: 1
+{'dedicated': 1}
+	Seven-eleven links: 2
+{'fresher': 1, 'influence': 1}
+
+SON4.txt and TN.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and TNKnsh.txt links:
+	Total links: 2
+	two-six links: 1
+{'extant': 1}
+	Seven-eleven links: 1
+{'invent': 1}
+
+SON4.txt and TNKsh.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'anew': 1, 'fresher': 1, 'victors': 1}
+
+SON4.txt and TRO.txt links:
+	Total links: 6
+	two-six links: 3
+{'dignifies': 1, 'extant': 1, 'hindmost': 1}
+	Seven-eleven links: 3
+{'attaint': 1, 'building': 1, 'fresher': 1}
+
+SON4.txt and VEN.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'anew': 1, 'attaint': 1, 'influence': 1}
+
+SON4.txt and WIV.txt links:
+	Total links: 2
+	two-six links: 1
+{'extant': 1}
+	Seven-eleven links: 1
+{'disperse': 1}
+
+SON4.txt and WT.txt links:
+	Total links: 3
+	two-six links: 2
+{"fil'd": 1, 'impute': 1}
+	Seven-eleven links: 1
+{'mayest': 1}
+
+SON4.txt and x1H4.txt links:
+	Total links: 5
+	two-six links: 4
+{'affable': 1, 'alien': 1, 'extant': 1, 'willfully': 1}
+	Seven-eleven links: 1
+{'writers': 1}
+
+SON4.txt and x1H6nsh.txt links:
+	Total links: 8
+	two-six links: 3
+{"decay'd": 1, 'enfeebled': 1, 'graced': 1}
+	Seven-eleven links: 5
+{'attaint': 1, 'disperse': 1, 'inferior': 1, 'mayest': 1, 'victors': 1}
+
+SON4.txt and x1H6sh.txt links:
+	Total links: 0
+	two-six links: 0
+{}
+	Seven-eleven links: 0
+{}
+
+SON4.txt and x2H4.txt links:
+	Total links: 6
+	two-six links: 3
+{"o'er-read": 1, "polish'd": 1, 'strained': 1}
+	Seven-eleven links: 3
+{'admired': 1, 'anew': 1, 'invent': 1}
+
+SON4.txt and x2H6nsh.txt links:
+	Total links: 3
+	two-six links: 1
+{'quill': 1}
+	Seven-eleven links: 2
+{'anew': 1, 'disperse': 1}
+
+SON4.txt and x2H6sh.txt links:
+	Total links: 3
+	two-six links: 2
+{'affable': 1, 'hindmost': 1}
+	Seven-eleven links: 1
+{'invent': 1}
+
+SON4.txt and x3H6nsh.txt links:
+	Total links: 2
+	two-six links: 0
+{}
+	Seven-eleven links: 2
+{'poets': 1, 'victors': 1}
+
+SON4.txt and x3H6sh.txt links:
+	Total links: 3
+	two-six links: 0
+{}
+	Seven-eleven links: 3
+{'disperse': 1, 'inferior': 1, 'victors': 1}
+
