@@ -34,7 +34,7 @@ In most alternate iterations, a single text is modified from or added to the CS 
   SEMI_MASSIVE - This iteration tests both the Shakespearean and non-Shakespearean portions of disaggregated texts along with SON145 and the five Sonnet groups.  
   SONNETS - This iteration tests all five Sonnet groups and SON145 against the CS iteration.   
   SPTKYD_ARDnsh - In this iteration, SPTKYD is added and ARDnsh is swapped into the CS iteration.  
-  SPTKYDanchor - In this iteration, SPTKYD, ARDnsh, and SHRnsh are inserted into the CS iteration.  
-  SPTKYDanchor_ARDsh - In this iteration, SPTKYD and SHRnsh are insterted into the CS iteration.  
+  SPTKYDanchor - In this iteration, SPTKYD, ARDnsh, SHRnsh, and the non-Shakespearean portions of the three H6 plays are inserted into the CS iteration.  
+  SPTKYDanchor_ARDsh - In this iteration, SPTKYD, SHRnsh, and the non-Shakespearean portions of the three H6 plays are insterted into the CS iteration.  
   TAfly - This iteration tests TA's fly-killing scene against the CS iteration.  
   TA_All - This iteration tests all three portions of TA–TAsh, TAnsh, and TAfly–against the CS iteration.  
