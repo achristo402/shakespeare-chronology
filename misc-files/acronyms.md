@@ -22,7 +22,7 @@ In most alternate iterations, a single text is modfied from or added to the CS t
   x2H6 - *Henry VI, Part 2*  
   x3H6 - *Henry VI, Part 3*  
   
-  Texts that are not included in the CS iteration are tested against the CS text list. For texts that are included in CS in a disaggregated form, the ending of the iteration folder name indicates the change to the text. "nsh" means that the non-Shakespearean sections of the disaggregated text are being tested. "both" means that both the Shakespearean and non-Shakespearean sections of the text are being tested as two separate files. No ending indicates that the text has not been disaggregated, and is being
+  Texts that are not included in the CS iteration are tested against the CS text list. For texts that are in CS in a disaggregated form, the ending of their iteration folder names indicate the changes to the text. "nsh" means that the non-Shakespearean sections of the disaggregated text are being tested. "both" means that both the Shakespearean and non-Shakespearean sections of the text are being tested as two separate files. No ending indicates that the text has been reaggregated, and is being
   tested as a single file.  
   
   The remaining iterations do not follow this naming convention and are described below:  
