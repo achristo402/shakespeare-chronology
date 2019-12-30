@@ -3,7 +3,7 @@ This project orders Shakespeare's works based on his use of rare words, or words
 at least two different texts. 
 
 ## Data Organization
-Within the "Data" folder, users may identify the focus of an iteration folder by its [acronym](https://github.com/achristo402/shakespeare-chronology/misc-files/acronyms.md).
+Within the "Data" folder, users may identify the focus of an iteration folder by its [acronym](https://github.com/achristo402/shakespeare-chronology/blob/master/misc-files/acronyms.md).
 
 Within iteration folders, users may identify the purpose of a file or folder by its suffix:  
 **_text_list:** Texts used in a specific iteration.  
