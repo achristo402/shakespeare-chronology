@@ -131,12 +131,12 @@ MND.txt and MAC.txt links:
 	Seven-eleven links: 56
 {'a-weary': 1, "address'd": 1, 'affair': 1, 'antic': 1, 'artificial': 1, 'avouch': 1, 'calendar': 2, 'clamorous': 1, 'concern': 1, 'concord': 2, 'cradle': 1, 'create': 1, 'creeps': 1, 'crew': 1, 'devour': 1, "distill'd": 1, 'elves': 4, 'eyeballs': 1, 'fog': 1, 'geese': 1, 'ghosts': 1, 'gore': 1, 'hay': 3, 'humane': 1, 'images': 1, "med'cine": 1, 'monkey': 1, 'primrose': 1, "quench'd": 1, 'rent': 1, "scap'd": 1, 'shaft': 1, 'stool': 1, 'streams': 1, 'sweep': 3, 'transported': 1, "tyrant's": 6, 'upbraid': 1, "vanish'd": 2, 'western': 2}
 
-MND.txt and MM.txt links:
-	Total links: 91
-	two-six links: 31
-{"attain'd": 1, 'betrothed': 1, 'brakes': 1, 'bum': 2, 'bur': 1, 'cloister': 1, 'consecrated': 1, 'devices': 1, 'distant': 1, 'extenuate': 1, "finish'd": 1, "flow'ry": 2, 'garlic': 1, 'habitation': 1, 'hips': 1, 'meddling': 1, 'mislead': 1, "oft'ner": 1, 'paved': 1, 'pelting': 1, 'properties': 1, 'rubies': 1, "run'st": 1, 'shears': 1, 'stolen': 3, "this'": 1, 'wend': 1}
-	Seven-eleven links: 60
-{'affair': 1, 'avouch': 1, "barber's": 1, 'beggary': 1, 'bolt': 1, 'compel': 2, 'courtesies': 1, 'curtsy': 1, 'deceiving': 2, 'despised': 2, 'detest': 3, 'edict': 1, 'floods': 2, 'glance': 2, 'grapes': 1, 'harp': 1, 'howsoever': 1, 'images': 1, 'loathed': 1, 'maidens': 2, 'moulded': 1, 'musical': 2, 'opening': 1, 'paradise': 1, 'paying': 2, 'pursues': 2, "quench'd": 1, 'release': 2, 'relent': 2, 'rent': 1, 'rod': 1, 'sinister': 1, 'stealth': 2, 'strings': 1, "tak'st": 1, 'tickle': 1, 'uneven': 1, 'violet': 1, 'virginity': 1, 'warning': 1, 'western': 2, "worship's": 2, 'worthier': 2}
+MND.txt and MMsh.txt links:
+	Total links: 86
+	two-six links: 28
+{"attain'd": 1, 'betrothed': 1, 'brakes': 1, 'bum': 2, 'bur': 1, 'cloister': 1, 'consecrated': 1, 'devices': 1, 'distant': 1, 'extenuate': 1, "finish'd": 1, "flow'ry": 2, 'garlic': 1, 'habitation': 1, 'meddling': 1, "oft'ner": 1, 'paved': 1, 'pelting': 1, 'properties': 1, 'rubies': 1, "run'st": 1, 'stolen': 3, "this'": 1, 'wend': 1}
+	Seven-eleven links: 58
+{'affair': 1, 'avouch': 1, "barber's": 1, 'beggary': 1, 'bolt': 1, 'compel': 2, 'courtesies': 1, 'curtsy': 1, 'deceiving': 2, 'despised': 2, 'detest': 3, 'edict': 1, 'floods': 2, 'glance': 2, 'grapes': 1, 'harp': 1, 'howsoever': 1, 'images': 1, 'loathed': 1, 'maidens': 2, 'moulded': 1, 'opening': 1, 'paradise': 1, 'paying': 2, 'pursues': 2, "quench'd": 1, 'release': 2, 'relent': 2, 'rent': 1, 'rod': 1, 'sinister': 1, 'stealth': 2, 'strings': 1, "tak'st": 1, 'tickle': 1, 'uneven': 1, 'violet': 1, 'virginity': 1, 'warning': 1, 'western': 2, "worship's": 2, 'worthier': 2}
 
 MND.txt and MV.txt links:
 	Total links: 118

@@ -124,7 +124,7 @@ E3sh.txt and MAC.txt links:
 	Seven-eleven links: 40
 {'accents': 1, 'accompt': 1, 'banners': 2, 'bestride': 2, 'bough': 1, 'cancel': 2, 'captivity': 1, 'convert': 1, "dismay'd": 1, 'enow': 2, 'fog': 1, 'guardian': 2, 'hay': 1, "hear'st": 1, 'humane': 1, 'idiot': 1, 'images': 1, 'knell': 3, 'overthrown': 1, 'plenteous': 1, 'reflection': 1, 'scour': 1, "smother'd": 1, 'spacious': 2, "stepp'd": 1, 'sundry': 3, 'surprise': 1, 'thunders': 1, 'utterance': 1, 'yew': 1}
 
-E3sh.txt and MM.txt links:
+E3sh.txt and MMsh.txt links:
 	Total links: 35
 	two-six links: 7
 {'avail': 1, 'brick': 1, 'corrects': 1, 'enriched': 1, 'infringe': 1, 'lavish': 1, 'scandalous': 1}

@@ -124,12 +124,12 @@ COR.txt and MAC.txt links:
 	Seven-eleven links: 67
 {'a-bed': 1, 'accents': 1, 'accompany': 1, 'accounted': 1, 'acting': 1, 'banners': 1, 'bestride': 1, 'braggart': 1, 'breasts': 1, 'chiefest': 1, "children's": 1, 'construction': 1, 'dames': 1, 'deepest': 1, 'delivers': 1, "dismay'd": 1, 'ditch': 1, "done't": 1, 'doubly': 1, 'dragon': 1, 'droop': 1, 'eagles': 1, 'filling': 1, 'fitness': 1, 'fog': 1, 'fourth': 1, 'geese': 1, 'goat': 1, 'gulf': 1, "hear'st": 1, 'humane': 1, 'kites': 1, 'knell': 1, 'malicious': 1, 'meal': 1, 'mould': 1, 'nerves': 1, 'particulars': 1, 'planted': 1, 'posterity': 1, 'pot': 1, "pronounc'd": 1, 'rapt': 1, 'receipt': 1, 'reconcile': 1, 'repetition': 1, 'restrain': 1, 'sleepy': 1, "smother'd": 1, 'spacious': 1, 'spot': 1, 'station': 2, 'suffering': 1, 'supplied': 1, 'thirst': 1, 'transported': 1, 'unfortunate': 1, 'upbraid': 1, "valor's": 1, 'verity': 1, 'volume': 1, 'whereby': 1, 'whilest': 1, 'whoever': 1, 'widows': 1, "wip'd": 1}
 
-COR.txt and MM.txt links:
-	Total links: 120
-	two-six links: 56
-{"'longs": 1, "ag'd": 1, 'agreeing': 1, 'aims': 1, "attain'd": 1, 'audible': 1, 'authorities': 1, 'bits': 1, 'bribe': 1, "censur'd": 1, "clutch'd": 1, 'conducted': 1, 'convented': 1, 'cracking': 1, 'criminal': 1, 'curbs': 1, "dark'ned": 1, 'divines': 1, 'doings': 1, 'elected': 1, 'examples': 1, 'extol': 1, "fellow's": 1, 'feverous': 1, "finish'd": 1, 'grains': 1, "honors'": 1, "induc'd": 1, 'information': 1, 'infringe': 1, 'insensible': 1, 'lenity': 1, 'manacles': 1, 'mutually': 1, 'palsied': 1, 'pardons': 1, 'potency': 1, 'reakless': 1, 'remission': 1, 'reprieve': 1, 'resists': 1, 'robbery': 1, 'safeguard': 1, 'seats': 1, 'selves': 1, "sentenc'd": 2, 'seventeen': 1, 'severity': 1, 'subdues': 1, 'threepence': 1, 'throngs': 1, 'transport': 1, 'using': 1, 'vouches': 1, 'wrench': 1}
-	Seven-eleven links: 64
-{'accounted': 1, 'accusation': 1, 'acting': 1, 'ages': 1, 'answering': 1, 'bolt': 1, 'bows': 1, 'bran': 1, "children's": 1, 'chosen': 1, 'complexions': 1, 'condemned': 1, 'confederate': 1, 'controversy': 1, 'curtsy': 1, 'decrees': 1, 'deliberate': 1, 'depending': 1, 'depends': 1, "dismiss'd": 1, 'doubtless': 1, 'downright': 1, "embrac'd": 1, 'exceeds': 1, 'feels': 1, 'filling': 1, 'fitness': 1, 'fouler': 1, 'functions': 1, 'grapes': 1, 'harp': 1, "he'ld": 1, 'hoping': 1, 'howsoever': 1, 'incline': 1, 'issues': 1, "kneel'd": 1, 'lamentation': 1, "mad'st": 1, 'meal': 1, 'members': 1, 'millions': 1, 'morsel': 1, 'needless': 1, 'nerves': 1, 'occupation': 1, 'painful': 1, 'passes': 1, "pray'd": 1, 'rats': 1, 'replied': 1, 'requital': 1, 'rod': 1, 'sleepy': 1, 'smelt': 1, "stamp'd": 1, 'statutes': 1, 'temperance': 1, 'vail': 1, 'verity': 1, 'vouch': 2, 'warning': 1, "years'": 1}
+COR.txt and MMsh.txt links:
+	Total links: 115
+	two-six links: 54
+{"'longs": 1, "ag'd": 1, 'aims': 1, "attain'd": 1, 'audible': 1, 'authorities': 1, 'bits': 1, 'bribe': 1, "censur'd": 1, "clutch'd": 1, 'conducted': 1, 'convented': 1, 'cracking': 1, 'criminal': 1, 'curbs': 1, "dark'ned": 1, 'divines': 1, 'doings': 1, 'elected': 1, 'examples': 1, 'extol': 1, "fellow's": 1, 'feverous': 1, "finish'd": 1, 'grains': 1, "honors'": 1, "induc'd": 1, 'information': 1, 'infringe': 1, 'insensible': 1, 'lenity': 1, 'manacles': 1, 'mutually': 1, 'palsied': 1, 'pardons': 1, 'potency': 1, 'reakless': 1, 'remission': 1, 'reprieve': 1, 'resists': 1, 'robbery': 1, 'safeguard': 1, 'seats': 1, 'selves': 1, "sentenc'd": 2, 'severity': 1, 'subdues': 1, 'threepence': 1, 'throngs': 1, 'transport': 1, 'using': 1, 'vouches': 1, 'wrench': 1}
+	Seven-eleven links: 61
+{'accounted': 1, 'accusation': 1, 'acting': 1, 'ages': 1, 'answering': 1, 'bolt': 1, 'bows': 1, 'bran': 1, "children's": 1, 'chosen': 1, 'complexions': 1, 'condemned': 1, 'confederate': 1, 'curtsy': 1, 'decrees': 1, 'deliberate': 1, 'depending': 1, 'depends': 1, "dismiss'd": 1, 'doubtless': 1, 'downright': 1, "embrac'd": 1, 'exceeds': 1, 'feels': 1, 'filling': 1, 'fitness': 1, 'fouler': 1, 'grapes': 1, 'harp': 1, "he'ld": 1, 'hoping': 1, 'howsoever': 1, 'incline': 1, 'issues': 1, "kneel'd": 1, 'lamentation': 1, "mad'st": 1, 'meal': 1, 'members': 1, 'millions': 1, 'morsel': 1, 'needless': 1, 'nerves': 1, 'occupation': 1, 'passes': 1, "pray'd": 1, 'rats': 1, 'replied': 1, 'requital': 1, 'rod': 1, 'sleepy': 1, 'smelt': 1, "stamp'd": 1, 'statutes': 1, 'temperance': 1, 'vail': 1, 'verity': 1, 'vouch': 2, 'warning': 1, "years'": 1}
 
 COR.txt and MND.txt links:
 	Total links: 81
@@ -195,9 +195,9 @@ COR.txt and SHR.txt links:
 {'accompany': 1, 'achieve': 1, 'admire': 1, 'asking': 1, 'awry': 1, 'bedfellow': 1, 'chosen': 1, 'commendable': 1, 'consume': 1, 'controversy': 1, 'curtsy': 1, 'cypress': 1, 'din': 2, 'droop': 1, 'elsewhere': 1, 'embracements': 1, 'entire': 1, 'famish': 1, "flatter'd": 1, 'fouler': 1, 'fourth': 1, 'frost': 1, "gall'd": 1, 'gentler': 1, 'gratify': 1, 'greyhound': 1, "hear'st": 1, 'hen': 1, 'idly': 1, 'inches': 1, 'inferior': 1, 'insolence': 1, 'kites': 1, "miss'd": 1, 'mockery': 1, 'mould': 1, 'nail': 1, 'painful': 1, 'peremptory': 1, "pinch'd": 1, 'poorest': 1, 'pot': 1, "pray'd": 1, 'prerogative': 1, 'raiment': 1, 'rates': 1, 'replied': 1, 'scold': 1, "stamp'd": 1, 'surly': 1, 'thirst': 1, 'vail': 1, "warm'd": 1, 'warning': 1, 'waving': 1, 'whereby': 1, 'whoever': 1}
 
 COR.txt and SPTAD.txt links:
-	Total links: 8
-	two-six links: 5
-{'afire': 1, 'gird': 1, "stor'd": 1, 'thoroughly': 1, 'ungrateful': 1}
+	Total links: 7
+	two-six links: 4
+{'afire': 1, 'gird': 1, "stor'd": 1, 'ungrateful': 1}
 	Seven-eleven links: 3
 {'childish': 1, 'ounce': 1, 'pins': 1}
 

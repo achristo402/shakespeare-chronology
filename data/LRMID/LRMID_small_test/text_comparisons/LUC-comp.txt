@@ -124,12 +124,12 @@ LUC.txt and MAC.txt links:
 	Seven-eleven links: 63
 {'accents': 1, 'accounted': 1, "address'd": 1, "admir'd": 1, 'balls': 1, 'bathe': 1, 'bleeds': 1, 'boundless': 1, 'breasts': 1, "children's": 1, "clos'd": 1, 'confounds': 1, 'contending': 1, 'convert': 1, 'creation': 1, 'creeps': 1, 'crew': 1, 'crime': 1, 'dedicate': 1, 'delivers': 1, 'descended': 1, 'devour': 1, 'direful': 1, 'discern': 1, "dismay'd": 1, 'dolor': 1, 'eagles': 1, 'enchanting': 1, "exil'd": 1, 'eyeballs': 1, 'fact': 1, 'falcon': 1, 'filling': 1, 'frets': 1, 'gulf': 1, 'hearers': 1, 'images': 1, 'jocund': 1, 'knell': 1, 'lighted': 1, "list'ning": 1, "live's": 1, 'merciless': 1, 'niggard': 1, 'peerless': 1, 'posterity': 1, 'receipt': 1, 'repetition': 1, 'seated': 1, "smother'd": 1, 'spot': 1, 'streams': 1, 'sundry': 1, 'surmise': 1, 'surprise': 1, 'swells': 1, 'traffic': 1, 'unity': 1, "vanish'd": 1, 'vices': 1, 'wherewith': 1, 'whoever': 1, "wip'd": 1}
 
-LUC.txt and MM.txt links:
-	Total links: 102
-	two-six links: 38
-{'accidental': 1, 'ambush': 1, 'cipher': 1, 'clients': 1, 'consecrated': 1, 'countermand': 1, 'defends': 1, 'dissolution': 1, 'dreadfully': 1, 'feelingly': 1, 'freed': 1, 'glassy': 1, 'hastily': 1, 'impiety': 1, 'incest': 1, 'momentary': 1, 'muffled': 1, "o'ergrown": 1, 'pollution': 1, 'privily': 1, 'prone': 1, 'rejoicing': 1, 'remaining': 1, 'remission': 1, 'reprobate': 1, 'requiring': 1, 'restless': 1, 'rigor': 1, "sin's": 1, 'soften': 1, 'strifes': 1, 'uncleanness': 1, 'unloose': 1, 'unmask': 1, 'unprofitable': 1, 'untainted': 1, 'vaporous': 1, 'woodman': 1}
-	Seven-eleven links: 64
-{'accounted': 1, 'ache': 1, 'afflict': 1, "back'd": 1, 'bathe': 1, "bear'st": 1, 'blemish': 1, "children's": 1, 'clothe': 1, 'confounds': 1, 'continuance': 1, 'creation': 1, 'credulous': 1, 'dealing': 1, 'dedicate': 1, 'denial': 1, 'depending': 1, 'detest': 1, 'diligence': 1, "dishonor'd": 1, 'dispense': 1, 'exceeds': 1, "express'd": 1, 'fact': 2, 'falcon': 1, 'filling': 1, 'filth': 1, 'flows': 1, 'fouler': 1, 'fruitful': 1, 'glance': 1, 'guides': 1, 'hoping': 1, 'images': 1, 'imposition': 1, "imprison'd": 1, 'incline': 1, 'iniquity': 1, 'injustice': 1, 'loathed': 1, 'mightier': 1, 'painful': 1, 'paying': 1, 'peculiar': 1, 'permit': 1, 'pursues': 1, "reck'ning": 1, 'replied': 1, 'secrecy': 1, 'servile': 1, 'shifts': 1, 'speechless': 1, "stamp'd": 1, 'staying': 1, 'strait': 1, 'striking': 1, 'temperance': 1, 'thereon': 1, 'unhallowed': 1, 'vehement': 1, 'vices': 1, 'wilderness': 1, "wrapp'd": 1}
+LUC.txt and MMsh.txt links:
+	Total links: 99
+	two-six links: 36
+{'accidental': 1, 'ambush': 1, 'cipher': 1, 'clients': 1, 'consecrated': 1, 'countermand': 1, 'defends': 1, 'dissolution': 1, 'dreadfully': 1, 'freed': 1, 'glassy': 1, 'hastily': 1, 'incest': 1, 'momentary': 1, 'muffled': 1, "o'ergrown": 1, 'pollution': 1, 'privily': 1, 'prone': 1, 'rejoicing': 1, 'remaining': 1, 'remission': 1, 'reprobate': 1, 'requiring': 1, 'restless': 1, 'rigor': 1, "sin's": 1, 'soften': 1, 'strifes': 1, 'uncleanness': 1, 'unloose': 1, 'unmask': 1, 'unprofitable': 1, 'untainted': 1, 'vaporous': 1, 'woodman': 1}
+	Seven-eleven links: 63
+{'accounted': 1, 'ache': 1, 'afflict': 1, "back'd": 1, 'bathe': 1, "bear'st": 1, 'blemish': 1, "children's": 1, 'clothe': 1, 'confounds': 1, 'continuance': 1, 'creation': 1, 'credulous': 1, 'dealing': 1, 'dedicate': 1, 'denial': 1, 'depending': 1, 'detest': 1, 'diligence': 1, "dishonor'd": 1, 'dispense': 1, 'exceeds': 1, "express'd": 1, 'fact': 2, 'falcon': 1, 'filling': 1, 'filth': 1, 'flows': 1, 'fouler': 1, 'fruitful': 1, 'glance': 1, 'guides': 1, 'hoping': 1, 'images': 1, 'imposition': 1, "imprison'd": 1, 'incline': 1, 'iniquity': 1, 'injustice': 1, 'loathed': 1, 'mightier': 1, 'paying': 1, 'peculiar': 1, 'permit': 1, 'pursues': 1, "reck'ning": 1, 'replied': 1, 'secrecy': 1, 'servile': 1, 'shifts': 1, 'speechless': 1, "stamp'd": 1, 'staying': 1, 'strait': 1, 'striking': 1, 'temperance': 1, 'thereon': 1, 'unhallowed': 1, 'vehement': 1, 'vices': 1, 'wilderness': 1, "wrapp'd": 1}
 
 LUC.txt and MND.txt links:
 	Total links: 107
@@ -195,9 +195,9 @@ LUC.txt and SHR.txt links:
 {'amazed': 1, 'bars': 1, 'bashful': 1, 'beloved': 1, 'beset': 1, 'bleeds': 1, 'clothe': 1, 'confounds': 1, 'contending': 1, 'contrive': 1, 'coy': 1, 'credulous': 1, 'denial': 1, 'diligence': 1, 'expressly': 1, 'falcon': 1, 'firmly': 1, 'fondly': 1, 'fouler': 1, 'frets': 1, 'frost': 1, 'fruitful': 1, 'glance': 1, 'halt': 1, 'hawk': 1, 'hiding': 1, 'incur': 1, 'ivory': 1, 'lackey': 1, 'lighted': 1, "list'ning": 1, "liv'st": 1, 'lively': 1, 'meaner': 1, "miss'd": 1, 'needle': 2, 'ornaments': 1, 'painful': 1, "reck'ning": 1, 'replied': 1, 'resemble': 1, 'scapes': 1, 'scarlet': 1, 'scornful': 1, "sland'rous": 1, 'spied': 1, "spoil'd": 1, "stamp'd": 1, 'survive': 1, 'traffic': 1, 'unwilling': 1, 'waits': 1, 'whoever': 1, 'withered': 1, "wrapp'd": 1}
 
 LUC.txt and SPTAD.txt links:
-	Total links: 19
-	two-six links: 7
-{'bushes': 1, 'meantime': 1, 'pitchy': 1, 'rave': 1, 'revenged': 1, 'spotless': 1, 'trance': 1}
+	Total links: 18
+	two-six links: 6
+{'bushes': 1, 'meantime': 1, 'pitchy': 1, 'rave': 1, 'spotless': 1, 'trance': 1}
 	Seven-eleven links: 12
 {'childish': 1, 'creeps': 1, "desp'rate": 1, 'doleful': 1, "murd'rous": 1, 'roll': 1, 'ruins': 1, 'scornful': 1, 'striking': 1, 'survive': 2, 'toads': 1}
 

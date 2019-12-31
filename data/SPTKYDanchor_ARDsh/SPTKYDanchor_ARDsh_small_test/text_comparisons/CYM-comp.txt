@@ -124,12 +124,12 @@ CYM.txt and MAC.txt links:
 	Seven-eleven links: 68
 {'a-bed': 1, 'abhorred': 1, "admir'd": 1, 'agent': 1, 'audit': 1, 'bane': 1, 'bathe': 1, 'building': 1, 'chambers': 1, 'comforted': 1, 'commendations': 1, 'construction': 1, 'creeps': 1, 'cures': 1, 'dedicate': 1, 'devilish': 1, 'discern': 1, "diseas'd": 1, 'domestic': 1, "done't": 3, 'eagles': 1, 'eyeballs': 1, 'famine': 1, 'feat': 1, 'fitness': 1, 'gins': 1, 'gripe': 1, "hatch'd": 1, "hear'st": 1, "if't": 1, 'knives': 1, 'laying': 1, 'letting': 1, 'levy': 1, 'meal': 1, "measur'd": 1, "med'cine": 1, 'missing': 1, 'nerves': 1, 'palaces': 1, 'particulars': 1, 'perfumes': 1, 'pious': 1, 'pretense': 1, 'probation': 1, "quench'd": 1, 'rat': 1, 'recorded': 1, 'relation': 1, 'rides': 1, 'rooted': 1, 'sleepy': 1, 'speaker': 1, 'starting': 1, "steep'd": 1, 'stool': 1, 'suffering': 1, "supp'd": 1, 'sweeten': 1, 'tables': 1, 'therewithal': 1, 'unfortunate': 1, 'utterance': 1, "vanish'd": 2, 'volume': 1}
 
-CYM.txt and MM.txt links:
-	Total links: 146
-	two-six links: 56
-{'anchors': 1, 'beetle': 1, 'bolts': 1, 'bravery': 1, 'condemnation': 1, "continu'd": 1, 'creditor': 1, 'dawning': 1, 'defied': 1, 'delighted': 1, 'dependancy': 1, 'dolors': 1, 'elected': 1, 'eminent': 1, "finish'd": 1, 'forbearance': 1, 'friended': 1, "furr'd": 1, "gentleman's": 1, "induc'd": 1, 'instructions': 1, 'journal': 1, "keep'st": 1, 'manacles': 1, 'masks': 1, 'newness': 1, 'nursing': 1, "o'ergrown": 1, 'pervert': 1, 'pressing': 1, 'pretending': 1, 'prone': 1, 'rejoicing': 1, 'remaining': 1, 'repented': 1, 'robbery': 1, 'rubies': 1, 'saves': 1, 'seats': 1, 'snatches': 1, 'societies': 1, 'stew': 1, "stoop'd": 1, 'subdues': 1, 'sulphurous': 1, 'swerve': 1, 'temporal': 1, 'testimonies': 1, 'thankings': 1, 'tub': 1, 'undertaking': 1, 'unpeople': 1, 'untaught': 1, 'usuries': 1, 'values': 1, 'woodman': 1}
-	Seven-eleven links: 90
-{'accordingly': 1, 'adultery': 1, 'afflicted': 1, 'afterward': 1, 'agent': 1, "alter'd": 1, 'ambush': 1, 'answering': 1, 'athwart': 1, "back'd": 1, 'bane': 1, 'bathe': 1, 'bolt': 1, 'bows': 1, 'bran': 1, 'certainty': 1, 'chances': 1, 'changing': 1, "city's": 1, 'clothe': 1, 'confederate': 1, 'constantly': 1, "convey'd": 1, 'cord': 1, 'corners': 1, 'courtesies': 1, 'credulous': 1, 'curtsy': 1, 'dart': 1, 'deceiving': 1, 'dedicate': 1, 'deliverance': 1, 'depending': 1, 'detest': 1, 'devilish': 1, 'diligence': 1, 'dishes': 1, 'duly': 1, "embrac'd": 1, 'equally': 1, 'exceeds': 1, 'executioner': 1, 'feels': 1, 'fitness': 1, 'fitted': 1, 'flows': 1, 'freshly': 1, 'functions': 1, 'gout': 1, 'gyves': 1, "hatch'd": 1, "he'ld": 1, 'hook': 1, "imagin'd": 1, "imprison'd": 1, 'incline': 1, 'issues': 1, 'justify': 1, "ling'ring": 1, "lordship's": 1, 'marrying': 1, 'meal': 1, 'mended': 1, 'merited': 1, 'moulded': 1, 'needless': 1, 'nerves': 1, 'offender': 1, 'opening': 1, 'parish': 1, 'peculiar': 1, 'pious': 1, "pray'd": 1, 'probation': 1, "quench'd": 1, 'reap': 1, 'recorded': 1, 'residence': 1, 'revive': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'strait': 1, "strew'd": 1, 'striking': 1, "tak'st": 1, 'tenor': 1, 'therewithal': 1, 'tickle': 1, 'violet': 1}
+CYM.txt and MMsh.txt links:
+	Total links: 144
+	two-six links: 55
+{'anchors': 1, 'beetle': 1, 'bolts': 1, 'bravery': 1, 'condemnation': 1, "continu'd": 1, 'creditor': 1, 'dawning': 1, 'defied': 1, 'delighted': 1, 'dependancy': 1, 'elected': 1, 'eminent': 1, "finish'd": 1, 'forbearance': 1, 'friended': 1, "furr'd": 1, "gentleman's": 1, "induc'd": 1, 'instructions': 1, 'journal': 1, "keep'st": 1, 'manacles': 1, 'masks': 1, 'newness': 1, 'nursing': 1, "o'ergrown": 1, 'pervert': 1, 'pressing': 1, 'pretending': 1, 'prone': 1, 'rejoicing': 1, 'remaining': 1, 'repented': 1, 'robbery': 1, 'rubies': 1, 'saves': 1, 'seats': 1, 'snatches': 1, 'societies': 1, 'stew': 1, "stoop'd": 1, 'subdues': 1, 'sulphurous': 1, 'swerve': 1, 'temporal': 1, 'testimonies': 1, 'thankings': 1, 'tub': 1, 'undertaking': 1, 'unpeople': 1, 'untaught': 1, 'usuries': 1, 'values': 1, 'woodman': 1}
+	Seven-eleven links: 89
+{'accordingly': 1, 'adultery': 1, 'afflicted': 1, 'afterward': 1, 'agent': 1, "alter'd": 1, 'ambush': 1, 'answering': 1, 'athwart': 1, "back'd": 1, 'bane': 1, 'bathe': 1, 'bolt': 1, 'bows': 1, 'bran': 1, 'certainty': 1, 'chances': 1, 'changing': 1, "city's": 1, 'clothe': 1, 'confederate': 1, 'constantly': 1, "convey'd": 1, 'cord': 1, 'corners': 1, 'courtesies': 1, 'credulous': 1, 'curtsy': 1, 'dart': 1, 'deceiving': 1, 'dedicate': 1, 'deliverance': 1, 'depending': 1, 'detest': 1, 'devilish': 1, 'diligence': 1, 'dishes': 1, 'duly': 1, "embrac'd": 1, 'equally': 1, 'exceeds': 1, 'executioner': 1, 'feels': 1, 'fitness': 1, 'fitted': 1, 'flows': 1, 'freshly': 1, 'gout': 1, 'gyves': 1, "hatch'd": 1, "he'ld": 1, 'hook': 1, "imagin'd": 1, "imprison'd": 1, 'incline': 1, 'issues': 1, 'justify': 1, "ling'ring": 1, "lordship's": 1, 'marrying': 1, 'meal': 1, 'mended': 1, 'merited': 1, 'moulded': 1, 'needless': 1, 'nerves': 1, 'offender': 1, 'opening': 1, 'parish': 1, 'peculiar': 1, 'pious': 1, "pray'd": 1, 'probation': 1, "quench'd": 1, 'reap': 1, 'recorded': 1, 'residence': 1, 'revive': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'strait': 1, "strew'd": 1, 'striking': 1, "tak'st": 1, 'tenor': 1, 'therewithal': 1, 'tickle': 1, 'violet': 1}
 
 CYM.txt and MND.txt links:
 	Total links: 96
@@ -195,9 +195,9 @@ CYM.txt and SHRnsh.txt links:
 {'changing': 1, "chok'd": 1, 'clothe': 1, "color'd": 1, 'companies': 1, 'crafty': 1, 'credulous': 1, 'curious': 1, "deceas'd": 1, 'deceiving': 1, 'din': 1, 'feat': 1, 'folks': 2, 'grandfather': 1, 'gratify': 1, "hatch'd": 1, 'haven': 1, "hear'st": 1, 'ingenious': 1, "knock'd": 1, 'orderly': 1, 'plate': 1, 'preferment': 1, 'richly': 1, 'stark': 1, 'stool': 1, 'sufficeth': 1}
 
 CYM.txt and SPTAD.txt links:
-	Total links: 19
-	two-six links: 5
-{'afflictions': 1, 'blowing': 1, 'legion': 1, 'scowl': 1, 'trice': 1}
+	Total links: 18
+	two-six links: 4
+{'blowing': 1, 'legion': 1, 'scowl': 1, 'trice': 1}
 	Seven-eleven links: 14
 {"boy's": 1, 'creeps': 1, 'duly': 1, 'pool': 1, 'prouder': 1, 'reserve': 1, 'rides': 1, 'scornful': 1, 'stare': 1, 'starting': 1, 'stiff': 1, 'striking': 1, "supp'd": 1, 'taper': 1}
 

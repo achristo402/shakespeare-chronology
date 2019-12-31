@@ -124,12 +124,12 @@ H8sh.txt and MAC.txt links:
 	Seven-eleven links: 46
 {'abound': 2, 'agent': 1, 'ague': 1, 'audit': 1, "bow'd": 1, 'christendom': 1, 'faculties': 1, 'fitness': 1, "heap'd": 1, 'laying': 1, 'lighted': 2, "list'ning": 1, 'malicious': 2, 'meek': 1, 'net': 1, 'niggard': 1, 'outrun': 1, 'pious': 2, 'plenteous': 1, 'pretense': 2, 'relate': 4, 'rooted': 1, 'sergeant': 1, 'sheathe': 1, 'speaker': 1, 'summons': 3, 'syllable': 4, 'trusted': 2, 'unmannerly': 1, 'upward': 1, 'verity': 1, 'whereby': 1}
 
-H8sh.txt and MM.txt links:
-	Total links: 78
+H8sh.txt and MMsh.txt links:
+	Total links: 76
 	two-six links: 33
 {'advertise': 1, 'allied': 1, 'commissions': 2, 'convented': 1, 'determines': 1, 'eminence': 1, 'eminent': 1, 'escapes': 1, "fellow's": 1, 'foresaid': 1, 'freed': 1, 'friended': 1, 'gravel': 1, "induc'd": 1, 'judges': 1, 'pang': 2, 'perceives': 1, 'personally': 1, 'potency': 1, 'privily': 1, 'prone': 1, 'respite': 2, 'stagger': 1, 'temporal': 1, 'threepence': 2, 'values': 2, 'vehemency': 1, 'warranted': 1}
-	Seven-eleven links: 45
-{'agent': 1, 'bitterly': 1, 'complaints': 2, "conceiv'd": 1, 'conception': 1, 'confessor': 6, 'duly': 1, 'fitness': 1, 'groaning': 1, 'implore': 2, 'injustice': 2, 'its': 1, 'justify': 1, 'louder': 1, 'miscarried': 1, 'parish': 1, 'pious': 1, 'plenteous': 1, 'portion': 1, 'profits': 2, 'publicly': 2, 'relate': 2, 'replied': 1, 'seals': 1, 'session': 1, 'syllable': 2, 'tenor': 1, 'unfit': 1, 'verity': 1, 'vouch': 2, 'wishing': 2}
+	Seven-eleven links: 43
+{'agent': 1, 'bitterly': 1, 'complaints': 2, "conceiv'd": 1, 'conception': 1, 'confessor': 6, 'duly': 1, 'fitness': 1, 'groaning': 1, 'implore': 2, 'injustice': 2, 'justify': 1, 'louder': 1, 'miscarried': 1, 'parish': 1, 'pious': 1, 'plenteous': 1, 'portion': 1, 'profits': 2, 'publicly': 2, 'relate': 2, 'replied': 1, 'session': 1, 'syllable': 2, 'tenor': 1, 'unfit': 1, 'verity': 1, 'vouch': 2, 'wishing': 2}
 
 H8sh.txt and MND.txt links:
 	Total links: 46

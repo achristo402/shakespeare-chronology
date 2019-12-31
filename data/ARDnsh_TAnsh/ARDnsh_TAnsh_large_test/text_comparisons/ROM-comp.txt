@@ -131,12 +131,12 @@ ROM.txt and MAC.txt links:
 	Seven-eleven links: 72
 {'a-bed': 1, 'a-weary': 1, 'abhorred': 1, 'acted': 1, 'acting': 1, 'antic': 2, 'artificial': 1, 'banquet': 1, 'battlements': 2, 'bestride': 1, 'bleeds': 1, 'boundless': 1, 'braggart': 1, 'bridegroom': 3, "clos'd": 3, 'comforted': 1, 'confounds': 1, 'convert': 1, 'cures': 1, 'dedicate': 1, 'direful': 1, 'discern': 1, "distill'd": 1, 'dragon': 1, 'echo': 1, 'expire': 1, 'famine': 2, 'hay': 1, "heap'd": 1, 'jocund': 1, 'lamp': 1, 'letting': 1, 'liars': 2, 'maw': 1, 'modern': 1, "name's": 2, 'overthrown': 1, 'posterity': 1, "purg'd": 2, 'rat': 1, 'raven': 1, 'receipt': 1, 'reconcile': 1, 'repetition': 1, 'salutation': 1, 'scales': 1, 'scarf': 1, 'seeds': 2, 'shaft': 1, "slaughter'd": 3, "steep'd": 1, 'sweeten': 1, 'therewithal': 1, 'traffic': 1, "valor's": 1, "vanish'd": 2, 'volume': 2}
 
-ROM.txt and MM.txt links:
-	Total links: 112
-	two-six links: 40
-{'beetle': 1, "blister'd": 1, 'brawling': 1, "chopp'd": 1, "conceal'd": 1, "constable's": 1, 'covert': 1, 'cracking': 1, 'crotchets': 1, 'ghostly': 8, 'masks': 1, 'medlar': 1, 'muffled': 1, 'nuns': 1, "nurs'd": 4, 'penury': 1, 'pots': 1, 'procures': 1, "run'st": 1, 'rung': 1, 'severity': 1, 'sisterhood': 3, 'skins': 1, 'substantial': 1, 'thankings': 1, 'untaught': 1, 'wheels': 1, 'whispering': 1}
-	Seven-eleven links: 72
-{'ache': 1, 'acting': 1, 'afflicted': 1, 'bawdy': 1, 'bitterly': 2, 'condemned': 2, 'confessor': 6, 'confounds': 1, 'continuance': 2, 'cram': 1, "dar'd": 1, 'dedicate': 1, 'despised': 2, "displeas'd": 1, 'groaning': 1, 'gyves': 1, 'headstrong': 1, 'honestly': 1, 'hopeful': 1, "imagin'd": 1, 'lamentation': 2, 'lenity': 1, 'lightness': 1, 'loathed': 2, 'lucio': 9, 'maw': 1, 'merriment': 1, 'miscarried': 1, 'mistaking': 1, 'morsel': 1, "obscur'd": 1, "pardon'd": 2, "profess'd": 2, "reck'ning": 1, 'residence': 1, 'revive': 1, 'rigor': 1, 'shrift': 5, 'smelt': 1, 'stealth': 1, "temper'd": 1, 'therewithal': 1, 'tickle': 1, 'transgression': 1, 'uneven': 1, 'unhallowed': 1, 'wary': 1}
+ROM.txt and MMsh.txt links:
+	Total links: 108
+	two-six links: 37
+{'beetle': 1, "blister'd": 1, "conceal'd": 1, "constable's": 1, 'covert': 1, 'cracking': 1, 'crotchets': 1, 'ghostly': 8, 'masks': 1, 'medlar': 1, 'muffled': 1, 'nuns': 1, "nurs'd": 4, 'penury': 1, 'procures': 1, "run'st": 1, 'rung': 1, 'severity': 1, 'sisterhood': 3, 'skins': 1, 'substantial': 1, 'thankings': 1, 'untaught': 1, 'wheels': 1, 'whispering': 1}
+	Seven-eleven links: 71
+{'ache': 1, 'acting': 1, 'afflicted': 1, 'bawdy': 1, 'bitterly': 2, 'condemned': 2, 'confessor': 6, 'confounds': 1, 'continuance': 2, 'cram': 1, "dar'd": 1, 'dedicate': 1, 'despised': 2, 'groaning': 1, 'gyves': 1, 'headstrong': 1, 'honestly': 1, 'hopeful': 1, "imagin'd": 1, 'lamentation': 2, 'lenity': 1, 'lightness': 1, 'loathed': 2, 'lucio': 9, 'maw': 1, 'merriment': 1, 'miscarried': 1, 'mistaking': 1, 'morsel': 1, "obscur'd": 1, "pardon'd": 2, "profess'd": 2, "reck'ning": 1, 'residence': 1, 'revive': 1, 'rigor': 1, 'shrift': 5, 'smelt': 1, 'stealth': 1, "temper'd": 1, 'therewithal': 1, 'tickle': 1, 'transgression': 1, 'uneven': 1, 'unhallowed': 1, 'wary': 1}
 
 ROM.txt and MND.txt links:
 	Total links: 159

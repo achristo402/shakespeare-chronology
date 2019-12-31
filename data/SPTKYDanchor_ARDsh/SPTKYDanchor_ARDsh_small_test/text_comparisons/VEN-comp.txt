@@ -131,12 +131,12 @@ VEN.txt and MAC.txt links:
 	Seven-eleven links: 44
 {'bane': 1, 'banquet': 1, 'blasted': 1, 'boil': 1, 'bough': 1, 'clamorous': 1, "compass'd": 1, 'confounds': 1, 'contending': 1, 'deign': 1, 'direful': 1, "dismay'd": 1, 'disorder': 1, 'echo': 1, 'enchanting': 1, 'eyeballs': 1, 'frets': 2, 'fruitless': 1, 'gins': 1, 'gloss': 1, "hear'st": 1, 'hidden': 1, 'lamp': 1, "list'ning": 1, 'maw': 1, 'merciless': 1, 'missing': 1, 'net': 1, 'oftentimes': 1, 'overcome': 1, 'posterity': 1, 'repetition': 1, 'restrain': 1, 'seeds': 2, 'seemeth': 1, 'shaking': 1, 'slips': 1, 'suggestion': 1, 'swine': 1, "swoll'n": 1, 'thirst': 1, 'whispers': 1}
 
-VEN.txt and MM.txt links:
-	Total links: 55
-	two-six links: 15
-{'brakes': 1, 'extenuate': 1, 'fantastic': 1, 'flaws': 1, 'hips': 1, 'impartial': 1, 'myrtle': 1, 'nuns': 1, "provok'st": 1, 'spleens': 1, 'stamps': 1, 'stifle': 1, "still'd": 1, 'tapsters': 1, 'treasures': 1}
-	Seven-eleven links: 40
-{'ache': 1, 'answering': 1, "back'd": 1, 'bane': 1, "batt'ry": 1, 'boil': 1, 'bows': 1, 'confounds': 1, "convey'd": 1, 'credulous': 1, 'dart': 1, 'dealing': 1, 'deceiving': 1, 'despised': 1, 'equally': 1, 'exceeds': 1, 'feels': 1, 'glasses': 1, 'grapes': 1, 'hidden': 1, 'hopeful': 1, 'hoping': 1, "imprison'd": 1, 'maw': 1, 'paying': 1, 'pith': 1, 'plume': 1, 'rigor': 1, 'seals': 1, 'severe': 2, 'shifts': 1, 'strangeness': 1, 'striking': 1, 'sweetness': 1, 'thirsty': 1, 'veil': 1, 'violet': 1, 'wishing': 2}
+VEN.txt and MMsh.txt links:
+	Total links: 52
+	two-six links: 13
+{'brakes': 1, 'extenuate': 1, 'fantastic': 1, 'flaws': 1, 'impartial': 1, 'myrtle': 1, 'nuns': 1, "provok'st": 1, 'spleens': 1, 'stamps': 1, 'stifle': 1, 'tapsters': 1, 'treasures': 1}
+	Seven-eleven links: 39
+{'ache': 1, 'answering': 1, "back'd": 1, 'bane': 1, "batt'ry": 1, 'boil': 1, 'bows': 1, 'confounds': 1, "convey'd": 1, 'credulous': 1, 'dart': 1, 'dealing': 1, 'deceiving': 1, 'despised': 1, 'equally': 1, 'exceeds': 1, 'feels': 1, 'glasses': 1, 'grapes': 1, 'hidden': 1, 'hopeful': 1, 'hoping': 1, "imprison'd": 1, 'maw': 1, 'paying': 1, 'pith': 1, 'plume': 1, 'rigor': 1, 'severe': 2, 'shifts': 1, 'strangeness': 1, 'striking': 1, 'sweetness': 1, 'thirsty': 1, 'veil': 1, 'violet': 1, 'wishing': 2}
 
 VEN.txt and MND.txt links:
 	Total links: 90

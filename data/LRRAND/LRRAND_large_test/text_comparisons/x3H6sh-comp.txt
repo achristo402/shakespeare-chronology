@@ -131,12 +131,12 @@ x3H6sh.txt and MAC.txt links:
 	Seven-eleven links: 42
 {"admir'd": 1, 'aright': 1, 'artificial': 1, 'avoided': 1, 'bestride': 2, 'conflict': 1, 'create': 1, 'crew': 1, 'downfall': 1, 'entrails': 1, 'gulf': 1, 'hardy': 1, 'hearers': 1, 'lamp': 1, 'levy': 1, 'merciless': 1, 'murtherers': 1, 'net': 1, 'relate': 2, 'rent': 1, 'resolute': 1, "scap'd": 3, 'seated': 2, 'sheathe': 1, "talk'st": 2, 'thirst': 1, 'thunders': 1, 'upward': 1, 'valued': 1, "vanquish'd": 2, 'western': 1, 'wherewith': 1, 'whilest': 2, 'widows': 1}
 
-x3H6sh.txt and MM.txt links:
-	Total links: 71
-	two-six links: 25
-{'aims': 1, 'befell': 1, 'bribe': 2, "congeal'd": 1, 'covert': 1, "days'": 1, 'desperately': 1, 'enrolled': 1, "ere't": 1, 'fretting': 1, 'impiety': 1, 'lenity': 1, 'looker-on': 1, "o'errun": 1, 'obsequious': 1, 'penitence': 1, 'reakless': 1, 'remaining': 1, 'saves': 1, 'splits': 1, 'stifle': 1, 'using': 1, "widow's": 2}
-	Seven-eleven links: 46
-{'afflict': 1, "back'd": 2, "batt'ry": 1, 'deliverance': 2, 'dreaming': 1, 'entreaty': 1, 'executioner': 4, 'ghostly': 2, 'hopeful': 1, "keep'st": 1, 'lightness': 1, 'poise': 1, 'profits': 2, 'redemption': 2, 'relate': 1, "renown'd": 1, 'rent': 1, 'resolute': 1, 'rigor': 1, 'ruthless': 5, 'seals': 1, 'shrift': 1, 'statutes': 2, 'unfit': 1, "vow'd": 2, 'western': 1, 'wishing': 2, "wond'red": 2, "wrapp'd": 1, 'wring': 1}
+x3H6sh.txt and MMsh.txt links:
+	Total links: 69
+	two-six links: 24
+{'aims': 1, 'befell': 1, 'bribe': 2, "congeal'd": 1, 'covert': 1, "days'": 1, 'desperately': 1, 'enrolled': 1, "ere't": 1, 'fretting': 1, 'lenity': 1, 'looker-on': 1, "o'errun": 1, 'obsequious': 1, 'penitence': 1, 'reakless': 1, 'remaining': 1, 'saves': 1, 'splits': 1, 'stifle': 1, 'using': 1, "widow's": 2}
+	Seven-eleven links: 45
+{'afflict': 1, "back'd": 2, "batt'ry": 1, 'deliverance': 2, 'dreaming': 1, 'entreaty': 1, 'executioner': 4, 'ghostly': 2, 'hopeful': 1, "keep'st": 1, 'lightness': 1, 'poise': 1, 'profits': 2, 'redemption': 2, 'relate': 1, "renown'd": 1, 'rent': 1, 'resolute': 1, 'rigor': 1, 'ruthless': 5, 'shrift': 1, 'statutes': 2, 'unfit': 1, "vow'd": 2, 'western': 1, 'wishing': 2, "wond'red": 2, "wrapp'd": 1, 'wring': 1}
 
 x3H6sh.txt and MND.txt links:
 	Total links: 68

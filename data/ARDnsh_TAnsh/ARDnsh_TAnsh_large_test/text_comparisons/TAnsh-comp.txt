@@ -131,12 +131,12 @@ TAnsh.txt and MAC.txt links:
 	Seven-eleven links: 22
 {'accompany': 2, 'applaud': 6, 'dames': 1, 'entrails': 1, 'frankly': 1, 'handle': 1, 'hew': 2, 'planted': 1, 'pretend': 1, "reconcil'd": 1, 'sheathe': 2, 'spacious': 1, 'spoils': 1, 'swells': 1}
 
-TAnsh.txt and MM.txt links:
-	Total links: 24
-	two-six links: 11
-{'betrothed': 1, 'consummate': 1, 'doings': 1, 'graciously': 2, 'gratulate': 1, 'impiety': 1, 'remit': 2, 'successive': 1, 'warrants': 1}
-	Seven-eleven links: 13
-{'changing': 1, 'commonweal': 3, "displeas'd": 1, 'fitted': 2, 'frankly': 1, 'groaning': 1, 'handle': 1, 'lawless': 1, "ling'ring": 1, 'ruthless': 1}
+TAnsh.txt and MMsh.txt links:
+	Total links: 22
+	two-six links: 10
+{'betrothed': 1, 'consummate': 1, 'doings': 1, 'graciously': 2, 'gratulate': 1, 'remit': 2, 'successive': 1, 'warrants': 1}
+	Seven-eleven links: 12
+{'changing': 1, 'commonweal': 3, 'fitted': 2, 'frankly': 1, 'groaning': 1, 'handle': 1, 'lawless': 1, "ling'ring": 1, 'ruthless': 1}
 
 TAnsh.txt and MND.txt links:
 	Total links: 23

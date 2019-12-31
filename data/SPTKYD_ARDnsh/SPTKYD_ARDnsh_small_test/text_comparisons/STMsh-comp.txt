@@ -131,7 +131,7 @@ STMsh.txt and MAC.txt links:
 	Seven-eleven links: 3
 {'meal': 1, 'opinions': 1, 'sergeant': 1}
 
-STMsh.txt and MM.txt links:
+STMsh.txt and MMsh.txt links:
 	Total links: 9
 	two-six links: 2
 {'province': 1, 'skins': 1}

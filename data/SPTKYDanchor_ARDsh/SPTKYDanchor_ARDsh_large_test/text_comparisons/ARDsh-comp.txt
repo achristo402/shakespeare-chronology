@@ -124,7 +124,7 @@ ARDsh.txt and MAC.txt links:
 	Seven-eleven links: 14
 {"address'd": 1, 'audit': 1, 'bough': 1, 'downfall': 1, 'echo': 1, 'handle': 1, 'oftentimes': 1, 'overtake': 1, 'repentance': 1, 'rooted': 1, 'salutation': 1, "slipp'd": 1, 'tables': 1, 'valued': 1}
 
-ARDsh.txt and MM.txt links:
+ARDsh.txt and MMsh.txt links:
 	Total links: 23
 	two-six links: 8
 {'beguiles': 1, 'dissolution': 1, 'escapes': 1, 'fallow': 1, 'fount': 1, 'nips': 1, 'preserved': 1, 'unpitied': 1}

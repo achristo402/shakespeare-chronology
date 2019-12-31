@@ -124,7 +124,7 @@ ANT.txt and MAC.txt links:
 	Seven-eleven links: 55
 {'acted': 1, "admir'd": 1, 'attire': 1, 'balls': 1, 'banners': 1, 'bathe': 1, 'blasted': 1, 'bridegroom': 1, 'caps': 1, 'chuck': 1, 'cleave': 2, 'comforted': 1, 'concern': 1, 'creeps': 1, 'deign': 1, 'discomfort': 1, 'domestic': 1, "done't": 1, 'enchanting': 1, 'enow': 1, 'famine': 2, 'frets': 1, 'hearty': 1, 'jealousies': 1, 'lamp': 1, 'laying': 1, 'lighted': 1, 'meal': 1, "med'cine": 1, 'meek': 1, 'modern': 1, 'nerves': 1, 'particulars': 1, 'peerless': 1, 'planted': 1, "pow'rful": 1, "purg'd": 1, "rend'red": 1, 'rooted': 1, 'scales': 1, 'soldiership': 1, 'spacious': 1, 'spot': 1, 'station': 1, "steep'd": 1, 'stool': 1, 'sweep': 1, 'swells': 1, 'trusted': 1, 'tumble': 1, 'unity': 1, 'valued': 1, 'weighs': 1}
 
-ANT.txt and MM.txt links:
+ANT.txt and MMsh.txt links:
 	Total links: 105
 	two-six links: 47
 {"'greed": 1, 'accuses': 1, 'adulterous': 1, 'approaching': 1, 'approof': 1, 'beetle': 1, 'blossoming': 1, 'bolts': 1, 'breather': 1, "captain's": 1, 'crassus': 1, 'decorum': 1, 'dejected': 1, 'dependancy': 1, 'deputation': 1, 'determines': 1, 'discredit': 1, 'discredited': 1, 'edict': 1, 'extended': 1, 'extenuate': 1, 'external': 1, 'foison': 1, 'instructed': 1, 'levity': 1, 'myrtle': 1, 'nineteen': 1, 'novice': 1, "o'ertake": 1, 'pendant': 1, "perceive't": 1, 'province': 1, 'rely': 1, "renown'd": 1, "scal'd": 1, 'seizes': 1, 'shorter': 1, 'sicken': 1, 'soften': 1, "spar'd": 1, "swor'st": 1, 'truths': 2, 'unpeople': 1, 'unpitied': 1, 'varrius': 1, 'wheels': 1}

@@ -124,7 +124,7 @@ MAC.txt and LUC.txt links:
 	Seven-eleven links: 91
 {'accents': 1, 'accounted': 1, "address'd": 1, "admir'd": 1, 'balls': 1, 'bathe': 1, 'bleeds': 2, 'boundless': 1, 'breasts': 3, "children's": 2, "clos'd": 1, 'confounds': 3, 'contending': 1, 'convert': 1, 'creation': 1, 'creeps': 2, 'crime': 4, 'dedicate': 1, 'delivers': 1, 'direful': 1, 'discern': 1, "dismay'd": 1, 'dolor': 2, 'eagles': 1, 'enchanting': 1, "exil'd": 1, 'eyeballs': 1, 'falcon': 1, 'filling': 1, 'frets': 2, 'gulf': 1, 'hearers': 1, 'images': 1, 'jocund': 1, 'knell': 3, 'lighted': 2, "list'ning": 3, "live's": 4, 'meek': 1, 'merciless': 1, 'niggard': 1, 'peerless': 1, 'posterity': 1, 'receipt': 1, 'repetition': 1, 'restless': 2, 'seated': 1, "smother'd": 1, 'spot': 2, 'streams': 2, 'succeeding': 2, 'sundry': 3, 'surmise': 2, 'surprise': 1, 'swells': 1, 'traffic': 1, 'unity': 1, "vanish'd": 2, 'wherewith': 1, 'whoever': 1, "wip'd": 3}
 
-MAC.txt and MM.txt links:
+MAC.txt and MMsh.txt links:
 	Total links: 91
 	two-six links: 33
 {'beetle': 1, 'blaspheme': 1, 'counsellors': 1, 'eminence': 1, 'feverous': 1, 'flaws': 1, 'fork': 1, 'foully': 1, "giant's": 1, 'lavish': 1, 'limited': 1, 'momentary': 1, "oft'ner": 1, 'pendant': 1, 'ravin': 1, 'raze': 1, 'rejoicing': 1, 'rung': 1, 'sainted': 1, 'sicken': 2, 'sparrows': 1, 'statute': 1, 'transport': 1, 'truths': 4, "unprepar'd": 1, 'unusual': 1, 'urine': 1, 'using': 1, 'warranted': 1}

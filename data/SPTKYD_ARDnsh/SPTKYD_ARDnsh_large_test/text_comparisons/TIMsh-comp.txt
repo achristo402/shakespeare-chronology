@@ -131,10 +131,10 @@ TIMsh.txt and MAC.txt links:
 	Seven-eleven links: 56
 {'abhorred': 2, 'accompt': 1, 'artificial': 2, 'banners': 2, 'boundless': 1, "call'st": 1, 'commendations': 1, 'convert': 2, 'dignities': 1, "diseas'd": 1, 'domestic': 1, 'filling': 1, 'frankly': 1, 'future': 3, 'interim': 1, 'knell': 3, 'magic': 1, 'mated': 1, 'missing': 1, 'monkey': 1, "nev'r": 1, 'niggard': 1, 'pious': 2, 'plenteous': 1, "pronounc'd": 1, 'provokes': 2, 'rapt': 6, 'recorded': 1, "slipp'd": 1, 'slips': 1, "stepp'd": 1, 'surprise': 1, 'swells': 1, 'swine': 1, "talk'st": 1, "thou'dst": 2, 'traffic': 2, 'upward': 1, 'wasteful': 1}
 
-TIMsh.txt and MM.txt links:
-	Total links: 73
-	two-six links: 27
-{"ag'd": 1, 'arch-villain': 1, 'bawds': 1, 'bits': 1, 'consecrated': 1, 'creditors': 1, "destin'd": 1, 'limited': 1, 'medlar': 2, "outstretch'd": 1, 'plain-dealing': 1, 'properties': 1, "quick'ning": 1, 'reside': 1, 'sciatica': 1, 'signet': 1, 'snatches': 1, 'societies': 1, 'subdues': 1, 'tapsters': 1, 'throngs': 1, 'unusual': 1, "villain's": 1, 'whoremaster': 2, 'wrench': 1}
+TIMsh.txt and MMsh.txt links:
+	Total links: 72
+	two-six links: 26
+{"ag'd": 1, 'arch-villain': 1, 'bawds': 1, 'bits': 1, 'consecrated': 1, 'creditors': 1, "destin'd": 1, 'limited': 1, 'medlar': 2, "outstretch'd": 1, 'plain-dealing': 1, 'properties': 1, "quick'ning": 1, 'reside': 1, 'signet': 1, 'snatches': 1, 'societies': 1, 'subdues': 1, 'tapsters': 1, 'throngs': 1, 'unusual': 1, "villain's": 1, 'whoremaster': 2, 'wrench': 1}
 	Seven-eleven links: 46
 {'abides': 1, 'accompt': 1, 'afflict': 1, "city's": 2, "conceiv'd": 1, 'denial': 1, 'directed': 1, 'dishes': 3, "express'd": 1, 'filling': 1, 'flows': 1, 'frankly': 1, 'future': 3, 'honestly': 1, 'hug': 2, "imprison'd": 2, 'incertain': 1, "lordship's": 1, 'passes': 1, 'pious': 1, 'plenteous': 1, "pray'd": 1, "profess'd": 2, "reck'ning": 1, 'recorded': 1, 'remaining': 1, 'residence': 1, 'riotous': 1, 'rod': 1, "slipp'd": 1, 'sow': 2, 'strait': 1, 'virginity': 1, 'virgins': 1, 'whips': 1, 'whores': 2}
 
@@ -202,9 +202,9 @@ TIMsh.txt and SHR.txt links:
 {'aptly': 1, 'asses': 1, 'attendance': 1, "call'st": 1, 'checks': 1, 'companies': 1, 'con': 1, "conceiv'd": 1, 'consume': 1, 'contain': 1, 'declining': 1, 'denial': 1, 'expressly': 2, 'famish': 1, "flatter'd": 2, 'halt': 2, 'hunted': 1, 'insolence': 1, 'ivory': 1, 'mated': 1, 'mess': 1, 'perfume': 2, "pray'd": 2, "puff'd": 1, 'purses': 1, "reck'ning": 1, 'riding': 1, 'rivals': 2, 'rout': 1, "saw'st": 1, 'scarlet': 1, "slipp'd": 1, "stepp'd": 1, 'swine': 1, "thou'dst": 2, 'traffic': 2, 'wealthy': 2}
 
 TIMsh.txt and SPTAD.txt links:
-	Total links: 4
-	two-six links: 1
-{'afflictions': 1}
+	Total links: 3
+	two-six links: 0
+{}
 	Seven-eleven links: 3
 {'dive': 1, 'reserve': 1, 'whips': 1}
 

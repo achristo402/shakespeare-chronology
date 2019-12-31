@@ -124,12 +124,12 @@ ERR.txt and MAC.txt links:
 	Seven-eleven links: 34
 {'building': 1, "call'st": 1, 'confounds': 1, 'crime': 1, 'enchanting': 1, 'genius': 1, 'grease': 1, 'gulf': 1, 'idiot': 1, 'inhabit': 2, 'mated': 2, 'maw': 1, 'meek': 1, 'merciless': 1, 'niggard': 1, 'oftentimes': 1, 'receipt': 2, 'rides': 1, 'sergeant': 4, 'sprites': 3, 'supper-time': 1, 'traffic': 1, 'valued': 1, 'verity': 1, 'weighs': 1, 'whoever': 1}
 
-ERR.txt and MM.txt links:
-	Total links: 76
-	two-six links: 19
-{'assemblies': 1, 'beheaded': 1, 'bridget': 1, 'creditor': 1, 'customers': 1, 'disguised': 1, 'fasten': 1, "impos'd": 1, 'infringe': 1, 'lapwing': 1, 'poland': 1, 'rubies': 1, "run'st": 1, 'sere': 1, 'statute': 1, "suborn'd": 2, 'substantial': 1, 'wend': 1}
-	Seven-eleven links: 57
-{'ache': 1, 'adverse': 1, 'afterward': 1, "alter'd": 1, 'arrested': 12, 'choleric': 2, 'confederate': 1, 'confounds': 1, 'controversy': 1, 'dispense': 1, "displeas'd": 1, 'durance': 2, "embrac'd": 1, 'headstrong': 1, 'holiness': 1, 'imprisonment': 4, "keep'st": 1, "knave's": 1, "mad'st": 1, 'maw': 1, 'method': 1, 'paradise': 1, 'partial': 1, 'publicly': 4, 'quest': 2, 'redemption': 2, 'shifts': 1, 'statutes': 4, 'stealth': 1, 'unlawful': 1, 'verity': 1, "worship's": 2}
+ERR.txt and MMsh.txt links:
+	Total links: 61
+	two-six links: 18
+{'assemblies': 1, 'beheaded': 1, 'bridget': 1, 'creditor': 1, 'disguised': 1, 'fasten': 1, "impos'd": 1, 'infringe': 1, 'lapwing': 1, 'poland': 1, 'rubies': 1, "run'st": 1, 'sere': 1, 'statute': 1, "suborn'd": 2, 'substantial': 1, 'wend': 1}
+	Seven-eleven links: 43
+{'ache': 1, 'adverse': 1, 'afterward': 1, "alter'd": 1, 'choleric': 2, 'confederate': 1, 'confounds': 1, 'dispense': 1, 'durance': 2, "embrac'd": 1, 'headstrong': 1, 'holiness': 1, 'imprisonment': 4, "keep'st": 1, "knave's": 1, "mad'st": 1, 'maw': 1, 'method': 1, 'paradise': 1, 'partial': 1, 'publicly': 4, 'quest': 2, 'redemption': 2, 'shifts': 1, 'statutes': 4, 'stealth': 1, 'unlawful': 1, 'verity': 1, "worship's": 2}
 
 ERR.txt and MND.txt links:
 	Total links: 61
@@ -195,11 +195,11 @@ ERR.txt and SHR.txt links:
 {'abject': 1, "apparell'd": 2, 'approved': 1, 'asses': 1, 'baggage': 1, 'beads': 1, "call'st": 1, 'choleric': 6, 'confounds': 1, 'controversy': 1, 'declining': 1, 'dinner-time': 3, 'drudge': 1, 'elsewhere': 2, 'embracements': 1, 'ergo': 1, 'fondly': 1, 'formal': 2, 'headstrong': 2, "keep'st": 1, "knave's": 1, 'leather': 2, "liv'st": 1, 'mated': 2, 'nail': 1, 'oftentimes': 1, 'patron': 2, 'rout': 1, "saw'st": 1, 'shrew': 8, "spoil'd": 2, 'stark': 4, 'supper-time': 2, 'traffic': 1, 'unwilling': 1, 'whoever': 1, 'witnesses': 2}
 
 ERR.txt and SPTAD.txt links:
-	Total links: 9
+	Total links: 7
 	two-six links: 1
 {'ballast': 1}
-	Seven-eleven links: 8
-{'confederates': 2, 'reserve': 1, 'rides': 1, 'ruins': 1, 'sprites': 2, 'such-like': 1}
+	Seven-eleven links: 6
+{'reserve': 1, 'rides': 1, 'ruins': 1, 'sprites': 2, 'such-like': 1}
 
 ERR.txt and SPTKYD.txt links:
 	Total links: 86

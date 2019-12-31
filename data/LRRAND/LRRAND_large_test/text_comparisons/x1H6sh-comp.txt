@@ -131,7 +131,7 @@ x1H6sh.txt and MAC.txt links:
 	Seven-eleven links: 7
 {'accounted': 1, 'captains': 1, 'famine': 2, 'gloss': 1, "wip'd": 1, 'wrathful': 1}
 
-x1H6sh.txt and MM.txt links:
+x1H6sh.txt and MMsh.txt links:
 	Total links: 10
 	two-six links: 6
 {'forbearance': 1, 'kennel': 1, 'merriest': 1, 'remiss': 1, 'ripened': 1, 'unable': 1}

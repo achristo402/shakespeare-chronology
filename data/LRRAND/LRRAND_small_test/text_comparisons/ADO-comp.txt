@@ -124,12 +124,12 @@ ADO.txt and MAC.txt links:
 	Seven-eleven links: 30
 {'agent': 1, 'antic': 1, 'banquet': 1, 'conflict': 1, 'construction': 1, 'convert': 1, 'corner': 1, 'devour': 1, "distill'd": 1, 'easier': 1, 'feat': 1, 'fife': 1, 'gloss': 1, 'guardian': 1, 'hearers': 1, 'heavily': 1, 'interim': 1, "med'cine": 1, 'net': 1, 'overthrown': 1, 'planted': 1, "reconcil'd": 1, "rend'red": 1, 'repentance': 1, 'scarf': 1, 'stool': 1, 'trusted': 1, 'tuesday': 1, 'upward': 1, "vanquish'd": 1}
 
-ADO.txt and MM.txt links:
-	Total links: 77
-	two-six links: 26
-{"censur'd": 1, 'clod': 1, 'codpiece': 1, 'consummate': 1, 'crotchets': 1, "ent'ring": 1, 'extenuate': 1, 'fetter': 1, 'hastily': 1, 'hypocrite': 1, 'impiety': 1, 'intemperate': 1, 'lapwing': 1, 'malefactors': 1, 'overheard': 1, 'plain-dealing': 1, 'ripened': 1, 'sincerity': 1, "slander'd": 1, 'slanderous': 1, 'stamps': 1, 'sufficiency': 1, 'unmeet': 1, 'values': 1, 'wheels': 1, 'wrongfully': 1}
-	Seven-eleven links: 51
-{'abides': 1, 'accordingly': 1, 'accusation': 2, 'ache': 1, 'adverse': 1, 'afterward': 1, 'agent': 1, 'agreed': 1, 'athwart': 1, "barber's": 1, 'biting': 1, 'bruise': 1, 'chosen': 1, "conceiv'd": 1, 'courtesies': 1, 'dishes': 1, "dishonor'd": 1, 'entirely': 1, 'equally': 1, 'exceeds': 1, 'follies': 1, 'getting': 1, 'giant': 1, 'guards': 1, 'guiltiness': 1, 'heavily': 1, 'honestly': 1, 'hook': 1, 'howsoever': 1, 'louder': 1, 'manifest': 1, 'marrying': 1, 'mistaking': 1, 'mum': 1, 'offender': 1, 'painful': 1, "profess'd": 2, 'qualify': 1, 'redemption': 1, "renown'd": 1, 'rod': 1, 'tax': 2, 'transgression': 1, 'tuesday': 1, 'virginity': 1, 'wishing': 1, "worship's": 1, 'wring': 1}
+ADO.txt and MMsh.txt links:
+	Total links: 75
+	two-six links: 25
+{"censur'd": 1, 'clod': 1, 'codpiece': 1, 'consummate': 1, 'crotchets': 1, "ent'ring": 1, 'extenuate': 1, 'fetter': 1, 'hastily': 1, 'hypocrite': 1, 'intemperate': 1, 'lapwing': 1, 'malefactors': 1, 'overheard': 1, 'plain-dealing': 1, 'ripened': 1, 'sincerity': 1, "slander'd": 1, 'slanderous': 1, 'stamps': 1, 'sufficiency': 1, 'unmeet': 1, 'values': 1, 'wheels': 1, 'wrongfully': 1}
+	Seven-eleven links: 50
+{'abides': 1, 'accordingly': 1, 'accusation': 2, 'ache': 1, 'adverse': 1, 'afterward': 1, 'agent': 1, 'agreed': 1, 'athwart': 1, "barber's": 1, 'biting': 1, 'bruise': 1, 'chosen': 1, "conceiv'd": 1, 'courtesies': 1, 'dishes': 1, "dishonor'd": 1, 'entirely': 1, 'equally': 1, 'exceeds': 1, 'follies': 1, 'getting': 1, 'giant': 1, 'guards': 1, 'guiltiness': 1, 'heavily': 1, 'honestly': 1, 'hook': 1, 'howsoever': 1, 'louder': 1, 'manifest': 1, 'marrying': 1, 'mistaking': 1, 'mum': 1, 'offender': 1, "profess'd": 2, 'qualify': 1, 'redemption': 1, "renown'd": 1, 'rod': 1, 'tax': 2, 'transgression': 1, 'tuesday': 1, 'virginity': 1, 'wishing': 1, "worship's": 1, 'wring': 1}
 
 ADO.txt and MND.txt links:
 	Total links: 60

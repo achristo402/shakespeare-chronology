@@ -131,7 +131,7 @@ TAsh.txt and MAC.txt links:
 	Seven-eleven links: 40
 {'a-bed': 1, 'abhorred': 1, 'acheron': 1, 'applaud': 3, 'aright': 1, 'bane': 1, 'banquet': 1, 'building': 1, "call'st": 1, 'cleave': 2, 'dames': 1, "digg'd": 1, 'direful': 1, "distill'd": 1, 'downfall': 1, 'echo': 2, 'enchanting': 1, 'entrails': 1, 'exploits': 1, 'filling': 1, 'goat': 1, 'grooms': 3, 'idiot': 1, 'overcome': 1, 'planted': 1, 'slips': 1, 'snake': 4, 'surmise': 1, 'swells': 1, 'tumble': 1, 'unmannerly': 1}
 
-TAsh.txt and MM.txt links:
+TAsh.txt and MMsh.txt links:
 	Total links: 55
 	two-six links: 16
 {"adjudg'd": 1, 'beheaded': 1, 'conducted': 1, 'dawning': 1, "deflow'red": 1, 'devices': 2, 'fetter': 1, 'ignomy': 1, 'judges': 1, 'monastery': 1, 'new-married': 1, "nurs'd": 2, 'obsequious': 1, 'rung': 1}

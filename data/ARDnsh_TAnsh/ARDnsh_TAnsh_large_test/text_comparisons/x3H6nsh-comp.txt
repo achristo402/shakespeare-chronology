@@ -131,7 +131,7 @@ x3H6nsh.txt and MAC.txt links:
 	Seven-eleven links: 39
 {'applaud': 3, 'avoided': 1, "call'st": 1, 'captivity': 1, "clos'd": 1, 'deceitful': 1, 'deign': 1, 'earls': 1, 'hay': 1, "heap'd": 1, "kingdom's": 2, 'levy': 1, 'meek': 1, "murther'd": 5, 'outrun': 1, 'overcome': 1, "pow'rful": 2, 'pretend': 1, "pronounc'd": 1, "reconcil'd": 1, 'reconcile': 1, 'seated': 2, 'sinful': 1, "slipp'd": 1, 'spoils': 1, 'threescore': 1, 'unfortunate': 1, 'using': 1, 'whereby': 1, 'whoever': 1}
 
-x3H6nsh.txt and MM.txt links:
+x3H6nsh.txt and MMsh.txt links:
 	Total links: 35
 	two-six links: 13
 {"adjudg'd": 1, 'ambush': 1, "ent'ring": 2, "ere't": 1, "err'd": 1, 'fearless': 1, 'fount': 1, 'privily': 1, "releas'd": 1, "sin's": 1, 'stamps': 1, 'unpeople': 1}
@@ -202,9 +202,9 @@ x3H6nsh.txt and SHRnsh.txt links:
 {'bashful': 1, "broach'd": 2, 'deceitful': 1, 'firmly': 3, 'fondly': 1, 'froward': 3, 'grandfather': 1, 'haven': 1, "maintain'd": 1, 'mates': 3, 'quietly': 1, 'wrangling': 1}
 
 x3H6nsh.txt and SPTAD.txt links:
-	Total links: 9
-	two-six links: 4
-{"heav'ns": 4}
+	Total links: 7
+	two-six links: 2
+{"heav'ns": 2}
 	Seven-eleven links: 5
 {'applaud': 1, "pow'rful": 2, 'stings': 1, 'toads': 1}
 

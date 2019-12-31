@@ -124,12 +124,12 @@ H8sh.txt and MAC.txt links:
 	Seven-eleven links: 41
 {'agent': 1, 'ague': 1, 'faculties': 1, 'fitness': 1, "hack'd": 1, 'laying': 1, 'lighted': 2, "list'ning": 1, 'malicious': 2, 'meek': 1, 'net': 1, 'niggard': 1, 'opinions': 1, 'pious': 2, 'plenteous': 1, 'pretense': 2, 'relate': 4, 'rooted': 1, 'sergeant': 1, 'sheathe': 1, 'speaker': 1, 'summons': 3, 'syllable': 4, 'trusted': 2, 'unmannerly': 1, 'upward': 1, 'verity': 1, 'whereby': 1}
 
-H8sh.txt and MM.txt links:
-	Total links: 81
+H8sh.txt and MMsh.txt links:
+	Total links: 80
 	two-six links: 34
 {'advertise': 1, 'allied': 1, 'commissions': 2, 'convented': 1, 'determines': 1, 'eminence': 1, 'eminent': 1, 'escapes': 1, "fellow's": 1, 'foresaid': 1, 'freed': 1, 'friended': 1, 'gravel': 1, "induc'd": 1, 'judges': 1, 'pang': 2, 'parish': 1, 'perceives': 1, 'personally': 1, 'potency': 1, 'privily': 1, 'prone': 1, 'respite': 2, 'stagger': 1, 'temporal': 1, 'threepence': 2, 'values': 2, 'vehemency': 1, 'warranted': 1}
-	Seven-eleven links: 47
-{'agent': 1, 'bitterly': 1, 'complaints': 2, "conceiv'd": 1, 'conception': 1, 'confessor': 6, 'duly': 1, 'fitness': 1, 'groaning': 1, 'holiness': 3, 'implore': 2, 'injustice': 2, 'justify': 1, 'louder': 1, 'miscarried': 1, 'pious': 1, 'plenteous': 1, 'portion': 1, 'profits': 2, 'progress': 1, 'publicly': 2, 'relate': 2, 'replied': 1, 'seals': 1, 'session': 1, 'syllable': 2, 'tenor': 1, 'unfit': 1, 'verity': 1, 'vouch': 2, 'wishing': 2}
+	Seven-eleven links: 46
+{'agent': 1, 'bitterly': 1, 'complaints': 2, "conceiv'd": 1, 'conception': 1, 'confessor': 6, 'duly': 1, 'fitness': 1, 'groaning': 1, 'holiness': 3, 'implore': 2, 'injustice': 2, 'justify': 1, 'louder': 1, 'miscarried': 1, 'pious': 1, 'plenteous': 1, 'portion': 1, 'profits': 2, 'progress': 1, 'publicly': 2, 'relate': 2, 'replied': 1, 'session': 1, 'syllable': 2, 'tenor': 1, 'unfit': 1, 'verity': 1, 'vouch': 2, 'wishing': 2}
 
 H8sh.txt and MND.txt links:
 	Total links: 44
@@ -237,11 +237,11 @@ H8sh.txt and TIMsh.txt links:
 {"beggar's": 2, 'compounded': 1, "conceiv'd": 1, 'consideration': 1, "discharg'd": 1, 'exempt': 1, 'fishes': 2, 'insolence': 1, 'niggard': 1, 'pious': 1, 'plenteous': 1, 'sprung': 1, 'suns': 2, 'travail': 1, 'upward': 1, 'vainly': 1, 'vicious': 1}
 
 H8sh.txt and TMP.txt links:
-	Total links: 52
+	Total links: 54
 	two-six links: 19
 {'annual': 1, "attach'd": 2, 'certes': 1, 'mischiefs': 1, 'perfidious': 2, 'pinches': 2, 'preservation': 2, 'rectify': 2, 'sloth': 2, 'stuffs': 1, 'temporal': 1, 'unwillingly': 1, 'weakly': 1}
-	Seven-eleven links: 33
-{'ague': 3, 'bites': 1, 'distinctly': 2, 'ensuing': 1, "ev'ry": 1, 'ferdinand': 6, "great'st": 1, 'justify': 1, 'lighted': 1, 'louder': 1, 'malignant': 1, 'mounting': 1, 'rend': 1, 'reputed': 1, "requir'd": 1, 'spell': 3, 'summons': 1, 'syllable': 2, 'travail': 1, 'unfit': 1, 'unsettled': 1, "vex'd": 1}
+	Seven-eleven links: 35
+{'ague': 3, 'bites': 1, 'distinctly': 2, 'ensuing': 1, "ev'ry": 1, 'ferdinand': 6, "great'st": 1, 'its': 2, 'justify': 1, 'lighted': 1, 'louder': 1, 'malignant': 1, 'mounting': 1, 'rend': 1, 'reputed': 1, "requir'd": 1, 'spell': 3, 'summons': 1, 'syllable': 2, 'travail': 1, 'unfit': 1, 'unsettled': 1, "vex'd": 1}
 
 H8sh.txt and TN.txt links:
 	Total links: 50
@@ -251,11 +251,11 @@ H8sh.txt and TN.txt links:
 {'adds': 1, 'arguments': 3, 'asking': 1, 'begging': 1, 'capacity': 3, "challeng'd": 1, "conceiv'd": 1, 'consideration': 1, "cramm'd": 1, 'deem': 1, 'digest': 1, "fancy's": 1, 'habits': 2, 'india': 1, 'legitimate': 1, 'mary': 4, 'mistaken': 1, 'passages': 1, 'range': 1, 'steep': 1, 'whet': 1}
 
 H8sh.txt and TNKsh.txt links:
-	Total links: 52
+	Total links: 54
 	two-six links: 21
 {"action's": 1, 'appliance': 1, 'assistants': 1, 'considering': 1, 'damage': 1, 'freed': 1, "gather'd": 1, "heav'nly": 1, 'hypocrisy': 1, 'induce': 1, "inspir'd": 1, 'intercession': 1, 'perfidious': 1, "pray'rs": 2, 'prejudice': 2, 'sloth': 1, 'spinsters': 1, 'strove': 1, "subject's": 1}
-	Seven-eleven links: 31
-{'attention': 2, 'begging': 1, "by't": 1, 'chaff': 1, 'compounded': 1, "conceiv'd": 1, 'costly': 1, 'doubted': 1, "ev'ry": 5, 'faculties': 2, 'implore': 1, "judg'd": 1, 'justify': 1, 'kindle': 1, 'livers': 1, 'niggard': 1, 'passages': 1, 'pie': 1, 'portion': 1, 'slightly': 1, 'speaker': 1, 'tenor': 1, 'travail': 1, 'unsettled': 1, 'wedlock': 1}
+	Seven-eleven links: 33
+{'attention': 2, 'begging': 1, "by't": 1, 'chaff': 1, 'compounded': 1, "conceiv'd": 1, 'costly': 1, 'doubted': 1, "ev'ry": 5, 'faculties': 2, 'implore': 1, 'its': 2, "judg'd": 1, 'justify': 1, 'kindle': 1, 'livers': 1, 'niggard': 1, 'passages': 1, 'pie': 1, 'portion': 1, 'slightly': 1, 'speaker': 1, 'tenor': 1, 'travail': 1, 'unsettled': 1, 'wedlock': 1}
 
 H8sh.txt and TRO.txt links:
 	Total links: 80
@@ -279,11 +279,11 @@ H8sh.txt and WIV.txt links:
 {'buys': 1, 'capacity': 1, 'chiding': 1, 'doubted': 1, 'incense': 1, 'louder': 1, 'opinions': 1, 'pence': 2, 'pie': 1, 'profits': 1, 'publicly': 2, 'reek': 1, 'scold': 1, 'sheathe': 1, 'sped': 1, 'unmannerly': 1, 'upward': 1, 'utterly': 1}
 
 H8sh.txt and WT.txt links:
-	Total links: 95
+	Total links: 100
 	two-six links: 41
 {'abound': 2, "air'd": 1, 'allied': 1, 'becoming': 1, "blam'd": 1, 'comforting': 1, 'declare': 1, 'embracement': 1, 'formerly': 1, 'freed': 1, "from't": 1, "fulfill'd": 3, 'gainsay': 1, 'gallery': 1, 'heretic': 1, 'inside': 2, 'interpreters': 1, 'justified': 2, "open't": 2, "person's": 1, 'prone': 1, "publish'd": 1, 'putter-on': 1, 'respecting': 1, 'saint-like': 1, "say't": 1, 'spice': 1, 'spiritual': 3, 'steer': 1, 'tastes': 1, 'tires': 1, 'unwillingly': 1, 'wasps': 1}
-	Seven-eleven links: 54
-{'adds': 1, 'agent': 1, 'attach': 1, 'chaff': 1, 'chiding': 1, 'courts': 1, 'deem': 1, "discharg'd": 1, 'dominions': 1, 'doubted': 2, "dream'd": 2, 'endeavors': 2, 'graver': 1, "great'st": 1, 'habits': 1, 'implore': 1, 'incense': 1, 'injustice': 1, 'justify': 1, 'louder': 1, 'lustre': 1, 'parcels': 1, 'portion': 1, 'pretense': 2, 'profits': 1, 'publicly': 1, "question'd": 4, "requir'd": 3, 'rooted': 1, 'seals': 1, 'session': 2, 'shone': 1, 'singular': 1, 'son-in-law': 2, 'sped': 1, 'spell': 1, 'tenor': 1, 'trusted': 1, 'unsettled': 2, 'verity': 1, 'wedlock': 1, 'wishing': 1}
+	Seven-eleven links: 59
+{'adds': 1, 'agent': 1, 'attach': 1, 'chaff': 1, 'chiding': 1, 'courts': 1, 'deem': 1, "discharg'd": 1, 'dominions': 1, 'doubted': 2, "dream'd": 2, 'endeavors': 2, 'graver': 1, "great'st": 1, 'habits': 1, 'implore': 1, 'incense': 1, 'injustice': 1, 'its': 5, 'justify': 1, 'louder': 1, 'lustre': 1, 'parcels': 1, 'portion': 1, 'pretense': 2, 'profits': 1, 'publicly': 1, "question'd": 4, "requir'd": 3, 'rooted': 1, 'seals': 1, 'session': 2, 'shone': 1, 'singular': 1, 'son-in-law': 2, 'sped': 1, 'spell': 1, 'tenor': 1, 'trusted': 1, 'unsettled': 2, 'verity': 1, 'wedlock': 1, 'wishing': 1}
 
 H8sh.txt and x1H4.txt links:
 	Total links: 64
@@ -307,11 +307,11 @@ H8sh.txt and x2H4.txt links:
 {'abject': 1, 'ague': 1, 'appearance': 2, 'asking': 1, 'assembled': 1, 'attach': 1, 'attention': 1, 'begging': 1, 'bishop': 12, 'brethren': 2, 'burdeaux': 1, 'chaff': 1, 'chronicles': 1, 'commotion': 2, 'complaints': 2, 'conjunction': 2, 'consideration': 1, 'costly': 1, "excus'd": 4, 'faculties': 1, 'incensed': 1, "list'ning": 1, 'livers': 1, 'louder': 1, 'miscarried': 1, 'opinions': 2, 'packet': 2, 'parcels': 1, 'pence': 1, 'perils': 2, 'pie': 1, 'progress': 1, 'reputed': 1, 'singular': 1, 'speaker': 1, 'sprung': 1, 'steep': 2, 'utterly': 1, 'vainly': 1, 'whereby': 3}
 
 H8sh.txt and x2H6sh.txt links:
-	Total links: 26
+	Total links: 27
 	two-six links: 13
 {'augment': 1, "card'nal": 1, 'disgraces': 1, "display'd": 1, 'posted': 1, 'reaches': 1, 'respecting': 1, 'strangled': 1, 'surveyor': 3, 'trap': 1, 'venturous': 1}
-	Seven-eleven links: 13
-{'agent': 1, 'commotion': 2, 'costly': 1, 'courts': 1, 'darts': 2, 'deem': 1, 'embassador': 1, 'injustice': 1, "judg'd": 1, 'mud': 1, 'utterly': 1}
+	Seven-eleven links: 14
+{'agent': 1, 'commotion': 2, 'costly': 1, 'courts': 1, 'darts': 2, 'deem': 1, 'embassador': 1, 'injustice': 1, 'its': 1, "judg'd": 1, 'mud': 1, 'utterly': 1}
 
 H8sh.txt and x3H6sh.txt links:
 	Total links: 43

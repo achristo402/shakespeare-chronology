@@ -27,11 +27,11 @@ ADO.txt and AYL.txt links:
 {'amaze': 1, 'arrows': 1, 'athwart': 1, 'bitterness': 1, 'bonny': 1, 'cage': 1, 'capon': 1, 'carve': 1, "challeng'd": 1, 'chapel': 1, 'cloth': 1, 'club': 1, 'commendation': 1, 'compliment': 1, "conceiv'd": 1, "cur'd": 1, 'disdainful': 1, 'dissuade': 1, "distill'd": 1, 'equally': 1, 'gallop': 1, 'getting': 1, "griev'd": 1, 'heigh-ho': 2, 'helping': 1, 'hem': 1, 'hymen': 1, 'instances': 1, 'interim': 1, "lik'd": 1, 'offenders': 1, 'ominous': 1, 'overthrown': 1, 'oyster': 1, 'philosopher': 1, 'praising': 1, "priz'd": 1, 'purity': 1, "rail'd": 2, 'scarf': 1, 'smart': 1, 'smother': 1, 'sores': 1, 'spectacles': 1, 'tax': 1, 'tenure': 1, "uncle's": 1}
 
 ADO.txt and COR.txt links:
-	Total links: 76
+	Total links: 77
 	two-six links: 36
 {'accusers': 1, 'baes': 1, "car'd": 1, "censur'd": 1, 'comely': 1, 'counterpoise': 1, 'cursing': 1, 'earn': 1, "earn'd": 1, 'encounters': 1, 'foremost': 1, 'fragments': 1, 'graceful': 1, 'honester': 1, 'invincible': 1, 'link': 1, 'named': 1, 'noisome': 1, 'onward': 1, 'proverbs': 1, 'ranges': 1, 'reechy': 1, 'requited': 1, 'rougher': 1, "short'ned": 1, 'sincerely': 1, 'smoking': 1, "subscrib'd": 1, 'thankfulness': 1, 'twine': 1, 'twist': 1, "unbruis'd": 1, "utter'd": 1, 'verified': 1, 'woollen': 1, 'yawn': 1}
-	Seven-eleven links: 40
-{'apes': 1, 'assistance': 1, "barr'd": 1, 'bedfellow': 1, "beggar's": 1, 'brethren': 1, 'catching': 1, 'chances': 1, 'cloth': 1, 'cog': 1, 'commendable': 1, 'consented': 1, 'construction': 1, 'consume': 1, 'cushion': 1, 'decreed': 1, 'ensuing': 1, 'exceeds': 1, 'foundation': 1, 'frost': 1, 'hale': 1, 'havoc': 1, 'howsoever': 1, "hush'd": 1, 'labors': 1, 'musty': 2, 'obstinate': 1, 'orb': 1, 'ostentation': 1, 'planet': 1, 'planted': 1, "priz'd": 1, 'rod': 1, 'scold': 1, 'smart': 1, 'spectacles': 1, 'spell': 1, 'tabor': 1, 'wisdoms': 1}
+	Seven-eleven links: 41
+{'apes': 1, 'assistance': 1, "barr'd": 1, 'bedfellow': 1, "beggar's": 1, 'brethren': 1, 'catching': 1, 'chances': 1, 'cloth': 1, 'cog': 1, 'commendable': 1, 'consented': 1, 'construction': 1, 'consume': 1, 'cushion': 1, 'decreed': 1, 'ensuing': 1, 'exceeds': 1, 'foundation': 1, 'frost': 1, 'hale': 1, 'havoc': 1, 'howsoever': 1, "hush'd": 1, 'labors': 1, 'musty': 2, 'obstinate': 1, 'orb': 1, 'ostentation': 1, 'painful': 1, 'planet': 1, 'planted': 1, "priz'd": 1, 'rod': 1, 'scold': 1, 'smart': 1, 'spectacles': 1, 'spell': 1, 'tabor': 1, 'wisdoms': 1}
 
 ADO.txt and CYM.txt links:
 	Total links: 81
@@ -41,11 +41,11 @@ ADO.txt and CYM.txt links:
 {'accordingly': 1, 'afterward': 1, 'agent': 1, 'apes': 2, 'athwart': 1, "barr'd": 1, 'bedfellow': 1, 'bitterness': 1, 'cage': 1, 'capon': 1, 'chances': 1, 'chapel': 1, 'cloth': 1, 'commendation': 1, 'comparison': 1, 'construction': 1, 'containing': 1, 'courtesies': 1, 'crafty': 1, "cur'd": 1, 'cushion': 1, "discover'd": 1, "disdain'd": 1, 'dishes': 1, 'equally': 1, 'evidence': 1, 'exceeds': 2, 'feat': 1, 'fitted': 1, 'german': 1, 'girdle': 1, 'halting': 1, 'hook': 1, 'impious': 1, 'marrying': 1, "med'cine": 1, 'offender': 1, "priz'd": 1, 'prouder': 1, 'publish': 1, 'rarely': 1, 'richly': 1, 'slightly': 1, 'smart': 1, 'son-in-law': 1, 'sparks': 1, 'spectacles': 1, 'stool': 1, 'tenure': 1, 'thereupon': 1, 'wooer': 1}
 
 ADO.txt and E3nsh.txt links:
-	Total links: 41
+	Total links: 42
 	two-six links: 17
 {"approach'd": 1, 'assaults': 1, 'babble': 1, 'commence': 1, "conjoin'd": 1, 'embassage': 1, "ent'ring": 1, 'grudging': 1, 'jacks': 1, 'narrowly': 1, 'prospect': 1, 'rearward': 1, 'reft': 1, 'skirmish': 1, 'tapestry': 1, "utt'red": 1, 'withdrawn': 1}
-	Seven-eleven links: 24
-{'afterward': 1, 'beset': 1, 'biting': 1, 'bonny': 1, 'countries': 1, 'decreed': 1, 'disdainful': 1, 'drawing': 1, 'entirely': 1, 'equally': 1, 'gallop': 1, 'gloss': 1, 'happen': 1, 'havoc': 1, 'however': 1, 'howsoever': 1, 'immodest': 1, 'invited': 1, 'net': 1, 'obstinate': 1, 'obtain': 1, 'rancor': 1, 'threescore': 1, 'transform': 1}
+	Seven-eleven links: 25
+{'afterward': 1, 'beset': 1, 'biting': 1, 'bonny': 1, 'countries': 1, 'decreed': 1, 'disdainful': 1, 'drawing': 1, 'entirely': 1, 'equally': 1, 'gallop': 1, 'gloss': 1, 'happen': 1, 'havoc': 1, 'however': 1, 'howsoever': 1, 'immodest': 1, 'invited': 1, 'net': 1, 'obstinate': 1, 'obtain': 1, 'painful': 1, 'rancor': 1, 'threescore': 1, 'transform': 1}
 
 ADO.txt and ERR.txt links:
 	Total links: 40
@@ -55,11 +55,11 @@ ADO.txt and ERR.txt links:
 {'ache': 1, 'adverse': 1, 'afterward': 1, 'approved': 1, "barr'd": 1, 'breadth': 1, 'capon': 1, 'copy': 1, 'countries': 1, 'decreed': 1, 'detain': 1, 'drunkard': 1, 'errors': 1, 'forswore': 1, 'hip': 1, 'important': 1, 'invited': 1, "pack'd": 1, 'redemption': 1, 'sequel': 1, 'thereupon': 1, 'transform': 1, 'travail': 1, 'truant': 1, 'witnesses': 1, "worship's": 1}
 
 ADO.txt and H5.txt links:
-	Total links: 99
+	Total links: 100
 	two-six links: 37
 {'active': 1, 'angers': 1, 'babble': 1, 'blithe': 1, "car'd": 1, 'career': 1, 'christian-like': 1, 'conjecture': 1, 'contaminated': 1, 'correct': 1, "cudgell'd": 1, 'endings': 1, 'evenly': 1, 'finer': 1, 'half-pence': 1, "hop'd": 1, 'incite': 1, 'luxurious': 1, 'managing': 1, 'nakedness': 1, 'named': 1, 'peopled': 1, 'piety': 1, 'proverbs': 1, 'quondam': 1, 'scambling': 1, 'sentences': 1, "smirch'd": 1, 'tennis-balls': 1, 'thankfulness': 1, 'traps': 1, "utt'red": 1, 'vacant': 1, 'working-days': 1, 'wrest': 1, 'yawn': 1, 'yearly': 1}
-	Seven-eleven links: 62
-{'anthony': 1, 'arrows': 1, 'athwart': 1, 'badge': 1, 'bedfellow': 1, "beggar's": 1, 'brethren': 1, 'bruise': 1, 'cloth': 1, 'comparisons': 1, "compos'd": 1, 'consented': 1, 'copy': 1, "cur'sy": 1, 'defeat': 1, 'dice': 1, "discover'd": 1, 'disdainful': 1, "disgrac'd": 1, 'divinity': 1, 'earthquake': 1, "excus'd": 1, 'faiths': 1, 'foils': 1, 'gallants': 1, 'gallop': 1, 'gentlewomen': 1, 'german': 1, 'girdle': 1, 'gull': 1, 'havoc': 1, 'hawk': 1, 'honestly': 1, 'horribly': 1, 'howsoever': 1, 'impious': 1, 'interim': 1, "lik'd": 1, 'lovest': 2, "maintain'd": 3, 'net': 1, 'offenders': 1, 'proudly': 1, "rail'd": 1, 'redemption': 1, "rend'red": 1, 'repentance': 1, 'royally': 1, 'sending': 1, 'sequel': 1, 'shrewdly': 1, 'smother': 1, 'sonnet': 2, 'squire': 1, 'thereupon': 1, 'threescore': 1, 'wisdoms': 1, "worshipp'd": 1}
+	Seven-eleven links: 63
+{'anthony': 1, 'arrows': 1, 'athwart': 1, 'badge': 1, 'bedfellow': 1, "beggar's": 1, 'brethren': 1, 'bruise': 1, 'cloth': 1, 'comparisons': 1, "compos'd": 1, 'consented': 1, 'copy': 1, "cur'sy": 1, 'defeat': 1, 'dice': 1, "discover'd": 1, 'disdainful': 1, "disgrac'd": 1, 'divinity': 1, 'earthquake': 1, "excus'd": 1, 'faiths': 1, 'foils': 1, 'gallants': 1, 'gallop': 1, 'gentlewomen': 1, 'german': 1, 'girdle': 1, 'gull': 1, 'havoc': 1, 'hawk': 1, 'honestly': 1, 'horribly': 1, 'howsoever': 1, 'impious': 1, 'interim': 1, "lik'd": 1, 'lovest': 2, "maintain'd": 3, 'net': 1, 'offenders': 1, 'painful': 1, 'proudly': 1, "rail'd": 1, 'redemption': 1, "rend'red": 1, 'repentance': 1, 'royally': 1, 'sending': 1, 'sequel': 1, 'shrewdly': 1, 'smother': 1, 'sonnet': 2, 'squire': 1, 'thereupon': 1, 'threescore': 1, 'wisdoms': 1, "worshipp'd": 1}
 
 ADO.txt and H8sh.txt links:
 	Total links: 38
@@ -97,11 +97,11 @@ ADO.txt and LC.txt links:
 {'catching': 1, 'cleft': 1, 'errors': 1, 'feat': 1, 'guards': 1, 'orb': 1, 'stalk': 1}
 
 ADO.txt and LLL.txt links:
-	Total links: 99
+	Total links: 100
 	two-six links: 33
 {'agony': 1, 'agot': 1, "apparell'd": 1, 'bleat': 1, 'career': 1, 'claw': 1, 'comprehend': 1, 'duller': 1, 'dutchman': 1, 'embassage': 1, 'encounters': 1, 'fashioning': 1, 'finer': 1, 'guerdon': 1, "hercules'": 1, 'honorably': 1, 'jesting': 1, 'minstrels': 1, 'misprision': 1, 'ortography': 1, 'overheard': 1, 'plain-dealing': 1, 'prompting': 1, 'qualm': 1, 'quondam': 1, 'reprove': 1, 'shooting': 1, 'smoothly': 1, 'spaniard': 1, 'unmeet': 1, "utt'red": 1, 'vane': 1, 'wooers': 1}
-	Seven-eleven links: 66
-{'anthony': 2, 'antic': 1, 'arrows': 1, 'assistance': 1, 'athwart': 1, 'badge': 1, 'banquet': 1, "barr'd": 1, "beggar's": 1, 'behaviors': 1, 'bruise': 1, 'bullets': 1, 'capon': 1, 'carve': 1, 'cloth': 1, 'club': 2, 'cog': 1, 'comparison': 1, 'comparisons': 1, 'compliment': 1, "cur'sy": 1, 'deceived': 1, 'dialogue': 1, 'dice': 1, 'drawing': 1, 'drunkard': 1, 'easier': 1, 'entirely': 1, 'fitted': 1, 'forswore': 1, 'frost': 1, 'gallants': 2, 'german': 1, 'gloss': 1, 'guards': 1, 'guiltiness': 1, 'hearers': 1, 'hearken': 1, 'heavily': 1, 'impose': 1, 'interim': 1, 'jig': 2, 'lute': 1, "obtain'd": 1, 'ostentation': 1, 'overthrown': 1, 'pennyworth': 1, 'planted': 1, 'regards': 1, "rend'red": 1, "scratch'd": 1, 'sequel': 1, 'smock': 1, 'sonnet': 2, 'sores': 1, 'tabor': 1, 'thereupon': 1, 'transgression': 1, 'truant': 1, 'upward': 1, 'virginity': 1}
+	Seven-eleven links: 67
+{'anthony': 2, 'antic': 1, 'arrows': 1, 'assistance': 1, 'athwart': 1, 'badge': 1, 'banquet': 1, "barr'd": 1, "beggar's": 1, 'behaviors': 1, 'bruise': 1, 'bullets': 1, 'capon': 1, 'carve': 1, 'cloth': 1, 'club': 2, 'cog': 1, 'comparison': 1, 'comparisons': 1, 'compliment': 1, "cur'sy": 1, 'deceived': 1, 'dialogue': 1, 'dice': 1, 'drawing': 1, 'drunkard': 1, 'easier': 1, 'entirely': 1, 'fitted': 1, 'forswore': 1, 'frost': 1, 'gallants': 2, 'german': 1, 'gloss': 1, 'guards': 1, 'guiltiness': 1, 'hearers': 1, 'hearken': 1, 'heavily': 1, 'impose': 1, 'interim': 1, 'jig': 2, 'lute': 1, "obtain'd": 1, 'ostentation': 1, 'overthrown': 1, 'painful': 1, 'pennyworth': 1, 'planted': 1, 'regards': 1, "rend'red": 1, "scratch'd": 1, 'sequel': 1, 'smock': 1, 'sonnet': 2, 'sores': 1, 'tabor': 1, 'thereupon': 1, 'transgression': 1, 'truant': 1, 'upward': 1, 'virginity': 1}
 
 ADO.txt and LR.txt links:
 	Total links: 63
@@ -111,11 +111,11 @@ ADO.txt and LR.txt links:
 {'biting': 1, 'bruise': 1, 'cage': 1, 'codpiece': 1, 'compliment': 1, 'countries': 1, "cozen'd": 1, 'detain': 1, 'dice': 1, "disdain'd": 1, 'divinity': 1, 'dotage': 2, 'entirely': 1, 'equally': 1, 'evidence': 1, 'girdle': 1, 'heigh-ho': 1, 'however': 1, 'impose': 1, 'jail': 1, 'labors': 1, 'leapt': 1, 'louder': 1, 'mistaking': 1, 'musty': 1, 'offender': 1, 'oyster': 1, 'perfume': 1, 'philosopher': 1, 'publish': 1, "rail'd": 1, 'regards': 1, 'rod': 1, 'slightly': 1, 'sparks': 1, 'spectacles': 1, 'squire': 1, 'tax': 1, 'upward': 1}
 
 ADO.txt and LUC.txt links:
-	Total links: 64
+	Total links: 65
 	two-six links: 26
 {'afar': 1, "attir'd": 1, 'barns': 1, 'belied': 1, 'comprehend': 1, "cur'sies": 1, 'debated': 1, 'dumps': 1, 'exclamation': 1, 'fraud': 1, 'grieving': 1, 'hastily': 1, 'impiety': 1, "knife's": 1, 'minstrels': 1, 'onward': 1, 'piety': 1, 'resistance': 1, "sing'st": 1, 'smoking': 1, 'swimmer': 1, 'thronging': 1, 'thwarting': 1, 'tore': 1, 'unseasonable': 1, 'wronger': 1}
-	Seven-eleven links: 38
-{'ache': 1, 'badge': 1, "barr'd": 1, 'bashful': 1, "beggar's": 1, 'beset': 1, 'cloth': 1, 'convert': 1, 'coy': 1, "defil'd": 2, 'errors': 1, 'evidence': 1, 'exceeds': 1, 'faiths': 1, 'frost': 1, 'girdle': 1, 'hawk': 1, 'hearers': 1, 'impious': 1, 'leapt': 1, 'misfortune': 1, 'misled': 1, 'modestly': 1, 'musty': 1, 'obtain': 1, 'offenders': 1, 'publish': 1, 'purity': 1, "ravish'd": 1, 'royally': 1, 'smother': 1, 'sparks': 1, 'spots': 1, 'tenure': 1, 'tickling': 1, 'travail': 1, 'windy': 1}
+	Seven-eleven links: 39
+{'ache': 1, 'badge': 1, "barr'd": 1, 'bashful': 1, "beggar's": 1, 'beset': 1, 'cloth': 1, 'convert': 1, 'coy': 1, "defil'd": 2, 'errors': 1, 'evidence': 1, 'exceeds': 1, 'faiths': 1, 'frost': 1, 'girdle': 1, 'hawk': 1, 'hearers': 1, 'impious': 1, 'leapt': 1, 'misfortune': 1, 'misled': 1, 'modestly': 1, 'musty': 1, 'obtain': 1, 'offenders': 1, 'painful': 1, 'publish': 1, 'purity': 1, "ravish'd": 1, 'royally': 1, 'smother': 1, 'sparks': 1, 'spots': 1, 'tenure': 1, 'tickling': 1, 'travail': 1, 'windy': 1}
 
 ADO.txt and MAC.txt links:
 	Total links: 46
@@ -124,10 +124,10 @@ ADO.txt and MAC.txt links:
 	Seven-eleven links: 27
 {'agent': 1, 'antic': 1, 'assistance': 1, 'banquet': 1, 'construction': 1, 'convert': 1, "distill'd": 1, 'easier': 1, 'feat': 1, 'fife': 1, 'gloss': 1, 'hearers': 1, 'heavily': 1, 'interim': 1, "med'cine": 1, 'net': 1, 'overthrown': 1, 'planted': 1, "reconcil'd": 1, "rend'red": 1, 'repentance': 1, 'scarf': 1, 'stool': 1, 'threescore': 1, 'trusted': 1, 'tuesday': 1, 'upward': 1}
 
-ADO.txt and MM.txt links:
-	Total links: 69
-	two-six links: 25
-{"barber's": 1, "censur'd": 1, 'clod': 1, 'consummate': 1, 'crotchets': 1, "ent'ring": 1, 'extenuate': 1, 'fetter': 1, 'hastily': 1, 'impiety': 1, 'intemperate': 1, 'lapwing': 1, 'malefactors': 1, 'overheard': 1, 'plain-dealing': 1, "renown'd": 1, 'ripened': 1, 'sincerity': 1, "slander'd": 1, 'slanderous': 1, 'stamps': 1, 'sufficiency': 1, 'unmeet': 1, 'values': 1, 'wheels': 1}
+ADO.txt and MMsh.txt links:
+	Total links: 68
+	two-six links: 24
+{"barber's": 1, "censur'd": 1, 'clod': 1, 'consummate': 1, 'crotchets': 1, "ent'ring": 1, 'extenuate': 1, 'fetter': 1, 'hastily': 1, 'intemperate': 1, 'lapwing': 1, 'malefactors': 1, 'overheard': 1, 'plain-dealing': 1, "renown'd": 1, 'ripened': 1, 'sincerity': 1, "slander'd": 1, 'slanderous': 1, 'stamps': 1, 'sufficiency': 1, 'unmeet': 1, 'values': 1, 'wheels': 1}
 	Seven-eleven links: 44
 {'abides': 1, 'accordingly': 1, 'ache': 1, 'adverse': 1, 'afterward': 1, 'agent': 1, 'athwart': 1, 'biting': 1, 'bruise': 1, 'chances': 1, 'codpiece': 1, "conceiv'd": 1, 'courtesies': 1, 'dishes': 1, 'entirely': 1, 'equally': 1, 'exceeds': 1, 'fitted': 1, 'getting': 1, 'guards': 1, 'guiltiness': 1, 'heavily': 1, 'honestly': 1, 'hook': 1, 'howsoever': 1, 'hypocrite': 1, 'louder': 1, 'marrying': 1, 'mistaking': 1, 'offender': 1, "profess'd": 2, 'qualify': 1, 'redemption': 1, 'rod': 1, 'tax': 2, 'transgression': 1, 'tuesday': 1, 'virginity': 1, 'wishing': 1, "worship's": 1, 'wring': 1, 'wrongfully': 1}
 
@@ -153,11 +153,11 @@ ADO.txt and OTH.txt links:
 {'ability': 1, 'ache': 1, 'amiable': 1, 'behaviors': 1, 'bitterness': 1, 'boarded': 1, 'bode': 2, 'carve': 1, 'chances': 1, 'conveyance': 1, 'defeat': 1, 'dishes': 1, 'divinity': 1, 'dotage': 1, 'drunkard': 1, 'entirely': 1, 'fife': 1, 'florentine': 1, 'gallants': 2, 'german': 1, 'gloss': 1, 'guards': 1, 'guiltiness': 1, 'gull': 1, 'hem': 1, 'hip': 1, 'horribly': 1, "hush'd": 1, 'interim': 1, 'invited': 1, 'labors': 1, 'marrying': 1, 'musician': 1, 'net': 1, 'offends': 1, 'planet': 1, "profess'd": 1, 'propose': 1, 'redemption': 1, 'smock': 1, 'son-in-law': 1, 'sores': 1, 'squire': 1, "thank'd": 1, 'transform': 1, 'tuesday': 1, 'wooer': 1, 'wring': 1}
 
 ADO.txt and PERsh.txt links:
-	Total links: 36
+	Total links: 37
 	two-six links: 12
 {'cheapen': 1, 'endurance': 1, 'epitaphs': 1, 'graceful': 1, 'harpy': 1, 'leavy': 1, 'midway': 1, 'narrowly': 1, "overjoy'd": 1, 'quirks': 1, 'thankfulness': 1, 'thwarting': 1}
-	Seven-eleven links: 24
-{'breadth': 1, 'burden': 1, 'chances': 1, 'cloth': 1, 'consume': 1, "discover'd": 1, "disdain'd": 1, 'divinity': 1, 'fashions': 1, 'feat': 1, 'gallants': 1, 'hymen': 1, 'interim': 1, 'invited': 1, 'louder': 1, 'lute': 1, 'obtain': 1, 'rarely': 1, "ravish'd": 1, 'richly': 1, 'rite': 1, 'stalk': 1, 'travail': 1, 'virginity': 1}
+	Seven-eleven links: 25
+{'breadth': 1, 'burden': 1, 'chances': 1, 'cloth': 1, 'consume': 1, "discover'd": 1, "disdain'd": 1, 'divinity': 1, 'fashions': 1, 'feat': 1, 'gallants': 1, 'hymen': 1, 'interim': 1, 'invited': 1, 'louder': 1, 'lute': 1, 'obtain': 1, 'painful': 1, 'rarely': 1, "ravish'd": 1, 'richly': 1, 'rite': 1, 'stalk': 1, 'travail': 1, 'virginity': 1}
 
 ADO.txt and PHT.txt links:
 	Total links: 1
@@ -237,11 +237,11 @@ ADO.txt and TIMsh.txt links:
 {'abides': 1, "beggar's": 1, 'cog': 1, "conceiv'd": 1, 'consume': 1, 'convert': 1, 'defeat': 1, 'dialogue': 1, "discover'd": 1, 'dishes': 1, "griev'd": 1, 'gull': 1, 'hem': 1, 'honestly': 1, 'interim': 1, 'orb': 1, 'perfume': 1, 'philosopher': 1, "profess'd": 1, 'purity': 1, 'rod': 1, 'sores': 1, 'spots': 1, "thank'd": 1, 'travail': 1, 'upward': 1, 'virginity': 1, 'wooer': 1, "worshipp'd": 1}
 
 ADO.txt and TMP.txt links:
-	Total links: 41
+	Total links: 42
 	two-six links: 15
 {'assaults': 1, 'barns': 1, "car'd": 1, 'comforter': 1, "endow'd": 1, 'ewe': 1, 'harpy': 1, "howl'd": 1, 'incite': 1, 'jesting': 1, 'massy': 1, 'meg': 1, 'peopled': 1, 'stabs': 1, "thatch'd": 1}
-	Seven-eleven links: 26
-{'angle': 1, 'apes': 2, 'arrows': 1, 'bashful': 1, 'befits': 1, 'boarded': 1, "compos'd": 1, 'drunkard': 1, 'earthquake': 1, 'ensuing': 1, 'frost': 1, 'hearken': 1, "hush'd": 1, 'labors': 1, 'leapt': 1, "lik'd": 1, 'louder': 1, 'marrying': 1, 'quaint': 1, 'reputed': 1, 'rite': 1, 'scarf': 1, 'spell': 1, 'tabor': 1, 'travail': 1}
+	Seven-eleven links: 27
+{'angle': 1, 'apes': 2, 'arrows': 1, 'bashful': 1, 'befits': 1, 'boarded': 1, "compos'd": 1, 'drunkard': 1, 'earthquake': 1, 'ensuing': 1, 'frost': 1, 'hearken': 1, "hush'd": 1, 'labors': 1, 'leapt': 1, "lik'd": 1, 'louder': 1, 'marrying': 1, 'painful': 1, 'quaint': 1, 'reputed': 1, 'rite': 1, 'scarf': 1, 'spell': 1, 'tabor': 1, 'travail': 1}
 
 ADO.txt and TN.txt links:
 	Total links: 71

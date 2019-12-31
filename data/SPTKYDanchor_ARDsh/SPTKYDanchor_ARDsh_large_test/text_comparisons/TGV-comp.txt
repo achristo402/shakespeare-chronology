@@ -131,12 +131,12 @@ TGV.txt and MAC.txt links:
 	Seven-eleven links: 42
 {'acted': 1, 'agent': 1, 'applaud': 6, 'building': 1, "clos'd": 1, 'commendations': 1, 'concern': 1, 'concord': 1, 'confounds': 1, 'deceitful': 1, 'deepest': 1, 'deign': 1, 'desolate': 1, 'dolor': 1, 'geese': 1, 'hearty': 1, 'inhabit': 1, 'knots': 1, 'laying': 1, 'lease': 1, 'malady': 1, 'oftentimes': 1, 'outrun': 1, 'overtake': 1, 'pretense': 1, 'provokes': 2, 'repentance': 1, 'scour': 1, 'therewithal': 2, "thou'dst": 1, 'trusted': 2, 'unmannerly': 1, "vanish'd": 2}
 
-TGV.txt and MM.txt links:
-	Total links: 74
+TGV.txt and MMsh.txt links:
+	Total links: 73
 	two-six links: 28
 {"'greed": 1, 'allied': 1, 'blasting': 1, "captain's": 1, 'cloister': 1, "destin'd": 1, 'ducat': 1, 'essence': 1, 'extol': 1, 'fantastic': 1, 'granting': 1, 'hallowmas': 2, 'longest': 1, 'milkmaid': 1, 'penitence': 1, 'possessions': 3, 'postern': 1, 'receiving': 1, 'remission': 1, 'soften': 1, "swing'd": 2, 'undertaking': 1, 'unreverend': 1, 'wheels': 1}
-	Seven-eleven links: 46
-{'afterward': 1, 'agent': 1, "alter'd": 1, 'bitterly': 1, 'changing': 1, 'clothe': 1, 'codpiece': 2, 'confounds': 1, "convey'd": 1, 'deliberate': 1, 'depending': 1, 'detest': 6, "displeas'd": 1, 'dwelling': 1, 'hearty': 1, 'lawless': 1, "lordship's": 1, 'mended': 1, 'mutton': 4, 'qualify': 2, 'requital': 2, 'rod': 1, 'smelt': 1, 'stings': 1, 'strings': 2, 'therewithal': 2, 'transgression': 1, 'whips': 2, 'wilderness': 1, 'wishing': 2, "wond'red": 1}
+	Seven-eleven links: 45
+{'afterward': 1, 'agent': 1, "alter'd": 1, 'bitterly': 1, 'changing': 1, 'clothe': 1, 'codpiece': 2, 'confounds': 1, "convey'd": 1, 'deliberate': 1, 'depending': 1, 'detest': 6, 'dwelling': 1, 'hearty': 1, 'lawless': 1, "lordship's": 1, 'mended': 1, 'mutton': 4, 'qualify': 2, 'requital': 2, 'rod': 1, 'smelt': 1, 'stings': 1, 'strings': 2, 'therewithal': 2, 'transgression': 1, 'whips': 2, 'wilderness': 1, 'wishing': 2, "wond'red": 1}
 
 TGV.txt and MND.txt links:
 	Total links: 81

@@ -124,12 +124,12 @@ ANT.txt and MAC.txt links:
 	Seven-eleven links: 75
 {'acted': 1, "admir'd": 3, 'attire': 1, 'balls': 1, 'banners': 2, 'bathe': 1, 'blasted': 2, 'bridegroom': 1, 'caps': 1, 'chuck': 1, 'cleave': 4, 'comforted': 1, 'concern': 2, 'creeps': 2, 'deign': 1, 'discomfort': 2, 'domestic': 1, "done't": 3, 'enchanting': 1, 'enow': 2, 'famine': 4, 'frets': 2, 'hearty': 1, 'jealousies': 1, 'lamp': 1, 'laying': 1, 'lighted': 2, 'meal': 1, "med'cine": 1, 'meek': 1, 'modern': 1, 'nerves': 1, 'particulars': 1, 'peerless': 1, 'planted': 1, "pow'rful": 1, "purg'd": 1, "rend'red": 1, 'rooted': 1, 'scales': 1, 'soldiership': 2, 'spacious': 1, 'spot': 2, 'station': 2, "steep'd": 1, 'stool': 1, 'sweep': 1, 'swells': 1, 'trusted': 2, 'tumble': 1, 'unity': 1, 'valued': 1, 'weighs': 1}
 
-ANT.txt and MM.txt links:
-	Total links: 139
+ANT.txt and MMsh.txt links:
+	Total links: 138
 	two-six links: 57
 {"'greed": 1, 'accuses': 1, 'adulterous': 1, 'approaching': 1, 'approof': 1, 'beetle': 1, 'blossoming': 1, 'bolts': 1, 'breather': 1, "captain's": 3, 'crassus': 1, 'decorum': 2, 'dejected': 1, 'dependancy': 1, 'deputation': 1, 'determines': 1, 'discredit': 1, 'discredited': 1, 'edict': 1, 'extended': 1, 'extenuate': 1, 'external': 1, 'foison': 1, 'instructed': 2, 'levity': 2, 'myrtle': 1, 'nineteen': 1, 'novice': 1, "o'ertake": 3, 'pendant': 1, "perceive't": 1, 'province': 1, 'rely': 1, "renown'd": 1, "scal'd": 1, 'seizes': 1, 'shorter': 1, 'sicken': 1, 'soften': 1, "spar'd": 1, "swor'st": 1, 'truths': 4, 'unpeople': 1, 'unpitied': 1, 'varrius': 2, 'wheels': 1}
-	Seven-eleven links: 82
-{'abides': 1, 'accordingly': 2, 'admitted': 4, 'answering': 1, 'bathe': 1, "bear'st": 2, 'biting': 2, 'blemish': 2, 'celerity': 4, "city's": 1, 'cleave': 2, 'compel': 1, 'courtesies': 1, "dar'd": 1, 'depends': 1, 'detest': 3, 'dreaming': 1, "embrac'd": 1, 'entirely': 1, 'entreaty': 1, 'equally': 1, 'exceeds': 1, 'filth': 1, 'flows': 1, 'fouler': 1, 'getting': 3, 'grapes': 1, 'guides': 1, 'hearty': 1, 'hook': 2, 'incline': 1, "kneel'd": 2, 'license': 2, 'lightness': 1, "ling'ring": 1, 'meal': 1, 'members': 1, 'method': 1, 'morsel': 2, 'nerves': 1, 'occupation': 3, 'organs': 1, 'prepared': 1, 'publicly': 2, 'replied': 1, 'riotous': 1, 'shifts': 1, "stew'd": 1, "strew'd": 1, 'strings': 1, 'subdue': 1, 'temperance': 2, 'thereon': 1, 'unlawful': 1, 'whores': 1, 'yare': 4}
+	Seven-eleven links: 81
+{'abides': 1, 'accordingly': 2, 'admitted': 4, 'answering': 1, 'bathe': 1, "bear'st": 2, 'biting': 2, 'blemish': 2, 'celerity': 4, "city's": 1, 'cleave': 2, 'compel': 1, 'courtesies': 1, "dar'd": 1, 'depends': 1, 'detest': 3, 'dreaming': 1, "embrac'd": 1, 'entirely': 1, 'entreaty': 1, 'equally': 1, 'exceeds': 1, 'filth': 1, 'flows': 1, 'fouler': 1, 'getting': 2, 'grapes': 1, 'guides': 1, 'hearty': 1, 'hook': 2, 'incline': 1, "kneel'd": 2, 'license': 2, 'lightness': 1, "ling'ring": 1, 'meal': 1, 'members': 1, 'method': 1, 'morsel': 2, 'nerves': 1, 'occupation': 3, 'organs': 1, 'prepared': 1, 'publicly': 2, 'replied': 1, 'riotous': 1, 'shifts': 1, "stew'd": 1, "strew'd": 1, 'strings': 1, 'subdue': 1, 'temperance': 2, 'thereon': 1, 'unlawful': 1, 'whores': 1, 'yare': 4}
 
 ANT.txt and MND.txt links:
 	Total links: 112
@@ -195,9 +195,9 @@ ANT.txt and SHRnsh.txt links:
 {"antonio's": 4, "broach'd": 1, 'chides': 1, "chok'd": 1, 'curious': 1, 'defects': 1, 'despiteful': 1, 'din': 2, 'disdainful': 1, "flatter'd": 2, 'formal': 2, "ha't": 2, 'haven': 1, 'lighted': 1, 'lightness': 1, 'oyster': 1, 'perfume': 2, 'plainness': 2, 'plate': 1, 'quicken': 1, 'richly': 1, 'rules': 1, "spoil'd": 1, 'stool': 1, 'wrangling': 1}
 
 ANT.txt and SPTAD.txt links:
-	Total links: 11
-	two-six links: 3
-{"heav'ns": 2, 'nineteen': 1}
+	Total links: 10
+	two-six links: 2
+{"heav'ns": 1, 'nineteen': 1}
 	Seven-eleven links: 8
 {'acted': 1, 'creeps': 2, "pow'rful": 1, 'rear': 1, "rear'd": 1, 'roll': 1, 'stiff': 1}
 

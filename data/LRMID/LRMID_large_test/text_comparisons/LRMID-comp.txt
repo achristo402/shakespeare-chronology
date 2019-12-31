@@ -124,10 +124,10 @@ LRMID.txt and MAC.txt links:
 	Seven-eleven links: 37
 {'avouch': 1, 'banners': 2, 'braggart': 1, 'building': 1, "call'st": 1, "chanc'd": 1, 'clamorous': 1, 'conflict': 1, 'contending': 1, 'fitness': 1, 'geese': 1, 'hay': 1, 'images': 1, 'knots': 1, 'malady': 1, 'malicious': 1, 'market': 1, 'monsters': 2, "name's": 1, 'overtake': 1, "quench'd": 1, 'rat': 1, 'rises': 1, 'suffering': 1, 'suggestion': 1, 'swells': 1, 'syllable': 2, "thou'dst": 3, 'upward': 1, 'valued': 1, 'verity': 1, 'wrathful': 1}
 
-LRMID.txt and MM.txt links:
-	Total links: 73
-	two-six links: 25
-{'arraign': 2, 'badness': 1, 'bawds': 1, 'bethought': 1, "censur'd": 1, 'convenience': 1, 'curfew': 1, 'dawning': 1, 'dejected': 1, 'dialect': 1, 'dolors': 1, 'flaws': 1, 'mice': 1, "o'ertake": 1, 'pelting': 2, 'penury': 1, 'prepared': 1, 'privily': 1, 'restrained': 1, "spar'd": 1, 'throngs': 1, 'unloose': 1, 'unusual': 1}
+LRMID.txt and MMsh.txt links:
+	Total links: 72
+	two-six links: 24
+{'arraign': 2, 'badness': 1, 'bawds': 1, 'bethought': 1, "censur'd": 1, 'convenience': 1, 'curfew': 1, 'dawning': 1, 'dejected': 1, 'dialect': 1, 'flaws': 1, 'mice': 1, "o'ertake": 1, 'pelting': 2, 'penury': 1, 'prepared': 1, 'privily': 1, 'restrained': 1, "spar'd": 1, 'throngs': 1, 'unloose': 1, 'unusual': 1}
 	Seven-eleven links: 48
 {'avouch': 1, "bear'st": 2, 'bolt': 1, 'codpiece': 2, 'covert': 1, 'dart': 1, 'dealing': 1, "dismiss'd": 1, 'filth': 1, 'fitness': 1, 'foh': 1, 'forgiveness': 1, 'images': 1, 'imports': 2, "imprison'd": 1, 'incline': 1, 'occupation': 3, 'offender': 1, 'profits': 2, "quench'd": 1, 'rats': 2, 'replied': 1, 'riotous': 1, 'rowland': 1, 'servile': 1, "smil'd": 1, 'stealth': 1, "stew'd": 1, 'suffers': 3, 'syllable': 1, 'tax': 2, "travell'd": 2, 'trot': 1, 'tyrannous': 2, 'verity': 1, 'whores': 1}
 

@@ -124,12 +124,12 @@ ERR.txt and MAC.txt links:
 	Seven-eleven links: 27
 {'building': 1, "call'st": 1, 'confounds': 1, 'enchanting': 1, 'exploits': 1, 'genius': 1, 'grease': 1, 'gulf': 1, 'idiot': 1, 'inhabit': 1, 'lamp': 1, 'maw': 1, 'meek': 1, 'merciless': 1, 'niggard': 1, 'oftentimes': 1, 'receipt': 1, 'rides': 1, 'sergeant': 1, 'sprites': 1, 'supper-time': 1, 'therewithal': 1, 'traffic': 1, 'valued': 1, 'verity': 1, 'weighs': 1, 'whoever': 1}
 
-ERR.txt and MM.txt links:
-	Total links: 52
-	two-six links: 18
-{'assemblies': 1, 'beheaded': 1, 'bridget': 1, 'creditor': 1, 'customers': 1, 'disguised': 1, 'fasten': 1, "impos'd": 1, "keep'st": 1, 'lapwing': 1, 'poland': 1, 'rubies': 1, "run'st": 1, 'sere': 1, 'statute': 1, "suborn'd": 1, 'substantial': 1, 'wend': 1}
-	Seven-eleven links: 34
-{'ache': 1, 'adverse': 1, 'afterward': 1, "alter'd": 1, 'arrested': 2, 'choleric': 1, 'confederate': 1, 'confounds': 1, 'controversy': 1, "convey'd": 1, 'dispense': 1, "displeas'd": 1, 'durance': 1, "embrac'd": 1, 'headstrong': 1, 'infringe': 1, "knave's": 1, "mad'st": 1, 'maw': 1, 'method': 1, 'partial': 1, 'publicly': 2, 'quest': 1, 'redemption': 1, 'shifts': 1, 'statutes': 2, 'stealth': 1, 'therewithal': 1, 'unlawful': 1, 'verity': 1, "worship's": 1}
+ERR.txt and MMsh.txt links:
+	Total links: 47
+	two-six links: 17
+{'assemblies': 1, 'beheaded': 1, 'bridget': 1, 'creditor': 1, 'disguised': 1, 'fasten': 1, "impos'd": 1, "keep'st": 1, 'lapwing': 1, 'poland': 1, 'rubies': 1, "run'st": 1, 'sere': 1, 'statute': 1, "suborn'd": 1, 'substantial': 1, 'wend': 1}
+	Seven-eleven links: 30
+{'ache': 1, 'adverse': 1, 'afterward': 1, "alter'd": 1, 'choleric': 1, 'confederate': 1, 'confounds': 1, "convey'd": 1, 'dispense': 1, 'durance': 1, "embrac'd": 1, 'headstrong': 1, 'infringe': 1, "knave's": 1, "mad'st": 1, 'maw': 1, 'method': 1, 'partial': 1, 'publicly': 2, 'quest': 1, 'redemption': 1, 'shifts': 1, 'statutes': 2, 'stealth': 1, 'therewithal': 1, 'unlawful': 1, 'verity': 1, "worship's": 1}
 
 ERR.txt and MND.txt links:
 	Total links: 52

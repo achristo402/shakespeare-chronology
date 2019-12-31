@@ -124,10 +124,10 @@ LRRAND.txt and MAC.txt links:
 	Seven-eleven links: 39
 {'abhorred': 1, 'aright': 1, 'building': 1, 'champion': 1, 'clamorous': 1, 'domestic': 1, 'dragon': 1, 'hearty': 1, 'images': 1, 'invest': 1, 'knots': 1, 'monsters': 1, "name's": 1, 'overtake': 1, 'particulars': 1, 'ports': 1, 'pretense': 1, 'rat': 1, 'rent': 1, 'succeed': 1, 'sweeten': 1, 'swine': 1, 'syllable': 2, 'therewithal': 1, "thou'dst": 1, "tyrant's": 6, 'unfortunate': 1, 'upward': 2, "vanquish'd": 1, 'verity': 1, 'vices': 2}
 
-LRRAND.txt and MM.txt links:
-	Total links: 92
-	two-six links: 33
-{"ag'd": 1, 'arraign': 3, 'badness': 1, 'bawds': 1, 'bethought': 1, 'confesses': 2, 'dawning': 1, 'dejected': 1, 'dialect': 1, "dow'r": 1, 'eminence': 1, 'feelingly': 1, "fellow's": 1, 'flaws': 1, 'forbearance': 1, "furr'd": 2, 'mice': 1, 'pelting': 1, 'penury': 1, 'prepared': 1, 'preserved': 1, 'slower': 1, 'strip': 1, 'throngs': 1, 'transport': 1, "travell'd": 1, 'unhappily': 1, 'unusual': 1, 'values': 1}
+LRRAND.txt and MMsh.txt links:
+	Total links: 91
+	two-six links: 32
+{"ag'd": 1, 'arraign': 3, 'badness': 1, 'bawds': 1, 'bethought': 1, 'confesses': 2, 'dawning': 1, 'dejected': 1, 'dialect': 1, "dow'r": 1, 'eminence': 1, "fellow's": 1, 'flaws': 1, 'forbearance': 1, "furr'd": 2, 'mice': 1, 'pelting': 1, 'penury': 1, 'prepared': 1, 'preserved': 1, 'slower': 1, 'strip': 1, 'throngs': 1, 'transport': 1, "travell'd": 1, 'unhappily': 1, 'unusual': 1, 'values': 1}
 	Seven-eleven links: 59
 {'bolt': 1, 'bruise': 1, 'choleric': 1, 'conception': 1, 'contracted': 2, 'credulous': 1, 'dealing': 1, 'diligence': 2, 'entreaty': 1, 'equally': 1, 'extremest': 1, 'filth': 1, 'fitter': 2, 'glance': 1, 'hearty': 1, 'images': 1, 'imports': 2, "imprison'd": 1, 'incline': 1, 'invest': 1, "mad'st": 1, 'mistaking': 1, 'needless': 1, 'occupation': 3, 'quest': 1, 'rats': 1, 'received': 2, 'rent': 1, 'reprieve': 6, 'riddle': 1, 'rigor': 1, 'riotous': 1, 'session': 1, "smil'd": 1, 'speedily': 2, 'succeed': 1, 'syllable': 1, 'tax': 2, 'therewithal': 1, 'tyrannous': 2, 'verity': 1, 'vices': 2, 'whores': 1}
 

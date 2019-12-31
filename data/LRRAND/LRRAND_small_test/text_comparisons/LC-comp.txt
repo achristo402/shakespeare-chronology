@@ -124,12 +124,12 @@ LC.txt and MAC.txt links:
 	Seven-eleven links: 8
 {'audit': 1, 'balls': 1, 'descended': 1, 'feat': 1, 'impediments': 1, 'safest': 1, 'suffering': 1, 'weighs': 1}
 
-LC.txt and MM.txt links:
-	Total links: 27
-	two-six links: 14
-{'blasting': 1, 'cloister': 1, 'combined': 1, 'credent': 1, "destin'd": 1, 'dialect': 1, 'distant': 1, 'examples': 1, 'figuring': 1, 'fount': 1, 'pervert': 1, 'properties': 1, 'rubies': 1, 'tempter': 1}
-	Seven-eleven links: 13
-{'afflicted': 1, "batt'ry": 1, 'characters': 1, 'controversy': 1, 'dwelling': 1, 'guards': 1, 'gyves': 1, 'luxury': 1, 'maidens': 1, 'paradise': 1, 'secrecy': 1, "smil'd": 1, 'subdue': 1}
+LC.txt and MMsh.txt links:
+	Total links: 25
+	two-six links: 13
+{'blasting': 1, 'cloister': 1, 'combined': 1, 'credent': 1, "destin'd": 1, 'dialect': 1, 'distant': 1, 'examples': 1, 'fount': 1, 'pervert': 1, 'properties': 1, 'rubies': 1, 'tempter': 1}
+	Seven-eleven links: 12
+{'afflicted': 1, "batt'ry": 1, 'characters': 1, 'dwelling': 1, 'guards': 1, 'gyves': 1, 'luxury': 1, 'maidens': 1, 'paradise': 1, 'secrecy': 1, "smil'd": 1, 'subdue': 1}
 
 LC.txt and MND.txt links:
 	Total links: 25

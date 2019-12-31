@@ -27,11 +27,11 @@ TN.txt and AWWsh.txt links:
 {"'save": 4, 'a-bed': 1, 'ability': 1, "accomplish'd": 1, 'across': 1, 'address': 1, 'adore': 3, 'adverse': 1, 'betake': 2, 'brine': 1, 'comfortable': 1, 'commendation': 1, 'con': 1, "conceiv'd": 1, 'contracted': 1, 'copy': 2, "count's": 16, 'darkly': 1, 'deem': 1, 'delivers': 2, 'denial': 2, 'dialogue': 1, 'distinction': 2, 'doctrine': 1, "fancy's": 1, 'grounds': 4, 'hits': 1, 'important': 1, 'indignation': 2, 'mistaken': 1, 'moderate': 1, "name's": 1, 'prattle': 1, 'prerogative': 1, 'publish': 1, 'puritan': 6, 'rascally': 1, "recover'd": 5, 'relieve': 1, 'riddle': 1, 'sathan': 2, 'shrewdly': 2, 'simply': 2, 'sinister': 1, 'skillful': 2, "snatch'd": 1, 'sonnet': 1, 'stable': 1, 'surprise': 1, "thank'd": 1, 'wickedness': 2, 'wins': 1, 'woodcock': 2, 'woos': 1}
 
 TN.txt and AYL.txt links:
-	Total links: 91
+	Total links: 94
 	two-six links: 36
 {"'od's": 2, "abandon'd": 1, 'believes': 1, 'changeable': 1, 'consist': 1, 'contemplative': 1, 'covetousness': 1, 'damask': 1, 'december': 1, 'desirous': 1, 'dulcet': 1, 'excepted': 1, 'extent': 1, 'exult': 1, 'feelingly': 1, 'feigning': 2, 'finer': 1, 'heathen': 1, 'impressure': 1, "maiden's": 1, 'markets': 1, 'midsummer': 1, 'perpend': 1, 'poetical': 3, 'prevents': 1, 'purposely': 1, 'sanctity': 2, 'saws': 1, 'sayings': 1, 'taxation': 1, 'venerable': 1}
-	Seven-eleven links: 55
-{'a-bed': 1, 'acquit': 1, 'antique': 2, 'attire': 1, 'betters': 1, 'blank': 1, "challeng'd": 1, 'clamorous': 1, 'comfortable': 1, 'commendation': 1, "conceiv'd": 1, "cramm'd": 1, 'crowned': 1, 'dishonest': 5, 'feature': 2, 'feign': 2, 'formal': 1, 'hart': 2, 'hunter': 1, 'inconstant': 1, 'jolly': 1, 'license': 1, 'lively': 1, 'madmen': 1, 'martial': 1, "mean'st": 1, 'motley': 6, 'mutton': 1, "priz'd": 1, 'railing': 2, 'rascally': 1, "recover'd": 1, 'relieve': 1, 'resolute': 1, 'simply': 2, 'spheres': 1, 'supplied': 1, 'ware': 2, 'wickedness': 1}
+	Seven-eleven links: 58
+{'a-bed': 1, 'acquit': 1, 'antique': 2, 'attire': 1, 'betters': 1, 'blank': 1, "challeng'd": 1, 'clamorous': 1, 'comfortable': 1, 'commendation': 1, "conceiv'd": 1, "cramm'd": 1, 'crowned': 1, 'dishonest': 5, 'feature': 2, 'feign': 2, 'formal': 1, 'hart': 2, 'hunter': 1, 'inconstant': 1, 'jolly': 1, 'license': 1, 'lief': 3, 'lively': 1, 'madmen': 1, 'martial': 1, "mean'st": 1, 'motley': 6, 'mutton': 1, "priz'd": 1, 'railing': 2, 'rascally': 1, "recover'd": 1, 'relieve': 1, 'resolute': 1, 'simply': 2, 'spheres': 1, 'supplied': 1, 'ware': 2, 'wickedness': 1}
 
 TN.txt and COR.txt links:
 	Total links: 114
@@ -63,10 +63,10 @@ TN.txt and ERR.txt links:
 
 TN.txt and H5.txt links:
 	Total links: 175
-	two-six links: 53
-{'admire': 1, "any's": 1, 'arbitrement': 1, 'aussi': 1, 'authors': 2, 'babble': 1, 'babylon': 1, 'basis': 1, 'bawcock': 2, 'belzebub': 1, 'bristle': 1, 'cram': 1, 'denying': 1, "dubb'd": 1, 'eloquent': 1, 'exceptions': 1, 'finer': 1, 'finished': 1, 'flea': 2, "flesh'd": 2, 'galliard': 3, 'invites': 1, 'meditate': 1, 'mitigation': 1, 'murmur': 1, 'niggardly': 1, "numb'red": 1, 'pare': 1, 'perpend': 1, 'plumes': 1, 'provident': 1, 'receiving': 1, 'self-love': 1, "servant's": 2, 'serviteur': 1, 'shrill': 1, 'slough': 2, 'spin': 1, 'strip': 2, 'swiftness': 1, 'tartar': 1, 'unmatchable': 1, 'vainness': 1, 'wardrobe': 1}
-	Seven-eleven links: 122
-{'a-bed': 1, 'achieve': 3, 'acquit': 1, 'alehouse': 1, 'alliance': 1, 'antique': 1, 'apprehended': 1, 'attire': 1, 'beef': 2, 'caves': 1, 'chuck': 1, 'con': 1, 'concerning': 2, 'conclusions': 1, 'consideration': 1, 'contagious': 4, 'copy': 1, "cramm'd": 1, 'crowned': 1, "dev'l": 1, 'devout': 1, 'dieu': 10, 'digest': 1, 'dirty': 2, "disgrac'd": 1, 'dishonest': 5, 'distemper': 1, 'divinity': 2, "dolphin's": 3, 'elysium': 1, 'enlarge': 2, 'ginger': 1, 'gore': 2, 'grapple': 1, 'gull': 4, 'havoc': 1, 'horribly': 1, 'idol': 1, 'imitate': 2, 'inconstant': 2, 'jaws': 1, 'license': 2, 'martial': 1, 'mary': 8, 'mistaken': 1, 'nicely': 2, 'non': 3, 'passages': 2, 'perdition': 1, 'range': 1, 'rascally': 2, 'rub': 2, 'sage': 1, 'sequel': 1, 'shrewdly': 1, 'simply': 1, 'sinister': 1, 'sonnet': 2, 'supplied': 2, 'surly': 2, 'veil': 1, 'visited': 1, 'votre': 8, 'waxen': 1, 'wickedness': 2, 'wins': 1}
+	two-six links: 54
+{'admire': 1, "any's": 1, 'arbitrement': 1, 'aussi': 1, 'authors': 2, 'babble': 1, 'babylon': 1, 'basis': 1, 'bawcock': 2, 'belzebub': 1, 'bristle': 1, 'cram': 1, 'denying': 1, "dubb'd": 1, 'eloquent': 1, 'exceptions': 1, 'finer': 1, 'finished': 1, 'flea': 2, "flesh'd": 2, 'galliard': 3, 'ginger': 1, 'invites': 1, 'meditate': 1, 'mitigation': 1, 'murmur': 1, 'niggardly': 1, "numb'red": 1, 'pare': 1, 'perpend': 1, 'plumes': 1, 'provident': 1, 'receiving': 1, 'self-love': 1, "servant's": 2, 'serviteur': 1, 'shrill': 1, 'slough': 2, 'spin': 1, 'strip': 2, 'swiftness': 1, 'tartar': 1, 'unmatchable': 1, 'vainness': 1, 'wardrobe': 1}
+	Seven-eleven links: 121
+{'a-bed': 1, 'achieve': 3, 'acquit': 1, 'alehouse': 1, 'alliance': 1, 'antique': 1, 'apprehended': 1, 'attire': 1, 'beef': 2, 'caves': 1, 'chuck': 1, 'con': 1, 'concerning': 2, 'conclusions': 1, 'consideration': 1, 'contagious': 4, 'copy': 1, "cramm'd": 1, 'crowned': 1, "dev'l": 1, 'devout': 1, 'dieu': 10, 'digest': 1, 'dirty': 2, "disgrac'd": 1, 'dishonest': 5, 'distemper': 1, 'divinity': 2, "dolphin's": 3, 'elysium': 1, 'enlarge': 2, 'gore': 2, 'grapple': 1, 'gull': 4, 'havoc': 1, 'horribly': 1, 'idol': 1, 'imitate': 2, 'inconstant': 2, 'jaws': 1, 'license': 2, 'martial': 1, 'mary': 8, 'mistaken': 1, 'nicely': 2, 'non': 3, 'passages': 2, 'perdition': 1, 'range': 1, 'rascally': 2, 'rub': 2, 'sage': 1, 'sequel': 1, 'shrewdly': 1, 'simply': 1, 'sinister': 1, 'sonnet': 2, 'supplied': 2, 'surly': 2, 'veil': 1, 'visited': 1, 'votre': 8, 'waxen': 1, 'wickedness': 2, 'wins': 1}
 
 TN.txt and H8sh.txt links:
 	Total links: 55
@@ -83,11 +83,11 @@ TN.txt and HAM.txt links:
 {'ability': 1, 'accounted': 1, 'across': 1, 'acting': 1, 'address': 1, 'affair': 4, 'antique': 2, 'apple': 2, 'aptly': 1, 'asking': 2, 'battery': 1, 'bias': 1, 'blank': 2, 'cabin': 1, 'calamity': 1, 'cleft': 1, 'commended': 2, 'conclusions': 1, 'constantly': 1, 'contagion': 2, 'contagious': 2, 'contracted': 1, 'corner': 1, 'dally': 2, "dev'l": 3, 'dirty': 1, 'distemper': 3, 'distract': 1, 'distraction': 4, 'divinity': 4, 'feature': 2, 'formal': 1, 'frailty': 1, 'fruits': 1, 'generous': 3, 'gore': 1, 'grapple': 2, 'grounds': 2, 'habits': 2, 'hardy': 1, 'hart': 2, 'havoc': 1, 'hits': 3, 'idol': 1, 'important': 1, 'jaws': 1, 'jig': 2, 'jocund': 1, 'license': 1, 'martial': 1, 'method': 2, 'mockery': 1, 'moderate': 1, 'mole': 2, "murd'rous": 1, "name's": 1, 'non': 1, 'obscure': 1, 'orb': 1, 'passages': 1, 'perdition': 1, 'perfections': 2, 'pranks': 2, 'probation': 1, "purg'd": 1, 'radiant': 1, 'range': 1, "reliev'd": 2, 'removed': 1, 'resemble': 1, 'reserve': 1, 'rub': 2, 'sailors': 1, 'sepulchre': 1, 'sequel': 1, 'sheet': 2, 'skull': 5, 'spheres': 1, 'steep': 1, 'suffers': 3, 'tyrannous': 1, 'violets': 2, 'whet': 1, 'windy': 1, 'woodcock': 2}
 
 TN.txt and JC.txt links:
-	Total links: 53
+	Total links: 54
 	two-six links: 16
 {'basis': 1, 'curtsies': 1, 'discard': 1, 'exalted': 2, 'excepted': 1, "kill'st": 1, 'lethe': 1, 'particle': 1, 'receiving': 1, 'rudeness': 1, 'sayings': 1, 'sicken': 1, 'suburbs': 1, 'tempests': 1, 'unfirm': 1}
-	Seven-eleven links: 37
-{'across': 1, 'acting': 1, 'alliance': 1, 'attire': 1, 'coffin': 1, 'commended': 2, 'conceited': 1, "conceiv'd": 1, 'constantly': 1, 'contagion': 1, 'corpse': 2, 'digest': 1, 'distract': 1, 'enlarge': 1, 'formal': 1, 'genius': 1, 'hart': 4, 'havoc': 1, 'however': 1, 'madmen': 1, "mean'st": 1, "murd'rous": 1, "name's": 1, 'partake': 1, 'presage': 1, 'range': 1, 'shrewdly': 1, 'suffers': 1, 'surly': 2, 'whet': 1, 'wrangle': 1}
+	Seven-eleven links: 38
+{'across': 1, 'acting': 1, 'alliance': 1, 'attire': 1, 'coffin': 1, 'commended': 2, 'conceited': 1, "conceiv'd": 1, 'constantly': 1, 'contagion': 1, 'corpse': 2, 'digest': 1, 'distract': 1, 'enlarge': 1, 'formal': 1, 'genius': 1, 'hart': 4, 'havoc': 1, 'however': 1, 'lief': 1, 'madmen': 1, "mean'st": 1, "murd'rous": 1, "name's": 1, 'partake': 1, 'presage': 1, 'range': 1, 'shrewdly': 1, 'suffers': 1, 'surly': 2, 'whet': 1, 'wrangle': 1}
 
 TN.txt and JN.txt links:
 	Total links: 132
@@ -131,12 +131,12 @@ TN.txt and MAC.txt links:
 	Seven-eleven links: 31
 {'a-bed': 1, 'accounted': 1, 'acting': 1, 'affair': 1, 'attire': 1, 'chuck': 1, 'clamorous': 1, 'construction': 2, 'corner': 1, 'delivers': 1, 'fog': 1, 'genius': 1, 'gore': 1, 'hardy': 1, 'hunter': 1, 'idiot': 1, 'inhabit': 1, 'jocund': 1, "name's": 1, 'obscure': 1, 'probation': 1, "purg'd": 1, 'resolute': 1, 'shaft': 1, 'supplied': 1, 'surprise': 1, "thou'dst": 1, 'untie': 1, 'upbraid': 1, 'yew': 1}
 
-TN.txt and MM.txt links:
-	Total links: 111
-	two-six links: 42
-{'allied': 1, 'bethought': 1, 'bolts': 1, 'caper': 2, 'coffer': 1, 'consecrated': 1, 'cram': 1, 'cucullus': 1, 'extracting': 1, 'facit': 1, "fear'st": 2, 'feelingly': 1, 'fetter': 1, 'governs': 1, "induc'd": 1, 'mitigation': 1, 'monachum': 1, 'obstruction': 3, 'pang': 1, 'pirate': 4, 'pollution': 1, 'profanation': 2, 'quits': 1, 'receiving': 1, 'sayings': 1, 'sicken': 1, 'stealth': 1, 'strip': 1, 'suburbs': 3, 'surfeiting': 1, "travell'd": 1, 'villainously': 1}
-	Seven-eleven links: 69
-{"'save": 4, 'accounted': 1, 'acting': 1, 'adverse': 1, 'affair': 1, "alter'd": 2, 'beef': 1, 'blemish': 1, "conceiv'd": 1, 'concerning': 1, 'constantly': 1, 'continuance': 2, 'contracted': 1, 'darkly': 2, 'dealing': 1, 'denial': 2, 'dishonest': 10, 'durance': 2, 'fooling': 5, 'frailty': 2, 'generous': 1, 'giant': 2, 'ginger': 2, 'headstrong': 1, "imprison'd": 1, 'license': 2, 'method': 1, 'mutton': 1, 'non': 1, 'prattle': 1, 'probation': 2, 'removed': 1, 'resolute': 1, 'riddle': 1, 'sinister': 1, 'suffers': 1, 'tyrannous': 2, 'veil': 1, "wond'red": 1, 'yare': 1, "years'": 2}
+TN.txt and MMsh.txt links:
+	Total links: 99
+	two-six links: 36
+{'allied': 1, 'bethought': 1, 'bolts': 1, 'coffer': 1, 'consecrated': 1, 'cram': 1, 'cucullus': 1, 'extracting': 1, 'facit': 1, "fear'st": 2, 'fetter': 1, 'governs': 1, "induc'd": 1, 'monachum': 1, 'obstruction': 3, 'pang': 1, 'pirate': 2, 'pollution': 1, 'profanation': 2, 'quits': 1, 'receiving': 1, 'sayings': 1, 'sicken': 1, 'stealth': 1, 'strip': 1, 'suburbs': 3, 'surfeiting': 1, "travell'd": 1, 'villainously': 1}
+	Seven-eleven links: 63
+{"'save": 4, 'accounted': 1, 'acting': 1, 'adverse': 1, 'affair': 1, "alter'd": 2, 'beef': 1, 'blemish': 1, "conceiv'd": 1, 'concerning': 1, 'constantly': 1, 'continuance': 2, 'contracted': 1, 'darkly': 2, 'dealing': 1, 'denial': 2, 'dishonest': 10, 'durance': 2, 'frailty': 2, 'generous': 1, 'giant': 2, 'headstrong': 1, "imprison'd": 1, 'license': 2, 'lief': 1, 'method': 1, 'mutton': 1, 'non': 1, 'prattle': 1, 'probation': 2, 'removed': 1, 'resolute': 1, 'riddle': 1, 'sinister': 1, 'suffers': 1, 'tyrannous': 2, 'veil': 1, "wond'red": 1, 'yare': 1, "years'": 2}
 
 TN.txt and MND.txt links:
 	Total links: 92
@@ -147,10 +147,10 @@ TN.txt and MND.txt links:
 
 TN.txt and MV.txt links:
 	Total links: 87
-	two-six links: 37
-{'bespeak': 1, 'blent': 1, "borrow'd": 1, 'coffer': 1, 'constitution': 1, 'conveniently': 1, 'denying': 1, "desir'st": 2, 'dulcet': 1, 'estimable': 1, 'fangs': 1, 'fulsome': 1, 'grossness': 1, 'heresy': 1, 'hermit': 1, 'indies': 1, 'inevitable': 1, "maiden's": 1, 'masques': 1, 'pythagoras': 2, 'quarrelling': 1, "question's": 1, "rack'd": 1, 'sayings': 1, 'skipping': 1, 'sophy': 2, 'suited': 2, 'sways': 1, 'trunks': 1, 'vinegar': 1, 'watery': 1, 'wive': 1, 'wren': 1}
-	Seven-eleven links: 50
-{'allay': 2, 'apple': 2, 'asses': 1, 'beset': 1, 'coffin': 1, 'commendation': 1, 'continuance': 1, 'deserts': 2, "disgrac'd": 1, "fancy's": 1, 'feign': 1, 'fence': 1, 'follower': 1, 'fooling': 5, 'fraught': 1, 'ginger': 1, 'gossip': 2, 'idiot': 1, 'india': 1, 'moderate': 1, 'obscure': 1, 'orb': 1, 'paltry': 1, 'presage': 1, 'protection': 1, 'publish': 1, 'resemble': 1, 'sailors': 2, 'sepulchre': 1, 'shaft': 1, 'skillful': 2, 'skull': 1, 'text': 3, "thank'd": 1, 'visited': 1, 'whet': 1, 'wins': 1, 'wooer': 1}
+	two-six links: 38
+{'bespeak': 1, 'blent': 1, "borrow'd": 1, 'coffer': 1, 'constitution': 1, 'conveniently': 1, 'denying': 1, "desir'st": 2, 'dulcet': 1, 'estimable': 1, 'fangs': 1, 'fulsome': 1, 'ginger': 1, 'grossness': 1, 'heresy': 1, 'hermit': 1, 'indies': 1, 'inevitable': 1, "maiden's": 1, 'masques': 1, 'pythagoras': 2, 'quarrelling': 1, "question's": 1, "rack'd": 1, 'sayings': 1, 'skipping': 1, 'sophy': 2, 'suited': 2, 'sways': 1, 'trunks': 1, 'vinegar': 1, 'watery': 1, 'wive': 1, 'wren': 1}
+	Seven-eleven links: 49
+{'allay': 2, 'apple': 2, 'asses': 1, 'beset': 1, 'coffin': 1, 'commendation': 1, 'continuance': 1, 'deserts': 2, "disgrac'd": 1, "fancy's": 1, 'feign': 1, 'fence': 1, 'follower': 1, 'fooling': 5, 'fraught': 1, 'gossip': 2, 'idiot': 1, 'india': 1, 'moderate': 1, 'obscure': 1, 'orb': 1, 'paltry': 1, 'presage': 1, 'protection': 1, 'publish': 1, 'resemble': 1, 'sailors': 2, 'sepulchre': 1, 'shaft': 1, 'skillful': 2, 'skull': 1, 'text': 3, "thank'd": 1, 'visited': 1, 'whet': 1, 'wins': 1, 'wooer': 1}
 
 TN.txt and OTH.txt links:
 	Total links: 137
@@ -174,11 +174,11 @@ TN.txt and PHT.txt links:
 {}
 
 TN.txt and R2.txt links:
-	Total links: 80
+	Total links: 81
 	two-six links: 29
 {'baffled': 1, 'bennet': 1, 'bespake': 1, 'blanks': 1, 'bond-slave': 1, 'carpet': 1, 'clad': 1, 'clog': 1, 'consequently': 1, 'deceivable': 1, 'december': 1, 'determinate': 1, "divorc'd": 1, 'havior': 1, "kill'st": 1, "lack'st": 1, 'mads': 1, 'overweening': 1, 'persuades': 2, 'reins': 1, 'shrill': 1, 'stooping': 1, "suff'ring": 1, 'supportance': 1, 'thriftless': 1, "tortur'd": 1, 'ungracious': 1, 'wavering': 1}
-	Seven-eleven links: 51
-{"accomplish'd": 2, 'adds': 1, 'adverse': 1, 'alehouse': 1, 'belie': 1, 'bias': 1, 'blank': 1, 'calamity': 1, 'clamorous': 1, 'coffin': 1, 'comfortable': 1, 'crowned': 1, 'deem': 1, "disgrac'd": 1, 'enters': 1, 'fooling': 5, 'fruits': 1, 'hard-hearted': 2, 'however': 1, 'indignation': 2, 'inhabit': 1, 'jocund': 1, 'limits': 2, 'map': 1, 'midwife': 1, 'mockery': 1, 'nicely': 1, 'obscure': 1, 'passages': 2, 'prattle': 1, 'range': 1, 'sepulchre': 2, 'skull': 1, 'stable': 1, 'uncivil': 4, 'violets': 1, 'waxen': 1, 'yew': 1}
+	Seven-eleven links: 52
+{"accomplish'd": 2, 'adds': 1, 'adverse': 1, 'alehouse': 1, 'belie': 1, 'bias': 1, 'blank': 1, 'calamity': 1, 'clamorous': 1, 'coffin': 1, 'comfortable': 1, 'crowned': 1, 'deem': 1, "disgrac'd": 1, 'enters': 1, 'fooling': 5, 'fruits': 1, 'hard-hearted': 2, 'however': 1, 'indignation': 2, 'inhabit': 1, 'jocund': 1, 'lief': 1, 'limits': 2, 'map': 1, 'midwife': 1, 'mockery': 1, 'nicely': 1, 'obscure': 1, 'passages': 2, 'prattle': 1, 'range': 1, 'sepulchre': 2, 'skull': 1, 'stable': 1, 'uncivil': 4, 'violets': 1, 'waxen': 1, 'yew': 1}
 
 TN.txt and R3.txt links:
 	Total links: 117
@@ -195,11 +195,11 @@ TN.txt and ROM.txt links:
 {'a-bed': 1, 'acting': 1, 'alliance': 1, 'asking': 1, 'bench': 1, 'betake': 2, 'brine': 1, 'calamity': 1, 'cleft': 1, 'comfortable': 1, 'contagion': 1, 'continuance': 1, 'dealing': 1, 'decreed': 1, "dev'l": 2, 'devout': 1, 'doctrine': 1, 'enters': 1, 'feign': 1, 'follower': 1, 'gore': 1, 'gossip': 1, 'hard-hearted': 1, 'headstrong': 1, 'inconstant': 3, 'jaws': 1, 'jocund': 1, 'limits': 1, 'lively': 1, 'madmen': 1, 'maria': 4, 'martial': 1, 'midwife': 1, "name's": 2, 'orb': 1, 'presage': 1, "purg'd": 2, 'removed': 1, 'sepulchre': 2, 'shaft': 1, 'sheet': 2, 'spheres': 1, 'stark': 1, 'text': 3, 'tickling': 1, 'tyrannous': 1, 'ware': 2, 'woos': 1, 'yew': 2}
 
 TN.txt and SHR.txt links:
-	Total links: 111
+	Total links: 112
 	two-six links: 39
 {"abandon'd": 1, "abjur'd": 1, 'admire': 1, 'attendance': 1, 'bespeak': 1, 'catches': 2, 'conster': 2, 'cuff': 3, 'cypress': 2, 'dulcet': 1, "entertain'st": 1, 'flea': 1, 'fustian': 1, 'galleys': 1, 'haggard': 2, 'ingrate': 1, 'languages': 1, "maid's": 1, 'marian': 1, 'nap': 1, 'nightingales': 1, 'oxen': 1, 'roaming': 1, 'rudesby': 1, 'scent': 1, 'serviceable': 1, 'shrill': 1, 'skills': 1, 'sportful': 1, 'sweeting': 1, 'watery': 1, 'wive': 2}
-	Seven-eleven links: 72
-{'achieve': 12, 'apple': 2, 'aptly': 1, 'asking': 1, 'asses': 1, 'attire': 1, 'beef': 5, 'beset': 1, 'betters': 1, 'bias': 1, 'checks': 1, 'clamorous': 1, 'con': 1, "conceiv'd": 1, 'dally': 2, 'denial': 2, 'dissemble': 2, 'formal': 2, 'headstrong': 2, 'hits': 1, 'jolly': 1, 'lively': 1, 'mockery': 1, 'mutton': 1, 'paltry': 1, 'pedant': 4, 'prerogative': 1, 'resemble': 1, 'savors': 2, 'shrew': 8, 'stark': 2, 'surly': 2, "thou'dst": 1, 'untie': 1, 'witnesses': 2, 'woodcock': 2}
+	Seven-eleven links: 73
+{'achieve': 12, 'apple': 2, 'aptly': 1, 'asking': 1, 'asses': 1, 'attire': 1, 'beef': 5, 'beset': 1, 'betters': 1, 'bias': 1, 'checks': 1, 'clamorous': 1, 'con': 1, "conceiv'd": 1, 'dally': 2, 'denial': 2, 'dissemble': 2, 'formal': 2, 'headstrong': 2, 'hits': 1, 'jolly': 1, 'lief': 1, 'lively': 1, 'mockery': 1, 'mutton': 1, 'paltry': 1, 'pedant': 4, 'prerogative': 1, 'resemble': 1, 'savors': 2, 'shrew': 8, 'stark': 2, 'surly': 2, "thou'dst": 1, 'untie': 1, 'witnesses': 2, 'woodcock': 2}
 
 TN.txt and SPTAD.txt links:
 	Total links: 10
@@ -244,11 +244,11 @@ TN.txt and TMP.txt links:
 {"'save": 2, 'adore': 3, 'allay': 1, 'apple': 2, 'blemish': 1, 'brine': 2, 'cabin': 3, "charm'd": 1, 'continuance': 1, 'deity': 2, 'fooling': 5, 'genius': 1, "imprison'd": 1, 'increasing': 1, 'indignation': 2, 'inhabit': 1, 'jocund': 1, 'mast': 1, 'mole': 1, 'perdition': 2, 'prattle': 1, 'prerogative': 1, "reliev'd": 1, 'relieve': 2, 'removed': 1, 'rub': 1, 'sailors': 2, 'skull': 2, 'sot': 3, 'tabor': 3, 'untie': 1, 'upbraid': 1, "wond'red": 1, 'wrangle': 1, 'yare': 4}
 
 TN.txt and TNKsh.txt links:
-	Total links: 61
+	Total links: 62
 	two-six links: 30
 {'abatement': 1, 'anatomy': 1, 'arbitrement': 1, 'attendance': 1, 'blazon': 1, 'celebration': 2, 'contemplative': 1, 'cuff': 1, 'decays': 2, "distemper'd": 1, 'flax': 1, 'hallow': 1, 'hoist': 1, "hours'": 1, 'lids': 1, 'lighter': 1, 'odor': 1, 'odors': 3, "question's": 2, 'shackles': 1, 'spinsters': 1, 'undertaker': 1, 'unfriended': 1, 'whipstock': 1, 'wren': 1}
-	Seven-eleven links: 31
-{'alliance': 1, 'begging': 1, 'betake': 2, 'brine': 2, "charm'd": 1, "conceiv'd": 1, 'constantly': 1, 'corner': 1, 'crowned': 1, 'deity': 1, 'distemper': 1, 'distraction': 2, 'elysium': 1, 'follower': 1, 'generous': 2, 'halting': 1, 'hardy': 1, 'havoc': 1, 'passages': 1, "penn'd": 1, 'pranks': 2, "priz'd": 1, 'sinister': 1, "soe'er": 1, 'spheres': 1, 'talents': 1}
+	Seven-eleven links: 32
+{'alliance': 1, 'begging': 1, 'betake': 2, 'brine': 2, "charm'd": 1, "conceiv'd": 1, 'constantly': 1, 'corner': 1, 'crowned': 1, 'deity': 1, 'distemper': 1, 'distraction': 2, 'elysium': 1, 'follower': 1, 'generous': 2, 'halting': 1, 'hardy': 1, 'havoc': 1, 'lief': 1, 'passages': 1, "penn'd": 1, 'pranks': 2, "priz'd": 1, 'sinister': 1, "soe'er": 1, 'spheres': 1, 'talents': 1}
 
 TN.txt and TRO.txt links:
 	Total links: 174
@@ -265,25 +265,25 @@ TN.txt and VEN.txt links:
 {'adds': 1, 'aptly': 1, 'bloodless': 1, 'cabin': 1, 'caves': 2, 'clamorous': 1, 'dally': 2, 'dealing': 1, 'dissemble': 1, 'elysium': 1, 'enters': 1, 'gore': 2, 'idol': 1, "imprison'd": 1, 'increasing': 1, 'lively': 1, 'obscure': 1, 'presage': 1, "reliev'd": 1, 'reprove': 1, 'surprise': 2, 'text': 3, 'veil': 1, 'violets': 1, 'whet': 1, 'windy': 1, 'woos': 1}
 
 TN.txt and WIV.txt links:
-	Total links: 106
+	Total links: 108
 	two-six links: 40
 {'a-hungry': 1, 'aqua-vitae': 1, 'blazon': 1, 'canary': 4, 'cataian': 1, 'churchman': 1, 'coffer': 2, 'discard': 1, 'dishonesty': 1, 'draught': 2, 'expressure': 1, 'fighter': 1, 'flax': 1, 'grossness': 1, 'havior': 1, 'indies': 1, 'jester': 1, 'leman': 1, 'niggardly': 1, 'perpend': 1, 'phrases': 1, 'promis’d': 3, 'protests': 1, 'reins': 1, 'servingman': 2, 'shent': 1, 'slough': 2, 'studient': 1, 'swearings': 1, 'taunt': 1, 'well-a-day': 1}
-	Seven-eleven links: 66
-{'acquit': 1, 'address': 1, 'apprehended': 1, 'blank': 1, 'capacity': 3, 'checks': 1, 'commended': 2, 'conceited': 1, 'concerning': 1, 'conclusions': 1, 'construction': 2, 'contracted': 1, 'denial': 4, 'dishonest': 10, 'distemper': 3, 'distraction': 2, 'divinity': 2, 'fence': 2, 'follower': 1, 'frailty': 2, 'gossip': 1, 'hunter': 5, 'idiot': 1, 'paltry': 1, 'radiant': 1, 'rascally': 1, 'sathan': 2, 'sequel': 1, 'shaft': 1, 'simply': 1, 'sot': 3, 'surprise': 1, 'veil': 1, 'waxen': 1, 'wickedness': 1, 'woos': 1, 'wrangle': 1}
+	Seven-eleven links: 68
+{'acquit': 1, 'address': 1, 'apprehended': 1, 'blank': 1, 'capacity': 3, 'checks': 1, 'commended': 2, 'conceited': 1, 'concerning': 1, 'conclusions': 1, 'construction': 2, 'contracted': 1, 'denial': 4, 'dishonest': 10, 'distemper': 3, 'distraction': 2, 'divinity': 2, 'fence': 2, 'follower': 1, 'frailty': 2, 'gossip': 1, 'hunter': 5, 'idiot': 1, 'lief': 2, 'paltry': 1, 'radiant': 1, 'rascally': 1, 'sathan': 2, 'sequel': 1, 'shaft': 1, 'simply': 1, 'sot': 3, 'surprise': 1, 'veil': 1, 'waxen': 1, 'wickedness': 1, 'woos': 1, 'wrangle': 1}
 
 TN.txt and WT.txt links:
 	Total links: 124
-	two-six links: 53
-{'adheres': 1, 'allied': 1, 'aqua-vitae': 1, 'bawcock': 1, 'celebration': 1, 'clog': 1, 'concealment': 1, 'cram': 1, 'cypress': 2, 'damask': 1, 'december': 1, 'dedication': 1, 'denying': 1, 'dishonesty': 1, 'draught': 2, 'dumbness': 1, 'dwelt': 1, "earn'd": 1, 'enchantment': 1, 'evident': 1, 'expose': 1, "feel't": 2, 'fighter': 1, 'finer': 1, 'gust': 1, 'importance': 2, 'lethargy': 1, 'lids': 1, 'masterly': 1, "open't": 2, 'ounce': 1, 'overture': 1, 'persuades': 1, 'prizes': 1, 'receiving': 1, "recompens'd": 1, 'sanctity': 2, "spok'st": 1, 'squash': 1, 'strangle': 1, "swear't": 1, 'talkest': 1, 'tinkers': 1, "unclasp'd": 1, 'uncurrent': 1, 'unsafe': 1, 'utters': 1}
-	Seven-eleven links: 71
-{'ability': 2, 'across': 1, 'address': 1, 'adds': 1, 'affair': 1, 'allay': 1, 'alliance': 1, "alter'd": 2, 'betake': 2, 'betters': 1, 'blank': 1, 'blemish': 1, 'cabin': 1, 'cleft': 1, 'commended': 2, 'conceited': 1, 'contracted': 1, 'copy': 2, 'corpse': 1, 'deem': 1, 'deserts': 1, "disgrac'd": 1, 'distemper': 1, 'distraction': 4, 'doctrine': 1, 'fraught': 1, 'ginger': 1, 'habits': 2, "have't": 1, 'inconstant': 1, 'lively': 1, 'lullaby': 1, 'midwife': 1, 'partake': 2, 'perdition': 1, 'pranks': 2, 'prerogative': 1, 'protection': 1, 'puritan': 3, "recover'd": 1, 'recreation': 1, 'savors': 2, 'sheet': 2, 'shrewdly': 1, 'stark': 1, 'tabor': 3, 'tyrannous': 2, 'usage': 2, 'violets': 1, 'visited': 1, 'witnesses': 2}
+	two-six links: 54
+{'adheres': 1, 'allied': 1, 'aqua-vitae': 1, 'bawcock': 1, 'celebration': 1, 'clog': 1, 'concealment': 1, 'cram': 1, 'cypress': 2, 'damask': 1, 'december': 1, 'dedication': 1, 'denying': 1, 'dishonesty': 1, 'draught': 2, 'dumbness': 1, 'dwelt': 1, "earn'd": 1, 'enchantment': 1, 'evident': 1, 'expose': 1, "feel't": 2, 'fighter': 1, 'finer': 1, 'ginger': 1, 'gust': 1, 'importance': 2, 'lethargy': 1, 'lids': 1, 'masterly': 1, "open't": 2, 'ounce': 1, 'overture': 1, 'persuades': 1, 'prizes': 1, 'receiving': 1, "recompens'd": 1, 'sanctity': 2, "spok'st": 1, 'squash': 1, 'strangle': 1, "swear't": 1, 'talkest': 1, 'tinkers': 1, "unclasp'd": 1, 'uncurrent': 1, 'unsafe': 1, 'utters': 1}
+	Seven-eleven links: 70
+{'ability': 2, 'across': 1, 'address': 1, 'adds': 1, 'affair': 1, 'allay': 1, 'alliance': 1, "alter'd": 2, 'betake': 2, 'betters': 1, 'blank': 1, 'blemish': 1, 'cabin': 1, 'cleft': 1, 'commended': 2, 'conceited': 1, 'contracted': 1, 'copy': 2, 'corpse': 1, 'deem': 1, 'deserts': 1, "disgrac'd": 1, 'distemper': 1, 'distraction': 4, 'doctrine': 1, 'fraught': 1, 'habits': 2, "have't": 1, 'inconstant': 1, 'lively': 1, 'lullaby': 1, 'midwife': 1, 'partake': 2, 'perdition': 1, 'pranks': 2, 'prerogative': 1, 'protection': 1, 'puritan': 3, "recover'd": 1, 'recreation': 1, 'savors': 2, 'sheet': 2, 'shrewdly': 1, 'stark': 1, 'tabor': 3, 'tyrannous': 2, 'usage': 2, 'violets': 1, 'visited': 1, 'witnesses': 2}
 
 TN.txt and x1H4.txt links:
 	Total links: 99
-	two-six links: 39
-{'arbitrement': 1, 'baffle': 1, "balk'd": 1, "borrow'd": 1, 'brisk': 1, 'bristle': 1, 'candy': 1, 'consists': 1, 'detraction': 1, 'dick': 1, 'drowned': 1, 'fighter': 1, "flesh'd": 1, 'ingrate': 1, 'lath': 1, 'marian': 1, 'midsummer': 1, 'misprision': 1, 'murmur': 1, 'oxen': 1, 'pacified': 1, 'politician': 1, 'portend': 1, 'shrill': 1, 'skipping': 1, 'strangest': 2, 'strangle': 1, 'taffata': 1, 'talkest': 1, 'thighs': 1, 'true-bred': 1, 'tuck': 1, 'twopence': 2, 'ungracious': 1, 'wardrobe': 1, 'weaver': 1, "whoe'er": 1}
-	Seven-eleven links: 60
-{'beef': 1, 'belie': 2, "bewitch'd": 1, "challeng'd": 1, 'clamorous': 1, 'commendation': 1, 'contagious': 2, 'continuance': 1, 'contracted': 1, 'crowned': 1, 'dally': 2, 'deserts': 1, "diana's": 1, "disgrac'd": 1, 'durance': 1, 'frailty': 1, 'ginger': 1, 'grapple': 1, 'gull': 4, 'habits': 2, 'havoc': 1, 'horribly': 2, 'imitate': 1, 'india': 1, 'jaws': 1, 'license': 1, 'limits': 2, 'map': 2, 'orb': 1, 'passages': 1, "penn'd": 1, 'railing': 1, 'range': 1, 'recreation': 1, 'rub': 1, 'rudely': 1, 'sathan': 2, 'sepulchre': 1, "snatch'd": 1, 'stable': 2, 'stark': 1, 'supplied': 1, "thank'd": 1, 'usage': 1, 'visited': 1, "wond'red": 3}
+	two-six links: 40
+{'arbitrement': 1, 'baffle': 1, "balk'd": 1, "borrow'd": 1, 'brisk': 1, 'bristle': 1, 'candy': 1, 'consists': 1, 'detraction': 1, 'dick': 1, 'drowned': 1, 'fighter': 1, "flesh'd": 1, 'ginger': 1, 'ingrate': 1, 'lath': 1, 'marian': 1, 'midsummer': 1, 'misprision': 1, 'murmur': 1, 'oxen': 1, 'pacified': 1, 'politician': 1, 'portend': 1, 'shrill': 1, 'skipping': 1, 'strangest': 2, 'strangle': 1, 'taffata': 1, 'talkest': 1, 'thighs': 1, 'true-bred': 1, 'tuck': 1, 'twopence': 2, 'ungracious': 1, 'wardrobe': 1, 'weaver': 1, "whoe'er": 1}
+	Seven-eleven links: 59
+{'beef': 1, 'belie': 2, "bewitch'd": 1, "challeng'd": 1, 'clamorous': 1, 'commendation': 1, 'contagious': 2, 'continuance': 1, 'contracted': 1, 'crowned': 1, 'dally': 2, 'deserts': 1, "diana's": 1, "disgrac'd": 1, 'durance': 1, 'frailty': 1, 'grapple': 1, 'gull': 4, 'habits': 2, 'havoc': 1, 'horribly': 2, 'imitate': 1, 'india': 1, 'jaws': 1, 'license': 1, 'limits': 2, 'map': 2, 'orb': 1, 'passages': 1, "penn'd": 1, 'railing': 1, 'range': 1, 'recreation': 1, 'rub': 1, 'rudely': 1, 'sathan': 2, 'sepulchre': 1, "snatch'd": 1, 'stable': 2, 'stark': 1, 'supplied': 1, "thank'd": 1, 'usage': 1, 'visited': 1, "wond'red": 3}
 
 TN.txt and x1H6sh.txt links:
 	Total links: 10

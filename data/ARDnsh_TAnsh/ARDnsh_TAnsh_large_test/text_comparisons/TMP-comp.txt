@@ -1,9 +1,9 @@
 TMP.txt and ADO.txt links:
-	Total links: 56
+	Total links: 57
 	two-six links: 17
 {'assaults': 1, 'barns': 1, "car'd": 1, 'comforter': 2, "endow'd": 1, 'ewe': 1, 'harpy': 1, "howl'd": 1, 'incite': 1, 'jesting': 1, 'massy': 1, 'meg': 2, 'peopled': 1, 'stabs': 1, "thatch'd": 1}
-	Seven-eleven links: 39
-{'angle': 1, 'apes': 6, 'arrows': 1, 'bashful': 1, 'befits': 1, 'boarded': 1, 'coil': 2, "compos'd": 1, 'drunkard': 2, 'earthquake': 1, 'ensuing': 1, 'frost': 1, 'hearken': 1, "hush'd": 1, 'labors': 3, 'leapt': 1, "lik'd": 3, 'louder': 1, 'marrying': 1, 'quaint': 1, 'reputed': 1, 'rite': 1, 'scarf': 1, 'spell': 3, 'tabor': 1, 'travail': 1}
+	Seven-eleven links: 40
+{'angle': 1, 'apes': 6, 'arrows': 1, 'bashful': 1, 'befits': 1, 'boarded': 1, 'coil': 2, "compos'd": 1, 'drunkard': 2, 'earthquake': 1, 'ensuing': 1, 'frost': 1, 'hearken': 1, "hush'd": 1, 'labors': 3, 'leapt': 1, "lik'd": 3, 'louder': 1, 'marrying': 1, 'painful': 1, 'quaint': 1, 'reputed': 1, 'rite': 1, 'scarf': 1, 'spell': 3, 'tabor': 1, 'travail': 1}
 
 TMP.txt and ANT.txt links:
 	Total links: 168
@@ -34,11 +34,11 @@ TMP.txt and AYL.txt links:
 {"admir'd": 1, 'arrows': 2, 'attendants': 1, 'blossom': 1, 'bolt': 1, 'briers': 1, 'brooks': 2, 'confines': 1, 'corners': 1, "dash'd": 1, 'freshly': 1, 'gesture': 1, "heav'd": 2, "hour's": 1, 'invest': 1, 'lass': 1, 'lazy': 1, 'lieu': 1, "lik'd": 1, "measur'd": 1, 'missing': 1, 'monkey': 1, 'observation': 1, 'odious': 1, "oppress'd": 1, 'pageant': 1, 'particulars': 1, "perfum'd": 1, 'probable': 1, 'remainder': 1, "saw'st": 3, 'scarf': 1, "sigh'd": 3, 'sighing': 2, 'spectacle': 1, 'sphere': 1, 'studies': 1, 'swiftly': 1, "temper'd": 1, 'wearied': 1}
 
 TMP.txt and COR.txt links:
-	Total links: 180
+	Total links: 181
 	two-six links: 64
 {"'bout": 1, 'adrian': 1, 'afire': 1, 'afric': 1, 'allaying': 1, 'arabia': 1, 'bats': 2, "boil'd": 1, 'bountiful': 1, "car'd": 1, 'cloven': 2, 'desperation': 1, 'donation': 1, 'dregs': 1, 'fabric': 2, 'fen': 2, 'fens': 1, 'fins': 1, 'flung': 1, 'garners': 1, 'grind': 1, 'humanely': 1, 'hurried': 2, 'incapable': 1, 'inveterate': 1, 'issued': 1, 'magistrate': 1, "monster's": 3, 'mow': 4, 'murrain': 1, 'mutinous': 4, 'parent': 1, 'plaster': 1, 'popular': 4, 'pricking': 1, 'prompts': 1, 'remembrances': 1, "scandall'd": 1, 'selves': 1, 'smote': 1, 'stooping': 2, 'stripes': 1, "summon'd": 1, 'suppler': 1, 'swims': 1, 'trident': 1, "vouch'd": 1}
-	Seven-eleven links: 116
-{'abundance': 2, 'aches': 2, 'admire': 1, 'apes': 2, 'arch': 1, 'bolt': 1, 'briers': 1, 'brood': 1, "caus'd": 1, 'chronicle': 1, 'collected': 1, 'compassion': 1, 'deity': 2, "destroy'd": 1, 'din': 4, "dismay'd": 1, 'distinctly': 4, 'doit': 3, 'droop': 1, 'engine': 1, 'ensuing': 1, 'fails': 1, 'frost': 1, 'glasses': 2, "great'st": 1, 'harp': 1, 'hereditary': 1, 'hint': 2, "hour's": 1, "hush'd": 1, 'inches': 1, 'insolent': 2, 'itch': 1, "kneel'd": 1, 'labors': 3, 'lick': 1, 'meal': 2, 'millions': 1, 'minded': 2, 'morsel': 1, 'nail': 2, 'nerves': 1, 'occupation': 1, 'particulars': 1, "phoebus'": 1, 'pile': 6, "pinch'd": 3, 'poisonous': 2, 'precepts': 1, 'prerogative': 1, 'probable': 1, 'prompt': 2, "pronounc'd": 1, 'rabble': 3, 'raising': 1, 'rapt': 1, 'rarest': 1, 'rats': 2, 'regions': 1, 'repulse': 1, "requir'd": 1, 'rub': 1, "sigh'd": 2, 'sleepy': 1, 'smelt': 1, 'spell': 3, 'stinking': 2, 'strengths': 2, 'strongest': 1, 'suffered': 1, 'tabor': 1, 'temperance': 2, 'unwholesome': 1, 'upbraid': 1, "wi'": 2, 'widows': 2}
+	Seven-eleven links: 117
+{'abundance': 2, 'aches': 2, 'admire': 1, 'apes': 2, 'arch': 1, 'bolt': 1, 'briers': 1, 'brood': 1, "caus'd": 1, 'chronicle': 1, 'collected': 1, 'compassion': 1, 'deity': 2, "destroy'd": 1, 'din': 4, "dismay'd": 1, 'distinctly': 4, 'doit': 3, 'droop': 1, 'engine': 1, 'ensuing': 1, 'fails': 1, 'frost': 1, 'glasses': 2, "great'st": 1, 'harp': 1, 'hereditary': 1, 'hint': 2, "hour's": 1, "hush'd": 1, 'inches': 1, 'insolent': 2, 'itch': 1, "kneel'd": 1, 'labors': 3, 'lick': 1, 'meal': 2, 'millions': 1, 'minded': 2, 'morsel': 1, 'nail': 2, 'nerves': 1, 'occupation': 1, 'painful': 1, 'particulars': 1, "phoebus'": 1, 'pile': 6, "pinch'd": 3, 'poisonous': 2, 'precepts': 1, 'prerogative': 1, 'probable': 1, 'prompt': 2, "pronounc'd": 1, 'rabble': 3, 'raising': 1, 'rapt': 1, 'rarest': 1, 'rats': 2, 'regions': 1, 'repulse': 1, "requir'd": 1, 'rub': 1, "sigh'd": 2, 'sleepy': 1, 'smelt': 1, 'spell': 3, 'stinking': 2, 'strengths': 2, 'strongest': 1, 'suffered': 1, 'tabor': 1, 'temperance': 2, 'unwholesome': 1, 'upbraid': 1, "wi'": 2, 'widows': 2}
 
 TMP.txt and CYM.txt links:
 	Total links: 164
@@ -48,11 +48,11 @@ TMP.txt and CYM.txt links:
 {'abhorred': 1, "admir'd": 1, 'advocate': 1, 'apes': 4, 'arch': 1, 'attendants': 2, 'bees': 1, 'bolt': 3, "boy's": 1, 'carcass': 1, "caus'd": 1, 'cedar': 4, 'changing': 1, "charm'd": 1, 'corners': 2, 'credulous': 1, "dear'st": 1, 'deity': 2, 'demanded': 2, 'dig': 1, 'diligence': 2, 'din': 2, 'europe': 1, 'flows': 1, 'freshly': 2, 'gins': 1, "great'st": 1, "heav'd": 2, 'hint': 2, "importun'd": 1, "imprison'd": 1, 'inches': 2, 'increasing': 2, 'justify': 1, "ling'ring": 2, 'marrying': 1, 'meal': 2, "measur'd": 1, 'mire': 1, 'missing': 2, 'mole': 3, 'nerves': 1, "oppress'd": 1, 'palaces': 1, 'paragon': 2, 'particulars': 1, "phoebus'": 1, 'poisonous': 2, 'pool': 2, 'probable': 2, 'rarest': 2, 'regions': 1, 'relation': 1, 'repulse': 1, 'resist': 1, "retir'd": 1, 'sailors': 2, 'sleepy': 1, 'sloth': 2, 'stare': 1, 'stinking': 2, 'straightway': 1, "tak'st": 1, "vanish'd": 2, "vex'd": 1, 'violate': 1, 'whelp': 3, 'winning': 2}
 
 TMP.txt and E3nsh.txt links:
-	Total links: 62
+	Total links: 66
 	two-six links: 21
 {'approaching': 1, 'assaults': 1, 'beak': 1, "chain'd": 1, 'devouring': 1, 'fade': 1, 'foretold': 1, 'forgetting': 1, 'fortitude': 1, 'inly': 1, 'neglecting': 1, "now's": 1, 'pillars': 1, 'prepared': 1, 'pricking': 1, 'reeling': 1, 'refresh': 1, 'sharply': 1, 'sunk': 2, 'wombs': 1}
-	Seven-eleven links: 41
-{"admir'd": 1, 'advocate': 1, 'airy': 1, 'blossom': 1, 'changing': 1, "compass'd": 1, 'coronet': 2, "deck'd": 1, "destroy'd": 1, "dismay'd": 1, "enjoin'd": 2, 'entrails': 1, 'hearty': 1, 'ignoble': 1, 'increasing': 1, 'insolent': 1, 'lazy': 1, 'millions': 2, 'minded': 1, 'pool': 2, 'providence': 2, 'provokes': 1, 'relation': 1, 'repulse': 2, 'retain': 2, "retir'd": 1, 'savor': 1, 'strongest': 2, 'tawny': 1, 'threaten': 1, 'traffic': 1, 'violate': 1, 'winning': 1}
+	Seven-eleven links: 45
+{"admir'd": 1, 'advocate': 1, 'airy': 1, 'blossom': 1, 'changing': 1, "compass'd": 1, 'coronet': 2, "deck'd": 1, "destroy'd": 1, "dismay'd": 1, "enjoin'd": 2, 'entrails': 1, 'hearty': 1, 'ignoble': 1, 'increasing': 1, 'insolent': 1, 'lazy': 1, 'millions': 2, 'minded': 1, 'painful': 4, 'pool': 2, 'providence': 2, 'provokes': 1, 'relation': 1, 'repulse': 2, 'retain': 2, "retir'd": 1, 'savor': 1, 'strongest': 2, 'tawny': 1, 'threaten': 1, 'traffic': 1, 'violate': 1, 'winning': 1}
 
 TMP.txt and ERR.txt links:
 	Total links: 75
@@ -62,11 +62,11 @@ TMP.txt and ERR.txt links:
 {'advocate': 1, 'chat': 1, 'coil': 1, 'dalliance': 2, "disturb'd": 1, 'drunkard': 2, 'genius': 1, 'globe': 1, "importun'd": 2, 'inhabit': 2, 'lamps': 1, 'levied': 1, "liv'st": 1, 'mast': 2, 'mire': 1, 'mole': 1, 'nail': 1, 'observation': 1, 'porridge': 1, 'provision': 1, 'pulse': 4, 'rabble': 1, 'raising': 1, "requir'd": 1, 'retain': 1, 'rope': 12, 'sailors': 2, "saw'st": 1, "sever'd": 1, 'sot': 1, 'sprites': 2, 'such-like': 1, 'supper-time': 1, 'traffic': 1, 'travail': 1}
 
 TMP.txt and H5.txt links:
-	Total links: 122
+	Total links: 123
 	two-six links: 58
 {'amply': 1, 'basis': 1, 'billows': 1, 'blessedly': 1, 'bogs': 1, 'bottles': 1, 'bough': 1, "car'd": 1, 'consciences': 1, 'cruelly': 1, "curl'd": 1, 'disobey': 1, 'docks': 1, 'dropping': 1, "either's": 1, 'foaming': 1, 'freckled': 1, 'fresher': 1, 'fuel': 1, 'grandmother': 1, 'gunner': 1, 'husks': 1, 'incite': 1, 'inly': 1, 'issued': 1, 'leas': 1, "let't": 1, 'luggage': 4, 'meads': 1, 'necessaries': 1, 'ooze': 2, 'outstrip': 1, 'peopled': 1, 'perfected': 1, 'pied': 1, 'pike': 1, 'popular': 1, 'preservation': 2, 'ratify': 1, 'refresh': 1, "rememb'ring": 1, 'requiring': 1, "shak'd": 1, 'sucks': 2, 'tackle': 1, 'temperate': 1, 'temporal': 1, 'unworthiness': 1, 'visits': 1, 'wardrobe': 1, 'winding': 1, 'wraths': 1}
-	Seven-eleven links: 64
-{'admire': 1, 'arrows': 1, 'berries': 2, 'bolt': 1, 'butt': 4, "caus'd": 1, 'ceremonies': 2, 'chronicle': 1, 'climate': 1, 'collected': 2, "compos'd": 1, 'cram': 1, 'curtains': 1, 'dalliance': 1, "dash'd": 1, "deck'd": 1, "destroy'd": 1, "disturb'd": 1, 'duck': 3, 'earthquake': 1, 'entrails': 1, 'europe': 2, 'freshly': 2, 'gesture': 1, 'hoop': 1, 'howl': 1, 'lazy': 1, 'levied': 1, 'lieu': 1, "lik'd": 1, "liv'st": 1, "measur'd": 1, 'perdition': 2, 'pockets': 1, 'precepts': 1, 'prompt': 1, "pronounc'd": 1, 'resist': 1, 'rub': 2, 'savor': 2, 'stray': 1, 'surge': 1, 'tawny': 1, "temper'd": 1, 'threaten': 1, 'unwholesome': 1, 'whelp': 1, 'whistle': 1, 'widows': 1, 'wooden': 2}
+	Seven-eleven links: 65
+{'admire': 1, 'arrows': 1, 'berries': 2, 'bolt': 1, 'butt': 4, "caus'd": 1, 'ceremonies': 2, 'chronicle': 1, 'climate': 1, 'collected': 2, "compos'd": 1, 'cram': 1, 'curtains': 1, 'dalliance': 1, "dash'd": 1, "deck'd": 1, "destroy'd": 1, "disturb'd": 1, 'duck': 3, 'earthquake': 1, 'entrails': 1, 'europe': 2, 'freshly': 2, 'gesture': 1, 'hoop': 1, 'howl': 1, 'lazy': 1, 'levied': 1, 'lieu': 1, "lik'd": 1, "liv'st": 1, "measur'd": 1, 'painful': 1, 'perdition': 2, 'pockets': 1, 'precepts': 1, 'prompt': 1, "pronounc'd": 1, 'resist': 1, 'rub': 2, 'savor': 2, 'stray': 1, 'surge': 1, 'tawny': 1, "temper'd": 1, 'threaten': 1, 'unwholesome': 1, 'whelp': 1, 'whistle': 1, 'widows': 1, 'wooden': 2}
 
 TMP.txt and H8sh.txt links:
 	Total links: 54
@@ -104,11 +104,11 @@ TMP.txt and LC.txt links:
 {'airy': 1, 'besiege': 1, 'brine': 2, 'carcass': 1, 'manifold': 1, 'melting': 1, 'precepts': 1, 'prompt': 1, 'rarest': 1, 'receives': 1, "sigh'd": 1}
 
 TMP.txt and LLL.txt links:
-	Total links: 104
+	Total links: 105
 	two-six links: 44
 {'annual': 1, 'appertaining': 1, 'badges': 1, 'blister': 1, 'bowed': 1, 'certes': 1, 'cloven': 2, 'consciences': 1, 'crabs': 1, 'devouring': 1, 'enchanted': 1, 'excel': 2, "form'd": 1, 'grandmother': 1, 'gun': 1, 'heedfully': 1, 'hogshead': 2, 'inde': 1, 'indignity': 1, 'interrupt': 1, 'jesting': 1, 'justle': 1, 'logs': 3, "o'erthrown": 1, 'painfully': 1, 'pease': 1, 'pied': 1, 'scout': 2, 'sea-water': 1, 'slipper': 1, 'smote': 1, 'solemnized': 1, 'teen': 1, 'tutors': 1, 'volumes': 1, 'weeks': 2, "welkin's": 1}
-	Seven-eleven links: 60
-{'admire': 1, 'apple': 1, 'arrows': 1, 'besiege': 1, 'blossom': 1, "boy's": 1, 'butt': 4, 'cedar': 1, 'changing': 1, 'chat': 2, 'cutting': 1, "dash'd": 1, "deck'd": 1, 'deity': 2, "dismay'd": 1, 'drunkard': 2, "enjoin'd": 1, 'flows': 1, 'frost': 1, 'glasses': 2, 'gorgeous': 1, 'hearken': 1, 'hoop': 1, "hour's": 1, 'inches': 2, 'influence': 1, 'lass': 1, 'lieu': 1, 'meal': 1, "measur'd": 3, 'mire': 1, 'mounting': 1, 'nail': 1, 'observation': 2, 'pageant': 1, 'peerless': 1, 'plume': 1, 'porridge': 1, 'pricks': 2, 'provokes': 1, 'studies': 2, 'tabor': 1, 'tawny': 1, "wi'": 2, 'winters': 1, 'wrangle': 1}
+	Seven-eleven links: 61
+{'admire': 1, 'apple': 1, 'arrows': 1, 'besiege': 1, 'blossom': 1, "boy's": 1, 'butt': 4, 'cedar': 1, 'changing': 1, 'chat': 2, 'cutting': 1, "dash'd": 1, "deck'd": 1, 'deity': 2, "dismay'd": 1, 'drunkard': 2, "enjoin'd": 1, 'flows': 1, 'frost': 1, 'glasses': 2, 'gorgeous': 1, 'hearken': 1, 'hoop': 1, "hour's": 1, 'inches': 2, 'influence': 1, 'lass': 1, 'lieu': 1, 'meal': 1, "measur'd": 3, 'mire': 1, 'mounting': 1, 'nail': 1, 'observation': 2, 'pageant': 1, 'painful': 1, 'peerless': 1, 'plume': 1, 'porridge': 1, 'pricks': 2, 'provokes': 1, 'studies': 2, 'tabor': 1, 'tawny': 1, "wi'": 2, 'winters': 1, 'wrangle': 1}
 
 TMP.txt and LR.txt links:
 	Total links: 162
@@ -118,11 +118,11 @@ TMP.txt and LR.txt links:
 {'abhorred': 1, 'advancement': 1, 'apple': 1, 'arch': 1, 'auspicious': 2, 'bolt': 1, 'bourn': 2, "boy's": 1, 'coronet': 1, 'credulous': 1, 'curtains': 1, 'demanded': 1, 'diligence': 4, 'dissolve': 2, 'dower': 1, 'engine': 1, 'exact': 1, 'filth': 1, 'forgiveness': 2, 'globe': 1, 'gorgeous': 2, 'grudge': 1, 'hearty': 1, "heav'd": 2, 'hereditary': 1, 'howl': 3, "importun'd": 1, "imprison'd": 1, 'indignation': 1, 'influence': 2, 'insolent': 1, 'invest': 1, 'labors': 6, 'leapt': 1, 'levied': 1, 'lick': 1, 'litter': 1, 'louder': 1, 'manifold': 2, 'minded': 1, 'mire': 1, 'observation': 1, 'occupation': 1, "oppress'd": 1, 'palaces': 1, 'particulars': 1, "phoebus'": 1, 'pockets': 1, 'pool': 2, 'porridge': 1, 'pricks': 1, 'provision': 3, 'rabble': 1, 'rarest': 1, 'rats': 2, "requir'd": 1, 'retain': 2, 'savor': 2, "sever'd": 1, 'sloth': 2, 'smelt': 1, 'sot': 1, 'stare': 1, 'stinking': 1, 'strangeness': 2, 'stray': 1, 'strengths': 1, 'suggestion': 2, 'summons': 1, 'surge': 1, 'swim': 3, 'syllable': 1, 'temperance': 2, "vex'd": 1, 'wheat': 1, 'whistle': 1, 'whores': 1, 'wooden': 2}
 
 TMP.txt and LUC.txt links:
-	Total links: 115
+	Total links: 116
 	two-six links: 43
 {'barns': 1, 'batter': 1, 'beak': 1, 'bee': 2, 'contraries': 1, 'cooling': 1, 'coral': 2, 'cramps': 3, 'cruelly': 1, 'devouring': 1, 'ebbs': 2, "either's": 2, 'enchanted': 1, "form'd": 2, 'fumes': 1, 'ghastly': 2, 'heedfully': 1, 'maze': 2, 'meads': 1, 'misshapen': 1, 'momentary': 1, 'noontide': 1, 'prescience': 1, 'rejoicing': 1, 'requiring': 1, "show'rs": 1, 'sustaining': 2, 'useless': 1, 'weakly': 1, 'weariness': 2, 'winding': 2}
-	Seven-eleven links: 72
-{"admir'd": 1, 'arch': 1, 'auspicious': 2, 'bashful': 1, 'bees': 1, 'besiege': 1, 'bleeds': 2, 'blemish': 2, 'brine': 2, 'brood': 1, 'brooks': 2, 'cedar': 1, "charm'd": 1, 'chat': 1, 'continuance': 1, 'credulous': 1, 'curtains': 1, 'demanded': 1, 'diligence': 2, 'direful': 1, "dismay'd": 1, 'dolor': 2, 'filth': 1, 'flows': 1, 'forgo': 1, 'frost': 1, 'halt': 1, "imprison'd": 1, 'jocund': 1, 'kinds': 4, 'leapt': 1, 'lighted': 1, "ling'ring": 1, "liv'st": 1, 'melting': 2, 'mire': 1, "oppress'd": 1, 'peerless': 1, 'poisonous': 2, 'pricks': 1, 'receives': 1, 'snare': 1, 'spectacle': 1, 'temperance': 2, 'thorns': 1, 'toads': 1, "tow'rs": 2, 'traffic': 1, 'travail': 1, 'unwholesome': 2, "vanish'd": 1, 'violate': 1, 'waits': 1, 'wearied': 2, 'wronged': 2}
+	Seven-eleven links: 73
+{"admir'd": 1, 'arch': 1, 'auspicious': 2, 'bashful': 1, 'bees': 1, 'besiege': 1, 'bleeds': 2, 'blemish': 2, 'brine': 2, 'brood': 1, 'brooks': 2, 'cedar': 1, "charm'd": 1, 'chat': 1, 'continuance': 1, 'credulous': 1, 'curtains': 1, 'demanded': 1, 'diligence': 2, 'direful': 1, "dismay'd": 1, 'dolor': 2, 'filth': 1, 'flows': 1, 'forgo': 1, 'frost': 1, 'halt': 1, "imprison'd": 1, 'jocund': 1, 'kinds': 4, 'leapt': 1, 'lighted': 1, "ling'ring": 1, "liv'st": 1, 'melting': 2, 'mire': 1, "oppress'd": 1, 'painful': 1, 'peerless': 1, 'poisonous': 2, 'pricks': 1, 'receives': 1, 'snare': 1, 'spectacle': 1, 'temperance': 2, 'thorns': 1, 'toads': 1, "tow'rs": 2, 'traffic': 1, 'travail': 1, 'unwholesome': 2, "vanish'd": 1, 'violate': 1, 'waits': 1, 'wearied': 2, 'wronged': 2}
 
 TMP.txt and MAC.txt links:
 	Total links: 108
@@ -131,12 +131,12 @@ TMP.txt and MAC.txt links:
 	Seven-eleven links: 70
 {'abhorred': 1, "admir'd": 1, 'ague': 3, 'bleeds': 1, "compass'd": 1, "dash'd": 1, 'desolate': 1, 'direful': 1, "dismay'd": 1, 'dolor': 1, 'droop': 1, 'elves': 1, 'entrails': 1, 'genius': 1, 'gins': 1, 'hearty': 1, "hour's": 1, 'howl': 1, 'inhabit': 1, 'invest': 1, 'jocund': 1, 'lighted': 2, 'lime': 1, 'meal': 1, "measur'd": 1, 'missing': 1, 'monkey': 1, 'nerves': 1, "ow'd": 2, 'palaces': 1, 'particulars': 1, 'peerless': 1, 'professes': 1, "pronounc'd": 1, 'provokes': 2, 'rapt': 3, 'relation': 1, "scap'd": 2, 'scarf': 1, 'shaking': 1, 'sleepy': 2, 'sprites': 6, 'suggestion': 2, 'summons': 3, 'supper-time': 1, "swoll'n": 1, 'syllable': 2, 'traffic': 1, 'upbraid': 1, "vanish'd": 2, 'widows': 1}
 
-TMP.txt and MM.txt links:
-	Total links: 105
-	two-six links: 39
-{'approaching': 1, 'blasphemy': 1, "brain'd": 1, 'crabbed': 1, 'curfew': 1, 'delaying': 1, "fault's": 3, 'foison': 2, "forget'st": 1, 'hollowly': 1, 'momentary': 1, "perish'd": 4, 'prepared': 1, 'rejoicing': 1, 'requiring': 1, 'resides': 1, 'sanctimonious': 1, 'selves': 1, 'skins': 1, 'sparrows': 1, 'sulphurous': 1, 'temporal': 1, 'test': 1, 'tilth': 1, 'unwonted': 1, 'vineyard': 6, 'volumes': 1, 'warrants': 1}
-	Seven-eleven links: 66
-{'blemish': 1, 'bolt': 1, 'changing': 1, 'continuance': 2, 'corners': 1, 'cram': 1, 'credulous': 1, 'diligence': 2, 'dreaming': 1, 'filth': 1, 'flows': 1, 'fooling': 1, 'forgiveness': 1, 'freshly': 1, 'glasses': 2, 'harp': 1, 'hearty': 1, "imprison'd": 1, 'invest': 1, 'its': 2, 'justify': 1, "kneel'd": 1, "ling'ring": 1, 'louder': 1, 'marrying': 1, 'meal': 1, 'millions': 1, 'morsel': 1, 'nerves': 1, 'occupation': 3, "pardon'd": 4, 'plume': 1, 'prattle': 1, 'professes': 2, 'rats': 1, 'receives': 1, 'release': 3, 'sleepy': 1, 'smelt': 1, 'strangeness': 2, 'syllable': 1, "tak'st": 1, "temper'd": 1, 'temperance': 2, 'unfit': 1, 'whores': 1, 'winters': 1, "wond'red": 1, 'yare': 4}
+TMP.txt and MMsh.txt links:
+	Total links: 101
+	two-six links: 38
+{'approaching': 1, 'blasphemy': 1, "brain'd": 1, 'crabbed': 1, 'curfew': 1, 'delaying': 1, "fault's": 3, 'foison': 2, "forget'st": 1, 'hollowly': 1, 'momentary': 1, "perish'd": 4, 'prepared': 1, 'rejoicing': 1, 'requiring': 1, 'resides': 1, 'selves': 1, 'skins': 1, 'sparrows': 1, 'sulphurous': 1, 'temporal': 1, 'test': 1, 'tilth': 1, 'unwonted': 1, 'vineyard': 6, 'volumes': 1, 'warrants': 1}
+	Seven-eleven links: 63
+{'blemish': 1, 'bolt': 1, 'changing': 1, 'continuance': 2, 'corners': 1, 'cram': 1, 'credulous': 1, 'diligence': 2, 'dreaming': 1, 'filth': 1, 'flows': 1, 'forgiveness': 1, 'freshly': 1, 'glasses': 2, 'harp': 1, 'hearty': 1, "imprison'd": 1, 'invest': 1, 'justify': 1, "kneel'd": 1, "ling'ring": 1, 'louder': 1, 'marrying': 1, 'meal': 1, 'millions': 1, 'morsel': 1, 'nerves': 1, 'occupation': 3, "pardon'd": 4, 'plume': 1, 'prattle': 1, 'professes': 2, 'rats': 1, 'receives': 1, 'release': 3, 'sleepy': 1, 'smelt': 1, 'strangeness': 2, 'syllable': 1, "tak'st": 1, "temper'd": 1, 'temperance': 2, 'unfit': 1, 'whores': 1, 'winters': 1, "wond'red": 1, 'yare': 4}
 
 TMP.txt and MND.txt links:
 	Total links: 120
@@ -160,11 +160,11 @@ TMP.txt and OTH.txt links:
 {'aches': 2, 'blossom': 1, 'boarded': 1, 'butt': 4, 'celebration': 1, 'chains': 1, 'chronicle': 1, 'climate': 1, 'credulous': 1, 'curtains': 1, "dash'd": 1, 'demanded': 1, 'direful': 1, "dismay'd": 1, 'distinctly': 4, 'drowning': 12, 'drunkard': 2, 'duck': 3, 'filth': 1, 'gesture': 2, 'globe': 1, 'hint': 4, "hush'd": 1, 'insolent': 1, 'invest': 1, 'itch': 1, 'labors': 3, 'marrying': 1, 'melting': 1, 'millions': 1, 'odious': 1, 'pageant': 1, 'perdition': 6, "perfum'd": 1, 'plume': 1, 'poisonous': 1, 'prattle': 2, 'probable': 1, 'prompt': 1, "requir'd": 1, 'resist': 1, 'rub': 1, "scap'd": 2, 'sea-side': 1, "sigh'd": 1, 'sighing': 1, 'stare': 2, 'strangeness': 2, 'summons': 1, 'supper-time': 1, 'surge': 1, 'syllable': 1, 'toads': 1, 'unfit': 1, 'unwholesome': 1, 'whistle': 1, 'wrangle': 1}
 
 TMP.txt and PERsh.txt links:
-	Total links: 84
+	Total links: 85
 	two-six links: 33
 {'annual': 1, 'boatswain': 4, 'celebrate': 2, 'cracks': 1, 'dropping': 1, 'harpy': 1, "how's": 3, 'humming': 1, 'interrupt': 1, "island's": 1, "minist'red": 1, "o'erboard": 2, 'ooze': 2, "op'd": 1, 'ordered': 1, 'paphos': 1, 'pierces': 1, 'refresh': 1, 'snores': 1, 'south-west': 1, 'sty': 1, 'sulphurous': 1, 'supposing': 1, 'surges': 1, 'trebles': 1}
-	Seven-eleven links: 51
-{'bated': 1, 'bourn': 2, 'brine': 2, 'deity': 2, 'demanded': 1, 'diligence': 2, 'din': 4, 'doit': 1, 'duck': 3, 'filth': 1, 'gins': 1, 'hatches': 3, 'justify': 1, 'lamps': 1, 'louder': 1, 'mast': 1, 'morsel': 1, 'paragon': 2, 'peerless': 1, 'provision': 2, 'pulse': 2, 'rarest': 2, 'regions': 1, 'relation': 1, 'rite': 1, 'sailors': 2, 'savor': 1, 'strengthen': 1, 'suffered': 2, 'syllable': 1, 'travail': 1, 'unwholesome': 1, 'whistle': 1, 'wooden': 1}
+	Seven-eleven links: 52
+{'bated': 1, 'bourn': 2, 'brine': 2, 'deity': 2, 'demanded': 1, 'diligence': 2, 'din': 4, 'doit': 1, 'duck': 3, 'filth': 1, 'gins': 1, 'hatches': 3, 'justify': 1, 'lamps': 1, 'louder': 1, 'mast': 1, 'morsel': 1, 'painful': 1, 'paragon': 2, 'peerless': 1, 'provision': 2, 'pulse': 2, 'rarest': 2, 'regions': 1, 'relation': 1, 'rite': 1, 'sailors': 2, 'savor': 1, 'strengthen': 1, 'suffered': 2, 'syllable': 1, 'travail': 1, 'unwholesome': 1, 'whistle': 1, 'wooden': 1}
 
 TMP.txt and PHT.txt links:
 	Total links: 3
@@ -202,9 +202,9 @@ TMP.txt and SHRnsh.txt links:
 {'admire': 1, 'apple': 1, 'bashful': 1, 'carthage': 4, 'changing': 1, 'credulous': 1, 'din': 4, 'dower': 3, 'hearken': 1, 'lighted': 1, 'louder': 1, "perfum'd": 1, "pinch'd": 3, 'plotted': 1, 'prerogative': 1, 'quaint': 1, 'studies': 2, 'swiftly': 1, 'traffic': 1, 'waits': 1}
 
 TMP.txt and SPTAD.txt links:
-	Total links: 21
-	two-six links: 7
-{'afflictions': 1, 'afire': 2, 'massy': 1, 'mid': 1, 'shrieking': 1, 'trice': 1}
+	Total links: 20
+	two-six links: 6
+{'afire': 2, 'massy': 1, 'mid': 1, 'shrieking': 1, 'trice': 1}
 	Seven-eleven links: 14
 {"boy's": 1, 'cutting': 1, 'dive': 1, 'ignoble': 1, 'pool': 2, 'rear': 1, 'sprites': 4, 'stare': 1, 'such-like': 1, 'toads': 1}
 

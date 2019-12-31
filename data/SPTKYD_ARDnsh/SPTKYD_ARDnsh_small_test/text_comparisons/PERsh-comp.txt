@@ -131,12 +131,12 @@ PERsh.txt and MAC.txt links:
 	Seven-eleven links: 32
 {'artificial': 1, 'banners': 1, 'cases': 1, "chanc'd": 1, 'crime': 1, 'cures': 1, 'discern': 1, 'expire': 1, 'feat': 1, 'gins': 1, "hatch'd": 1, 'interim': 1, "list'ning": 1, "live's": 1, 'market': 1, 'peerless': 1, 'pious': 1, "quench'd": 1, 'reconcile': 1, 'relate': 1, 'relation': 1, 'repetition': 1, 'rides': 1, 'rooted': 1, 'seeds': 1, 'spacious': 1, 'surprise': 1, 'syllable': 1, 'threatens': 1, 'thunders': 1, 'whilest': 1, 'whispers': 1}
 
-PERsh.txt and MM.txt links:
-	Total links: 51
-	two-six links: 21
-{'authorities': 1, 'awakes': 1, 'bethought': 1, 'caper': 1, 'clients': 1, 'coffer': 1, 'customers': 1, 'distant': 1, 'graciously': 1, 'nips': 1, "nurs'd": 1, 'nursing': 1, 'perch': 1, 'pirate': 1, 'preserved': 1, 'province': 1, 'satin': 1, 'stink': 1, 'sulphurous': 1, 'unprofitable': 1, 'wrench': 1}
-	Seven-eleven links: 30
-{'answering': 1, "batt'ry": 1, 'characters': 1, 'choleric': 1, 'chosen': 1, 'complexions': 1, 'diligence': 1, 'filth': 1, 'fitter': 1, 'glance': 1, "hatch'd": 1, 'iniquity': 1, 'justify': 1, 'louder': 1, 'morsel': 1, 'moulded': 1, 'painful': 1, 'pious': 1, "quench'd": 1, 'quest': 1, 'relate': 1, 'reveal': 1, 'substitute': 1, 'sweetness': 1, 'syllable': 1, 'tenor': 1, 'thirsty': 1, 'unhallowed': 1, 'vail': 1, 'virginity': 1}
+PERsh.txt and MMsh.txt links:
+	Total links: 47
+	two-six links: 18
+{'authorities': 1, 'awakes': 1, 'bethought': 1, 'clients': 1, 'coffer': 1, 'distant': 1, 'graciously': 1, 'nips': 1, "nurs'd": 1, 'nursing': 1, 'perch': 1, 'pirate': 1, 'preserved': 1, 'province': 1, 'stink': 1, 'sulphurous': 1, 'unprofitable': 1, 'wrench': 1}
+	Seven-eleven links: 29
+{'answering': 1, "batt'ry": 1, 'characters': 1, 'choleric': 1, 'chosen': 1, 'complexions': 1, 'diligence': 1, 'filth': 1, 'fitter': 1, 'glance': 1, "hatch'd": 1, 'iniquity': 1, 'justify': 1, 'louder': 1, 'morsel': 1, 'moulded': 1, 'pious': 1, "quench'd": 1, 'quest': 1, 'relate': 1, 'reveal': 1, 'substitute': 1, 'sweetness': 1, 'syllable': 1, 'tenor': 1, 'thirsty': 1, 'unhallowed': 1, 'vail': 1, 'virginity': 1}
 
 PERsh.txt and MND.txt links:
 	Total links: 35

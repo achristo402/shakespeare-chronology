@@ -27,11 +27,11 @@ WIV.txt and AWWsh.txt links:
 {'abstract': 1, 'address': 1, 'afterward': 1, 'attain': 1, 'beam': 2, 'behaviors': 1, 'breadth': 1, 'casement': 3, 'commendations': 3, 'contracted': 1, 'conversation': 1, 'denial': 2, 'dole': 1, 'frank': 2, 'frenchman': 3, 'gamester': 1, 'german': 1, 'justices': 1, 'loses': 2, 'lousy': 2, 'occasions': 1, 'odious': 1, 'offender': 1, 'powerful': 2, 'questions': 4, 'rascally': 1, 'recovery': 1, 'requital': 1, 'sathan': 1, 'scornful': 2, 'simply': 2, 'surprise': 1, 'virginity': 2, 'whale': 1, 'wickedness': 2, 'woos': 1}
 
 WIV.txt and AYL.txt links:
-	Total links: 110
+	Total links: 116
 	two-six links: 43
 {'bell-wether': 1, 'capers': 1, 'cattle': 2, 'chimney': 1, 'civility': 2, 'counterfeiting': 1, 'cuckoldly': 3, 'detect': 1, 'differs': 1, 'eke': 2, 'extraordinary': 1, 'hinds': 1, 'ill-favoredly': 2, 'jointure': 1, 'leer': 1, 'oyster': 1, 'paths': 1, 'perpend': 1, 'pick-purse': 1, 'pouch': 1, 'quittance': 1, 'retort': 2, 'seventeen': 2, 'shins': 1, 'simples': 1, 'skirts': 2, 'stag': 1, 'traverse': 1, 'unclean': 1, 'venison': 3, 'vicar': 2}
-	Seven-eleven links: 67
-{'acquit': 1, 'amaze': 2, 'bag': 2, 'baggage': 1, 'bars': 1, 'blank': 1, 'bolt': 1, 'brooks': 1, 'casement': 1, 'chiding': 3, 'courageous': 1, 'debtor': 1, 'dishonest': 2, 'doe': 2, 'dole': 1, 'dwelling': 1, 'eggs': 1, 'errand': 2, 'folks': 2, 'gamester': 1, 'grease': 3, 'greasy': 4, 'guides': 1, 'hiding': 2, 'hunter': 5, 'justices': 1, 'kindled': 1, 'latin': 2, 'missing': 1, 'odious': 1, 'overthrown': 2, 'ox': 2, 'purity': 1, 'questions': 1, 'rascally': 1, 'ravens': 1, 'simply': 2, 'spot': 1, 'stature': 1, 'trot': 4, 'wickedness': 1, 'worships': 1}
+	Seven-eleven links: 73
+{'acquit': 1, 'amaze': 2, 'bag': 2, 'baggage': 1, 'bars': 1, 'blank': 1, 'bolt': 1, 'brooks': 1, 'casement': 1, 'chiding': 3, 'courageous': 1, 'debtor': 1, 'dishonest': 2, 'doe': 2, 'dole': 1, 'dwelling': 1, 'eggs': 1, 'errand': 2, 'folks': 2, 'gamester': 1, 'grease': 3, 'greasy': 4, 'guides': 1, 'hiding': 2, 'hunter': 5, 'justices': 1, 'kindled': 1, 'latin': 2, 'lief': 6, 'missing': 1, 'odious': 1, 'overthrown': 2, 'ox': 2, 'purity': 1, 'questions': 1, 'rascally': 1, 'ravens': 1, 'simply': 2, 'spot': 1, 'stature': 1, 'trot': 4, 'wickedness': 1, 'worships': 1}
 
 WIV.txt and COR.txt links:
 	Total links: 83
@@ -83,11 +83,11 @@ WIV.txt and HAM.txt links:
 {'abstract': 1, 'address': 1, 'admittance': 2, 'aery': 1, 'amaze': 2, 'appointment': 2, 'arrow': 1, 'avouch': 1, 'beam': 2, 'blank': 2, 'blasts': 1, 'breadth': 1, 'buys': 1, 'cases': 1, 'christians': 1, 'comedy': 2, 'commended': 1, 'conclusions': 1, 'contracted': 1, 'conversation': 1, 'cue': 2, 'different': 1, 'distemper': 9, 'distraction': 2, 'divinity': 2, 'dole': 1, 'dwelling': 1, 'easier': 1, 'frailty': 2, 'frenchman': 1, 'gratis': 1, 'halfpenny': 1, 'hawk': 1, 'juice': 1, 'loses': 1, 'luxury': 1, 'melodious': 2, 'mess': 1, 'occasions': 1, 'opinions': 2, 'orderly': 1, 'overthrown': 1, 'passes': 6, 'pursues': 2, 'rabble': 1, 'radiant': 1, 'rags': 1, 'recovery': 1, 'secrecy': 3, 'sequel': 1, 'stature': 1, 'throwing': 3, 'troubles': 2, 'unmannerly': 1, 'unwholesome': 1, 'waits': 1, 'wantonness': 2, 'whale': 2, 'wring': 1}
 
 WIV.txt and JC.txt links:
-	Total links: 66
+	Total links: 68
 	two-six links: 25
 {'charactery': 1, 'construe': 3, 'discard': 1, 'disperse': 1, 'errands': 1, 'grievously': 2, 'hack': 2, 'hinds': 1, 'kerchief': 2, 'mechanical': 1, 'musing': 1, 'napkins': 1, 'note-book': 1, 'offal': 1, 'porch': 2, 'signifies': 1, 'slighted': 1, 'superstitious': 1, 'tell-tale': 1}
-	Seven-eleven links: 41
-{'amaze': 2, 'ascend': 1, 'attain': 2, 'bars': 1, 'behaviors': 1, 'commended': 1, 'conceited': 1, 'conspiracy': 3, 'dank': 1, 'doubted': 1, 'dwelling': 1, 'entrails': 2, 'errand': 2, 'guiltiness': 1, 'laments': 1, 'opinions': 1, 'overthrown': 1, 'ravens': 1, 'reek': 1, 'sheathe': 1, 'somebody': 1, 'spot': 2, 'stare': 3, 'stinking': 1, 'throwing': 3, 'upward': 1, 'vanish': 1, 'worships': 1, 'wrangle': 1, 'wring': 1}
+	Seven-eleven links: 43
+{'amaze': 2, 'ascend': 1, 'attain': 2, 'bars': 1, 'behaviors': 1, 'commended': 1, 'conceited': 1, 'conspiracy': 3, 'dank': 1, 'doubted': 1, 'dwelling': 1, 'entrails': 2, 'errand': 2, 'guiltiness': 1, 'laments': 1, 'lief': 2, 'opinions': 1, 'overthrown': 1, 'ravens': 1, 'reek': 1, 'sheathe': 1, 'somebody': 1, 'spot': 2, 'stare': 3, 'stinking': 1, 'throwing': 3, 'upward': 1, 'vanish': 1, 'worships': 1, 'wrangle': 1, 'wring': 1}
 
 WIV.txt and JN.txt links:
 	Total links: 85
@@ -131,12 +131,12 @@ WIV.txt and MAC.txt links:
 	Seven-eleven links: 47
 {'avouch': 1, 'cases': 1, 'chambers': 3, 'commendations': 1, 'construction': 1, 'easier': 1, 'elves': 2, 'entrails': 1, 'geese': 2, 'goat': 1, 'grease': 3, 'gripe': 1, 'handle': 1, 'hearty': 1, 'hunter': 5, 'idiot': 1, 'jealousies': 3, 'missing': 1, 'opinions': 1, 'overtake': 1, 'overthrown': 1, 'scour': 2, 'shaft': 1, 'sheathe': 1, 'spot': 2, 'surprise': 1, 'swells': 1, 'swine': 1, 'troubles': 2, 'unmannerly': 1, 'upward': 1, 'vizards': 1}
 
-WIV.txt and MM.txt links:
-	Total links: 121
-	two-six links: 41
-{'beguiles': 1, 'bridget': 1, 'coffer': 2, 'crotchets': 1, 'dejected': 1, 'detected': 1, 'determination': 1, 'dissolution': 1, 'eld': 1, 'enjoying': 1, 'exhibit': 1, 'fallow': 1, 'foh': 1, 'foppery': 1, 'manifested': 3, 'merited': 1, 'mutually': 4, 'obsequious': 1, 'organs': 1, 'pendant': 1, 'precise': 3, 'properties': 1, 'punk': 2, 'reprieves': 1, 'retort': 1, 'seventeen': 1, 'skins': 1, 'slanderous': 1, 'societies': 1, 'stamps': 1, 'vehemency': 1, 'woodman': 1}
+WIV.txt and MMsh.txt links:
+	Total links: 119
+	two-six links: 39
+{'beguiles': 1, 'bridget': 1, 'coffer': 2, 'crotchets': 1, 'dejected': 1, 'detected': 1, 'determination': 1, 'dissolution': 1, 'eld': 1, 'enjoying': 1, 'exhibit': 1, 'fallow': 1, 'foh': 1, 'foppery': 1, 'manifested': 3, 'merited': 1, 'mutually': 4, 'obsequious': 1, 'organs': 1, 'pendant': 1, 'precise': 2, 'properties': 1, 'punk': 2, 'reprieves': 1, 'retort': 1, 'skins': 1, 'slanderous': 1, 'societies': 1, 'stamps': 1, 'vehemency': 1, 'woodman': 1}
 	Seven-eleven links: 80
-{'afflicted': 1, 'afterward': 1, 'appointment': 4, 'arrested': 2, 'avouch': 1, 'biting': 1, 'bolt': 1, 'christians': 1, 'concerning': 1, 'contracted': 1, 'denial': 2, 'detest': 3, 'directed': 1, 'dishonest': 4, 'dispense': 1, 'dwelling': 1, 'errand': 2, 'finely': 3, 'follies': 1, 'frailty': 4, 'guides': 1, 'guiltiness': 2, 'handle': 1, 'hearty': 1, 'howsoever': 1, 'keys': 1, 'louder': 1, 'luxury': 1, 'marrying': 3, 'mistaking': 1, 'mum': 3, 'offender': 1, 'passes': 3, 'profits': 2, 'publicly': 4, 'pursues': 2, 'rats': 1, 'relent': 2, 'requital': 2, 'secrecy': 1, 'throwing': 3, 'trot': 4, 'veil': 1, 'virginity': 1, 'wring': 1}
+{'afflicted': 1, 'afterward': 1, 'appointment': 4, 'avouch': 1, 'biting': 1, 'bolt': 1, 'christians': 1, 'concerning': 1, 'contracted': 1, 'denial': 2, 'detest': 3, 'directed': 1, 'dishonest': 4, 'dispense': 1, 'dwelling': 1, 'errand': 2, 'finely': 3, 'follies': 1, 'frailty': 4, 'guides': 1, 'guiltiness': 2, 'handle': 1, 'hearty': 1, 'howsoever': 1, 'keys': 1, 'lief': 2, 'louder': 1, 'luxury': 1, 'marrying': 3, 'mistaking': 1, 'mum': 3, 'offender': 1, 'passes': 3, 'profits': 2, 'publicly': 4, 'pursues': 2, 'rats': 1, 'relent': 2, 'requital': 2, 'secrecy': 1, 'throwing': 3, 'trot': 4, 'veil': 1, 'virginity': 1, 'wring': 1}
 
 WIV.txt and MND.txt links:
 	Total links: 105
@@ -174,11 +174,11 @@ WIV.txt and PHT.txt links:
 {'swan': 1}
 
 WIV.txt and R2.txt links:
-	Total links: 83
+	Total links: 85
 	two-six links: 32
 {'abraham': 2, 'adversary': 1, 'aggravate': 1, 'appointments': 1, 'chairs': 1, 'cozening': 1, 'disperse': 1, 'dissolute': 2, 'dissolution': 1, 'doctors': 2, 'enjoying': 1, 'freer': 1, 'fretted': 1, 'gotten': 1, 'groats': 1, 'havior': 1, 'omnipotent': 1, 'paths': 1, 'prescribe': 1, 'rebukes': 1, 'reins': 1, 'rounds': 1, 'shades': 2, 'sinful': 1, 'slanderous': 2, 'taverns': 1, 'welshman': 1}
-	Seven-eleven links: 51
-{'affects': 2, 'ascend': 2, 'attain': 1, 'blank': 1, 'brooks': 1, 'chest': 1, 'conspiracy': 2, 'dissolve': 2, 'englishman': 2, 'fights': 1, 'folks': 2, 'follies': 3, 'gloucestershire': 4, 'greedy': 1, 'gripe': 2, 'guides': 1, 'handle': 1, 'jewry': 1, 'laments': 1, 'opinions': 1, 'orderly': 1, 'parliament': 1, 'peer': 2, 'powerful': 1, 'pursues': 2, 'revolted': 1, 'scarlet': 1, 'securely': 2, 'submission': 1, 'swells': 2, 'sympathy': 3, 'vanish': 1, 'waxen': 1}
+	Seven-eleven links: 53
+{'affects': 2, 'ascend': 2, 'attain': 1, 'blank': 1, 'brooks': 1, 'chest': 1, 'conspiracy': 2, 'dissolve': 2, 'englishman': 2, 'fights': 1, 'folks': 2, 'follies': 3, 'gloucestershire': 4, 'greedy': 1, 'gripe': 2, 'guides': 1, 'handle': 1, 'jewry': 1, 'laments': 1, 'lief': 2, 'opinions': 1, 'orderly': 1, 'parliament': 1, 'peer': 2, 'powerful': 1, 'pursues': 2, 'revolted': 1, 'scarlet': 1, 'securely': 2, 'submission': 1, 'swells': 2, 'sympathy': 3, 'vanish': 1, 'waxen': 1}
 
 WIV.txt and R3.txt links:
 	Total links: 107
@@ -195,11 +195,11 @@ WIV.txt and ROM.txt links:
 {'afflicted': 1, 'arrow': 1, 'ascend': 1, 'baggage': 2, 'courageous': 1, 'dank': 1, 'different': 2, 'fights': 2, 'folks': 2, 'follower': 1, 'fortnight': 1, 'frank': 1, 'gossip': 1, 'keys': 1, 'laughs': 1, 'mire': 1, 'mistaking': 1, 'overthrown': 1, 'pie': 1, 'powerful': 1, 'scarlet': 2, 'shaft': 1, 'shin': 1, 'slack': 1, 'sped': 1, 'submission': 1, 'swan': 1, 'sympathy': 3, 'tavern': 1, 'trudge': 4, 'woos': 1, 'wring': 1}
 
 WIV.txt and SHR.txt links:
-	Total links: 104
+	Total links: 106
 	two-six links: 21
 {'chafe': 1, 'consented': 1, 'cony-catching': 1, 'discreetly': 1, 'doctors': 2, 'greyhound': 1, 'hilt': 1, 'milch-kine': 1, 'oyster': 1, 'peat': 1, 'proudest': 2, 'rag': 1, 'rails': 1, 'sakes': 1, 'sip': 1, 'skirts': 1, 'thaw': 1, 'vicar': 2}
-	Seven-eleven links: 83
-{'amiable': 1, 'baggage': 1, 'bags': 1, 'bars': 1, 'blowing': 1, 'buckled': 1, 'checks': 1, 'comedy': 1, 'denial': 2, 'dole': 1, 'dwelling': 1, 'errand': 2, 'finely': 3, 'firmly': 3, 'folks': 6, 'gamester': 1, 'gentles': 1, 'hawk': 1, 'hiding': 2, 'il': 1, 'intolerable': 4, 'jerkin': 1, 'keeper': 1, 'latin': 6, 'louder': 1, 'mess': 1, 'mistaking': 2, 'misuse': 1, 'mum': 6, 'orderly': 2, 'overtake': 1, 'ox': 1, 'paltry': 1, 'pence': 2, 'pie': 1, 'quaint': 2, 'scarlet': 1, 'scold': 2, 'scornful': 1, 'slack': 1, 'somebody': 1, 'sped': 2, 'stare': 1, 'swine': 1, 'trot': 4, 'waits': 1, 'wooers': 3}
+	Seven-eleven links: 85
+{'amiable': 1, 'baggage': 1, 'bags': 1, 'bars': 1, 'blowing': 1, 'buckled': 1, 'checks': 1, 'comedy': 1, 'denial': 2, 'dole': 1, 'dwelling': 1, 'errand': 2, 'finely': 3, 'firmly': 3, 'folks': 6, 'gamester': 1, 'gentles': 1, 'hawk': 1, 'hiding': 2, 'il': 1, 'intolerable': 4, 'jerkin': 1, 'keeper': 1, 'latin': 6, 'lief': 2, 'louder': 1, 'mess': 1, 'mistaking': 2, 'misuse': 1, 'mum': 6, 'orderly': 2, 'overtake': 1, 'ox': 1, 'paltry': 1, 'pence': 2, 'pie': 1, 'quaint': 2, 'scarlet': 1, 'scold': 2, 'scornful': 1, 'slack': 1, 'somebody': 1, 'sped': 2, 'stare': 1, 'swine': 1, 'trot': 4, 'waits': 1, 'wooers': 3}
 
 WIV.txt and SPTAD.txt links:
 	Total links: 8
@@ -244,18 +244,18 @@ WIV.txt and TMP.txt links:
 {'beam': 2, 'bolt': 1, 'brooks': 2, 'conspiracy': 2, 'dissolve': 1, 'elves': 2, 'entrails': 1, 'hatches': 3, 'hearty': 1, 'infancy': 1, 'jerkin': 4, 'louder': 1, 'marrying': 3, 'mire': 1, 'missing': 1, 'mum': 3, 'odious': 1, 'peer': 2, 'quaint': 1, 'questions': 1, 'rabble': 1, 'rats': 1, 'sot': 1, 'stare': 1, 'stinking': 1, 'surge': 1, 'unwholesome': 1, 'waits': 1, 'wrangle': 1}
 
 WIV.txt and TN.txt links:
-	Total links: 106
+	Total links: 108
 	two-six links: 40
 {'a-hungry': 1, 'aqua-vitae': 1, 'blazon': 1, 'canary': 4, 'cataian': 1, 'churchman': 1, 'coffer': 2, 'discard': 1, 'dishonesty': 1, 'draught': 2, 'expressure': 1, 'fighter': 1, 'flax': 1, 'grossness': 1, 'havior': 1, 'indies': 1, 'jester': 1, 'leman': 1, 'niggardly': 1, 'perpend': 1, 'phrases': 1, 'promis’d': 3, 'protests': 1, 'reins': 1, 'servingman': 2, 'shent': 1, 'slough': 2, 'studient': 1, 'swearings': 1, 'taunt': 1, 'well-a-day': 1}
-	Seven-eleven links: 66
-{'acquit': 1, 'address': 1, 'apprehended': 1, 'blank': 1, 'capacity': 3, 'checks': 1, 'commended': 2, 'conceited': 1, 'concerning': 1, 'conclusions': 1, 'construction': 2, 'contracted': 1, 'denial': 4, 'dishonest': 10, 'distemper': 3, 'distraction': 2, 'divinity': 2, 'fence': 2, 'follower': 1, 'frailty': 2, 'gossip': 1, 'hunter': 5, 'idiot': 1, 'paltry': 1, 'radiant': 1, 'rascally': 1, 'sathan': 2, 'sequel': 1, 'shaft': 1, 'simply': 1, 'sot': 3, 'surprise': 1, 'veil': 1, 'waxen': 1, 'wickedness': 1, 'woos': 1, 'wrangle': 1}
+	Seven-eleven links: 68
+{'acquit': 1, 'address': 1, 'apprehended': 1, 'blank': 1, 'capacity': 3, 'checks': 1, 'commended': 2, 'conceited': 1, 'concerning': 1, 'conclusions': 1, 'construction': 2, 'contracted': 1, 'denial': 4, 'dishonest': 10, 'distemper': 3, 'distraction': 2, 'divinity': 2, 'fence': 2, 'follower': 1, 'frailty': 2, 'gossip': 1, 'hunter': 5, 'idiot': 1, 'lief': 2, 'paltry': 1, 'radiant': 1, 'rascally': 1, 'sathan': 2, 'sequel': 1, 'shaft': 1, 'simply': 1, 'sot': 3, 'surprise': 1, 'veil': 1, 'waxen': 1, 'wickedness': 1, 'woos': 1, 'wrangle': 1}
 
 WIV.txt and TNKsh.txt links:
-	Total links: 46
+	Total links: 48
 	two-six links: 12
 {'aspire': 1, 'bacon': 1, 'blazon': 1, 'buttons': 1, 'flax': 1, 'hawthorn': 1, 'scorch': 2, 'shades': 1, 'sully': 1, 'ver': 1, 'well-nigh': 1}
-	Seven-eleven links: 34
-{'appointment': 4, 'blasts': 1, 'blowing': 1, 'buckled': 1, 'courageous': 1, 'dissolve': 1, 'distemper': 3, 'distraction': 1, 'doubted': 1, 'dwelling': 1, 'follower': 1, 'frights': 1, 'grease': 3, 'hawk': 1, 'laments': 1, 'melodious': 2, 'military': 1, 'offender': 1, 'pie': 1, 'powerful': 1, 'quaint': 1, 'ravens': 1, 'skip': 1, 'surge': 1, 'sweating': 1, 'virginity': 1}
+	Seven-eleven links: 36
+{'appointment': 4, 'blasts': 1, 'blowing': 1, 'buckled': 1, 'courageous': 1, 'dissolve': 1, 'distemper': 3, 'distraction': 1, 'doubted': 1, 'dwelling': 1, 'follower': 1, 'frights': 1, 'grease': 3, 'hawk': 1, 'laments': 1, 'lief': 2, 'melodious': 2, 'military': 1, 'offender': 1, 'pie': 1, 'powerful': 1, 'quaint': 1, 'ravens': 1, 'skip': 1, 'surge': 1, 'sweating': 1, 'virginity': 1}
 
 WIV.txt and TRO.txt links:
 	Total links: 149

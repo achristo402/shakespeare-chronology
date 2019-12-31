@@ -131,7 +131,7 @@ PHT.txt and MAC.txt links:
 	Seven-eleven links: 1
 {'posterity': 1}
 
-PHT.txt and MM.txt links:
+PHT.txt and MMsh.txt links:
 	Total links: 3
 	two-six links: 2
 {'essence': 1, 'session': 1}

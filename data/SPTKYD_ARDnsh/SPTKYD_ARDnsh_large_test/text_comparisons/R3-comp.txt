@@ -131,12 +131,12 @@ R3.txt and MAC.txt links:
 	Seven-eleven links: 102
 {'avoided': 3, 'bubble': 4, 'calendar': 1, 'cancel': 1, 'chiefest': 1, "children's": 2, 'creation': 1, 'delivers': 1, 'devilish': 3, 'direful': 2, "dismay'd": 1, 'domestic': 1, 'downfall': 1, 'eagles': 2, 'easier': 1, 'entrails': 2, 'gulf': 1, "hack'd": 1, 'hardy': 2, "hatch'd": 1, 'heavily': 2, 'hidden': 1, "hir'd": 1, 'images': 1, 'inhabit': 1, 'jocund': 2, "kingdom's": 2, 'kites': 1, 'levy': 1, 'lighted': 2, "live's": 1, 'market': 1, 'merciless': 1, "murther'd": 10, 'murtherers': 1, "ow'd": 2, 'plenteous': 1, 'posterity': 1, "pow'rful": 1, "pronounc'd": 2, 'provokes': 2, "purg'd": 1, "reconcil'd": 1, 'reconcile': 1, 'recorded': 1, 'repetition': 1, 'restless': 1, 'restrain': 1, 'safest': 1, 'seated': 2, 'sleepy': 2, "smother'd": 3, 'spacious': 1, "steep'd": 2, 'streams': 1, 'succeeding': 2, 'suggestion': 1, 'supper-time': 1, 'surmise': 1, 'swine': 1, "talk'st": 1, 'trusted': 2, 'unity': 2, "vanish'd": 2, 'whoever': 1}
 
-R3.txt and MM.txt links:
-	Total links: 176
-	two-six links: 39
-{'aims': 1, 'anchors': 1, 'beheaded': 1, 'blocks': 1, "congeal'd": 1, 'countermand': 2, 'desperately': 1, "destin'd": 1, 'divines': 2, 'doers': 1, 'encouragement': 1, 'gratulate': 1, 'handled': 1, 'imprison': 1, 'infringe': 1, 'kennel': 1, 'looker-on': 1, 'momentary': 1, 'novice': 1, 'nuns': 1, 'perch': 1, 'quits': 1, 'rely': 1, 'resemblance': 1, 'respite': 1, 'ripened': 1, 'safeguard': 1, 'selves': 1, 'slower': 1, 'strifes': 1, 'unlawfully': 1, 'unpitied': 1, "unprepar'd": 1, 'untainted': 2, 'vehement': 1, "villain's": 1}
-	Seven-eleven links: 137
-{'abides': 2, 'adverse': 2, 'afflict': 1, 'afterward': 1, 'ages': 1, "back'd": 1, 'beggary': 1, 'biting': 1, 'bitterly': 3, 'blemish': 1, 'bubble': 1, 'changing': 1, 'characters': 1, 'chastisement': 1, "children's": 2, "city's": 1, 'clothe': 1, 'complaints': 2, 'creation': 2, 'damnable': 3, 'darkly': 2, 'dealing': 1, 'depose': 1, 'devilish': 3, 'directed': 1, "displeas'd": 1, 'dreaming': 1, 'edict': 1, 'equally': 1, 'fills': 2, 'fitter': 2, 'fouler': 3, 'guiltiness': 2, 'harp': 2, "hatch'd": 1, 'heavily': 2, 'hidden': 1, 'hopeful': 1, 'hoping': 1, 'images': 1, 'imposition': 1, "imprison'd": 1, 'imprisonment': 16, 'indirectly': 1, 'iniquity': 1, 'injustice': 2, "keep'st": 1, 'keys': 1, "kneel'd": 1, 'lamentation': 3, 'lawless': 1, "lordship's": 1, 'luxury': 1, "mad'st": 3, 'marrying': 1, 'method': 1, 'miscarried': 1, 'mum': 1, 'needless': 1, 'plenteous': 1, 'publicly': 2, 'pursues': 1, 'quest': 1, 'rats': 1, 'recorded': 1, 'redemption': 2, 'relent': 6, 'restless': 1, 'riddle': 1, 'riotous': 1, 'ruthless': 1, 'shrift': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'substitute': 6, "tak'st": 1, 'thereon': 1, 'tyrannous': 2, 'unfit': 2, 'unlawful': 2, 'vail': 1, 'veil': 1}
+R3.txt and MMsh.txt links:
+	Total links: 174
+	two-six links: 38
+{'aims': 1, 'anchors': 1, 'beheaded': 1, 'blocks': 1, "congeal'd": 1, 'countermand': 2, 'desperately': 1, "destin'd": 1, 'divines': 2, 'encouragement': 1, 'gratulate': 1, 'handled': 1, 'imprison': 1, 'infringe': 1, 'kennel': 1, 'looker-on': 1, 'momentary': 1, 'novice': 1, 'nuns': 1, 'perch': 1, 'quits': 1, 'rely': 1, 'resemblance': 1, 'respite': 1, 'ripened': 1, 'safeguard': 1, 'selves': 1, 'slower': 1, 'strifes': 1, 'unlawfully': 1, 'unpitied': 1, "unprepar'd": 1, 'untainted': 2, 'vehement': 1, "villain's": 1}
+	Seven-eleven links: 136
+{'abides': 2, 'adverse': 2, 'afflict': 1, 'afterward': 1, 'ages': 1, "back'd": 1, 'beggary': 1, 'biting': 1, 'bitterly': 3, 'blemish': 1, 'bubble': 1, 'changing': 1, 'characters': 1, 'chastisement': 1, "children's": 2, "city's": 1, 'clothe': 1, 'complaints': 2, 'creation': 2, 'damnable': 3, 'darkly': 2, 'dealing': 1, 'depose': 1, 'devilish': 3, 'directed': 1, 'dreaming': 1, 'edict': 1, 'equally': 1, 'fills': 2, 'fitter': 2, 'fouler': 3, 'guiltiness': 2, 'harp': 2, "hatch'd": 1, 'heavily': 2, 'hidden': 1, 'hopeful': 1, 'hoping': 1, 'images': 1, 'imposition': 1, "imprison'd": 1, 'imprisonment': 16, 'indirectly': 1, 'iniquity': 1, 'injustice': 2, "keep'st": 1, 'keys': 1, "kneel'd": 1, 'lamentation': 3, 'lawless': 1, "lordship's": 1, 'luxury': 1, "mad'st": 3, 'marrying': 1, 'method': 1, 'miscarried': 1, 'mum': 1, 'needless': 1, 'plenteous': 1, 'publicly': 2, 'pursues': 1, 'quest': 1, 'rats': 1, 'recorded': 1, 'redemption': 2, 'relent': 6, 'restless': 1, 'riddle': 1, 'riotous': 1, 'ruthless': 1, 'shrift': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'substitute': 6, "tak'st": 1, 'thereon': 1, 'tyrannous': 2, 'unfit': 2, 'unlawful': 2, 'vail': 1, 'veil': 1}
 
 R3.txt and MND.txt links:
 	Total links: 96
@@ -195,11 +195,11 @@ R3.txt and SHR.txt links:
 {'abode': 1, 'aptly': 1, 'attendance': 1, 'bars': 1, 'bashful': 1, 'beads': 1, 'beggarly': 1, 'blots': 1, 'bonny': 2, 'changing': 1, 'checks': 1, 'cheerfully': 3, 'closely': 2, 'clothe': 1, 'despiteful': 1, 'devilish': 6, "dream'd": 2, 'embracements': 1, 'fashions': 2, 'fondly': 1, 'formal': 2, 'fouler': 3, 'gentlewomen': 1, 'halt': 2, "hatch'd": 1, 'incur': 1, 'ingenious': 1, 'jolly': 1, "keep'st": 1, 'kites': 1, 'lackey': 2, 'lighted': 1, "liv'st": 1, 'measures': 1, 'mum': 2, "off'red": 1, 'ornaments': 1, 'packing': 1, 'paltry': 1, 'plotted': 1, 'proudest': 2, 'pry': 1, 'quicken': 2, 'rules': 1, 'saddle': 1, "saw'st": 1, "sland'rous": 1, 'somebody': 2, "spoil'd": 2, "stamp'd": 1, 'supper-time': 2, 'swine': 1, 'unwilling': 1, 'vail': 1, 'waits': 1, 'walter': 3, 'watery': 1, 'whoever': 1, 'wrangling': 2}
 
 R3.txt and SPTAD.txt links:
-	Total links: 26
+	Total links: 25
 	two-six links: 11
 {'distraught': 1, "engross'd": 1, "heav'n": 1, 'inestimable': 1, 'insatiate': 1, 'invocate': 1, 'legion': 1, 'lump': 1, 'mid': 1, 'ungrateful': 1, 'waiting': 1}
-	Seven-eleven links: 15
-{'childish': 1, 'confederates': 1, "desp'rate": 2, 'dive': 1, 'furies': 1, 'ignoble': 2, 'james': 2, "pow'rful": 1, 'pry': 1, 'ruins': 1, 'such-like': 1, 'toads': 1}
+	Seven-eleven links: 14
+{'childish': 1, "desp'rate": 2, 'dive': 1, 'furies': 1, 'ignoble': 2, 'james': 2, "pow'rful": 1, 'pry': 1, 'ruins': 1, 'such-like': 1, 'toads': 1}
 
 R3.txt and SPTKYD.txt links:
 	Total links: 249

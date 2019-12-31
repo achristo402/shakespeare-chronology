@@ -27,11 +27,11 @@ JC.txt and AWWsh.txt links:
 {'a-weary': 2, 'across': 1, 'attain': 2, 'attempts': 1, 'attendants': 1, 'behaviors': 1, "bow'd": 1, 'calendar': 1, 'captives': 1, "check'd": 1, 'compel': 1, "conceiv'd": 1, 'courtesies': 1, 'defeat': 1, 'dungeon': 1, 'faculties': 1, "fam'd": 1, 'healthful': 1, 'hoping': 1, 'incertain': 1, "knock'd": 2, "name's": 1, 'perils': 2, 'piercing': 1, 'praising': 1, 'regions': 1, 'richest': 1, "scratch'd": 1, 'shaking': 1, 'shrewdly': 2, 'sleepy': 1, 'spark': 1, 'sparks': 2}
 
 JC.txt and AYL.txt links:
-	Total links: 95
+	Total links: 98
 	two-six links: 27
 {"age's": 1, "bath'd": 1, 'bequeathing': 1, 'bravery': 1, "bring'st": 1, "brothers'": 1, 'brutish': 1, 'butchers': 2, 'carelessly': 1, "chopp'd": 1, 'concave': 1, "conn'd": 1, 'contriver': 1, "engend'red": 1, 'excepted': 1, 'falser': 1, 'leather': 1, 'mischievous': 1, 'sayings': 1, 'schoolboy': 1, 'searching': 1, 'sterner': 1, 'theatre': 2, 'warn': 1, 'waspish': 1}
-	Seven-eleven links: 68
-{"address'd": 1, 'amaze': 1, 'answered': 2, 'attendants': 1, 'attire': 1, 'bars': 1, 'basest': 1, 'carve': 1, "conceiv'd": 1, 'confines': 1, 'contrive': 1, 'dwelling': 1, 'emulation': 1, 'errand': 1, 'fawn': 2, 'formal': 1, 'glow': 1, 'graze': 2, "griev'd": 1, 'groaning': 2, 'hart': 2, 'heap': 1, "heap'd": 1, 'hidden': 1, 'hinds': 1, 'instances': 1, 'interim': 1, 'kindle': 1, 'lioness': 4, 'lived': 1, 'madmen': 1, "mix'd": 1, 'opening': 1, 'overcame': 2, 'overthrown': 2, 'pipes': 1, 'praising': 1, "pull'd": 1, 'ravens': 1, 'salutation': 1, "sham'd": 1, 'shrunk': 2, 'sighing': 2, 'spectacle': 2, 'spot': 2, 'swound': 1, 'tenure': 1, 'thigh': 1, 'tyrants': 4, 'unborn': 1, 'worships': 1}
+	Seven-eleven links: 71
+{"address'd": 1, 'amaze': 1, 'answered': 2, 'attendants': 1, 'attire': 1, 'bars': 1, 'basest': 1, 'carve': 1, "conceiv'd": 1, 'confines': 1, 'contrive': 1, 'dwelling': 1, 'emulation': 1, 'errand': 1, 'fawn': 2, 'formal': 1, 'glow': 1, 'graze': 2, "griev'd": 1, 'groaning': 2, 'hart': 2, 'heap': 1, "heap'd": 1, 'hidden': 1, 'hinds': 1, 'instances': 1, 'interim': 1, 'kindle': 1, 'lief': 3, 'lioness': 4, 'lived': 1, 'madmen': 1, "mix'd": 1, 'opening': 1, 'overcame': 2, 'overthrown': 2, 'pipes': 1, 'praising': 1, "pull'd": 1, 'ravens': 1, 'salutation': 1, "sham'd": 1, 'shrunk': 2, 'sighing': 2, 'spectacle': 2, 'spot': 2, 'swound': 1, 'tenure': 1, 'thigh': 1, 'tyrants': 4, 'unborn': 1, 'worships': 1}
 
 JC.txt and COR.txt links:
 	Total links: 179
@@ -124,12 +124,12 @@ JC.txt and MAC.txt links:
 	Seven-eleven links: 56
 {'a-weary': 1, 'accents': 1, 'acted': 1, 'acting': 1, "address'd": 1, 'ague': 1, 'attire': 1, 'avoided': 1, 'bathe': 2, 'battlements': 2, 'bestride': 1, "bow'd": 1, 'calendar': 1, 'captivity': 1, "chanc'd": 4, 'deceitful': 1, 'discomfort': 2, 'domestic': 1, 'eagles': 1, 'entrails': 2, 'faculties': 1, 'genius': 1, "hatch'd": 1, "heap'd": 1, 'hidden': 1, 'interim': 1, 'kites': 1, 'lighted': 2, 'meek': 1, "name's": 1, 'niggard': 1, 'overthrown': 1, 'salutation': 1, "scap'd": 1, 'shaking': 1, 'sheathe': 1, 'sleepy': 2, 'spoils': 1, 'spot': 4, 'suffering': 1, 'upward': 1, 'utterance': 2, 'whilest': 1}
 
-JC.txt and MM.txt links:
-	Total links: 65
-	two-six links: 17
-{'accidental': 1, "bar'd": 1, 'blocks': 1, 'bravery': 1, 'chew': 1, "chopp'd": 1, 'covert': 1, 'crowd': 1, 'desiring': 1, 'doers': 1, 'fasten': 1, 'flavius': 1, 'observer': 1, 'receiving': 1, 'sayings': 1, 'sicken': 1, 'weighing': 1}
-	Seven-eleven links: 48
-{'acting': 1, 'answering': 1, 'bathe': 2, 'chastisement': 2, 'choleric': 1, 'compel': 1, "conceiv'd": 1, 'constantly': 1, 'controversy': 1, 'courtesies': 1, "displeas'd": 1, 'dwelling': 1, 'errand': 1, 'glasses': 1, 'groaning': 2, 'guiltiness': 2, "hatch'd": 1, 'hidden': 1, 'hoping': 1, 'hug': 1, 'incertain': 1, 'mightier': 1, 'millions': 1, 'occupation': 3, 'opening': 1, 'petitions': 2, "pull'd": 2, 'received': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'strings': 1, 'suburbs': 3, 'suffers': 1, 'thirsty': 1, 'void': 1, 'wary': 1, 'wring': 1}
+JC.txt and MMsh.txt links:
+	Total links: 62
+	two-six links: 15
+{'accidental': 1, "bar'd": 1, 'blocks': 1, 'bravery': 1, 'chew': 1, 'covert': 1, 'crowd': 1, 'desiring': 1, 'fasten': 1, 'flavius': 1, 'observer': 1, 'receiving': 1, 'sayings': 1, 'sicken': 1, 'weighing': 1}
+	Seven-eleven links: 47
+{'acting': 1, 'answering': 1, 'bathe': 2, 'chastisement': 2, 'choleric': 1, 'compel': 1, "conceiv'd": 1, 'constantly': 1, 'courtesies': 1, 'dwelling': 1, 'errand': 1, 'glasses': 1, 'groaning': 2, 'guiltiness': 2, "hatch'd": 1, 'hidden': 1, 'hoping': 1, 'hug': 1, 'incertain': 1, 'lief': 1, 'mightier': 1, 'millions': 1, 'occupation': 3, 'opening': 1, 'petitions': 2, "pull'd": 2, 'received': 1, 'sleepy': 1, "smil'd": 1, "stamp'd": 1, 'strings': 1, 'suburbs': 3, 'suffers': 1, 'thirsty': 1, 'void': 1, 'wary': 1, 'wring': 1}
 
 JC.txt and MND.txt links:
 	Total links: 63
@@ -167,11 +167,11 @@ JC.txt and PHT.txt links:
 {}
 
 JC.txt and R2.txt links:
-	Total links: 122
+	Total links: 123
 	two-six links: 39
 {'butchers': 2, 'conspirator': 2, "consum'd": 1, 'desiring': 1, 'dishonorable': 1, 'downward': 1, 'enfranchisement': 4, 'ensign': 2, "fathers'": 1, 'firmament': 1, "kill'st": 1, 'lightens': 1, "mothers'": 1, 'prevention': 2, 'resting': 1, 'robbers': 1, 'rubbish': 1, 'searching': 1, 'shriek': 1, 'signal': 1, 'stares': 1, 'surest': 1, 'tending': 4, 'theatre': 2, "traitors'": 3, 'vanish': 1}
-	Seven-eleven links: 83
-{'adder': 1, 'ague': 1, 'ascend': 2, 'attain': 2, 'battlements': 1, 'beads': 1, 'blaze': 1, 'bloods': 2, 'brands': 2, 'chastisement': 4, "chok'd": 2, 'climate': 1, 'coffin': 1, 'confines': 2, 'consorted': 2, 'contrive': 1, 'darts': 1, 'decree': 2, 'discomfort': 1, 'disperse': 1, 'drawing': 1, 'entire': 1, 'fawn': 6, 'flatterers': 12, 'glasses': 1, 'glories': 3, "griev'd": 1, 'however': 1, 'hurl': 1, 'northern': 2, 'parchment': 1, 'range': 1, 'rushing': 2, "sham'd": 1, 'sparks': 4, "stirr'd": 1, 'suffering': 1, 'taper': 4, 'tired': 1, 'triumphs': 2, 'unborn': 3, 'utterance': 2}
+	Seven-eleven links: 84
+{'adder': 1, 'ague': 1, 'ascend': 2, 'attain': 2, 'battlements': 1, 'beads': 1, 'blaze': 1, 'bloods': 2, 'brands': 2, 'chastisement': 4, "chok'd": 2, 'climate': 1, 'coffin': 1, 'confines': 2, 'consorted': 2, 'contrive': 1, 'darts': 1, 'decree': 2, 'discomfort': 1, 'disperse': 1, 'drawing': 1, 'entire': 1, 'fawn': 6, 'flatterers': 12, 'glasses': 1, 'glories': 3, "griev'd": 1, 'however': 1, 'hurl': 1, 'lief': 1, 'northern': 2, 'parchment': 1, 'range': 1, 'rushing': 2, "sham'd": 1, 'sparks': 4, "stirr'd": 1, 'suffering': 1, 'taper': 4, 'tired': 1, 'triumphs': 2, 'unborn': 3, 'utterance': 2}
 
 JC.txt and R3.txt links:
 	Total links: 150
@@ -188,11 +188,11 @@ JC.txt and ROM.txt links:
 {'a-weary': 1, 'acted': 1, 'acting': 1, 'ascend': 1, 'battlements': 1, 'bestride': 1, 'blaze': 1, 'bowl': 2, 'confines': 1, "conjur'd": 1, 'consorted': 1, 'contagion': 1, 'dank': 1, 'dash': 1, 'decree': 2, 'disperse': 1, "displeas'd": 1, 'extremities': 1, 'gentler': 1, 'graze': 1, 'groaning': 2, 'grudge': 1, "heap'd": 1, 'heralds': 1, 'hinds': 1, 'incorporate': 2, 'madmen': 1, 'mayest': 3, "mix'd": 1, "name's": 2, 'overthrown': 1, 'piercing': 1, 'pipes': 1, 'presage': 1, 'prodigious': 1, 'prostrate': 1, 'salutation': 1, 'shrunk': 1, 'stains': 1, 'stony': 2, 'surgeon': 1, 'thigh': 1, 'wary': 1, 'wring': 1}
 
 JC.txt and SHRnsh.txt links:
-	Total links: 33
+	Total links: 34
 	two-six links: 10
 {'affability': 1, 'arguing': 1, "brook'd": 1, 'cushions': 1, 'ranging': 1, 'scolding': 3, 'unkindly': 1, 'withholds': 1}
-	Seven-eleven links: 23
-{"antonio's": 2, 'chides': 1, "chok'd": 2, 'companies': 1, "conceiv'd": 1, 'contrive': 1, 'controversy': 1, 'costly': 1, 'deceitful': 1, 'entire': 1, 'errand': 1, 'formal': 2, 'gentler': 1, "hatch'd": 1, "knock'd": 1, 'lighted': 1, 'repute': 1, 'somebody': 1, 'sufficeth': 2}
+	Seven-eleven links: 24
+{"antonio's": 2, 'chides': 1, "chok'd": 2, 'companies': 1, "conceiv'd": 1, 'contrive': 1, 'controversy': 1, 'costly': 1, 'deceitful': 1, 'entire': 1, 'errand': 1, 'formal': 2, 'gentler': 1, "hatch'd": 1, "knock'd": 1, 'lief': 1, 'lighted': 1, 'repute': 1, 'somebody': 1, 'sufficeth': 2}
 
 JC.txt and SPTAD.txt links:
 	Total links: 12
@@ -244,18 +244,18 @@ JC.txt and TMP.txt links:
 {'ague': 3, 'apes': 2, 'attendants': 1, 'bees': 1, 'carcass': 1, 'ceremonies': 4, 'climate': 1, 'confines': 1, 'cooling': 1, "deck'd": 1, 'entrails': 2, 'genius': 1, 'glasses': 2, 'grudge': 1, 'lighted': 1, 'melting': 1, 'millions': 1, 'mischiefs': 1, 'occupation': 1, 'providence': 2, 'regions': 1, 'reputed': 1, "scap'd": 2, 'shaking': 1, 'sighing': 1, 'sleepy': 1, 'spectacle': 2, 'stare': 3, 'stinking': 1, 'straightway': 1, 'swim': 6, "tow'rs": 1, 'wrangle': 1}
 
 JC.txt and TN.txt links:
-	Total links: 51
+	Total links: 52
 	two-six links: 15
 {'basis': 1, 'curtsies': 1, 'discard': 1, 'exalted': 2, 'excepted': 1, "kill'st": 1, 'lethe': 1, 'particle': 1, 'receiving': 1, 'rudeness': 1, 'sayings': 1, 'sicken': 1, 'tempests': 1, 'unfirm': 1}
-	Seven-eleven links: 36
-{'across': 1, 'acting': 1, 'attire': 1, 'coffin': 1, 'commended': 2, 'conceited': 1, "conceiv'd": 1, 'constantly': 1, 'contagion': 1, 'corpse': 2, 'digest': 1, 'enlarge': 1, 'formal': 1, 'genius': 1, 'hart': 4, 'havoc': 1, 'however': 1, 'madmen': 1, "name's": 1, 'partake': 1, 'presage': 1, 'range': 1, 'shrewdly': 1, 'suburbs': 1, 'suffers': 1, 'surgeon': 2, 'surly': 2, 'whet': 1, 'wrangle': 1}
+	Seven-eleven links: 37
+{'across': 1, 'acting': 1, 'attire': 1, 'coffin': 1, 'commended': 2, 'conceited': 1, "conceiv'd": 1, 'constantly': 1, 'contagion': 1, 'corpse': 2, 'digest': 1, 'enlarge': 1, 'formal': 1, 'genius': 1, 'hart': 4, 'havoc': 1, 'however': 1, 'lief': 1, 'madmen': 1, "name's": 1, 'partake': 1, 'presage': 1, 'range': 1, 'shrewdly': 1, 'suburbs': 1, 'suffers': 1, 'surgeon': 2, 'surly': 2, 'whet': 1, 'wrangle': 1}
 
 JC.txt and TNKsh.txt links:
-	Total links: 52
+	Total links: 53
 	two-six links: 13
 {'boldest': 1, "break'st": 1, 'comets': 1, 'cull': 1, 'doers': 1, 'forgets': 1, 'livelong': 1, 'returning': 1, 'seventy': 1, "thaw'd": 1, 'wreath': 3}
-	Seven-eleven links: 39
-{'apes': 1, 'captivity': 1, 'carve': 1, 'catching': 1, "chanc'd": 4, "conceiv'd": 1, 'constantly': 1, 'costly': 1, 'doubted': 1, 'dwelling': 1, 'faculties': 2, "fam'd": 2, 'havoc': 1, 'infants': 2, 'kindle': 1, 'kites': 1, 'millions': 2, 'niggard': 1, 'petitions': 1, 'ravens': 1, 'richest': 1, 'ruins': 1, 'shrunk': 1, "sland'rous": 1, 'spark': 1, 'stony': 1, 'swim': 4, 'triumphs': 1, 'void': 1}
+	Seven-eleven links: 40
+{'apes': 1, 'captivity': 1, 'carve': 1, 'catching': 1, "chanc'd": 4, "conceiv'd": 1, 'constantly': 1, 'costly': 1, 'doubted': 1, 'dwelling': 1, 'faculties': 2, "fam'd": 2, 'havoc': 1, 'infants': 2, 'kindle': 1, 'kites': 1, 'lief': 1, 'millions': 2, 'niggard': 1, 'petitions': 1, 'ravens': 1, 'richest': 1, 'ruins': 1, 'shrunk': 1, "sland'rous": 1, 'spark': 1, 'stony': 1, 'swim': 4, 'triumphs': 1, 'void': 1}
 
 JC.txt and TRO.txt links:
 	Total links: 122
@@ -272,11 +272,11 @@ JC.txt and VEN.txt links:
 {'adder': 1, 'amaze': 1, 'annoy': 2, 'answering': 1, 'blaze': 1, 'catching': 1, 'chides': 1, 'conquerors': 1, 'darts': 2, 'fawn': 2, 'glasses': 1, 'glories': 3, 'glow': 1, 'graze': 1, 'hidden': 1, 'hoping': 1, 'incorporate': 2, 'kindle': 1, 'melting': 1, "mix'd": 1, 'presage': 1, 'reek': 1, "scratch'd": 1, 'shaking': 2, 'sighing': 1, 'stains': 2, 'testy': 1, 'thigh': 1, 'thirsty': 1, 'throws': 1, 'tired': 1, 'triumphs': 1, 'whet': 1}
 
 JC.txt and WIV.txt links:
-	Total links: 58
+	Total links: 60
 	two-six links: 22
 {'charactery': 1, 'construe': 3, 'discard': 1, 'errands': 1, 'hack': 2, 'kerchief': 2, 'mechanical': 1, 'musing': 1, 'napkins': 1, 'note-book': 1, 'offal': 1, 'porch': 2, 'signifies': 1, 'slighted': 1, 'superstitious': 1, 'tell-tale': 1, 'vanish': 1}
-	Seven-eleven links: 36
-{'amaze': 2, 'ascend': 1, 'attain': 2, 'bars': 1, 'behaviors': 1, 'commended': 1, 'conceited': 1, 'dank': 1, 'disperse': 1, 'doubted': 1, 'dwelling': 1, 'entrails': 2, 'errand': 2, 'grievously': 2, 'guiltiness': 1, 'hinds': 1, 'overthrown': 1, 'ravens': 1, 'reek': 1, 'sheathe': 1, 'somebody': 1, 'spot': 2, 'stare': 3, 'stinking': 1, 'upward': 1, 'worships': 1, 'wrangle': 1, 'wring': 1}
+	Seven-eleven links: 38
+{'amaze': 2, 'ascend': 1, 'attain': 2, 'bars': 1, 'behaviors': 1, 'commended': 1, 'conceited': 1, 'dank': 1, 'disperse': 1, 'doubted': 1, 'dwelling': 1, 'entrails': 2, 'errand': 2, 'grievously': 2, 'guiltiness': 1, 'hinds': 1, 'lief': 2, 'overthrown': 1, 'ravens': 1, 'reek': 1, 'sheathe': 1, 'somebody': 1, 'spot': 2, 'stare': 3, 'stinking': 1, 'upward': 1, 'worships': 1, 'wrangle': 1, 'wring': 1}
 
 JC.txt and WT.txt links:
 	Total links: 81

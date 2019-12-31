@@ -131,12 +131,12 @@ x1H6nsh.txt and MAC.txt links:
 	Seven-eleven links: 53
 {'antic': 1, 'banquet': 1, 'boasting': 1, 'buckle': 1, 'captivity': 1, 'christendom': 1, 'clamorous': 1, 'commendations': 1, 'concern': 1, 'deceitful': 1, 'deign': 1, 'desolate': 1, "digg'd": 1, 'discern': 1, "dismay'd": 1, 'drab': 1, 'enow': 1, 'exploits': 1, 'eyeballs': 1, 'gloss': 1, 'grooms': 1, 'handle': 1, "hear'st": 1, 'hearty': 1, "kingdom's": 1, 'malady': 1, 'malicious': 1, 'overthrown': 1, 'palaces': 1, 'peerless': 1, 'posterity': 1, 'provokes': 1, 'safest': 1, 'scales': 1, "scap'd": 1, 'sergeant': 1, "slaughter'd": 1, 'spacious': 1, 'speaker': 1, 'spoils': 1, 'succeeding': 1, 'supper-time': 1, 'sweep': 1, 'thirst': 1, 'traffic': 1, 'unfortunate': 1, 'upbraid': 1, 'using': 1, "valor's": 1, 'volume': 1, 'weighty': 1, 'whilest': 1, 'wrathful': 1}
 
-x1H6nsh.txt and MM.txt links:
-	Total links: 72
+x1H6nsh.txt and MMsh.txt links:
+	Total links: 71
 	two-six links: 27
 {'avail': 1, 'beheaded': 1, 'commonweal': 1, 'desiring': 1, "dow'r": 1, 'effusion': 1, 'exhibit': 1, 'external': 1, 'fretting': 1, 'glassy': 1, 'handled': 1, 'hannibal': 1, 'lavish': 1, 'mice': 1, "o'ertake": 1, "releas'd": 1, 'respite': 1, 'rested': 1, 'rung': 1, 'scarecrow': 1, 'severity': 1, 'steeled': 1, 'stink': 1, "suborn'd": 1, 'substitutes': 1, 'superficial': 1, 'unable': 1}
-	Seven-eleven links: 45
-{'accordingly': 1, 'adverse': 1, "batt'ry": 1, 'chastisement': 1, 'coffer': 1, 'commandement': 1, 'complaints': 1, 'continuance': 1, "dar'd": 1, 'diligence': 1, 'dispense': 1, 'entreaty': 1, 'fitter': 2, 'handle': 1, 'hearty': 1, 'hypocrite': 1, "imagin'd": 1, "imprison'd": 1, 'incline': 1, 'lenity': 1, "ling'ring": 1, "lordship's": 1, 'marrying': 1, 'member': 1, 'members': 1, 'method': 1, "obscur'd": 1, 'offender': 1, 'parish': 1, 'portion': 1, 'prattle': 1, "pray'd": 1, 'revive': 1, 'rigor': 1, 'ruthless': 1, 'severe': 1, 'striking': 1, 'suburbs': 2, 'unlawful': 1, 'using': 1, 'vail': 1, 'wary': 1, 'whores': 1}
+	Seven-eleven links: 44
+{'accordingly': 1, 'adverse': 1, "batt'ry": 1, 'chastisement': 1, 'coffer': 1, 'complaints': 1, 'continuance': 1, "dar'd": 1, 'diligence': 1, 'dispense': 1, 'entreaty': 1, 'fitter': 2, 'handle': 1, 'hearty': 1, 'hypocrite': 1, "imagin'd": 1, "imprison'd": 1, 'incline': 1, 'lenity': 1, "ling'ring": 1, "lordship's": 1, 'marrying': 1, 'member': 1, 'members': 1, 'method': 1, "obscur'd": 1, 'offender': 1, 'parish': 1, 'portion': 1, 'prattle': 1, "pray'd": 1, 'revive': 1, 'rigor': 1, 'ruthless': 1, 'severe': 1, 'striking': 1, 'suburbs': 2, 'unlawful': 1, 'using': 1, 'vail': 1, 'wary': 1, 'whores': 1}
 
 x1H6nsh.txt and MND.txt links:
 	Total links: 59

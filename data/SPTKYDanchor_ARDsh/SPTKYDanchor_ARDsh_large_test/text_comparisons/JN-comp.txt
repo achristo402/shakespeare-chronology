@@ -124,12 +124,12 @@ JN.txt and MAC.txt links:
 	Seven-eleven links: 66
 {'accompt': 1, 'agent': 1, 'assistance': 2, 'banners': 2, 'battlements': 2, 'bleeds': 1, 'boundless': 1, 'calendar': 1, 'chambers': 1, 'christendom': 3, 'cures': 1, "dash'd": 1, 'disorder': 1, 'dragon': 1, 'easier': 1, 'echo': 1, 'expire': 1, 'eyeballs': 1, 'gripe': 1, "hear'st": 1, 'idiot': 1, 'inhabit': 1, "kingdom's": 4, 'malicious': 1, 'maw': 1, "med'cine": 1, 'merciless': 1, 'modern': 1, 'oftentimes': 1, "ow'd": 2, 'posterity': 2, 'provokes': 2, "purg'd": 2, "reconcil'd": 1, 'shaking': 2, 'sheathe': 1, 'smack': 2, 'spot': 4, 'suggestion': 1, 'swine': 1, 'unmannerly': 1, 'using': 1, 'utterance': 1, 'volume': 1, 'wasteful': 1, 'whispers': 1, 'whoever': 2, 'wrathful': 1}
 
-JN.txt and MM.txt links:
-	Total links: 97
-	two-six links: 37
-{'approaching': 1, 'awakes': 1, 'blaspheme': 1, 'clod': 1, 'consummate': 1, 'creditor': 1, "days'": 1, 'desiring': 1, 'discredit': 1, 'displayed': 1, 'effusion': 1, 'external': 1, 'faithless': 1, 'foresaid': 1, 'hastily': 1, 'imprison': 1, 'innocency': 1, 'limited': 1, 'meddling': 1, 'newness': 1, 'orders': 1, 'secondary': 1, 'selves': 1, 'shears': 2, 'sincerity': 2, "slander'd": 2, "spar'd": 1, 'spleens': 1, 'stifle': 1, "swing'd": 1, "swor'st": 1, 'unreverend': 1, "widow's": 2}
-	Seven-eleven links: 60
-{'accompt': 1, 'accordingly': 1, 'ache': 1, 'adverse': 2, 'afflicted': 1, 'agent': 1, 'chastisement': 1, "city's": 3, 'commandement': 1, 'condemned': 1, 'continuance': 2, 'controversy': 1, 'cord': 1, 'corners': 1, 'darkly': 2, 'depending': 1, 'errand': 1, 'frailty': 2, 'howsoever': 1, 'hug': 1, 'indirectly': 1, 'injustice': 2, 'maw': 1, 'mended': 1, 'mightier': 1, 'morsel': 1, 'moulded': 1, 'needless': 1, "pardon'd": 2, 'paying': 2, 'petitions': 2, 'plume': 1, 'quest': 1, 'requital': 2, 'residence': 1, 'revive': 1, 'shifts': 1, 'smack': 2, 'strait': 1, "strew'd": 1, 'transgression': 1, "travell'd": 1, 'using': 1, 'vehement': 1, 'violet': 1, "worship's": 2, "wrapp'd": 1}
+JN.txt and MMsh.txt links:
+	Total links: 93
+	two-six links: 35
+{'approaching': 1, 'awakes': 1, 'blaspheme': 1, 'clod': 1, 'consummate': 1, 'creditor': 1, "days'": 1, 'desiring': 1, 'discredit': 1, 'displayed': 1, 'effusion': 1, 'external': 1, 'faithless': 1, 'foresaid': 1, 'hastily': 1, 'imprison': 1, 'innocency': 1, 'limited': 1, 'meddling': 1, 'newness': 1, 'orders': 1, 'secondary': 1, 'selves': 1, 'sincerity': 2, "slander'd": 2, "spar'd": 1, 'spleens': 1, 'stifle': 1, "swing'd": 1, "swor'st": 1, 'unreverend': 1, "widow's": 2}
+	Seven-eleven links: 58
+{'accompt': 1, 'accordingly': 1, 'ache': 1, 'adverse': 2, 'afflicted': 1, 'agent': 1, 'chastisement': 1, "city's": 3, 'condemned': 1, 'continuance': 2, 'cord': 1, 'corners': 1, 'darkly': 2, 'depending': 1, 'errand': 1, 'frailty': 2, 'howsoever': 1, 'hug': 1, 'indirectly': 1, 'injustice': 2, 'maw': 1, 'mended': 1, 'mightier': 1, 'morsel': 1, 'moulded': 1, 'needless': 1, "pardon'd": 2, 'paying': 2, 'petitions': 2, 'plume': 1, 'quest': 1, 'requital': 2, 'residence': 1, 'revive': 1, 'shifts': 1, 'smack': 2, 'strait': 1, "strew'd": 1, 'transgression': 1, "travell'd": 1, 'using': 1, 'vehement': 1, 'violet': 1, "worship's": 2, "wrapp'd": 1}
 
 JN.txt and MND.txt links:
 	Total links: 112

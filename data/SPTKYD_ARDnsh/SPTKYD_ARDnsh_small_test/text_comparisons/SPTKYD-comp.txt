@@ -1,37 +1,37 @@
 SPTKYD.txt and ADO.txt links:
-	Total links: 62
+	Total links: 63
 	two-six links: 26
 {'accused': 1, 'arbor': 1, 'believing': 1, 'constrain': 1, 'conveyance': 1, 'deservest': 1, 'determined': 1, 'enjoin': 1, 'fashioning': 1, 'foremost': 1, 'gowns': 1, 'guerdon': 1, 'haps': 1, 'honester': 1, 'infernal': 1, 'limed': 1, 'mournful': 1, 'noisome': 1, 'noting': 1, 'palabras': 1, 'piety': 1, 'punishments': 1, 'skirmish': 1, 'smoking': 1, 'tediousness': 1, 'unquietness': 1}
-	Seven-eleven links: 36
-{'amiable': 1, 'appearance': 1, 'approved': 1, 'banquet': 1, 'bullets': 1, 'burden': 1, 'conflict': 1, 'containing': 1, 'copy': 1, 'coy': 1, 'cushion': 1, 'deceived': 1, 'dissuade': 1, 'ensuing': 1, 'errors': 1, 'grieved': 1, 'hale': 1, 'hearken': 1, 'hymen': 1, 'lance': 1, 'lastly': 1, 'lovest': 1, 'net': 1, 'placed': 1, 'quaint': 1, 'repentance': 1, 'scarf': 1, 'slightly': 1, 'spectacles': 1, 'stalk': 1, 'thinkest': 1, "uncle's": 1, 'villainies': 1, 'windy': 1, 'wishing': 1, 'witnesses': 1}
+	Seven-eleven links: 37
+{'amiable': 1, 'appearance': 1, 'approved': 1, 'banquet': 1, 'bullets': 1, 'burden': 1, 'conflict': 1, 'containing': 1, 'copy': 1, 'coy': 1, 'cushion': 1, 'deceived': 1, 'dissuade': 1, 'ensuing': 1, 'errors': 1, 'getting': 1, 'grieved': 1, 'hale': 1, 'hearken': 1, 'hymen': 1, 'lance': 1, 'lastly': 1, 'lovest': 1, 'net': 1, 'placed': 1, 'quaint': 1, 'repentance': 1, 'scarf': 1, 'slightly': 1, 'spectacles': 1, 'stalk': 1, 'thinkest': 1, "uncle's": 1, 'villainies': 1, 'windy': 1, 'wishing': 1, 'witnesses': 1}
 
 SPTKYD.txt and ANT.txt links:
-	Total links: 79
+	Total links: 80
 	two-six links: 35
 {'alcides': 1, 'bends': 1, 'bereave': 1, 'cards': 1, 'chariot': 1, 'conquering': 1, 'constrained': 1, 'desist': 1, 'entertained': 1, 'grants': 1, 'hares': 1, 'haven': 1, 'hazarded': 1, 'inevitable': 1, 'innocents': 1, 'lottery': 1, 'myrtle': 1, 'noting': 1, 'plied': 1, 'portends': 1, 'prepared': 1, 'quietness': 1, 'rebound': 1, 'register': 1, 'resisted': 1, 'serving': 1, 'shower': 1, 'slimy': 1, 'spill': 1, 'submits': 1, 'supposing': 1, 'thracian': 1, 'trumpeters': 1, 'tuned': 1, 'variety': 1}
-	Seven-eleven links: 44
-{'acted': 1, 'attire': 1, 'battery': 2, 'brazen': 1, 'compel': 1, 'courtiers': 1, 'dealt': 1, 'declining': 1, 'deign': 1, 'deserved': 1, 'despiteful': 1, 'diadem': 1, 'dignities': 1, 'discomfort': 1, 'discontents': 1, 'dissuade': 1, 'distrust': 1, 'eastern': 1, 'enlarge': 1, 'entreats': 1, 'errors': 1, 'estates': 1, 'excuses': 1, 'fitting': 1, 'flows': 1, 'forgo': 1, 'greetings': 1, 'grieved': 1, 'hasten': 1, 'hunted': 1, 'lastly': 1, 'mate': 1, 'misdoubt': 1, 'rewards': 1, 'roll': 1, 'serpents': 1, 'shifts': 1, 'snakes': 1, 'soonest': 1, 'strives': 1, 'thereon': 1, 'vestal': 1, 'wage': 1}
+	Seven-eleven links: 45
+{'acted': 1, 'attire': 1, 'battery': 2, 'brazen': 1, 'compel': 1, 'courtiers': 1, 'dealt': 1, 'declining': 1, 'deign': 1, 'deserved': 1, 'despiteful': 1, 'diadem': 1, 'dignities': 1, 'discomfort': 1, 'discontents': 1, 'dissuade': 1, 'distrust': 1, 'eastern': 1, 'enlarge': 1, 'entreats': 1, 'errors': 1, 'estates': 1, 'excuses': 1, 'fitting': 1, 'flows': 1, 'forgo': 1, 'getting': 1, 'greetings': 1, 'grieved': 1, 'hasten': 1, 'hunted': 1, 'lastly': 1, 'mate': 1, 'misdoubt': 1, 'rewards': 1, 'roll': 1, 'serpents': 1, 'shifts': 1, 'snakes': 1, 'soonest': 1, 'strives': 1, 'thereon': 1, 'vestal': 1, 'wage': 1}
 
 SPTKYD.txt and ARDnsh.txt links:
-	Total links: 78
+	Total links: 79
 	two-six links: 34
 {"'gan": 1, 'adamant': 1, 'anything': 2, 'arbor': 1, 'asks': 1, 'begged': 1, 'changed': 1, 'darksome': 1, 'endanger': 1, 'ferry': 1, 'frolic': 1, 'grants': 1, 'imagines': 1, 'intercept': 1, 'killed': 1, "labor's": 1, 'longed': 1, 'meanwhile': 1, 'misdone': 2, 'mutable': 1, 'passed': 1, 'protestations': 1, 'sayst': 2, 'serving': 1, 'sickle': 1, 'spanish': 1, 'sweetheart': 1, 'tormented': 1, 'tormenting': 1, "whate'er": 2}
-	Seven-eleven links: 44
-{'baleful': 1, 'betide': 1, 'causeless': 1, 'complot': 2, 'cunningly': 2, 'dalliance': 1, 'dealt': 1, 'deceived': 1, 'destinies': 1, 'distressful': 1, 'distrust': 1, 'doubtless': 1, 'excuses': 1, 'fist': 1, 'fitter': 1, 'fling': 1, 'frequent': 1, 'hasten': 1, 'hymen': 1, 'instead': 1, 'lease': 1, 'marching': 1, 'mate': 1, 'meditate': 1, 'obsequies': 1, 'performed': 1, 'resolved': 1, 'servile': 1, 'snakes': 1, 'sol': 1, 'solemnly': 1, 'spectacles': 1, 'stormy': 1, 'suspected': 1, 'unkindly': 1, 'upper': 1, 'uttermost': 1, 'villainies': 1, 'whatever': 2, 'witnesses': 1, 'wrathful': 1}
+	Seven-eleven links: 45
+{'baleful': 1, 'betide': 1, 'causeless': 1, 'complot': 2, 'cunningly': 2, 'dalliance': 1, 'dealt': 1, 'deceived': 1, 'destinies': 1, 'distressful': 1, 'distrust': 1, 'doubtless': 1, 'excuses': 1, 'fist': 1, 'fitter': 1, 'fling': 1, 'frequent': 1, 'getting': 1, 'hasten': 1, 'hymen': 1, 'instead': 1, 'lease': 1, 'marching': 1, 'mate': 1, 'meditate': 1, 'obsequies': 1, 'performed': 1, 'resolved': 1, 'servile': 1, 'snakes': 1, 'sol': 1, 'solemnly': 1, 'spectacles': 1, 'stormy': 1, 'suspected': 1, 'unkindly': 1, 'upper': 1, 'uttermost': 1, 'villainies': 1, 'whatever': 2, 'witnesses': 1, 'wrathful': 1}
 
 SPTKYD.txt and AWWsh.txt links:
-	Total links: 89
+	Total links: 90
 	two-six links: 36
 {'anew': 1, 'avail': 1, 'avails': 1, 'believing': 1, 'brightest': 1, 'catastrophe': 1, 'chill': 1, 'commanders': 1, 'honester': 1, 'intimate': 1, 'jacet': 1, 'languages': 1, 'lottery': 1, 'madding': 1, 'mildest': 1, 'minority': 1, 'miracles': 1, 'monarchy': 1, 'pitchy': 1, 'posting': 1, 'proffers': 1, 'protestations': 1, 'raising': 1, 'required': 1, 'reserved': 1, 'saffron': 1, 'sally': 1, 'sighed': 1, 'solicited': 1, 'solicits': 1, 'spanish': 1, 'strove': 1, 'suggestions': 1, "took'st": 1, 'trumpeters': 1, 'twigs': 1}
-	Seven-eleven links: 53
-{'causeless': 1, 'compel': 1, 'complaints': 1, 'copy': 1, 'courtly': 1, 'credulous': 1, 'despiteful': 1, 'dissuade': 1, 'ergo': 1, 'estates': 1, 'exclaim': 1, 'fitter': 1, 'forged': 1, 'forgiven': 1, 'furies': 1, 'greetings': 1, 'handkercher': 1, 'hasten': 1, 'herb': 2, 'honored': 1, 'humbled': 1, 'impudent': 2, 'incertain': 1, 'inferior': 1, 'influence': 1, 'inhuman': 1, "lordship's": 1, 'misdoubt': 1, 'mounts': 1, 'ne': 1, 'passport': 1, 'perils': 1, 'powerful': 1, 'pretense': 1, 'proceeds': 1, 'reveal': 1, 'scarf': 2, 'spark': 1, 'stratagem': 2, 'strives': 1, 'succeeding': 1, 'suspected': 2, 'tortures': 1, 'unfortunate': 1, 'unjustly': 1, 'virgins': 1, 'wins': 1, 'wishing': 1}
+	Seven-eleven links: 54
+{'causeless': 1, 'compel': 1, 'complaints': 1, 'copy': 1, 'courtly': 1, 'credulous': 1, 'despiteful': 1, 'dissuade': 1, 'ergo': 1, 'estates': 1, 'exclaim': 1, 'fitter': 1, 'forged': 1, 'forgiven': 1, 'furies': 1, 'getting': 1, 'greetings': 1, 'handkercher': 1, 'hasten': 1, 'herb': 2, 'honored': 1, 'humbled': 1, 'impudent': 2, 'incertain': 1, 'inferior': 1, 'influence': 1, 'inhuman': 1, "lordship's": 1, 'misdoubt': 1, 'mounts': 1, 'ne': 1, 'passport': 1, 'perils': 1, 'powerful': 1, 'pretense': 1, 'proceeds': 1, 'reveal': 1, 'scarf': 2, 'spark': 1, 'stratagem': 2, 'strives': 1, 'succeeding': 1, 'suspected': 2, 'tortures': 1, 'unfortunate': 1, 'unjustly': 1, 'virgins': 1, 'wins': 1, 'wishing': 1}
 
 SPTKYD.txt and AYL.txt links:
-	Total links: 61
-	two-six links: 25
-{'abruptly': 1, 'bankrupt': 1, 'bounden': 1, 'carol': 1, 'countercheck': 1, 'entrap': 1, 'fainting': 1, 'forwardness': 1, 'gentleman-like': 1, 'inquired': 1, 'insult': 1, 'ipse': 2, 'lunacy': 1, 'oppressed': 1, 'paths': 1, 'pitiless': 1, 'pompous': 1, 'portugal': 1, 'retreat': 1, 'returned': 1, 'servitude': 1, 'softest': 1, 'solitary': 1, 'worldlings': 1}
+	Total links: 62
+	two-six links: 26
+{'abruptly': 1, 'bankrupt': 1, 'bounden': 1, 'carol': 1, 'countercheck': 1, 'entrap': 1, 'fainting': 1, 'feelingly': 1, 'forwardness': 1, 'gentleman-like': 1, 'inquired': 1, 'insult': 1, 'ipse': 2, 'lunacy': 1, 'oppressed': 1, 'paths': 1, 'pitiless': 1, 'pompous': 1, 'portugal': 1, 'retreat': 1, 'returned': 1, 'servitude': 1, 'softest': 1, 'solitary': 1, 'worldlings': 1}
 	Seven-eleven links: 36
-{'attire': 1, 'blossom': 1, 'boughs': 1, 'courtiers': 1, 'courtly': 1, 'despiteful': 1, 'destinies': 1, 'dissuade': 1, 'exempt': 1, 'feelingly': 1, 'handkercher': 2, 'hidden': 1, 'honored': 1, 'humbled': 1, 'hymen': 1, 'inconstant': 1, 'instead': 1, 'kindled': 1, 'latin': 1, 'martial': 1, 'mounts': 1, 'observation': 1, 'ply': 1, 'retort': 1, 'scarf': 1, 'shifts': 1, 'spectacle': 1, 'spectacles': 1, 'sundry': 1, 'thorny': 1, 'trod': 1, "uncle's": 1, 'unfortunate': 1, 'ware': 1, 'wearied': 1}
+{'attire': 1, 'blossom': 1, 'boughs': 1, 'courtiers': 1, 'courtly': 1, 'despiteful': 1, 'destinies': 1, 'dissuade': 1, 'exempt': 1, 'getting': 1, 'handkercher': 2, 'hidden': 1, 'honored': 1, 'humbled': 1, 'hymen': 1, 'inconstant': 1, 'instead': 1, 'kindled': 1, 'latin': 1, 'martial': 1, 'mounts': 1, 'observation': 1, 'ply': 1, 'retort': 1, 'scarf': 1, 'shifts': 1, 'spectacle': 1, 'spectacles': 1, 'sundry': 1, 'thorny': 1, 'trod': 1, "uncle's": 1, 'unfortunate': 1, 'ware': 1, 'wearied': 1}
 
 SPTKYD.txt and COR.txt links:
 	Total links: 102
@@ -105,24 +105,24 @@ SPTKYD.txt and LC.txt links:
 
 SPTKYD.txt and LLL.txt links:
 	Total links: 107
-	two-six links: 55
-{'blossoms': 1, 'breathed': 1, 'catastrophe': 1, 'cerberus': 1, 'changed': 1, 'che': 2, 'conquering': 1, 'dainties': 1, 'demonstration': 1, 'deo': 1, 'extremely': 1, "fashion's": 1, 'fashioning': 1, 'fitteth': 1, 'forbidden': 1, 'fortuna': 1, 'framed': 1, 'guerdon': 1, 'hight': 1, 'intimate': 1, 'languages': 1, 'luna': 1, 'meadows': 1, 'meanly': 1, 'minority': 1, 'mustachio': 1, 'pastimes': 1, 'phoebe': 1, 'phrases': 1, 'played': 1, 'ravished': 1, 'resembling': 1, 'saluteth': 1, 'scholars': 1, 'scutcheon': 1, 'solemnized': 1, 'sorted': 1, 'speakest': 1, 'spill': 1, 'standeth': 1, 'stayed': 1, 'sub': 1, 'suggestions': 1, 'surrender': 1, 'suspicious': 1, 'terra': 1, 'thickest': 2, 'undeserving': 1, 'uphold': 1, 'ut': 1, 'ver': 1, 'vir': 1, 'vowed': 1}
-	Seven-eleven links: 52
-{'adding': 2, 'admire': 1, 'apprehended': 1, 'argues': 1, 'arguments': 1, 'banquet': 1, 'blossom': 1, 'brazen': 1, 'bullets': 1, 'cases': 1, 'closely': 1, 'conceits': 1, 'conflict': 1, 'consorted': 1, 'dart': 1, 'deceived': 1, 'delightful': 1, 'ergo': 1, 'estates': 1, 'expressly': 1, 'fa': 1, 'falchion': 1, 'flows': 1, 'gentles': 1, 'hearken': 1, 'importunate': 1, 'infancy': 1, 'influence': 1, 'lances': 1, 'latin': 1, 'lowest': 1, 'mi': 1, 'ne': 1, 'non': 2, 'observation': 1, 'precise': 1, 'qui': 1, 'relate': 1, 'resolved': 1, 'roll': 1, 'serpents': 1, 'sol': 1, 'soonest': 1, 'strangle': 1, 'strives': 1, 'summon': 1, 'thereon': 1, 'used': 1, 'ware': 1, 'wherewith': 1}
+	two-six links: 56
+{'blossoms': 1, 'breathed': 1, 'catastrophe': 1, 'cerberus': 1, 'changed': 1, 'che': 2, 'conquering': 1, 'dainties': 1, 'demonstration': 1, 'deo': 1, 'extremely': 1, "fashion's": 1, 'fashioning': 1, 'fitteth': 1, 'forbidden': 1, 'fortuna': 1, 'framed': 1, 'guerdon': 1, 'hight': 1, 'intimate': 1, 'languages': 1, 'luna': 1, 'meadows': 1, 'meanly': 1, 'minority': 1, 'mustachio': 1, 'pastimes': 1, 'phoebe': 1, 'phrases': 1, 'played': 1, 'precise': 1, 'ravished': 1, 'resembling': 1, 'saluteth': 1, 'scholars': 1, 'scutcheon': 1, 'solemnized': 1, 'sorted': 1, 'speakest': 1, 'spill': 1, 'standeth': 1, 'stayed': 1, 'sub': 1, 'suggestions': 1, 'surrender': 1, 'suspicious': 1, 'terra': 1, 'thickest': 2, 'undeserving': 1, 'uphold': 1, 'ut': 1, 'ver': 1, 'vir': 1, 'vowed': 1}
+	Seven-eleven links: 51
+{'adding': 2, 'admire': 1, 'apprehended': 1, 'argues': 1, 'arguments': 1, 'banquet': 1, 'blossom': 1, 'brazen': 1, 'bullets': 1, 'cases': 1, 'closely': 1, 'conceits': 1, 'conflict': 1, 'consorted': 1, 'dart': 1, 'deceived': 1, 'delightful': 1, 'ergo': 1, 'estates': 1, 'expressly': 1, 'fa': 1, 'falchion': 1, 'flows': 1, 'gentles': 1, 'hearken': 1, 'importunate': 1, 'infancy': 1, 'influence': 1, 'lances': 1, 'latin': 1, 'lowest': 1, 'mi': 1, 'ne': 1, 'non': 2, 'observation': 1, 'qui': 1, 'relate': 1, 'resolved': 1, 'roll': 1, 'serpents': 1, 'sol': 1, 'soonest': 1, 'strangle': 1, 'strives': 1, 'summon': 1, 'thereon': 1, 'used': 1, 'ware': 1, 'wherewith': 1}
 
 SPTKYD.txt and LR.txt links:
 	Total links: 103
-	two-six links: 49
-{'airs': 1, 'albion': 1, 'attempting': 1, "battle's": 1, 'bereaved': 1, 'catastrophe': 1, 'changed': 1, 'che': 1, 'cheerless': 1, 'chill': 1, 'concealment': 1, 'conceals': 1, 'contemns': 1, 'demonstration': 1, 'dishonored': 1, 'equity': 1, 'fallen': 1, 'gowns': 1, 'hags': 1, 'jointly': 1, 'lake': 1, 'miracles': 1, 'miscreant': 1, 'molten': 1, 'moods': 1, 'murderous': 1, 'nero': 1, 'oppressed': 1, 'pah': 1, 'pitiless': 1, 'pool': 1, 'prepared': 1, 'preserved': 1, 'pursued': 1, 'rageth': 1, 'rip': 1, 'sa': 1, 'showed': 1, 'soothe': 1, 'spill': 1, 'strove': 1, 'surrender': 1, 'sweetheart': 1, 'thwart': 1, "trumpet's": 1, 'usurers': 1, 'vines': 1, 'wantons': 1, 'warring': 1}
-	Seven-eleven links: 54
-{'advantages': 1, 'arguments': 1, 'assured': 1, 'bewray': 2, 'conflict': 2, 'credulous': 1, 'dart': 1, 'distressed': 1, 'fa': 1, 'falchion': 1, 'fearfully': 1, 'feelingly': 1, 'fickle': 1, 'fitter': 1, 'fraught': 1, 'halter': 1, 'hasten': 1, 'humbled': 1, 'incense': 1, 'influence': 2, 'lance': 1, 'lances': 1, 'lowest': 1, 'map': 1, 'marching': 1, 'mate': 1, 'mi': 1, 'observation': 1, 'ordinance': 1, 'partial': 1, 'pretense': 1, 'puissant': 1, 'raiment': 1, 'received': 1, 'retain': 1, 'rigor': 1, 'servile': 1, 'slightly': 1, 'sol': 1, 'spark': 1, 'spectacles': 1, 'stratagem': 1, 'strives': 1, 'suggestion': 1, 'summons': 1, 'unfortunate': 1, 'wage': 1, 'whistle': 1, 'wins': 1, 'wrathful': 1, 'wretchedness': 1}
+	two-six links: 50
+{'airs': 1, 'albion': 1, 'attempting': 1, "battle's": 1, 'bereaved': 1, 'catastrophe': 1, 'changed': 1, 'che': 1, 'cheerless': 1, 'chill': 1, 'concealment': 1, 'conceals': 1, 'contemns': 1, 'demonstration': 1, 'dishonored': 1, 'equity': 1, 'fallen': 1, 'feelingly': 1, 'gowns': 1, 'hags': 1, 'jointly': 1, 'lake': 1, 'miracles': 1, 'miscreant': 1, 'molten': 1, 'moods': 1, 'murderous': 1, 'nero': 1, 'oppressed': 1, 'pah': 1, 'pitiless': 1, 'pool': 1, 'prepared': 1, 'preserved': 1, 'pursued': 1, 'rageth': 1, 'rip': 1, 'sa': 1, 'showed': 1, 'soothe': 1, 'spill': 1, 'strove': 1, 'surrender': 1, 'sweetheart': 1, 'thwart': 1, "trumpet's": 1, 'usurers': 1, 'vines': 1, 'wantons': 1, 'warring': 1}
+	Seven-eleven links: 53
+{'advantages': 1, 'arguments': 1, 'assured': 1, 'bewray': 2, 'conflict': 2, 'credulous': 1, 'dart': 1, 'distressed': 1, 'fa': 1, 'falchion': 1, 'fearfully': 1, 'fickle': 1, 'fitter': 1, 'fraught': 1, 'halter': 1, 'hasten': 1, 'humbled': 1, 'incense': 1, 'influence': 2, 'lance': 1, 'lances': 1, 'lowest': 1, 'map': 1, 'marching': 1, 'mate': 1, 'mi': 1, 'observation': 1, 'ordinance': 1, 'partial': 1, 'pretense': 1, 'puissant': 1, 'raiment': 1, 'received': 1, 'retain': 1, 'rigor': 1, 'servile': 1, 'slightly': 1, 'sol': 1, 'spark': 1, 'spectacles': 1, 'stratagem': 1, 'strives': 1, 'suggestion': 1, 'summons': 1, 'unfortunate': 1, 'wage': 1, 'whistle': 1, 'wins': 1, 'wrathful': 1, 'wretchedness': 1}
 
 SPTKYD.txt and LUC.txt links:
 	Total links: 148
-	two-six links: 74
-{'aetna': 1, 'arrived': 1, 'avails': 1, "battle's": 1, 'beseems': 1, "blust'ring": 1, 'brain-sick': 1, 'breathed': 1, 'ceaseless': 1, 'changed': 1, 'cited': 1, 'cleanly': 1, 'commanders': 1, 'confirmed': 1, 'controlled': 1, 'controls': 1, 'darksome': 1, 'deceitful': 1, 'deprived': 1, 'dirge': 1, 'discharged': 1, 'dishonored': 1, 'doted': 1, 'endured': 1, 'entertained': 1, 'entomb': 1, 'entombed': 1, 'exiled': 1, 'forgery': 1, 'fumes': 1, 'gush': 1, 'heartless': 1, 'hovering': 1, 'incomparable': 1, 'inflamed': 1, 'jointly': 1, 'leadeth': 1, 'lodestar': 1, 'lodged': 1, 'minority': 1, 'mixed': 1, 'moiety': 1, 'obscurely': 1, 'orpheus': 1, 'piety': 1, 'pitchy': 1, 'plaints': 1, 'pleads': 1, 'possessed': 1, 'proposed': 1, 'quill': 1, 'quittal': 1, 'refuge': 1, 'register': 1, 'resembling': 1, 'revealed': 1, 'reveling': 1, 'rocky': 1, 'rolling': 1, 'scatter': 1, 'showed': 1, 'smoking': 1, 'solicited': 1, 'spill': 1, 'stabbed': 1, 'strond': 1, 'surcease': 1, 'thrall': 1, 'twinkling': 1, 'unfruitful': 1, 'vowed': 1, 'wantons': 1, "whisp'ring": 1, 'wilder': 1}
-	Seven-eleven links: 74
-{'accompanied': 1, "achilles'": 1, 'advised': 1, 'affright': 2, 'assured': 1, 'chivalry': 1, 'complaining': 1, 'conceited': 1, 'consorted': 1, 'counterfeits': 1, 'coy': 1, 'credulous': 1, 'dale': 1, 'direful': 1, 'doleful': 1, 'eastern': 1, 'errors': 1, 'exclaims': 1, 'excuses': 1, 'expressly': 1, 'falchion': 1, 'feelingly': 1, 'flows': 1, 'forced': 2, 'forgo': 1, 'gulf': 1, 'helpless': 1, 'honored': 1, 'hopeless': 2, 'incense': 1, 'insulting': 1, 'ivory': 1, 'kindled': 1, 'map': 1, 'marching': 1, 'martial': 1, 'mate': 1, 'melting': 1, 'merciless': 1, 'mirror': 1, 'misdeeds': 2, 'moans': 1, 'pens': 1, 'pluto': 1, 'proceeds': 2, 'restless': 1, 'rigor': 1, 'roll': 1, 'sable': 2, 'seated': 1, 'servile': 1, 'shifts': 1, 'spectacle': 1, 'stately': 1, 'stormy': 1, 'strives': 1, 'succeeding': 1, 'sundry': 1, 'thereon': 1, 'unhallowed': 1, 'unjustly': 1, 'unrest': 1, 'vestal': 1, 'waits': 1, 'wearied': 1, 'wherewith': 1, 'windy': 1, 'wretchedness': 1}
+	two-six links: 75
+{'aetna': 1, 'arrived': 1, 'avails': 1, "battle's": 1, 'beseems': 1, "blust'ring": 1, 'brain-sick': 1, 'breathed': 1, 'ceaseless': 1, 'changed': 1, 'cited': 1, 'cleanly': 1, 'commanders': 1, 'confirmed': 1, 'controlled': 1, 'controls': 1, 'darksome': 1, 'deceitful': 1, 'deprived': 1, 'dirge': 1, 'discharged': 1, 'dishonored': 1, 'doted': 1, 'endured': 1, 'entertained': 1, 'entomb': 1, 'entombed': 1, 'exiled': 1, 'feelingly': 1, 'forgery': 1, 'fumes': 1, 'gush': 1, 'heartless': 1, 'hovering': 1, 'incomparable': 1, 'inflamed': 1, 'jointly': 1, 'leadeth': 1, 'lodestar': 1, 'lodged': 1, 'minority': 1, 'mixed': 1, 'moiety': 1, 'obscurely': 1, 'orpheus': 1, 'piety': 1, 'pitchy': 1, 'plaints': 1, 'pleads': 1, 'possessed': 1, 'proposed': 1, 'quill': 1, 'quittal': 1, 'refuge': 1, 'register': 1, 'resembling': 1, 'revealed': 1, 'reveling': 1, 'rocky': 1, 'rolling': 1, 'scatter': 1, 'showed': 1, 'smoking': 1, 'solicited': 1, 'spill': 1, 'stabbed': 1, 'strond': 1, 'surcease': 1, 'thrall': 1, 'twinkling': 1, 'unfruitful': 1, 'vowed': 1, 'wantons': 1, "whisp'ring": 1, 'wilder': 1}
+	Seven-eleven links: 73
+{'accompanied': 1, "achilles'": 1, 'advised': 1, 'affright': 2, 'assured': 1, 'chivalry': 1, 'complaining': 1, 'conceited': 1, 'consorted': 1, 'counterfeits': 1, 'coy': 1, 'credulous': 1, 'dale': 1, 'direful': 1, 'doleful': 1, 'eastern': 1, 'errors': 1, 'exclaims': 1, 'excuses': 1, 'expressly': 1, 'falchion': 1, 'flows': 1, 'forced': 2, 'forgo': 1, 'gulf': 1, 'helpless': 1, 'honored': 1, 'hopeless': 2, 'incense': 1, 'insulting': 1, 'ivory': 1, 'kindled': 1, 'map': 1, 'marching': 1, 'martial': 1, 'mate': 1, 'melting': 1, 'merciless': 1, 'mirror': 1, 'misdeeds': 2, 'moans': 1, 'pens': 1, 'pluto': 1, 'proceeds': 2, 'restless': 1, 'rigor': 1, 'roll': 1, 'sable': 2, 'seated': 1, 'servile': 1, 'shifts': 1, 'spectacle': 1, 'stately': 1, 'stormy': 1, 'strives': 1, 'succeeding': 1, 'sundry': 1, 'thereon': 1, 'unhallowed': 1, 'unjustly': 1, 'unrest': 1, 'vestal': 1, 'waits': 1, 'wearied': 1, 'wherewith': 1, 'windy': 1, 'wretchedness': 1}
 
 SPTKYD.txt and MAC.txt links:
 	Total links: 68
@@ -131,12 +131,12 @@ SPTKYD.txt and MAC.txt links:
 	Seven-eleven links: 51
 {'accompany': 1, 'acheron': 1, 'acted': 1, 'acting': 1, 'attire': 1, 'bane': 1, 'banquet': 1, 'bough': 1, 'captivity': 1, 'cases': 1, 'cauldron': 1, 'chiefest': 1, 'conflict': 1, 'deepest': 1, 'deign': 1, 'dignities': 1, 'direful': 1, 'discomfort': 1, 'downfall': 1, 'fruitless': 1, 'gripe': 1, 'gulf': 1, 'hardy': 1, 'hidden': 1, 'lease': 1, 'merciless': 1, 'net': 1, 'pretense': 1, 'relate': 1, 'repentance': 1, 'restless': 1, 'restrain': 1, 'scarf': 1, 'scour': 1, 'seated': 1, 'soliciting': 1, 'starting': 1, 'succeeding': 1, 'suggestion': 1, 'summons': 1, 'sundry': 3, 'unfortunate': 1, 'utterance': 1, "valor's": 1, 'villainies': 1, 'whereby': 1, 'wherewith': 1, 'whilest': 1, 'wrathful': 1}
 
-SPTKYD.txt and MM.txt links:
+SPTKYD.txt and MMsh.txt links:
 	Total links: 57
-	two-six links: 17
-{'avail': 1, 'betrothed': 1, 'disguised': 1, 'enriched': 1, "fault's": 1, 'fearless': 1, 'habitation': 1, 'handled': 1, "marshal's": 1, 'merriest': 1, 'myrtle': 1, 'plausible': 1, 'prepared': 1, 'preserved': 1, 'scandalous': 1, 'successive': 1, 'twigs': 1}
-	Seven-eleven links: 40
-{'acting': 1, 'bane': 1, 'compel': 1, 'complaints': 1, 'condemned': 1, 'confederate': 1, 'cord': 1, 'credulous': 1, 'dart': 1, 'deliberate': 1, 'doubtless': 1, 'feelingly': 1, 'fitter': 1, 'flows': 1, 'harp': 1, 'hidden': 1, 'hopeful': 1, 'incertain': 1, "knave's": 1, "lordship's": 1, 'non': 1, 'partial': 1, 'precise': 1, 'received': 1, 'relate': 1, 'remiss': 1, 'restless': 1, 'retort': 1, 'reveal': 1, 'revive': 1, 'rigor': 1, 'ruthless': 1, 'servile': 1, 'shifts': 1, 'thereon': 1, 'unhallowed': 1, 'virgins': 1, 'warning': 1, 'whips': 1, 'wishing': 1}
+	two-six links: 18
+{'avail': 1, 'betrothed': 1, 'disguised': 1, 'enriched': 1, "fault's": 1, 'fearless': 1, 'habitation': 1, 'handled': 1, "marshal's": 1, 'merriest': 1, 'myrtle': 1, 'plausible': 1, 'precise': 1, 'prepared': 1, 'preserved': 1, 'scandalous': 1, 'successive': 1, 'twigs': 1}
+	Seven-eleven links: 39
+{'acting': 1, 'bane': 1, 'compel': 1, 'complaints': 1, 'condemned': 1, 'confederate': 1, 'cord': 1, 'credulous': 1, 'dart': 1, 'deliberate': 1, 'doubtless': 1, 'fitter': 1, 'flows': 1, 'getting': 1, 'harp': 1, 'hidden': 1, 'hopeful': 1, 'incertain': 1, "knave's": 1, "lordship's": 1, 'non': 1, 'partial': 1, 'received': 1, 'relate': 1, 'remiss': 1, 'restless': 1, 'retort': 1, 'reveal': 1, 'revive': 1, 'rigor': 1, 'ruthless': 1, 'servile': 1, 'shifts': 1, 'thereon': 1, 'unhallowed': 1, 'virgins': 1, 'warning': 1, 'whips': 1, 'wishing': 1}
 
 SPTKYD.txt and MND.txt links:
 	Total links: 74
@@ -146,11 +146,11 @@ SPTKYD.txt and MND.txt links:
 {'accompany': 1, 'acheron': 1, 'affright': 1, 'amiable': 1, 'carcass': 1, 'compel': 1, 'conceits': 1, 'coy': 1, 'cushion': 1, 'dale': 2, 'deepest': 1, 'eastern': 1, 'fruitless': 2, 'furies': 1, 'gentles': 1, 'harp': 1, 'herb': 2, 'inconstant': 1, 'lovest': 1, 'masque': 1, 'meditation': 1, 'moans': 1, 'nymph': 1, 'observation': 1, 'quaint': 1, 'roll': 1, 'snakes': 1, 'solemnly': 1, 'thorny': 1, 'turned': 1, 'unkindly': 1, 'used': 2, 'vestal': 1, 'warning': 1, 'welcomes': 1, 'wretchedness': 1}
 
 SPTKYD.txt and MV.txt links:
-	Total links: 79
+	Total links: 80
 	two-six links: 38
 {'alcides': 1, 'ashamed': 1, 'awards': 1, 'bleared': 1, 'brightly': 1, "call'dst": 1, 'cherubins': 1, 'conveniently': 1, 'dealings': 1, 'dismayed': 1, 'embraced': 1, 'entrap': 1, 'erebus': 1, 'ferry': 1, 'fetching': 1, 'flatly': 1, 'flints': 1, 'gramercy': 1, 'habitation': 1, 'hasted': 1, 'indebted': 1, 'indies': 1, 'inevitable': 1, 'lisbon': 1, 'namest': 1, 'orpheus': 1, 'outcries': 1, 'portrait': 1, 'quietness': 1, 'riseth': 1, 'rival': 1, 'scatter': 1, 'sealed': 1, 'solemnize': 1, 'strond': 1, 'tediousness': 1, 'twinkling': 1, "whisp'ring": 1}
-	Seven-eleven links: 41
-{'advantages': 1, 'advised': 1, 'chiefest': 1, 'conceits': 1, 'cord': 1, 'deliberate': 1, 'destinies': 1, 'englishman': 1, 'ergo': 1, 'estates': 1, 'exclaim': 1, 'expressly': 1, 'fearfully': 1, 'fraught': 1, 'halter': 1, 'honored': 1, 'inhuman': 1, 'ivory': 1, 'lastly': 1, 'latin': 1, 'linger': 1, 'masque': 1, 'oration': 1, 'placed': 1, 'pleased': 1, 'quaint': 1, 'riding': 1, 'scarf': 1, 'seated': 1, 'slightly': 1, 'stony': 1, 'summon': 1, 'turned': 1, 'unhallowed': 1, 'unquiet': 1, 'uttermost': 1, "valor's": 1, 'virgins': 1, 'warning': 1, 'whereby': 1, 'wins': 1}
+	Seven-eleven links: 42
+{'advantages': 1, 'advised': 1, 'chiefest': 1, 'conceits': 1, 'cord': 1, 'deliberate': 1, 'destinies': 1, 'englishman': 1, 'ergo': 1, 'estates': 1, 'exclaim': 1, 'expressly': 1, 'fearfully': 1, 'fraught': 1, 'getting': 1, 'halter': 1, 'honored': 1, 'inhuman': 1, 'ivory': 1, 'lastly': 1, 'latin': 1, 'linger': 1, 'masque': 1, 'oration': 1, 'placed': 1, 'pleased': 1, 'quaint': 1, 'riding': 1, 'scarf': 1, 'seated': 1, 'slightly': 1, 'stony': 1, 'summon': 1, 'turned': 1, 'unhallowed': 1, 'unquiet': 1, 'uttermost': 1, "valor's": 1, 'virgins': 1, 'warning': 1, 'whereby': 1, 'wins': 1}
 
 SPTKYD.txt and OTH.txt links:
 	Total links: 79
@@ -202,11 +202,11 @@ SPTKYD.txt and SHR.txt links:
 {'accompany': 1, 'admire': 1, 'amiable': 1, 'approved': 1, 'attire': 1, 'banquet': 1, 'bodes': 1, 'chronicles': 1, 'closely': 1, 'coy': 1, 'credulous': 1, 'cypress': 1, 'dart': 1, 'deceived': 1, 'declining': 1, 'deign': 1, 'depth': 1, 'despiteful': 1, 'ergo': 1, 'expressly': 1, 'fa': 1, 'fling': 1, 'gentles': 1, 'grieved': 1, 'hearken': 1, 'hunted': 1, 'inferior': 1, 'ivory': 1, "knave's": 1, 'lances': 1, 'latin': 1, 'lovest': 1, 'mi': 3, 'perils': 1, 'ply': 1, 'quaint': 1, 'raiment': 1, 'resist': 1, 'riding': 1, 'sol': 2, 'sufficeth': 2, 'thorny': 1, 'unkindly': 1, 'uttermost': 1, 'waits': 1, 'warning': 1, 'waving': 1, 'whatever': 1, 'whereby': 1, 'witnesses': 1}
 
 SPTKYD.txt and SPTAD.txt links:
-	Total links: 28
-	two-six links: 14
-{"'scape": 1, 'afflictions': 1, 'cadat': 1, "castile's": 1, 'doest': 1, 'frolic': 1, 'gallery': 1, 'iners': 1, 'killed': 1, 'nemesis': 1, 'pitchy': 1, 'pool': 1, 'thoroughly': 1, 'wrapped': 1}
-	Seven-eleven links: 14
-{'acted': 1, 'confederates': 1, 'dive': 1, 'doleful': 1, 'drag': 1, 'furies': 1, 'ignoble': 1, 'leaning': 1, 'remiss': 1, 'roll': 1, 'starting': 1, 'such-like': 1, 'tortures': 1, 'whips': 1}
+	Total links: 25
+	two-six links: 12
+{"'scape": 1, 'cadat': 1, "castile's": 1, 'doest': 1, 'frolic': 1, 'gallery': 1, 'iners': 1, 'killed': 1, 'nemesis': 1, 'pitchy': 1, 'pool': 1, 'wrapped': 1}
+	Seven-eleven links: 13
+{'acted': 1, 'dive': 1, 'doleful': 1, 'drag': 1, 'furies': 1, 'ignoble': 1, 'leaning': 1, 'remiss': 1, 'roll': 1, 'starting': 1, 'such-like': 1, 'tortures': 1, 'whips': 1}
 
 SPTKYD.txt and STMsh.txt links:
 	Total links: 2
@@ -245,10 +245,10 @@ SPTKYD.txt and TMP.txt links:
 
 SPTKYD.txt and TN.txt links:
 	Total links: 50
-	two-six links: 18
-{'airs': 1, 'applies': 1, 'babylon': 1, 'believing': 1, 'concealment': 1, 'conveniently': 1, 'exasperate': 1, 'haggard': 1, 'indies': 1, 'inevitable': 1, 'intimate': 1, 'languages': 1, "open't": 1, 'phrases': 1, 'reins': 1, 'saved': 1, 'somewhere': 1, 'sweetheart': 1}
-	Seven-eleven links: 32
-{'acting': 1, 'admire': 1, 'apprehended': 1, 'arguments': 1, 'attire': 1, 'battery': 1, 'celebration': 1, 'conceited': 1, 'copy': 1, 'corpse': 1, 'counterfeits': 1, 'cypress': 1, 'distrust': 1, 'enlarge': 1, 'feelingly': 1, 'fraught': 1, 'fruitless': 1, 'hale': 1, 'hardy': 1, 'inconstant': 1, 'map': 1, 'martial': 1, 'meditate': 1, 'mellow': 1, 'murmur': 1, 'non': 1, 'passages': 1, 'strangle': 1, 'ware': 1, 'windy': 1, 'wins': 1, 'witnesses': 1}
+	two-six links: 19
+{'airs': 1, 'applies': 1, 'babylon': 1, 'believing': 1, 'concealment': 1, 'conveniently': 1, 'exasperate': 1, 'feelingly': 1, 'haggard': 1, 'indies': 1, 'inevitable': 1, 'intimate': 1, 'languages': 1, "open't": 1, 'phrases': 1, 'reins': 1, 'saved': 1, 'somewhere': 1, 'sweetheart': 1}
+	Seven-eleven links: 31
+{'acting': 1, 'admire': 1, 'apprehended': 1, 'arguments': 1, 'attire': 1, 'battery': 1, 'celebration': 1, 'conceited': 1, 'copy': 1, 'corpse': 1, 'counterfeits': 1, 'cypress': 1, 'distrust': 1, 'enlarge': 1, 'fraught': 1, 'fruitless': 1, 'hale': 1, 'hardy': 1, 'inconstant': 1, 'map': 1, 'martial': 1, 'meditate': 1, 'mellow': 1, 'murmur': 1, 'non': 1, 'passages': 1, 'strangle': 1, 'ware': 1, 'windy': 1, 'wins': 1, 'witnesses': 1}
 
 SPTKYD.txt and TNKsh.txt links:
 	Total links: 57
@@ -273,17 +273,17 @@ SPTKYD.txt and VEN.txt links:
 
 SPTKYD.txt and WIV.txt links:
 	Total links: 44
-	two-six links: 18
-{'conveyance': 1, 'endanger': 1, 'hardest': 1, 'imperfection': 1, 'indies': 1, 'intention': 1, 'paths': 1, 'phrases': 1, 'porch': 1, 'register': 1, 'reins': 1, 'righteous': 1, 'sealed': 1, 'tam': 1, 'trap': 1, 'trifling': 1, 'ver': 1, 'war-like': 1}
-	Seven-eleven links: 26
-{'amiable': 1, 'apprehended': 1, 'cases': 1, 'conceited': 1, 'disperse': 1, 'englishman': 1, 'forced': 1, 'gentles': 1, 'gripe': 1, 'incense': 1, 'infancy': 1, 'kindled': 1, 'lastly': 1, 'latin': 1, 'leader': 1, 'misdoubt': 1, 'powerful': 1, 'precise': 1, 'quaint': 1, 'qui': 2, 'retort': 1, 'scour': 1, 'shades': 1, 'trudge': 1, 'waits': 1}
+	two-six links: 19
+{'conveyance': 1, 'endanger': 1, 'hardest': 1, 'imperfection': 1, 'indies': 1, 'intention': 1, 'paths': 1, 'phrases': 1, 'porch': 1, 'precise': 1, 'register': 1, 'reins': 1, 'righteous': 1, 'sealed': 1, 'tam': 1, 'trap': 1, 'trifling': 1, 'ver': 1, 'war-like': 1}
+	Seven-eleven links: 25
+{'amiable': 1, 'apprehended': 1, 'cases': 1, 'conceited': 1, 'disperse': 1, 'englishman': 1, 'forced': 1, 'gentles': 1, 'gripe': 1, 'incense': 1, 'infancy': 1, 'kindled': 1, 'lastly': 1, 'latin': 1, 'leader': 1, 'misdoubt': 1, 'powerful': 1, 'quaint': 1, 'qui': 2, 'retort': 1, 'scour': 1, 'shades': 1, 'trudge': 1, 'waits': 1}
 
 SPTKYD.txt and WT.txt links:
-	Total links: 87
+	Total links: 88
 	two-six links: 37
 {'accused': 1, 'asks': 1, 'avails': 1, 'behooves': 1, 'blossoms': 1, 'boiling': 1, 'cleanly': 1, 'commandment': 1, 'concealment': 1, 'conspiring': 1, 'delivery': 1, 'enjoin': 1, 'enthralled': 1, 'flora': 1, 'forcing': 1, 'foretells': 1, 'gallery': 1, 'gentleman-like': 1, 'hovering': 1, 'intention': 1, 'lordings': 1, 'mainmast': 1, 'officious': 1, "open't": 1, 'piety': 1, 'recall': 1, 'requisite': 1, 'retired': 1, 'rogero': 1, 'saffron': 1, 'scandalous': 1, 'sessions': 2, 'shrieks': 1, 'solely': 1, 'valleys': 1, "whisp'ring": 1}
-	Seven-eleven links: 50
-{'accompany': 1, 'acted': 1, 'advocate': 1, 'blossom': 1, 'bough': 1, 'cases': 1, 'celebration': 1, 'conceited': 1, 'copy': 1, 'corpse': 1, 'cypress': 1, 'dale': 1, 'dignities': 1, 'doleful': 1, 'drag': 1, 'fitting': 1, 'forced': 1, 'forgiven': 1, 'fraught': 1, 'frequent': 1, 'greetings': 1, 'hopeful': 2, 'ignoble': 1, 'importunate': 1, 'incense': 1, 'incertain': 1, 'inconstant': 1, 'infancy': 1, 'lastly': 1, 'leaning': 1, 'mate': 1, 'mayest': 1, 'mirror': 1, 'powerful': 1, 'pretense': 1, 'rigor': 1, 'scour': 1, 'strangle': 1, 'summon': 1, 'thereon': 1, 'tortures': 1, 'upper': 1, 'utterance': 1, 'waits': 1, 'welcomes': 1, 'whilest': 1, 'whistle': 1, 'wishing': 1, 'witnesses': 1}
+	Seven-eleven links: 51
+{'accompany': 1, 'acted': 1, 'advocate': 1, 'blossom': 1, 'bough': 1, 'cases': 1, 'celebration': 1, 'conceited': 1, 'copy': 1, 'corpse': 1, 'cypress': 1, 'dale': 1, 'dignities': 1, 'doleful': 1, 'drag': 1, 'fitting': 1, 'forced': 1, 'forgiven': 1, 'fraught': 1, 'frequent': 1, 'getting': 1, 'greetings': 1, 'hopeful': 2, 'ignoble': 1, 'importunate': 1, 'incense': 1, 'incertain': 1, 'inconstant': 1, 'infancy': 1, 'lastly': 1, 'leaning': 1, 'mate': 1, 'mayest': 1, 'mirror': 1, 'powerful': 1, 'pretense': 1, 'rigor': 1, 'scour': 1, 'strangle': 1, 'summon': 1, 'thereon': 1, 'tortures': 1, 'upper': 1, 'utterance': 1, 'waits': 1, 'welcomes': 1, 'whilest': 1, 'whistle': 1, 'wishing': 1, 'witnesses': 1}
 
 SPTKYD.txt and x1H4.txt links:
 	Total links: 85
@@ -301,10 +301,10 @@ SPTKYD.txt and x1H6sh.txt links:
 
 SPTKYD.txt and x2H4.txt links:
 	Total links: 103
-	two-six links: 40
-{'after-times': 1, 'aiming': 1, 'anew': 1, 'arbor': 1, 'catastrophe': 1, 'cerberus': 1, 'desist': 1, 'discharged': 2, 'doted': 1, 'erebus': 1, 'favorite': 1, 'feared': 1, 'fire-brand': 1, 'foremost': 1, 'foretells': 1, 'fortuna': 1, 'habitation': 1, 'honester': 1, 'incessant': 1, 'infernal': 1, 'invented': 1, 'lake': 1, 'man-at-arms': 1, "marshal's": 1, 'martyr': 1, 'outright': 1, 'overspread': 1, 'phrases': 1, 'pike': 1, 'rocky': 1, 'semper': 1, 'si': 2, 'sorted': 1, 'spilt': 1, 'standeth': 1, 'strond': 1, 'woe-begone': 1, 'worldlings': 1}
-	Seven-eleven links: 63
-{'accompanied': 1, 'acting': 1, 'advantages': 1, 'appearance': 1, 'apprehended': 1, 'argues': 1, 'blossom': 1, 'bullets': 1, 'burden': 1, 'chronicles': 1, 'compel': 1, 'complaints': 1, 'conceited': 1, 'confederates': 1, 'copy': 1, 'dale': 2, 'deliberate': 1, 'dignities': 1, 'discomfort': 1, 'doleful': 1, 'enlarge': 1, 'excuses': 1, 'fist': 1, 'fitter': 1, 'forgiven': 1, 'hearken': 1, 'impudent': 2, 'incensed': 1, 'incertain': 1, "knave's": 1, 'lances': 1, 'leader': 1, 'martial': 1, 'mate': 1, 'partial': 1, 'pens': 1, 'perils': 1, 'pleased': 1, "pluto's": 1, 'precise': 1, 'proceeds': 1, 'received': 1, 'repentance': 1, 'restrain': 1, 'roll': 1, 'sprung': 1, 'starting': 1, 'stony': 1, 'stormy': 1, 'stratagem': 2, 'suggestion': 1, 'thinkest': 1, 'tortures': 1, 'tragic': 1, 'unquiet': 1, 'warning': 1, 'wearied': 1, 'whereby': 1, 'whistle': 1, 'wrathful': 1}
+	two-six links: 41
+{'after-times': 1, 'aiming': 1, 'anew': 1, 'arbor': 1, 'catastrophe': 1, 'cerberus': 1, 'desist': 1, 'discharged': 2, 'doted': 1, 'erebus': 1, 'favorite': 1, 'feared': 1, 'fire-brand': 1, 'foremost': 1, 'foretells': 1, 'fortuna': 1, 'habitation': 1, 'honester': 1, 'incessant': 1, 'infernal': 1, 'invented': 1, 'lake': 1, 'man-at-arms': 1, "marshal's": 1, 'martyr': 1, 'outright': 1, 'overspread': 1, 'phrases': 1, 'pike': 1, 'precise': 1, 'rocky': 1, 'semper': 1, 'si': 2, 'sorted': 1, 'spilt': 1, 'standeth': 1, 'strond': 1, 'woe-begone': 1, 'worldlings': 1}
+	Seven-eleven links: 62
+{'accompanied': 1, 'acting': 1, 'advantages': 1, 'appearance': 1, 'apprehended': 1, 'argues': 1, 'blossom': 1, 'bullets': 1, 'burden': 1, 'chronicles': 1, 'compel': 1, 'complaints': 1, 'conceited': 1, 'confederates': 1, 'copy': 1, 'dale': 2, 'deliberate': 1, 'dignities': 1, 'discomfort': 1, 'doleful': 1, 'enlarge': 1, 'excuses': 1, 'fist': 1, 'fitter': 1, 'forgiven': 1, 'hearken': 1, 'impudent': 2, 'incensed': 1, 'incertain': 1, "knave's": 1, 'lances': 1, 'leader': 1, 'martial': 1, 'mate': 1, 'partial': 1, 'pens': 1, 'perils': 1, 'pleased': 1, "pluto's": 1, 'proceeds': 1, 'received': 1, 'repentance': 1, 'restrain': 1, 'roll': 1, 'sprung': 1, 'starting': 1, 'stony': 1, 'stormy': 1, 'stratagem': 2, 'suggestion': 1, 'thinkest': 1, 'tortures': 1, 'tragic': 1, 'unquiet': 1, 'warning': 1, 'wearied': 1, 'whereby': 1, 'whistle': 1, 'wrathful': 1}
 
 SPTKYD.txt and x2H6sh.txt links:
 	Total links: 63
