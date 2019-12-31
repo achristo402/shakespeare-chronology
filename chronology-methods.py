@@ -1,6 +1,3 @@
-import os
-import csv
-
 #File name: chronology-methods.py
 #Author: Anna Christoffersen
 #Date: 12/30/19
@@ -13,6 +10,9 @@ import csv
 #is equal to the word's no. of occurences in the text where it occurs the least.
 #In the "large" method, a word's overlap is equal to (word's no. of occurences
 #in Text A) * (word's no. of occurenes in Text B).
+
+import os
+import csv
 
 #Reads the contents of a file, outputting a dictionary of the file's words.
 #Input the full filepath of the .txt file to be read.
