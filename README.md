@@ -16,7 +16,7 @@ Within iteration folders, users may identify the purpose of a file or folder by 
   **statistics:** This contains the statistical tests conducted on an iteration, and the data used in those tests. These files should be opened in Excel.  
 
 ## Usage
-chronology-methods.py contains the methods used to analyze Shakespeare's use of rare words in this paper. To study texts with these methods, users must supply them in a csv format, stripped of all punctuation except for apostrophes (this, is, the, proper, csv, format).  
+chronology-methods.py contains the methods used to analyze Shakespeare's use of rare words in this paper. To study texts with these methods, users must supply them in a csv format, stripped of all punctuation except for apostrophes (this, is, the, proper, csv, format). In our research, we also removed stage directions, scene and act labels, and unspoken character names.
 
 ## Authors  
 Douglas Bruster  
