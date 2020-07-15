@@ -1,3 +1,5 @@
+# Acronyms
+
 **CS**, standing for "Core Shakespeare," is the acronym of the base iteration of this project, from which most of the data
 in the essay derives. This iteration consists of work currently posited as Shakespeare’s alone—works of collaborative authorship are disaggregated so that only Shakespeare's likely contributions are included.  
 
