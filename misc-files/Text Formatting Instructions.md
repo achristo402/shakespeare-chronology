@@ -1,6 +1,6 @@
-**These instructions were used at the beginning of the project to guide research assistants in the reformatting of Shakespeare's texts into comma-separated words, stripped of character names, stage directions, and punctuation. For the most part, we sourced texts from the electronic *Riverside*, but for details regarding a specific text's provenance please consult the "Text Provenance and Parameters" file in the "misc-files" folder. It is not necessary for anyone wishing to use our code to follow these directions–they serve as documentation of our research process.**  
+# Text Formatting Instructions
 
-<ins>Text Formatting Instructions</ins>  
+**These instructions were used at the beginning of the project to guide research assistants in the reformatting of Shakespeare's texts into comma-separated words, stripped of character names, stage directions, and punctuation. For the most part, we sourced texts from the electronic *Riverside*, but for details regarding a specific text's provenance please consult the "Text Provenance and Parameters" file in the "misc-files" folder. It is not necessary for anyone wishing to use our code to follow these directions–they serve as documentation of our research process.**   
 
 These are the instructions for assembling a file of Shakespeare’s vocabulary by saving only the dialogue words in each text, deleting the apparatus he did not certainly write: titles, dramatis personae (= cast list), stage directions, speech prefixes, etc.<br>
 
